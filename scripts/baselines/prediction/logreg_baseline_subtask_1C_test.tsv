@@ -1,0 +1,3400 @@
+id	hate_type	hate_severity	to_whom	model
+12764	Abusive	Little to None	None	logreg
+202933	None	Little to None	None	logreg
+165894	Abusive	Little to None	Individual	logreg
+124999	None	Little to None	None	logreg
+535301	Religious Hate	Mild	Community	logreg
+432948	None	Severe	None	logreg
+34737	None	Little to None	None	logreg
+377091	None	Little to None	None	logreg
+840467	None	Little to None	None	logreg
+361701	None	Little to None	None	logreg
+184161	None	Little to None	None	logreg
+531785	None	Little to None	None	logreg
+402930	None	Little to None	None	logreg
+578332	None	Little to None	None	logreg
+723077	None	Little to None	None	logreg
+776755	Abusive	Mild	Society	logreg
+587800	None	Little to None	None	logreg
+869387	None	Little to None	None	logreg
+620490	Political Hate	Mild	None	logreg
+241030	Abusive	Little to None	Organization	logreg
+764029	Religious Hate	Little to None	None	logreg
+174711	None	Little to None	None	logreg
+65995	None	Little to None	None	logreg
+871343	None	Little to None	None	logreg
+715822	None	Little to None	None	logreg
+106487	None	Little to None	None	logreg
+764737	None	Little to None	None	logreg
+917460	None	Little to None	None	logreg
+531356	None	Little to None	None	logreg
+266651	None	Little to None	None	logreg
+739854	None	Little to None	None	logreg
+266764	None	Little to None	None	logreg
+73332	None	Little to None	None	logreg
+760242	None	Little to None	None	logreg
+320758	None	Little to None	None	logreg
+609567	Abusive	Mild	Individual	logreg
+16555	Abusive	Severe	Individual	logreg
+404893	Profane	Severe	Organization	logreg
+357862	None	Little to None	None	logreg
+624326	Abusive	Little to None	None	logreg
+364169	Profane	Severe	Individual	logreg
+631673	None	Little to None	None	logreg
+105543	None	Little to None	None	logreg
+699006	None	Little to None	None	logreg
+701268	None	Severe	None	logreg
+742298	None	Little to None	None	logreg
+643737	Political Hate	Mild	None	logreg
+689092	None	Little to None	None	logreg
+563553	None	Little to None	None	logreg
+662932	None	Little to None	None	logreg
+473263	None	Little to None	None	logreg
+422168	None	Little to None	None	logreg
+862941	None	Little to None	None	logreg
+342937	Political Hate	Severe	Organization	logreg
+178372	Abusive	Mild	Individual	logreg
+916768	None	Little to None	None	logreg
+215239	Political Hate	Little to None	None	logreg
+763206	None	Little to None	None	logreg
+666182	None	Little to None	None	logreg
+503048	None	Little to None	None	logreg
+519953	None	Little to None	None	logreg
+679666	None	Little to None	None	logreg
+237037	None	Little to None	None	logreg
+561654	None	Little to None	None	logreg
+335959	None	Little to None	None	logreg
+672138	None	Little to None	None	logreg
+705318	None	Little to None	None	logreg
+251010	None	Little to None	None	logreg
+50757	None	Little to None	None	logreg
+708711	None	Little to None	None	logreg
+379033	None	Little to None	None	logreg
+356889	None	Little to None	None	logreg
+380864	None	Little to None	None	logreg
+357388	None	Little to None	None	logreg
+237264	None	Little to None	None	logreg
+785645	None	Little to None	None	logreg
+10221	None	Little to None	Organization	logreg
+51427	None	Little to None	None	logreg
+327009	None	Little to None	None	logreg
+72638	None	Little to None	None	logreg
+454694	None	Little to None	None	logreg
+531585	None	Little to None	None	logreg
+905729	None	Little to None	None	logreg
+826344	None	Little to None	None	logreg
+622615	Political Hate	Mild	Organization	logreg
+341026	None	Little to None	None	logreg
+756812	None	Little to None	None	logreg
+446998	None	Little to None	None	logreg
+507755	None	Little to None	None	logreg
+252185	None	Little to None	None	logreg
+677872	None	Little to None	None	logreg
+573406	Political Hate	Little to None	None	logreg
+708512	None	Little to None	None	logreg
+35865	Political Hate	Little to None	None	logreg
+521314	None	Little to None	None	logreg
+629720	None	Little to None	None	logreg
+579590	None	Little to None	None	logreg
+420676	None	Little to None	None	logreg
+888468	None	Little to None	None	logreg
+507098	None	Little to None	None	logreg
+33791	None	Little to None	None	logreg
+628771	None	Little to None	None	logreg
+197579	Political Hate	Little to None	None	logreg
+228413	None	Little to None	None	logreg
+607208	None	Little to None	None	logreg
+482851	Abusive	Little to None	None	logreg
+641065	None	Little to None	None	logreg
+154089	None	Little to None	None	logreg
+21246	None	Little to None	None	logreg
+99970	None	Little to None	None	logreg
+243706	Abusive	Mild	Organization	logreg
+366232	Religious Hate	Little to None	Community	logreg
+799431	Political Hate	Mild	Individual	logreg
+151836	Profane	Severe	None	logreg
+384383	None	Little to None	None	logreg
+430350	Abusive	Severe	Individual	logreg
+321512	None	Little to None	None	logreg
+791877	None	Little to None	None	logreg
+369126	Profane	Mild	Individual	logreg
+769210	None	Little to None	None	logreg
+389866	None	Little to None	None	logreg
+124392	Abusive	Little to None	None	logreg
+111565	None	Little to None	Individual	logreg
+87928	Abusive	Little to None	Individual	logreg
+507897	None	Little to None	None	logreg
+284276	None	Little to None	None	logreg
+211557	None	Little to None	None	logreg
+407528	Abusive	Little to None	None	logreg
+656024	None	Little to None	None	logreg
+163256	Political Hate	Mild	Organization	logreg
+701482	None	Little to None	None	logreg
+28613	None	Little to None	None	logreg
+393451	None	Little to None	None	logreg
+130986	None	Little to None	None	logreg
+47847	None	Little to None	None	logreg
+474831	None	Little to None	None	logreg
+262358	None	Little to None	None	logreg
+809182	None	Little to None	None	logreg
+912597	None	Little to None	None	logreg
+491193	None	Little to None	None	logreg
+605569	None	Little to None	None	logreg
+380424	None	Little to None	None	logreg
+603456	Abusive	Little to None	None	logreg
+107100	Political Hate	Little to None	Organization	logreg
+626831	None	Little to None	None	logreg
+447213	None	Little to None	None	logreg
+697862	None	Little to None	None	logreg
+91497	None	Little to None	None	logreg
+652526	None	Little to None	None	logreg
+24792	None	Little to None	None	logreg
+571083	None	Little to None	None	logreg
+890268	None	Little to None	None	logreg
+5297	None	Little to None	None	logreg
+920594	Abusive	Mild	Individual	logreg
+172944	None	Little to None	None	logreg
+624079	None	Little to None	None	logreg
+770329	None	Little to None	None	logreg
+692607	None	Little to None	None	logreg
+3052	Abusive	Little to None	Society	logreg
+844455	Abusive	Severe	Individual	logreg
+814896	None	Little to None	None	logreg
+110591	Political Hate	Little to None	Organization	logreg
+180575	None	Little to None	None	logreg
+254322	None	Little to None	None	logreg
+574720	None	Little to None	None	logreg
+622377	None	Little to None	None	logreg
+623083	None	Little to None	None	logreg
+668718	None	Little to None	None	logreg
+633172	Sexism	Little to None	None	logreg
+6790	None	Little to None	None	logreg
+850984	Political Hate	Mild	Organization	logreg
+500524	None	Little to None	None	logreg
+581344	None	Little to None	None	logreg
+654769	None	Little to None	None	logreg
+706547	None	Little to None	None	logreg
+603782	None	Little to None	None	logreg
+302171	None	Little to None	None	logreg
+744717	None	Little to None	None	logreg
+512972	None	Little to None	None	logreg
+781353	None	Little to None	None	logreg
+384814	None	Little to None	None	logreg
+15032	None	Little to None	None	logreg
+251425	Abusive	Little to None	None	logreg
+813466	Abusive	Little to None	None	logreg
+675844	None	Little to None	None	logreg
+2583	Abusive	Little to None	Community	logreg
+659227	None	Little to None	None	logreg
+169886	None	Little to None	None	logreg
+381979	None	Little to None	None	logreg
+299641	None	Little to None	None	logreg
+704171	None	Little to None	None	logreg
+618279	None	Mild	Individual	logreg
+641060	None	Little to None	None	logreg
+562096	None	Little to None	None	logreg
+318122	None	Little to None	None	logreg
+451639	None	Little to None	None	logreg
+653504	None	Little to None	None	logreg
+144836	None	Little to None	None	logreg
+426811	Profane	Little to None	Individual	logreg
+399359	None	Little to None	None	logreg
+610564	Abusive	Little to None	Organization	logreg
+246780	None	Little to None	None	logreg
+838887	None	Little to None	None	logreg
+144994	None	Little to None	None	logreg
+854277	None	Little to None	None	logreg
+865313	None	Little to None	None	logreg
+578428	None	Little to None	None	logreg
+187917	None	Little to None	None	logreg
+348388	Abusive	Mild	Organization	logreg
+741123	None	Little to None	None	logreg
+634544	None	Little to None	Individual	logreg
+778366	None	Little to None	None	logreg
+441000	None	Little to None	None	logreg
+377994	None	Little to None	None	logreg
+362805	None	Little to None	None	logreg
+12475	None	Little to None	None	logreg
+460383	None	Little to None	None	logreg
+870913	None	Little to None	None	logreg
+2715	None	Little to None	None	logreg
+921356	None	Little to None	None	logreg
+196647	Political Hate	Mild	Organization	logreg
+824151	None	Little to None	None	logreg
+382540	None	Little to None	None	logreg
+1087	Abusive	Little to None	None	logreg
+380610	None	Little to None	None	logreg
+416517	None	Little to None	None	logreg
+456028	Abusive	Mild	Community	logreg
+431471	None	Little to None	None	logreg
+453235	Political Hate	Mild	Organization	logreg
+927587	None	Little to None	None	logreg
+422259	None	Little to None	None	logreg
+896697	None	Little to None	None	logreg
+42562	None	Little to None	None	logreg
+197313	Political Hate	Mild	Organization	logreg
+690302	None	Little to None	None	logreg
+925174	None	Little to None	None	logreg
+535584	None	Little to None	None	logreg
+931365	Abusive	Little to None	None	logreg
+227393	None	Little to None	Individual	logreg
+329379	None	Little to None	None	logreg
+56445	None	Little to None	None	logreg
+546158	Political Hate	Mild	Organization	logreg
+258725	None	Little to None	None	logreg
+175825	None	Little to None	None	logreg
+937532	None	Little to None	None	logreg
+833099	None	Little to None	None	logreg
+321436	Abusive	Little to None	None	logreg
+755018	None	Little to None	None	logreg
+798262	Abusive	Severe	Individual	logreg
+866278	None	Little to None	None	logreg
+210321	Political Hate	Severe	Society	logreg
+363164	None	Little to None	None	logreg
+370542	None	Little to None	None	logreg
+132703	Political Hate	Little to None	None	logreg
+601946	None	Little to None	None	logreg
+897150	None	Little to None	None	logreg
+256376	None	Little to None	None	logreg
+240015	None	Little to None	None	logreg
+259547	None	Little to None	None	logreg
+67131	Religious Hate	Little to None	None	logreg
+923885	None	Little to None	None	logreg
+226135	None	Little to None	None	logreg
+662300	None	Little to None	None	logreg
+677456	Political Hate	Little to None	Organization	logreg
+485008	None	Little to None	None	logreg
+529942	None	Little to None	None	logreg
+914346	None	Little to None	None	logreg
+298173	None	Little to None	None	logreg
+446809	None	Little to None	None	logreg
+671424	None	Little to None	None	logreg
+793955	None	Little to None	None	logreg
+157776	Abusive	Little to None	Organization	logreg
+283469	None	Little to None	None	logreg
+206317	None	Little to None	None	logreg
+33066	None	Little to None	None	logreg
+36214	Political Hate	Little to None	Organization	logreg
+683112	None	Little to None	None	logreg
+831416	Profane	Severe	Individual	logreg
+473865	None	Little to None	None	logreg
+783655	None	Little to None	None	logreg
+344565	None	Little to None	None	logreg
+240377	None	Little to None	None	logreg
+205517	None	Little to None	None	logreg
+624990	None	Little to None	None	logreg
+114646	None	Severe	Individual	logreg
+860260	None	Little to None	Organization	logreg
+321233	None	Little to None	None	logreg
+287639	Political Hate	Little to None	Organization	logreg
+698525	None	Little to None	None	logreg
+640865	None	Little to None	None	logreg
+493551	None	Little to None	None	logreg
+329369	None	Little to None	None	logreg
+687000	None	Little to None	None	logreg
+938515	None	Little to None	None	logreg
+71327	None	Little to None	None	logreg
+82872	None	Little to None	None	logreg
+564549	None	Little to None	None	logreg
+93050	None	Little to None	None	logreg
+684599	None	Little to None	None	logreg
+923214	None	Little to None	None	logreg
+712666	None	Little to None	None	logreg
+516447	None	Little to None	None	logreg
+789503	None	Little to None	None	logreg
+126197	None	Little to None	None	logreg
+83510	None	Little to None	None	logreg
+693378	None	Little to None	None	logreg
+766830	None	Little to None	None	logreg
+917369	None	Little to None	None	logreg
+140689	None	Little to None	None	logreg
+828319	None	Little to None	None	logreg
+441784	Abusive	Little to None	Individual	logreg
+584069	None	Little to None	None	logreg
+595722	None	Little to None	None	logreg
+587975	Abusive	Mild	Individual	logreg
+737847	None	Little to None	None	logreg
+355260	None	Little to None	None	logreg
+208807	None	Little to None	None	logreg
+698527	None	Little to None	None	logreg
+342704	None	Little to None	None	logreg
+281083	None	Little to None	None	logreg
+594110	None	Little to None	None	logreg
+208175	Political Hate	Severe	Organization	logreg
+536181	Abusive	Little to None	None	logreg
+562508	None	Little to None	None	logreg
+844368	Political Hate	Severe	Organization	logreg
+355570	Abusive	Little to None	Individual	logreg
+576652	None	Little to None	None	logreg
+230254	Political Hate	Little to None	None	logreg
+396913	None	Little to None	None	logreg
+160607	None	Little to None	None	logreg
+775615	None	Little to None	None	logreg
+634523	Political Hate	Mild	Community	logreg
+313291	Abusive	Severe	Individual	logreg
+631046	Abusive	Little to None	None	logreg
+550426	Abusive	Mild	Individual	logreg
+807498	None	Little to None	None	logreg
+388081	None	Little to None	None	logreg
+532701	None	Little to None	None	logreg
+506934	None	Little to None	None	logreg
+322440	None	Little to None	None	logreg
+507780	None	Little to None	None	logreg
+133106	None	Little to None	None	logreg
+584019	None	Little to None	None	logreg
+474793	None	Little to None	None	logreg
+890928	None	Little to None	None	logreg
+888703	None	Little to None	None	logreg
+391227	None	Little to None	None	logreg
+511127	None	Little to None	None	logreg
+507374	None	Little to None	None	logreg
+680347	Political Hate	Mild	Organization	logreg
+63627	None	Little to None	None	logreg
+903197	Abusive	Little to None	Organization	logreg
+938868	None	Little to None	None	logreg
+675732	None	Little to None	None	logreg
+482546	None	Little to None	None	logreg
+675440	Abusive	Little to None	None	logreg
+115168	None	Little to None	None	logreg
+352533	Political Hate	Mild	Individual	logreg
+630861	Abusive	Severe	None	logreg
+768879	None	Little to None	None	logreg
+882539	None	Little to None	None	logreg
+558518	Abusive	Little to None	Individual	logreg
+937312	None	Little to None	None	logreg
+422059	None	Little to None	None	logreg
+416662	None	Little to None	None	logreg
+632696	Political Hate	Severe	Organization	logreg
+203962	None	Little to None	None	logreg
+857709	None	Little to None	None	logreg
+793617	None	Mild	None	logreg
+486353	None	Little to None	None	logreg
+635854	None	Little to None	None	logreg
+84223	None	Little to None	None	logreg
+150930	None	Little to None	None	logreg
+156149	None	Little to None	None	logreg
+772243	None	Little to None	None	logreg
+644418	None	Little to None	None	logreg
+723392	None	Little to None	None	logreg
+717266	None	Little to None	None	logreg
+75367	None	Little to None	None	logreg
+398304	None	Little to None	None	logreg
+350619	None	Little to None	None	logreg
+633361	Political Hate	Little to None	Community	logreg
+545400	None	Little to None	None	logreg
+184710	None	Little to None	None	logreg
+126450	None	Little to None	None	logreg
+157874	None	Little to None	None	logreg
+268695	None	Little to None	None	logreg
+443262	None	Little to None	None	logreg
+405050	None	Little to None	None	logreg
+475199	None	Little to None	None	logreg
+909906	None	Little to None	None	logreg
+619424	None	Little to None	None	logreg
+338317	Political Hate	Little to None	None	logreg
+208842	None	Little to None	None	logreg
+297713	Political Hate	Little to None	None	logreg
+198549	None	Little to None	None	logreg
+240451	None	Little to None	None	logreg
+432313	None	Little to None	None	logreg
+556009	None	Little to None	None	logreg
+291078	None	Little to None	None	logreg
+647866	Political Hate	Little to None	None	logreg
+885374	None	Little to None	None	logreg
+149363	None	Little to None	None	logreg
+169573	None	Little to None	None	logreg
+456507	Abusive	Little to None	None	logreg
+589233	Abusive	Little to None	None	logreg
+112377	None	Little to None	None	logreg
+831724	None	Little to None	None	logreg
+5407	None	Little to None	None	logreg
+15943	Political Hate	Mild	Organization	logreg
+741246	None	Little to None	None	logreg
+61405	None	Little to None	None	logreg
+915869	None	Little to None	None	logreg
+511267	None	Little to None	None	logreg
+1471	None	Little to None	None	logreg
+367605	Abusive	Severe	Community	logreg
+174842	None	Little to None	None	logreg
+137391	None	Little to None	None	logreg
+840729	Abusive	Little to None	None	logreg
+416127	None	Little to None	None	logreg
+330333	None	Little to None	None	logreg
+670421	None	Little to None	None	logreg
+242499	Abusive	Mild	Individual	logreg
+144117	None	Little to None	None	logreg
+639424	Abusive	Severe	Individual	logreg
+394368	Abusive	Mild	Society	logreg
+291259	Abusive	Little to None	None	logreg
+142509	None	Little to None	None	logreg
+226408	None	Little to None	None	logreg
+486351	None	Little to None	None	logreg
+865343	None	Little to None	None	logreg
+490548	Abusive	Little to None	Society	logreg
+430804	None	Little to None	None	logreg
+292631	None	Little to None	None	logreg
+399708	None	Little to None	None	logreg
+62074	None	Little to None	None	logreg
+277817	None	Little to None	None	logreg
+451449	None	Little to None	None	logreg
+937837	None	Little to None	None	logreg
+69996	Political Hate	Severe	Organization	logreg
+472779	None	Little to None	None	logreg
+593869	Political Hate	Mild	Organization	logreg
+113374	None	Little to None	None	logreg
+295098	Political Hate	Severe	Organization	logreg
+688164	None	Little to None	None	logreg
+754307	Abusive	Severe	Individual	logreg
+185344	None	Little to None	None	logreg
+206819	None	Little to None	None	logreg
+776128	Abusive	Mild	None	logreg
+438265	None	Little to None	None	logreg
+586064	None	Little to None	None	logreg
+588534	None	Severe	None	logreg
+863686	None	Little to None	None	logreg
+694501	Abusive	Little to None	None	logreg
+97900	None	Little to None	None	logreg
+166900	None	Little to None	None	logreg
+109971	None	Little to None	None	logreg
+497464	None	Little to None	Individual	logreg
+376477	None	Little to None	None	logreg
+65718	None	Little to None	None	logreg
+784043	Abusive	Mild	Individual	logreg
+702897	Profane	Little to None	None	logreg
+352371	None	Little to None	None	logreg
+52223	None	Little to None	None	logreg
+131128	None	Little to None	None	logreg
+13831	None	Little to None	None	logreg
+148597	None	Little to None	None	logreg
+60602	None	Little to None	None	logreg
+752509	None	Little to None	None	logreg
+730085	None	Little to None	None	logreg
+625048	None	Little to None	None	logreg
+541629	None	Little to None	None	logreg
+895206	Abusive	Little to None	None	logreg
+725993	Political Hate	Mild	Society	logreg
+296053	None	Little to None	None	logreg
+240086	None	Little to None	None	logreg
+106374	None	Little to None	None	logreg
+2358	Abusive	Little to None	Community	logreg
+655996	None	Little to None	None	logreg
+2640	Political Hate	Mild	Organization	logreg
+583695	None	Little to None	None	logreg
+740126	None	Little to None	None	logreg
+116038	None	Little to None	None	logreg
+839438	None	Little to None	None	logreg
+216777	None	Little to None	None	logreg
+717153	None	Little to None	None	logreg
+628314	None	Little to None	None	logreg
+49560	Political Hate	Little to None	None	logreg
+484546	None	Little to None	None	logreg
+411292	None	Little to None	None	logreg
+739397	None	Little to None	None	logreg
+33049	None	Little to None	None	logreg
+234943	None	Little to None	None	logreg
+85567	None	Little to None	None	logreg
+898840	None	Little to None	None	logreg
+110149	None	Little to None	None	logreg
+928802	None	Little to None	None	logreg
+65232	Religious Hate	Little to None	None	logreg
+609733	Abusive	Mild	Individual	logreg
+607110	None	Little to None	None	logreg
+656146	None	Little to None	None	logreg
+122819	None	Little to None	None	logreg
+924773	None	Little to None	None	logreg
+855239	None	Little to None	None	logreg
+455140	None	Little to None	None	logreg
+172685	Political Hate	Mild	Organization	logreg
+705941	None	Little to None	None	logreg
+317297	None	Little to None	None	logreg
+637876	Political Hate	Mild	Organization	logreg
+198449	None	Mild	Community	logreg
+822721	None	Little to None	None	logreg
+347419	Abusive	Little to None	None	logreg
+503146	None	Little to None	None	logreg
+601962	None	Little to None	None	logreg
+847061	None	Little to None	None	logreg
+449847	None	Little to None	None	logreg
+266272	None	Little to None	None	logreg
+579593	None	Little to None	None	logreg
+696370	None	Little to None	None	logreg
+282600	None	Little to None	None	logreg
+901656	Abusive	Little to None	Individual	logreg
+348015	None	Little to None	None	logreg
+436616	None	Little to None	None	logreg
+257730	None	Little to None	None	logreg
+662170	None	Little to None	None	logreg
+385756	Abusive	Mild	None	logreg
+359726	None	Little to None	None	logreg
+660956	None	Little to None	None	logreg
+767839	None	Little to None	None	logreg
+104694	None	Little to None	None	logreg
+939708	None	Little to None	None	logreg
+918343	None	Little to None	None	logreg
+169088	None	Little to None	None	logreg
+559219	None	Little to None	None	logreg
+313940	None	Little to None	None	logreg
+156518	Abusive	Little to None	Organization	logreg
+475465	None	Little to None	None	logreg
+796521	None	Little to None	None	logreg
+340667	None	Little to None	None	logreg
+871730	None	Little to None	None	logreg
+526989	None	Little to None	None	logreg
+2000	Profane	Severe	Individual	logreg
+770360	None	Little to None	None	logreg
+97016	None	Little to None	None	logreg
+759827	None	Little to None	None	logreg
+121027	None	Little to None	None	logreg
+398334	None	Little to None	None	logreg
+88547	Abusive	Little to None	Organization	logreg
+388063	None	Little to None	None	logreg
+584267	None	Little to None	None	logreg
+199146	None	Little to None	None	logreg
+862801	None	Little to None	None	logreg
+663203	None	Little to None	None	logreg
+384078	None	Little to None	None	logreg
+674707	None	Little to None	None	logreg
+248801	None	Little to None	None	logreg
+434904	None	Little to None	None	logreg
+892832	None	Little to None	None	logreg
+849635	None	Little to None	None	logreg
+357655	None	Little to None	None	logreg
+38822	None	Little to None	None	logreg
+15868	None	Little to None	None	logreg
+92875	None	Little to None	None	logreg
+881948	None	Little to None	None	logreg
+930602	None	Little to None	None	logreg
+297212	None	Little to None	None	logreg
+720687	None	Little to None	None	logreg
+129760	None	Little to None	None	logreg
+195054	Political Hate	Severe	Organization	logreg
+109394	None	Little to None	None	logreg
+869427	None	Little to None	None	logreg
+916439	None	Little to None	None	logreg
+137360	None	Little to None	None	logreg
+617422	None	Little to None	None	logreg
+78119	Abusive	Little to None	None	logreg
+723502	None	Little to None	None	logreg
+478562	None	Little to None	None	logreg
+65211	None	Little to None	None	logreg
+509559	None	Little to None	None	logreg
+326033	None	Little to None	None	logreg
+863542	None	Little to None	None	logreg
+700913	None	Little to None	None	logreg
+674516	None	Little to None	None	logreg
+559600	Political Hate	Mild	Individual	logreg
+503290	Abusive	Mild	Community	logreg
+896878	None	Little to None	None	logreg
+134107	None	Little to None	None	logreg
+249718	None	Little to None	None	logreg
+163349	None	Mild	None	logreg
+401513	None	Little to None	None	logreg
+650595	None	Little to None	None	logreg
+752284	None	Little to None	None	logreg
+865890	None	Little to None	None	logreg
+186435	None	Little to None	None	logreg
+373339	None	Little to None	None	logreg
+286709	None	Little to None	None	logreg
+643016	None	Little to None	None	logreg
+27134	None	Little to None	None	logreg
+593062	Political Hate	Mild	None	logreg
+676443	None	Little to None	None	logreg
+614707	None	Little to None	None	logreg
+61510	Abusive	Mild	None	logreg
+153559	None	Little to None	None	logreg
+433441	None	Little to None	None	logreg
+216305	None	Little to None	None	logreg
+910124	None	Little to None	None	logreg
+620809	None	Little to None	None	logreg
+932421	Abusive	Little to None	Individual	logreg
+425270	None	Little to None	None	logreg
+273781	None	Little to None	None	logreg
+187613	None	Little to None	None	logreg
+124364	None	Little to None	None	logreg
+877298	None	Little to None	None	logreg
+605600	None	Little to None	Individual	logreg
+349142	None	Little to None	None	logreg
+780477	None	Severe	None	logreg
+850714	None	Little to None	None	logreg
+182549	Political Hate	Mild	Organization	logreg
+591436	None	Little to None	None	logreg
+532973	None	Little to None	None	logreg
+254837	Abusive	Severe	Individual	logreg
+570134	None	Little to None	None	logreg
+600873	None	Little to None	None	logreg
+897692	None	Little to None	None	logreg
+145602	None	Little to None	None	logreg
+674074	None	Little to None	None	logreg
+617154	None	Little to None	None	logreg
+131424	None	Little to None	None	logreg
+863095	None	Little to None	None	logreg
+753046	Abusive	Little to None	None	logreg
+889442	None	Little to None	None	logreg
+290088	Abusive	Mild	Community	logreg
+158006	None	Little to None	None	logreg
+915317	None	Little to None	None	logreg
+928884	None	Little to None	None	logreg
+845497	None	Little to None	None	logreg
+337012	None	Little to None	None	logreg
+806329	None	Little to None	None	logreg
+513110	None	Little to None	None	logreg
+313334	None	Little to None	None	logreg
+843096	Abusive	Severe	Individual	logreg
+406040	Profane	Little to None	Organization	logreg
+436473	None	Little to None	None	logreg
+864150	None	Little to None	None	logreg
+307617	None	Little to None	None	logreg
+486690	None	Little to None	None	logreg
+197326	Political Hate	Little to None	Organization	logreg
+295541	None	Little to None	None	logreg
+264754	Abusive	Little to None	None	logreg
+214178	None	Little to None	None	logreg
+288143	None	Little to None	None	logreg
+77822	Abusive	Severe	Individual	logreg
+659471	Abusive	Little to None	Organization	logreg
+441154	Religious Hate	Little to None	None	logreg
+304049	None	Little to None	None	logreg
+635950	None	Little to None	None	logreg
+863812	None	Little to None	None	logreg
+642147	None	Little to None	None	logreg
+206032	Political Hate	Mild	Organization	logreg
+936269	None	Little to None	None	logreg
+87245	None	Little to None	None	logreg
+831967	None	Little to None	None	logreg
+773650	None	Little to None	None	logreg
+578805	None	Little to None	None	logreg
+54423	None	Little to None	None	logreg
+187408	None	Little to None	None	logreg
+446182	None	Little to None	None	logreg
+240952	None	Little to None	None	logreg
+609430	None	Little to None	None	logreg
+32107	None	Little to None	None	logreg
+257935	None	Little to None	None	logreg
+823899	None	Little to None	None	logreg
+685145	None	Little to None	None	logreg
+398331	Abusive	Little to None	Individual	logreg
+153024	None	Little to None	None	logreg
+175531	None	Little to None	None	logreg
+446560	None	Little to None	None	logreg
+418942	None	Little to None	None	logreg
+594047	None	Little to None	None	logreg
+542787	Abusive	Little to None	None	logreg
+506353	Profane	Severe	Organization	logreg
+841821	Abusive	Mild	None	logreg
+427816	Political Hate	Mild	Society	logreg
+186081	None	Little to None	None	logreg
+63181	None	Little to None	None	logreg
+474439	None	Little to None	None	logreg
+266781	None	Little to None	None	logreg
+863333	None	Little to None	None	logreg
+99308	None	Little to None	None	logreg
+411516	None	Little to None	None	logreg
+917711	None	Little to None	None	logreg
+297791	None	Little to None	None	logreg
+837511	None	Little to None	None	logreg
+516611	None	Little to None	None	logreg
+361540	None	Little to None	None	logreg
+289632	None	Little to None	None	logreg
+557898	Abusive	Little to None	None	logreg
+478098	None	Little to None	None	logreg
+219774	None	Little to None	None	logreg
+639571	Abusive	Little to None	None	logreg
+458029	None	Little to None	None	logreg
+26006	None	Little to None	None	logreg
+615341	None	Little to None	None	logreg
+365272	Abusive	Little to None	None	logreg
+446152	Abusive	Little to None	Community	logreg
+924516	Sexism	Little to None	Individual	logreg
+912732	None	Little to None	None	logreg
+3376	None	Little to None	None	logreg
+873206	None	Little to None	None	logreg
+147620	None	Little to None	None	logreg
+48729	None	Little to None	None	logreg
+118706	Political Hate	Little to None	Individual	logreg
+496287	None	Little to None	None	logreg
+633278	None	Little to None	None	logreg
+556423	None	Little to None	None	logreg
+192902	None	Little to None	None	logreg
+750879	None	Little to None	None	logreg
+715529	None	Little to None	None	logreg
+134711	None	Little to None	None	logreg
+660107	None	Little to None	None	logreg
+437345	None	Little to None	None	logreg
+214891	Abusive	Mild	Community	logreg
+900908	Abusive	Little to None	None	logreg
+763719	Religious Hate	Severe	Organization	logreg
+315444	None	Little to None	None	logreg
+455707	None	Little to None	None	logreg
+290653	None	Little to None	None	logreg
+691850	None	Little to None	None	logreg
+318941	Religious Hate	Little to None	None	logreg
+182737	Political Hate	Little to None	Organization	logreg
+285028	Abusive	Severe	Individual	logreg
+904223	None	Little to None	None	logreg
+291039	None	Little to None	None	logreg
+645637	None	Little to None	None	logreg
+328958	None	Little to None	None	logreg
+168539	None	Little to None	None	logreg
+375694	Religious Hate	Mild	None	logreg
+501348	None	Little to None	None	logreg
+30143	Abusive	Little to None	None	logreg
+565055	None	Little to None	None	logreg
+481211	None	Little to None	None	logreg
+8371	None	Little to None	None	logreg
+757645	Political Hate	Severe	Society	logreg
+738411	None	Little to None	None	logreg
+767666	None	Little to None	None	logreg
+261763	None	Little to None	None	logreg
+351660	None	Little to None	None	logreg
+476158	Abusive	Mild	Individual	logreg
+865803	None	Little to None	None	logreg
+111001	Political Hate	Mild	Organization	logreg
+61880	None	Little to None	None	logreg
+530551	None	Little to None	None	logreg
+583453	None	Little to None	None	logreg
+764722	None	Little to None	None	logreg
+511997	None	Little to None	None	logreg
+884021	None	Little to None	None	logreg
+434129	None	Little to None	None	logreg
+318573	None	Little to None	None	logreg
+760589	None	Little to None	None	logreg
+804650	None	Little to None	None	logreg
+528897	None	Little to None	None	logreg
+716202	None	Little to None	None	logreg
+670284	None	Little to None	None	logreg
+869145	Abusive	Mild	Individual	logreg
+565795	None	Little to None	None	logreg
+801623	None	Little to None	None	logreg
+553622	None	Little to None	None	logreg
+690373	Abusive	Mild	None	logreg
+421996	None	Little to None	None	logreg
+584595	Abusive	Little to None	None	logreg
+790924	None	Little to None	None	logreg
+839704	None	Little to None	None	logreg
+939459	None	Little to None	None	logreg
+533215	None	Mild	None	logreg
+72989	None	Little to None	Organization	logreg
+577898	None	Little to None	None	logreg
+912409	None	Little to None	None	logreg
+53215	None	Little to None	None	logreg
+475181	None	Little to None	None	logreg
+220520	None	Little to None	None	logreg
+773174	None	Little to None	None	logreg
+758814	None	Little to None	None	logreg
+606304	None	Little to None	None	logreg
+500972	None	Little to None	None	logreg
+685233	None	Little to None	None	logreg
+475996	None	Little to None	None	logreg
+741328	Abusive	Little to None	None	logreg
+236813	Political Hate	Little to None	Individual	logreg
+250911	None	Little to None	None	logreg
+184353	None	Little to None	None	logreg
+502301	None	Little to None	None	logreg
+104489	None	Little to None	None	logreg
+744914	None	Little to None	None	logreg
+446232	Abusive	Severe	Organization	logreg
+481561	None	Little to None	None	logreg
+191354	None	Little to None	None	logreg
+900461	None	Little to None	None	logreg
+415829	None	Mild	None	logreg
+613833	None	Little to None	None	logreg
+718306	Abusive	Little to None	Individual	logreg
+496351	None	Little to None	None	logreg
+708366	None	Little to None	None	logreg
+578669	None	Little to None	None	logreg
+487410	None	Little to None	None	logreg
+360171	None	Little to None	None	logreg
+97036	None	Little to None	None	logreg
+782954	None	Little to None	None	logreg
+881673	Abusive	Little to None	None	logreg
+193131	Abusive	Mild	Community	logreg
+113089	None	Little to None	None	logreg
+640459	None	Little to None	None	logreg
+863300	None	Little to None	None	logreg
+166765	None	Little to None	None	logreg
+465600	Political Hate	Severe	Organization	logreg
+524846	None	Little to None	None	logreg
+377912	Political Hate	Little to None	Individual	logreg
+647030	Abusive	Mild	Individual	logreg
+389642	None	Little to None	None	logreg
+838786	None	Little to None	None	logreg
+683189	None	Little to None	None	logreg
+44208	None	Little to None	None	logreg
+129258	None	Little to None	None	logreg
+537879	Abusive	Severe	Individual	logreg
+828437	None	Little to None	None	logreg
+910625	None	Little to None	None	logreg
+897725	None	Little to None	None	logreg
+129142	Abusive	Little to None	None	logreg
+520734	None	Little to None	None	logreg
+274405	None	Little to None	Individual	logreg
+187223	Political Hate	Little to None	None	logreg
+679398	None	Little to None	None	logreg
+843495	None	Little to None	None	logreg
+888495	None	Little to None	None	logreg
+762390	None	Little to None	None	logreg
+385068	None	Little to None	None	logreg
+668222	None	Little to None	None	logreg
+555345	None	Little to None	None	logreg
+427170	None	Little to None	None	logreg
+358744	None	Little to None	None	logreg
+175954	Political Hate	Mild	Organization	logreg
+685817	None	Little to None	None	logreg
+484759	Abusive	Little to None	None	logreg
+395035	None	Severe	Society	logreg
+176114	None	Little to None	None	logreg
+300739	None	Little to None	None	logreg
+528625	None	Little to None	None	logreg
+511158	None	Little to None	None	logreg
+453505	Political Hate	Little to None	Organization	logreg
+293969	None	Little to None	None	logreg
+647598	None	Little to None	None	logreg
+553699	None	Little to None	None	logreg
+95466	None	Little to None	None	logreg
+835149	None	Little to None	None	logreg
+748909	None	Little to None	None	logreg
+194226	Abusive	Mild	Organization	logreg
+142118	Political Hate	Severe	Organization	logreg
+870702	None	Little to None	None	logreg
+364886	None	Little to None	None	logreg
+112111	None	Little to None	None	logreg
+899804	None	Little to None	None	logreg
+696989	None	Little to None	None	logreg
+887716	None	Little to None	None	logreg
+660186	None	Little to None	None	logreg
+901036	None	Little to None	None	logreg
+510168	None	Little to None	None	logreg
+203599	Abusive	Little to None	Society	logreg
+423343	None	Little to None	None	logreg
+83835	Abusive	Little to None	None	logreg
+828482	None	Little to None	None	logreg
+409288	None	Little to None	None	logreg
+40340	None	Little to None	None	logreg
+801215	Political Hate	Little to None	Organization	logreg
+666047	None	Little to None	None	logreg
+700821	None	Little to None	None	logreg
+701993	None	Little to None	None	logreg
+254382	None	Little to None	None	logreg
+623669	None	Little to None	None	logreg
+175843	None	Little to None	None	logreg
+400663	None	Little to None	None	logreg
+468054	None	Little to None	None	logreg
+610633	Abusive	Severe	Society	logreg
+620852	None	Little to None	None	logreg
+236927	None	Little to None	None	logreg
+359516	None	Little to None	None	logreg
+863317	None	Little to None	None	logreg
+590188	Abusive	Little to None	None	logreg
+650314	None	Little to None	None	logreg
+412701	None	Little to None	None	logreg
+720266	None	Little to None	None	logreg
+866888	None	Little to None	None	logreg
+530041	None	Little to None	None	logreg
+495166	None	Little to None	None	logreg
+114148	Political Hate	Mild	Organization	logreg
+646106	None	Little to None	None	logreg
+818634	None	Little to None	None	logreg
+489381	None	Little to None	None	logreg
+366857	None	Little to None	None	logreg
+216109	None	Little to None	None	logreg
+634558	None	Little to None	None	logreg
+250297	Political Hate	Little to None	None	logreg
+21656	None	Little to None	None	logreg
+356050	None	Little to None	None	logreg
+450240	None	Little to None	None	logreg
+511964	None	Little to None	None	logreg
+755491	None	Little to None	None	logreg
+860563	Abusive	Mild	Individual	logreg
+550210	None	Little to None	None	logreg
+914642	None	Little to None	None	logreg
+833043	Political Hate	Little to None	None	logreg
+562960	None	Little to None	None	logreg
+725746	Political Hate	Little to None	Society	logreg
+222268	Political Hate	Mild	Organization	logreg
+93194	None	Little to None	None	logreg
+227813	None	Little to None	Organization	logreg
+582922	None	Little to None	None	logreg
+86299	None	Little to None	None	logreg
+186473	Political Hate	Severe	Organization	logreg
+905562	Abusive	Little to None	Organization	logreg
+95832	None	Little to None	None	logreg
+53058	None	Little to None	None	logreg
+885378	None	Little to None	None	logreg
+821731	None	Little to None	None	logreg
+179744	None	Little to None	None	logreg
+856357	None	Little to None	None	logreg
+879521	None	Little to None	None	logreg
+101653	None	Little to None	None	logreg
+922502	Abusive	Little to None	None	logreg
+376711	Abusive	Mild	Organization	logreg
+375336	None	Little to None	None	logreg
+569127	None	Little to None	None	logreg
+233456	Abusive	Little to None	None	logreg
+602142	None	Little to None	None	logreg
+259506	None	Little to None	None	logreg
+647250	Political Hate	Mild	Organization	logreg
+236784	None	Little to None	None	logreg
+590227	None	Little to None	None	logreg
+349521	None	Little to None	None	logreg
+511561	Abusive	Mild	Organization	logreg
+565514	None	Little to None	None	logreg
+279985	Religious Hate	Severe	Society	logreg
+181848	Political Hate	Little to None	Organization	logreg
+117547	Political Hate	Little to None	None	logreg
+485388	None	Little to None	None	logreg
+883559	None	Little to None	None	logreg
+108865	Political Hate	Mild	Individual	logreg
+892775	None	Little to None	None	logreg
+446371	None	Little to None	None	logreg
+325101	None	Little to None	None	logreg
+554771	None	Little to None	None	logreg
+714174	None	Little to None	None	logreg
+175345	None	Little to None	None	logreg
+666577	None	Little to None	None	logreg
+453621	Abusive	Little to None	Individual	logreg
+658873	None	Little to None	None	logreg
+467382	Political Hate	Severe	Organization	logreg
+600530	None	Little to None	None	logreg
+56405	None	Little to None	None	logreg
+50971	None	Little to None	None	logreg
+455443	None	Little to None	None	logreg
+31476	None	Little to None	None	logreg
+869211	None	Little to None	None	logreg
+800776	None	Little to None	None	logreg
+838918	None	Little to None	None	logreg
+442892	None	Little to None	None	logreg
+496264	None	Little to None	None	logreg
+52071	None	Little to None	None	logreg
+136763	None	Little to None	None	logreg
+432625	Religious Hate	Severe	None	logreg
+271540	None	Little to None	None	logreg
+867436	None	Little to None	None	logreg
+122013	Abusive	Little to None	Organization	logreg
+413841	None	Little to None	None	logreg
+374473	None	Little to None	None	logreg
+153845	None	Little to None	Individual	logreg
+35355	None	Little to None	None	logreg
+238900	Profane	Severe	Individual	logreg
+206596	None	Little to None	None	logreg
+723545	None	Little to None	None	logreg
+187726	Abusive	Little to None	Individual	logreg
+143551	None	Little to None	None	logreg
+801088	None	Little to None	None	logreg
+110960	None	Little to None	None	logreg
+35530	None	Little to None	None	logreg
+242127	Abusive	Severe	Individual	logreg
+266531	None	Little to None	None	logreg
+32418	Abusive	Little to None	Individual	logreg
+169879	None	Little to None	None	logreg
+555753	None	Little to None	None	logreg
+383955	Abusive	Severe	None	logreg
+265215	None	Little to None	None	logreg
+513523	None	Little to None	None	logreg
+120318	None	Little to None	None	logreg
+66478	None	Little to None	None	logreg
+579738	None	Little to None	None	logreg
+172555	None	Little to None	None	logreg
+227264	None	Little to None	None	logreg
+350192	None	Little to None	None	logreg
+761236	None	Little to None	None	logreg
+702997	None	Little to None	None	logreg
+264513	None	Little to None	None	logreg
+268929	Political Hate	Mild	Organization	logreg
+808583	None	Little to None	None	logreg
+614492	None	Little to None	None	logreg
+436989	None	Little to None	None	logreg
+57969	None	Little to None	None	logreg
+269802	Political Hate	Little to None	Organization	logreg
+395283	None	Little to None	None	logreg
+414051	None	Little to None	None	logreg
+634572	Abusive	Little to None	None	logreg
+712780	None	Little to None	None	logreg
+426486	Abusive	Mild	Individual	logreg
+658649	None	Little to None	None	logreg
+514546	None	Little to None	None	logreg
+654533	None	Little to None	None	logreg
+811644	None	Little to None	None	logreg
+753518	None	Little to None	None	logreg
+212933	None	Little to None	None	logreg
+481410	None	Little to None	None	logreg
+879597	None	Little to None	None	logreg
+916269	None	Little to None	None	logreg
+596268	Political Hate	Mild	Organization	logreg
+127543	None	Little to None	None	logreg
+530446	None	Little to None	None	logreg
+662349	Abusive	Little to None	Individual	logreg
+192423	Political Hate	Mild	Organization	logreg
+915911	Abusive	Little to None	None	logreg
+832025	None	Little to None	None	logreg
+235058	Political Hate	Little to None	Organization	logreg
+342722	None	Little to None	None	logreg
+590535	None	Little to None	None	logreg
+117357	None	Little to None	None	logreg
+229350	Political Hate	Little to None	Organization	logreg
+155928	None	Little to None	None	logreg
+769055	None	Little to None	None	logreg
+84582	None	Little to None	None	logreg
+451655	None	Little to None	None	logreg
+818907	None	Little to None	None	logreg
+646802	None	Little to None	None	logreg
+13335	None	Little to None	None	logreg
+542439	None	Little to None	None	logreg
+580999	None	Little to None	None	logreg
+84554	None	Little to None	None	logreg
+416200	None	Little to None	None	logreg
+590424	None	Little to None	None	logreg
+856234	Political Hate	Little to None	Organization	logreg
+833479	None	Little to None	None	logreg
+628374	None	Mild	None	logreg
+766711	Abusive	Little to None	None	logreg
+533202	None	Little to None	None	logreg
+380661	Abusive	Little to None	None	logreg
+634726	None	Little to None	None	logreg
+850101	Abusive	Little to None	None	logreg
+720638	None	Little to None	None	logreg
+918299	Abusive	Mild	Community	logreg
+187	None	Little to None	None	logreg
+864313	None	Little to None	None	logreg
+510537	None	Little to None	None	logreg
+897340	None	Little to None	None	logreg
+542171	None	Little to None	None	logreg
+409108	None	Little to None	None	logreg
+22085	None	Little to None	None	logreg
+63549	None	Little to None	None	logreg
+438546	None	Little to None	None	logreg
+355393	None	Little to None	None	logreg
+521395	None	Little to None	None	logreg
+323114	Abusive	Little to None	None	logreg
+484458	None	Little to None	None	logreg
+599475	Abusive	Severe	Community	logreg
+797360	None	Little to None	None	logreg
+651286	Political Hate	Little to None	None	logreg
+683669	None	Little to None	None	logreg
+930782	None	Little to None	None	logreg
+639703	Political Hate	Severe	Community	logreg
+492224	None	Little to None	None	logreg
+888195	None	Little to None	None	logreg
+775619	None	Little to None	None	logreg
+115463	None	Little to None	None	logreg
+624463	None	Little to None	None	logreg
+276240	None	Little to None	None	logreg
+548182	None	Little to None	None	logreg
+236122	None	Little to None	None	logreg
+938584	None	Little to None	None	logreg
+817776	None	Little to None	None	logreg
+21930	Abusive	Severe	Individual	logreg
+558901	None	Little to None	None	logreg
+587590	None	Little to None	None	logreg
+211908	Abusive	Little to None	None	logreg
+60346	None	Little to None	None	logreg
+605691	None	Little to None	None	logreg
+929182	None	Little to None	None	logreg
+712367	Abusive	Mild	Community	logreg
+320500	None	Little to None	None	logreg
+100677	None	Little to None	None	logreg
+651652	None	Little to None	None	logreg
+295085	None	Little to None	None	logreg
+98323	None	Little to None	None	logreg
+158100	None	Little to None	None	logreg
+443977	Abusive	Mild	Organization	logreg
+742186	None	Little to None	None	logreg
+14621	Abusive	Little to None	None	logreg
+2141	None	Little to None	None	logreg
+939740	None	Little to None	None	logreg
+675171	None	Little to None	None	logreg
+154958	None	Little to None	None	logreg
+792298	None	Little to None	None	logreg
+146258	None	Little to None	None	logreg
+692258	None	Little to None	None	logreg
+655142	None	Little to None	None	logreg
+279831	None	Little to None	None	logreg
+904641	None	Little to None	None	logreg
+76223	Political Hate	Little to None	None	logreg
+356935	None	Little to None	None	logreg
+454409	None	Little to None	None	logreg
+151915	None	Little to None	None	logreg
+289689	Abusive	Little to None	None	logreg
+681172	None	Little to None	None	logreg
+68747	None	Little to None	None	logreg
+440160	None	Little to None	None	logreg
+1052	None	Little to None	None	logreg
+604360	Political Hate	Mild	Organization	logreg
+514264	None	Little to None	None	logreg
+792554	None	Little to None	None	logreg
+359885	None	Little to None	None	logreg
+669056	None	Little to None	None	logreg
+467484	None	Little to None	None	logreg
+618921	None	Little to None	None	logreg
+487676	None	Little to None	None	logreg
+794639	None	Little to None	None	logreg
+716246	None	Little to None	None	logreg
+720764	None	Little to None	None	logreg
+719110	None	Little to None	None	logreg
+117150	Abusive	Severe	None	logreg
+735722	None	Little to None	None	logreg
+476769	None	Little to None	None	logreg
+241694	None	Little to None	None	logreg
+638142	None	Little to None	None	logreg
+17820	None	Little to None	None	logreg
+330114	None	Little to None	None	logreg
+862260	None	Little to None	None	logreg
+857208	None	Little to None	None	logreg
+68092	None	Little to None	None	logreg
+487264	None	Little to None	None	logreg
+473274	None	Little to None	None	logreg
+887201	None	Little to None	None	logreg
+670410	None	Little to None	None	logreg
+704946	None	Little to None	None	logreg
+772823	None	Little to None	None	logreg
+506461	None	Little to None	None	logreg
+380105	None	Little to None	None	logreg
+929223	None	Little to None	None	logreg
+529715	None	Little to None	None	logreg
+455667	None	Little to None	None	logreg
+718043	None	Little to None	None	logreg
+25258	None	Little to None	None	logreg
+460726	Abusive	Little to None	Community	logreg
+203292	None	Little to None	None	logreg
+933690	None	Little to None	None	logreg
+799342	None	Little to None	None	logreg
+353835	None	Little to None	None	logreg
+506091	None	Little to None	None	logreg
+143296	Abusive	Severe	Individual	logreg
+246688	Political Hate	Little to None	Organization	logreg
+759063	None	Little to None	None	logreg
+299831	None	Little to None	None	logreg
+872711	Abusive	Little to None	Organization	logreg
+912606	None	Mild	None	logreg
+473707	None	Little to None	None	logreg
+333814	None	Little to None	None	logreg
+745132	None	Little to None	None	logreg
+646880	None	Little to None	None	logreg
+801734	None	Little to None	None	logreg
+253010	Abusive	Little to None	Organization	logreg
+938397	None	Little to None	None	logreg
+26778	None	Little to None	None	logreg
+279632	None	Little to None	None	logreg
+81888	None	Little to None	None	logreg
+830204	None	Little to None	None	logreg
+618989	None	Little to None	None	logreg
+391464	None	Little to None	None	logreg
+834652	None	Little to None	None	logreg
+657293	Abusive	Little to None	None	logreg
+624795	None	Little to None	None	logreg
+443138	Abusive	Mild	Organization	logreg
+762703	None	Little to None	None	logreg
+561	None	Little to None	None	logreg
+226325	Political Hate	Mild	Organization	logreg
+755107	Abusive	Little to None	Individual	logreg
+601796	None	Little to None	None	logreg
+204339	None	Little to None	None	logreg
+821623	None	Little to None	None	logreg
+373459	None	Little to None	None	logreg
+140309	Political Hate	Mild	Organization	logreg
+415542	None	Little to None	None	logreg
+934048	None	Little to None	None	logreg
+410499	None	Little to None	None	logreg
+738445	None	Little to None	None	logreg
+697740	None	Little to None	None	logreg
+844028	None	Little to None	None	logreg
+880305	None	Little to None	None	logreg
+45411	None	Little to None	None	logreg
+309202	None	Little to None	None	logreg
+585486	None	Little to None	None	logreg
+16436	None	Little to None	None	logreg
+438854	Profane	Severe	Individual	logreg
+516844	None	Little to None	None	logreg
+384723	Abusive	Mild	Individual	logreg
+891578	None	Little to None	None	logreg
+629162	None	Little to None	None	logreg
+468009	None	Little to None	None	logreg
+166047	None	Little to None	None	logreg
+104001	None	Little to None	None	logreg
+783482	None	Little to None	None	logreg
+259244	None	Little to None	None	logreg
+266603	Political Hate	Mild	Organization	logreg
+101545	None	Severe	None	logreg
+439409	None	Little to None	None	logreg
+635499	None	Little to None	None	logreg
+841496	None	Little to None	None	logreg
+869467	None	Little to None	None	logreg
+119302	None	Little to None	None	logreg
+566785	Abusive	Little to None	Organization	logreg
+155600	None	Little to None	None	logreg
+472227	None	Little to None	None	logreg
+739865	None	Little to None	None	logreg
+56526	None	Little to None	None	logreg
+830	None	Mild	None	logreg
+329377	None	Little to None	None	logreg
+730452	Political Hate	Little to None	Society	logreg
+830987	None	Little to None	None	logreg
+372273	None	Little to None	None	logreg
+844517	None	Little to None	None	logreg
+323431	None	Little to None	None	logreg
+698240	None	Little to None	None	logreg
+889749	None	Little to None	None	logreg
+165523	None	Little to None	None	logreg
+17339	None	Little to None	None	logreg
+137020	None	Little to None	None	logreg
+572005	None	Mild	Individual	logreg
+408325	None	Little to None	None	logreg
+623444	Abusive	Little to None	Individual	logreg
+82577	Political Hate	Little to None	Organization	logreg
+887946	None	Little to None	None	logreg
+927166	None	Little to None	None	logreg
+813556	None	Little to None	None	logreg
+3490	Abusive	Little to None	None	logreg
+453858	None	Little to None	None	logreg
+748818	None	Little to None	None	logreg
+459611	None	Little to None	None	logreg
+240501	None	Little to None	None	logreg
+19075	None	Little to None	None	logreg
+806839	None	Little to None	None	logreg
+111890	None	Little to None	None	logreg
+535210	None	Little to None	None	logreg
+871081	None	Little to None	None	logreg
+884878	None	Little to None	None	logreg
+898010	None	Little to None	None	logreg
+68987	Political Hate	Mild	Organization	logreg
+610453	None	Little to None	None	logreg
+23122	Abusive	Little to None	None	logreg
+205839	None	Little to None	None	logreg
+618548	Political Hate	Mild	Organization	logreg
+740458	None	Little to None	None	logreg
+770490	None	Little to None	None	logreg
+482233	None	Little to None	None	logreg
+788242	Abusive	Little to None	None	logreg
+126523	None	Little to None	None	logreg
+905792	None	Little to None	None	logreg
+345610	None	Little to None	None	logreg
+317318	None	Little to None	None	logreg
+243588	None	Little to None	None	logreg
+414606	Political Hate	Little to None	Organization	logreg
+136399	Abusive	Little to None	None	logreg
+191369	None	Little to None	None	logreg
+728783	None	Little to None	None	logreg
+482592	Political Hate	Severe	Organization	logreg
+122439	None	Little to None	None	logreg
+253523	None	Little to None	None	logreg
+45101	None	Little to None	None	logreg
+476886	None	Little to None	None	logreg
+683469	Political Hate	Little to None	None	logreg
+666632	None	Little to None	None	logreg
+127473	None	Little to None	None	logreg
+137857	None	Little to None	None	logreg
+579518	None	Little to None	None	logreg
+832568	None	Little to None	None	logreg
+463030	None	Little to None	None	logreg
+547660	None	Little to None	None	logreg
+754167	None	Little to None	None	logreg
+899858	None	Little to None	None	logreg
+703344	None	Little to None	None	logreg
+324565	None	Little to None	None	logreg
+106292	Abusive	Little to None	None	logreg
+255440	Abusive	Little to None	Community	logreg
+436900	None	Little to None	None	logreg
+606151	Political Hate	Mild	Organization	logreg
+309007	None	Little to None	None	logreg
+327077	None	Little to None	None	logreg
+418238	None	Little to None	None	logreg
+72757	None	Little to None	None	logreg
+692374	Abusive	Little to None	None	logreg
+816564	None	Little to None	None	logreg
+119826	None	Little to None	None	logreg
+158169	None	Little to None	None	logreg
+818065	None	Little to None	None	logreg
+31839	None	Little to None	None	logreg
+192048	None	Little to None	None	logreg
+551718	None	Little to None	None	logreg
+290709	None	Little to None	None	logreg
+141250	None	Little to None	None	logreg
+466967	None	Little to None	None	logreg
+152791	Abusive	Mild	Organization	logreg
+473966	None	Little to None	None	logreg
+928108	None	Little to None	None	logreg
+605290	Political Hate	Little to None	None	logreg
+22197	None	Little to None	None	logreg
+697466	Abusive	Little to None	Community	logreg
+797481	None	Little to None	None	logreg
+295211	None	Little to None	None	logreg
+11300	None	Little to None	Individual	logreg
+837060	None	Little to None	None	logreg
+201014	None	Little to None	None	logreg
+85382	None	Little to None	None	logreg
+303037	None	Little to None	None	logreg
+444287	Abusive	Little to None	Organization	logreg
+21647	Abusive	Little to None	Society	logreg
+709058	None	Little to None	None	logreg
+766452	None	Little to None	None	logreg
+595553	None	Little to None	None	logreg
+404783	None	Little to None	None	logreg
+598072	None	Little to None	None	logreg
+581670	None	Little to None	None	logreg
+236138	None	Little to None	None	logreg
+447724	None	Little to None	None	logreg
+198229	Political Hate	Severe	Individual	logreg
+35745	None	Little to None	None	logreg
+51265	None	Little to None	None	logreg
+925220	None	Little to None	None	logreg
+854174	None	Little to None	None	logreg
+919184	None	Little to None	None	logreg
+515754	None	Little to None	None	logreg
+490004	None	Little to None	None	logreg
+312418	None	Little to None	None	logreg
+346286	None	Little to None	None	logreg
+319520	None	Little to None	None	logreg
+900758	None	Little to None	None	logreg
+74509	None	Little to None	None	logreg
+646154	None	Little to None	None	logreg
+700643	None	Little to None	None	logreg
+847137	None	Little to None	None	logreg
+95080	None	Little to None	None	logreg
+906529	None	Little to None	Individual	logreg
+682124	None	Little to None	None	logreg
+469188	None	Little to None	None	logreg
+267691	None	Little to None	None	logreg
+427105	None	Little to None	None	logreg
+664450	None	Little to None	None	logreg
+640153	None	Little to None	None	logreg
+484242	Abusive	Little to None	Organization	logreg
+471083	None	Little to None	None	logreg
+574555	None	Little to None	None	logreg
+802913	None	Little to None	Individual	logreg
+835881	None	Little to None	None	logreg
+559943	None	Little to None	None	logreg
+795168	None	Little to None	None	logreg
+38230	None	Little to None	None	logreg
+299735	None	Little to None	None	logreg
+250352	None	Little to None	None	logreg
+819839	None	Little to None	None	logreg
+405003	None	Little to None	None	logreg
+827981	None	Little to None	None	logreg
+28308	None	Little to None	None	logreg
+588699	None	Little to None	None	logreg
+614167	None	Little to None	None	logreg
+679145	None	Little to None	None	logreg
+786296	None	Little to None	None	logreg
+446957	Abusive	Little to None	None	logreg
+704588	None	Little to None	None	logreg
+43603	Political Hate	Mild	Organization	logreg
+32256	None	Little to None	None	logreg
+581040	None	Little to None	None	logreg
+167074	None	Little to None	None	logreg
+829153	Abusive	Little to None	None	logreg
+40499	None	Little to None	None	logreg
+233045	None	Little to None	None	logreg
+375606	Religious Hate	Severe	None	logreg
+156263	Abusive	Mild	Individual	logreg
+132091	Political Hate	Little to None	Organization	logreg
+559369	None	Little to None	None	logreg
+91773	None	Little to None	None	logreg
+681553	None	Little to None	None	logreg
+451889	None	Little to None	None	logreg
+364298	None	Little to None	None	logreg
+475018	None	Severe	None	logreg
+498828	None	Little to None	None	logreg
+220766	Abusive	Little to None	None	logreg
+596534	None	Little to None	None	logreg
+893035	None	Little to None	None	logreg
+721693	None	Little to None	None	logreg
+566630	Religious Hate	Little to None	Society	logreg
+510917	None	Little to None	None	logreg
+30335	None	Little to None	None	logreg
+354009	None	Severe	None	logreg
+243048	None	Little to None	None	logreg
+107921	None	Little to None	Individual	logreg
+711532	Abusive	Severe	None	logreg
+831245	Political Hate	Little to None	Organization	logreg
+399608	None	Little to None	None	logreg
+417141	None	Little to None	None	logreg
+252720	Profane	Severe	Individual	logreg
+170188	None	Little to None	None	logreg
+483947	None	Little to None	None	logreg
+847056	Abusive	Little to None	None	logreg
+367163	Political Hate	Mild	Individual	logreg
+909156	None	Little to None	None	logreg
+370219	Profane	Severe	None	logreg
+71806	None	Little to None	None	logreg
+816473	Abusive	Severe	Society	logreg
+167294	None	Little to None	None	logreg
+491544	None	Little to None	None	logreg
+436246	Abusive	Little to None	Society	logreg
+201893	None	Mild	Community	logreg
+668650	None	Little to None	None	logreg
+63718	None	Little to None	None	logreg
+902166	None	Little to None	None	logreg
+191091	Political Hate	Little to None	Organization	logreg
+304562	None	Little to None	None	logreg
+31411	None	Little to None	None	logreg
+227352	None	Little to None	None	logreg
+651254	None	Little to None	None	logreg
+1166	None	Little to None	None	logreg
+506179	None	Little to None	None	logreg
+96808	None	Little to None	None	logreg
+923170	None	Little to None	None	logreg
+693864	None	Little to None	None	logreg
+137657	None	Little to None	None	logreg
+233268	None	Little to None	Individual	logreg
+615620	None	Little to None	None	logreg
+438135	None	Little to None	None	logreg
+102326	None	Little to None	None	logreg
+633408	None	Little to None	None	logreg
+611056	None	Little to None	None	logreg
+660700	Abusive	Mild	Organization	logreg
+592068	None	Little to None	None	logreg
+810169	Abusive	Little to None	Society	logreg
+68630	None	Little to None	None	logreg
+900125	Abusive	Mild	Individual	logreg
+8135	Political Hate	Little to None	Society	logreg
+428767	None	Little to None	None	logreg
+890006	None	Little to None	Individual	logreg
+501331	Abusive	Little to None	None	logreg
+386869	Abusive	Mild	Society	logreg
+457538	None	Little to None	None	logreg
+902366	None	Mild	None	logreg
+904408	None	Little to None	None	logreg
+108794	None	Little to None	None	logreg
+135561	None	Little to None	None	logreg
+639745	None	Little to None	None	logreg
+602490	None	Little to None	None	logreg
+326459	None	Little to None	None	logreg
+859202	None	Little to None	None	logreg
+473414	None	Little to None	Organization	logreg
+726590	Political Hate	Little to None	Organization	logreg
+785752	None	Little to None	None	logreg
+772939	None	Little to None	None	logreg
+352613	None	Little to None	None	logreg
+244330	None	Little to None	None	logreg
+900669	None	Little to None	None	logreg
+300858	None	Little to None	None	logreg
+154521	None	Little to None	None	logreg
+85820	None	Little to None	None	logreg
+48374	Political Hate	Severe	None	logreg
+401830	None	Little to None	None	logreg
+659995	None	Little to None	None	logreg
+481612	None	Little to None	None	logreg
+353638	None	Little to None	None	logreg
+155874	None	Little to None	None	logreg
+150600	None	Little to None	None	logreg
+644211	None	Little to None	None	logreg
+69914	None	Little to None	None	logreg
+895549	None	Little to None	None	logreg
+391602	None	Little to None	None	logreg
+188806	None	Little to None	None	logreg
+875163	None	Little to None	None	logreg
+531401	Abusive	Little to None	None	logreg
+82518	Political Hate	Little to None	Organization	logreg
+931919	None	Little to None	None	logreg
+333351	None	Little to None	None	logreg
+856298	None	Little to None	None	logreg
+486747	None	Little to None	None	logreg
+110691	None	Little to None	None	logreg
+2644	None	Little to None	None	logreg
+561120	Abusive	Severe	Community	logreg
+130983	None	Little to None	None	logreg
+501098	None	Little to None	None	logreg
+82263	None	Little to None	None	logreg
+29182	None	Little to None	None	logreg
+212273	Political Hate	Mild	Organization	logreg
+623230	None	Little to None	None	logreg
+6425	None	Little to None	None	logreg
+540760	None	Little to None	None	logreg
+494478	None	Little to None	None	logreg
+616145	None	Little to None	None	logreg
+347165	None	Little to None	None	logreg
+738489	Political Hate	Mild	Organization	logreg
+171199	None	Little to None	None	logreg
+299661	None	Little to None	None	logreg
+572130	None	Mild	None	logreg
+500521	None	Little to None	None	logreg
+674339	None	Little to None	None	logreg
+739286	Political Hate	Little to None	None	logreg
+889123	None	Little to None	None	logreg
+363478	None	Little to None	Individual	logreg
+409110	None	Little to None	Community	logreg
+362208	None	Little to None	None	logreg
+46420	None	Little to None	None	logreg
+628302	Abusive	Little to None	None	logreg
+121278	None	Little to None	None	logreg
+611302	None	Little to None	None	logreg
+218567	Political Hate	Severe	Organization	logreg
+735901	None	Little to None	None	logreg
+465792	Abusive	Little to None	None	logreg
+829134	None	Little to None	None	logreg
+11285	None	Little to None	None	logreg
+561526	None	Little to None	None	logreg
+192199	None	Little to None	None	logreg
+928945	Abusive	Little to None	None	logreg
+165162	None	Little to None	None	logreg
+280630	None	Little to None	None	logreg
+625122	None	Little to None	None	logreg
+442311	None	Little to None	None	logreg
+563147	None	Little to None	None	logreg
+676593	Political Hate	Little to None	Organization	logreg
+488817	None	Little to None	None	logreg
+475977	None	Little to None	None	logreg
+476390	None	Little to None	None	logreg
+552776	None	Little to None	None	logreg
+276751	None	Little to None	None	logreg
+242069	Abusive	Little to None	Individual	logreg
+345400	None	Little to None	None	logreg
+874395	None	Little to None	None	logreg
+872132	None	Little to None	None	logreg
+613180	None	Little to None	None	logreg
+456006	None	Little to None	None	logreg
+899171	None	Little to None	None	logreg
+526595	Abusive	Little to None	None	logreg
+592644	None	Little to None	None	logreg
+600825	Political Hate	Severe	Organization	logreg
+525773	None	Little to None	None	logreg
+630766	None	Little to None	None	logreg
+921266	None	Little to None	None	logreg
+221431	None	Little to None	None	logreg
+668595	None	Little to None	None	logreg
+163448	None	Little to None	None	logreg
+268035	None	Little to None	None	logreg
+13055	Political Hate	Severe	Organization	logreg
+328169	None	Little to None	None	logreg
+525662	None	Little to None	None	logreg
+598939	None	Little to None	None	logreg
+883170	None	Little to None	None	logreg
+28953	Political Hate	Little to None	Organization	logreg
+848058	None	Little to None	None	logreg
+372514	None	Little to None	None	logreg
+147481	None	Little to None	None	logreg
+251442	None	Little to None	None	logreg
+325678	None	Little to None	None	logreg
+175236	None	Little to None	None	logreg
+117662	Political Hate	Little to None	Individual	logreg
+502422	None	Little to None	None	logreg
+214062	None	Little to None	None	logreg
+119013	Political Hate	Little to None	Society	logreg
+374147	None	Little to None	None	logreg
+443252	None	Little to None	None	logreg
+171561	None	Little to None	None	logreg
+655661	None	Little to None	None	logreg
+716103	None	Little to None	None	logreg
+920137	None	Little to None	None	logreg
+359307	None	Little to None	None	logreg
+146675	None	Little to None	None	logreg
+40313	None	Little to None	None	logreg
+90860	None	Little to None	None	logreg
+527131	None	Little to None	None	logreg
+220456	None	Little to None	None	logreg
+85942	None	Little to None	None	logreg
+667291	None	Severe	None	logreg
+441382	Abusive	Little to None	Individual	logreg
+381311	None	Little to None	None	logreg
+835925	None	Little to None	None	logreg
+888616	None	Little to None	None	logreg
+698061	None	Little to None	None	logreg
+39591	None	Little to None	None	logreg
+920428	None	Little to None	Individual	logreg
+640534	None	Little to None	None	logreg
+68271	None	Little to None	Individual	logreg
+136411	None	Little to None	None	logreg
+540991	None	Little to None	None	logreg
+824492	None	Little to None	None	logreg
+434469	None	Little to None	None	logreg
+422740	None	Little to None	None	logreg
+572161	None	Little to None	None	logreg
+119098	None	Little to None	None	logreg
+355165	None	Little to None	None	logreg
+775199	None	Little to None	None	logreg
+837413	None	Little to None	None	logreg
+443309	Abusive	Little to None	None	logreg
+587223	None	Little to None	None	logreg
+594572	None	Little to None	None	logreg
+22735	Profane	Severe	Individual	logreg
+116413	None	Little to None	None	logreg
+710583	None	Little to None	None	logreg
+726636	None	Little to None	None	logreg
+868107	None	Little to None	None	logreg
+128785	Profane	Severe	Individual	logreg
+521034	None	Little to None	None	logreg
+738233	None	Little to None	None	logreg
+5308	None	Little to None	None	logreg
+198886	Abusive	Mild	Individual	logreg
+894583	None	Little to None	None	logreg
+804137	None	Little to None	None	logreg
+18542	None	Little to None	None	logreg
+297422	None	Little to None	None	logreg
+603678	None	Little to None	Individual	logreg
+858228	Abusive	Little to None	Individual	logreg
+546201	None	Little to None	None	logreg
+47131	None	Little to None	None	logreg
+82767	None	Little to None	None	logreg
+728929	None	Little to None	None	logreg
+693066	None	Little to None	None	logreg
+848852	None	Little to None	None	logreg
+362882	None	Little to None	None	logreg
+546456	None	Little to None	None	logreg
+75345	None	Little to None	None	logreg
+279149	Political Hate	Mild	Organization	logreg
+8283	Abusive	Little to None	None	logreg
+696820	None	Little to None	None	logreg
+705215	None	Little to None	None	logreg
+28959	None	Little to None	None	logreg
+289930	None	Little to None	None	logreg
+109655	Abusive	Mild	Organization	logreg
+648187	Abusive	Severe	Individual	logreg
+221976	None	Little to None	None	logreg
+837622	None	Little to None	None	logreg
+360212	None	Little to None	None	logreg
+161236	Abusive	Severe	Individual	logreg
+391732	None	Little to None	None	logreg
+562801	None	Little to None	None	logreg
+63256	None	Little to None	None	logreg
+381089	None	Little to None	None	logreg
+510562	Profane	Severe	Community	logreg
+177616	None	Little to None	None	logreg
+439929	Abusive	Mild	Community	logreg
+841974	None	Little to None	Organization	logreg
+113983	None	Little to None	None	logreg
+498745	None	Little to None	None	logreg
+786905	Political Hate	Severe	Individual	logreg
+492739	None	Little to None	None	logreg
+585980	None	Little to None	None	logreg
+425651	Abusive	Little to None	None	logreg
+569506	None	Little to None	None	logreg
+857246	Political Hate	Little to None	Organization	logreg
+265292	None	Little to None	None	logreg
+609994	None	Little to None	None	logreg
+826584	None	Little to None	None	logreg
+460609	Abusive	Mild	Individual	logreg
+644542	None	Little to None	None	logreg
+276176	None	Little to None	None	logreg
+619102	None	Little to None	None	logreg
+891625	None	Little to None	None	logreg
+798443	None	Little to None	None	logreg
+730888	None	Little to None	None	logreg
+346632	None	Little to None	None	logreg
+380253	Abusive	Severe	Society	logreg
+370503	Abusive	Little to None	None	logreg
+803701	None	Little to None	None	logreg
+248258	None	Little to None	None	logreg
+252345	None	Little to None	None	logreg
+562683	None	Little to None	None	logreg
+601766	None	Mild	None	logreg
+752224	None	Little to None	None	logreg
+774095	None	Little to None	None	logreg
+930299	None	Little to None	None	logreg
+378827	None	Little to None	None	logreg
+656481	None	Little to None	None	logreg
+500381	None	Little to None	None	logreg
+27958	None	Little to None	None	logreg
+928671	None	Little to None	None	logreg
+390166	None	Little to None	None	logreg
+488577	None	Little to None	None	logreg
+162980	Religious Hate	Little to None	None	logreg
+560228	Abusive	Mild	Individual	logreg
+211363	None	Little to None	None	logreg
+555638	None	Severe	None	logreg
+528703	None	Little to None	None	logreg
+683734	None	Little to None	None	logreg
+671313	None	Little to None	None	logreg
+464409	Political Hate	Little to None	Organization	logreg
+697953	None	Little to None	None	logreg
+769838	None	Little to None	None	logreg
+643094	None	Little to None	None	logreg
+659189	None	Little to None	None	logreg
+729086	None	Little to None	None	logreg
+76120	None	Little to None	None	logreg
+502902	None	Little to None	None	logreg
+35497	None	Little to None	None	logreg
+878023	None	Little to None	None	logreg
+182903	None	Little to None	None	logreg
+331432	None	Little to None	None	logreg
+87304	None	Little to None	None	logreg
+582911	Abusive	Little to None	None	logreg
+865624	None	Little to None	None	logreg
+786884	None	Little to None	None	logreg
+201460	None	Little to None	None	logreg
+824978	None	Little to None	None	logreg
+131089	Abusive	Little to None	None	logreg
+45828	None	Little to None	None	logreg
+716999	Abusive	Little to None	Organization	logreg
+399791	Abusive	Little to None	None	logreg
+822399	None	Little to None	None	logreg
+468175	None	Little to None	None	logreg
+559340	None	Little to None	None	logreg
+564393	None	Little to None	None	logreg
+292000	None	Little to None	None	logreg
+399452	None	Little to None	None	logreg
+136541	None	Little to None	None	logreg
+926094	None	Little to None	None	logreg
+246108	None	Little to None	None	logreg
+825840	None	Little to None	None	logreg
+581994	None	Little to None	Community	logreg
+354067	None	Little to None	None	logreg
+681734	None	Little to None	None	logreg
+26649	None	Little to None	None	logreg
+627386	None	Little to None	None	logreg
+145008	None	Little to None	None	logreg
+915087	None	Little to None	None	logreg
+547709	None	Little to None	None	logreg
+281881	None	Little to None	None	logreg
+273124	Political Hate	Mild	Organization	logreg
+605863	Abusive	Mild	Society	logreg
+415658	None	Little to None	None	logreg
+726974	None	Little to None	None	logreg
+397924	Abusive	Little to None	None	logreg
+404924	None	Little to None	None	logreg
+297714	None	Little to None	None	logreg
+63483	None	Little to None	None	logreg
+322043	None	Little to None	None	logreg
+234193	None	Little to None	None	logreg
+719447	None	Little to None	None	logreg
+385281	None	Little to None	None	logreg
+63708	None	Little to None	None	logreg
+333270	Political Hate	Little to None	Organization	logreg
+700234	None	Little to None	None	logreg
+265890	None	Little to None	None	logreg
+841683	None	Little to None	None	logreg
+46046	Political Hate	Severe	Individual	logreg
+7628	None	Little to None	None	logreg
+385452	Profane	Mild	Individual	logreg
+666403	None	Little to None	None	logreg
+651179	None	Little to None	None	logreg
+526158	None	Little to None	None	logreg
+235512	Political Hate	Mild	Organization	logreg
+647610	None	Little to None	None	logreg
+684832	None	Little to None	None	logreg
+688194	None	Little to None	None	logreg
+835048	None	Little to None	None	logreg
+295774	None	Little to None	None	logreg
+936137	None	Little to None	None	logreg
+527913	None	Little to None	None	logreg
+844457	None	Little to None	None	logreg
+94083	None	Little to None	None	logreg
+918182	None	Little to None	None	logreg
+675306	None	Little to None	None	logreg
+164879	None	Little to None	None	logreg
+135358	None	Little to None	None	logreg
+419189	Abusive	Little to None	None	logreg
+367074	Abusive	Little to None	Community	logreg
+904401	None	Little to None	None	logreg
+885491	Abusive	Little to None	None	logreg
+399277	None	Little to None	None	logreg
+335110	Abusive	Mild	Individual	logreg
+727424	None	Little to None	None	logreg
+886894	None	Little to None	None	logreg
+67349	Political Hate	Mild	Community	logreg
+397383	None	Little to None	None	logreg
+557190	None	Little to None	None	logreg
+646473	Profane	Little to None	None	logreg
+723824	None	Little to None	None	logreg
+591417	None	Little to None	None	logreg
+336787	None	Little to None	None	logreg
+222633	None	Little to None	None	logreg
+389169	Religious Hate	Severe	Community	logreg
+536990	None	Little to None	None	logreg
+464931	None	Little to None	None	logreg
+271738	None	Little to None	None	logreg
+250102	Political Hate	Severe	Individual	logreg
+81993	None	Little to None	None	logreg
+712190	None	Little to None	None	logreg
+11416	None	Little to None	None	logreg
+821017	Abusive	Severe	Community	logreg
+81196	None	Little to None	None	logreg
+310154	None	Little to None	None	logreg
+679181	Abusive	Mild	Community	logreg
+180647	None	Little to None	None	logreg
+51949	None	Little to None	Individual	logreg
+822701	None	Little to None	None	logreg
+912407	None	Little to None	None	logreg
+893154	None	Little to None	None	logreg
+501987	None	Little to None	None	logreg
+600447	Abusive	Little to None	Individual	logreg
+98057	Abusive	Little to None	None	logreg
+250188	None	Little to None	None	logreg
+828949	None	Little to None	None	logreg
+485208	None	Little to None	None	logreg
+663570	None	Little to None	None	logreg
+829683	None	Little to None	None	logreg
+635887	None	Little to None	None	logreg
+347313	None	Little to None	None	logreg
+871351	Abusive	Severe	Organization	logreg
+41186	None	Little to None	None	logreg
+209087	Abusive	Little to None	None	logreg
+609508	Political Hate	Severe	Organization	logreg
+93819	None	Little to None	None	logreg
+906773	None	Little to None	None	logreg
+164314	None	Little to None	None	logreg
+922627	None	Little to None	None	logreg
+580295	None	Little to None	None	logreg
+320403	None	Little to None	None	logreg
+131965	None	Little to None	None	logreg
+790489	None	Little to None	None	logreg
+258586	None	Little to None	None	logreg
+149958	None	Mild	None	logreg
+524231	None	Little to None	None	logreg
+877558	Abusive	Severe	Individual	logreg
+728208	None	Little to None	None	logreg
+421836	None	Little to None	None	logreg
+80075	None	Little to None	Organization	logreg
+517299	None	Little to None	None	logreg
+129667	Profane	Severe	Organization	logreg
+834853	None	Little to None	None	logreg
+512238	Abusive	Little to None	None	logreg
+154916	None	Little to None	None	logreg
+750522	None	Little to None	None	logreg
+468203	None	Little to None	Society	logreg
+427803	None	Little to None	None	logreg
+146156	None	Little to None	None	logreg
+333979	None	Little to None	None	logreg
+478605	None	Little to None	None	logreg
+695510	None	Little to None	None	logreg
+595492	None	Little to None	None	logreg
+73581	None	Little to None	None	logreg
+446110	None	Little to None	None	logreg
+73708	None	Little to None	None	logreg
+309066	None	Little to None	None	logreg
+464922	None	Little to None	None	logreg
+335323	None	Little to None	None	logreg
+894940	None	Little to None	None	logreg
+760055	None	Little to None	None	logreg
+300274	Abusive	Mild	None	logreg
+744701	None	Little to None	None	logreg
+145343	None	Mild	None	logreg
+386458	None	Little to None	None	logreg
+245102	Abusive	Mild	Individual	logreg
+331635	None	Little to None	None	logreg
+603164	None	Little to None	None	logreg
+832827	None	Little to None	None	logreg
+617494	None	Little to None	None	logreg
+459408	None	Little to None	None	logreg
+758944	None	Little to None	None	logreg
+435141	None	Little to None	None	logreg
+894471	None	Little to None	None	logreg
+879749	None	Little to None	None	logreg
+100340	None	Little to None	None	logreg
+157977	None	Little to None	None	logreg
+100523	None	Little to None	None	logreg
+19240	None	Little to None	None	logreg
+609427	None	Little to None	None	logreg
+698537	Abusive	Little to None	None	logreg
+639002	None	Little to None	None	logreg
+169203	None	Little to None	None	logreg
+827808	None	Little to None	None	logreg
+707068	None	Little to None	None	logreg
+227085	None	Little to None	None	logreg
+567057	Abusive	Little to None	Individual	logreg
+244933	None	Little to None	None	logreg
+73391	None	Little to None	None	logreg
+469472	None	Little to None	None	logreg
+101243	None	Little to None	None	logreg
+443447	None	Little to None	None	logreg
+223631	None	Little to None	None	logreg
+60877	None	Little to None	None	logreg
+627019	None	Little to None	None	logreg
+41524	None	Little to None	None	logreg
+510107	None	Little to None	None	logreg
+48829	Abusive	Little to None	None	logreg
+631587	None	Little to None	None	logreg
+273738	Political Hate	Mild	Organization	logreg
+412411	Political Hate	Little to None	Individual	logreg
+95413	Political Hate	Mild	Organization	logreg
+778490	Abusive	Little to None	None	logreg
+511909	None	Little to None	None	logreg
+753789	None	Little to None	None	logreg
+365059	Abusive	Mild	Community	logreg
+837143	Abusive	Little to None	None	logreg
+496482	Political Hate	Little to None	Organization	logreg
+903692	None	Little to None	None	logreg
+452308	Abusive	Mild	Individual	logreg
+604597	None	Little to None	None	logreg
+516479	None	Little to None	None	logreg
+884813	Abusive	Severe	Individual	logreg
+316375	Abusive	Little to None	None	logreg
+128273	None	Little to None	None	logreg
+932106	None	Little to None	None	logreg
+338346	None	Little to None	None	logreg
+781358	None	Little to None	None	logreg
+245253	None	Little to None	None	logreg
+440543	None	Little to None	None	logreg
+69508	None	Little to None	None	logreg
+46748	Profane	Severe	Individual	logreg
+77622	None	Little to None	None	logreg
+772309	None	Little to None	None	logreg
+758729	None	Little to None	None	logreg
+291623	None	Little to None	None	logreg
+79228	None	Little to None	None	logreg
+672177	None	Little to None	None	logreg
+123280	Political Hate	Mild	Organization	logreg
+246668	None	Little to None	None	logreg
+540577	None	Little to None	None	logreg
+678402	None	Little to None	None	logreg
+627222	None	Little to None	None	logreg
+349744	Abusive	Mild	Organization	logreg
+892828	None	Little to None	None	logreg
+790220	None	Little to None	None	logreg
+489069	None	Little to None	None	logreg
+576472	None	Little to None	None	logreg
+362619	None	Little to None	None	logreg
+888632	None	Little to None	None	logreg
+157427	None	Little to None	None	logreg
+88274	Abusive	Severe	Organization	logreg
+654296	None	Little to None	None	logreg
+546871	None	Little to None	None	logreg
+714366	None	Little to None	None	logreg
+124924	None	Little to None	None	logreg
+140611	None	Little to None	None	logreg
+119558	None	Little to None	None	logreg
+603201	None	Little to None	None	logreg
+356978	None	Little to None	None	logreg
+737157	None	Little to None	None	logreg
+717086	None	Little to None	None	logreg
+878114	None	Little to None	None	logreg
+438274	None	Little to None	None	logreg
+332470	None	Little to None	None	logreg
+277190	None	Little to None	None	logreg
+233769	Abusive	Little to None	None	logreg
+928377	Profane	Severe	Individual	logreg
+254669	Political Hate	Little to None	None	logreg
+175420	None	Little to None	None	logreg
+269571	None	Little to None	None	logreg
+142080	Political Hate	Mild	Individual	logreg
+517120	None	Little to None	None	logreg
+692974	None	Little to None	None	logreg
+209866	None	Little to None	None	logreg
+845841	None	Little to None	None	logreg
+205879	Abusive	Mild	Community	logreg
+369385	Political Hate	Little to None	Organization	logreg
+764706	None	Little to None	None	logreg
+504039	None	Little to None	None	logreg
+878750	None	Little to None	None	logreg
+671380	None	Little to None	None	logreg
+694236	Abusive	Mild	None	logreg
+565463	None	Little to None	None	logreg
+544801	None	Little to None	None	logreg
+307571	None	Little to None	None	logreg
+557408	None	Little to None	None	logreg
+931038	None	Little to None	None	logreg
+795336	None	Little to None	None	logreg
+743568	None	Little to None	None	logreg
+281059	None	Little to None	None	logreg
+241218	None	Little to None	None	logreg
+493143	Abusive	Little to None	None	logreg
+4211	Abusive	Little to None	None	logreg
+466053	None	Little to None	None	logreg
+559620	None	Little to None	None	logreg
+593980	None	Little to None	None	logreg
+786474	None	Little to None	None	logreg
+430212	Abusive	Severe	None	logreg
+404662	Abusive	Little to None	Community	logreg
+174220	Abusive	Little to None	None	logreg
+807057	None	Little to None	None	logreg
+680306	None	Little to None	None	logreg
+235465	None	Little to None	None	logreg
+657276	Abusive	Severe	Individual	logreg
+268333	None	Little to None	None	logreg
+397874	Political Hate	Mild	Organization	logreg
+451433	None	Little to None	None	logreg
+375904	Abusive	Little to None	None	logreg
+557325	None	Little to None	None	logreg
+232414	Religious Hate	Severe	Community	logreg
+9702	None	Little to None	None	logreg
+11159	Religious Hate	Mild	Community	logreg
+43434	Abusive	Little to None	None	logreg
+821366	None	Little to None	None	logreg
+103702	None	Little to None	None	logreg
+782050	None	Little to None	None	logreg
+464774	None	Little to None	None	logreg
+494862	Abusive	Severe	Organization	logreg
+257348	None	Little to None	None	logreg
+558234	None	Little to None	None	logreg
+926892	None	Little to None	None	logreg
+472086	None	Little to None	None	logreg
+71998	Political Hate	Mild	Organization	logreg
+386085	None	Little to None	None	logreg
+932001	None	Little to None	None	logreg
+550966	None	Little to None	None	logreg
+217614	None	Little to None	None	logreg
+751613	None	Little to None	None	logreg
+829917	Abusive	Little to None	Society	logreg
+715475	None	Little to None	None	logreg
+195427	Abusive	Little to None	None	logreg
+357847	None	Little to None	None	logreg
+344389	None	Little to None	None	logreg
+724484	Abusive	Little to None	None	logreg
+566318	None	Little to None	None	logreg
+229920	None	Little to None	None	logreg
+291141	Abusive	Little to None	None	logreg
+685003	None	Little to None	None	logreg
+823068	None	Little to None	None	logreg
+467304	None	Little to None	None	logreg
+623209	None	Little to None	None	logreg
+391054	None	Little to None	None	logreg
+408728	Abusive	Little to None	None	logreg
+828880	None	Little to None	None	logreg
+817214	None	Little to None	None	logreg
+796154	Abusive	Little to None	Individual	logreg
+382892	None	Little to None	None	logreg
+517694	None	Little to None	None	logreg
+867699	None	Little to None	None	logreg
+701100	None	Severe	None	logreg
+243586	None	Little to None	None	logreg
+813985	None	Little to None	None	logreg
+278215	None	Little to None	None	logreg
+470395	None	Little to None	None	logreg
+708810	None	Little to None	None	logreg
+526539	None	Little to None	None	logreg
+559111	None	Little to None	None	logreg
+357223	None	Little to None	None	logreg
+921429	None	Little to None	None	logreg
+324418	Abusive	Mild	None	logreg
+650935	None	Little to None	None	logreg
+38930	None	Little to None	None	logreg
+8971	None	Little to None	None	logreg
+739479	None	Little to None	None	logreg
+797851	None	Little to None	None	logreg
+760390	None	Little to None	Individual	logreg
+831693	Political Hate	Little to None	Organization	logreg
+862239	None	Little to None	None	logreg
+278473	None	Little to None	None	logreg
+641709	None	Little to None	None	logreg
+40920	Abusive	Little to None	None	logreg
+452383	None	Little to None	None	logreg
+887001	None	Little to None	None	logreg
+807629	None	Little to None	None	logreg
+742470	None	Little to None	None	logreg
+906061	None	Little to None	None	logreg
+633257	None	Little to None	None	logreg
+351010	None	Little to None	None	logreg
+823876	None	Little to None	None	logreg
+334604	None	Little to None	None	logreg
+445824	None	Little to None	None	logreg
+468140	None	Little to None	None	logreg
+394049	Abusive	Mild	Organization	logreg
+162757	None	Little to None	None	logreg
+57731	None	Little to None	None	logreg
+371906	None	Little to None	None	logreg
+700128	None	Little to None	None	logreg
+839768	None	Little to None	None	logreg
+411555	None	Little to None	None	logreg
+84795	None	Little to None	None	logreg
+774878	None	Little to None	None	logreg
+505229	None	Little to None	None	logreg
+289014	None	Little to None	None	logreg
+694048	None	Little to None	None	logreg
+181111	None	Little to None	None	logreg
+46517	Political Hate	Severe	Organization	logreg
+97053	None	Little to None	None	logreg
+746764	None	Little to None	None	logreg
+390622	None	Little to None	None	logreg
+444633	None	Little to None	None	logreg
+103602	None	Little to None	None	logreg
+224242	None	Little to None	Individual	logreg
+477505	None	Little to None	None	logreg
+92649	None	Little to None	None	logreg
+360414	None	Little to None	None	logreg
+63542	Abusive	Mild	Individual	logreg
+301203	Political Hate	Mild	Organization	logreg
+508058	Abusive	Little to None	None	logreg
+738605	None	Little to None	None	logreg
+172299	None	Little to None	None	logreg
+378925	None	Little to None	None	logreg
+607161	None	Little to None	None	logreg
+380233	Abusive	Severe	Society	logreg
+540926	None	Little to None	None	logreg
+668969	Abusive	Mild	Individual	logreg
+316990	None	Little to None	None	logreg
+482466	Abusive	Mild	None	logreg
+260887	None	Little to None	None	logreg
+563963	None	Little to None	None	logreg
+917361	None	Little to None	None	logreg
+266571	Political Hate	Mild	Organization	logreg
+51068	None	Little to None	None	logreg
+348468	None	Little to None	None	logreg
+807445	Abusive	Little to None	None	logreg
+427140	Abusive	Little to None	Society	logreg
+422165	None	Little to None	None	logreg
+55904	None	Little to None	None	logreg
+265434	None	Little to None	None	logreg
+267256	None	Little to None	None	logreg
+518142	None	Little to None	None	logreg
+782489	None	Little to None	None	logreg
+916917	None	Little to None	None	logreg
+591157	Political Hate	Mild	None	logreg
+662682	Profane	Severe	Individual	logreg
+393092	None	Little to None	None	logreg
+915065	None	Little to None	None	logreg
+33824	None	Little to None	None	logreg
+756658	None	Little to None	None	logreg
+658706	Abusive	Severe	None	logreg
+727816	None	Little to None	None	logreg
+654176	Abusive	Severe	Society	logreg
+182173	None	Little to None	None	logreg
+399562	Abusive	Mild	Organization	logreg
+435617	None	Little to None	None	logreg
+112763	None	Little to None	None	logreg
+91780	None	Little to None	None	logreg
+396665	None	Little to None	None	logreg
+513823	None	Little to None	None	logreg
+321815	None	Little to None	None	logreg
+706639	None	Little to None	None	logreg
+790250	None	Little to None	None	logreg
+243116	None	Little to None	None	logreg
+869136	Political Hate	Mild	Organization	logreg
+628622	None	Little to None	None	logreg
+425618	None	Little to None	None	logreg
+348905	None	Little to None	None	logreg
+280702	Abusive	Little to None	None	logreg
+796835	None	Little to None	None	logreg
+339696	None	Little to None	None	logreg
+664582	Abusive	Little to None	None	logreg
+219751	Political Hate	Little to None	None	logreg
+861727	None	Little to None	None	logreg
+194260	None	Little to None	None	logreg
+33277	None	Little to None	None	logreg
+224231	None	Little to None	None	logreg
+886973	None	Little to None	None	logreg
+582310	None	Little to None	None	logreg
+433077	None	Little to None	None	logreg
+552679	None	Little to None	None	logreg
+643528	Abusive	Mild	Organization	logreg
+85565	None	Little to None	None	logreg
+628830	None	Little to None	None	logreg
+749660	None	Little to None	None	logreg
+1595	None	Little to None	None	logreg
+23293	None	Little to None	None	logreg
+509035	None	Little to None	None	logreg
+886202	Abusive	Severe	Organization	logreg
+742533	None	Little to None	None	logreg
+27838	Abusive	Little to None	None	logreg
+75041	None	Little to None	None	logreg
+228134	Political Hate	Mild	Organization	logreg
+382699	Abusive	Severe	None	logreg
+242473	None	Mild	None	logreg
+447845	None	Little to None	None	logreg
+686719	None	Little to None	None	logreg
+325929	None	Little to None	None	logreg
+138617	Abusive	Little to None	None	logreg
+37781	Abusive	Mild	Individual	logreg
+265785	None	Little to None	None	logreg
+624047	Political Hate	Mild	Society	logreg
+395781	None	Little to None	None	logreg
+719558	Abusive	Little to None	None	logreg
+934245	None	Little to None	None	logreg
+181499	None	Little to None	None	logreg
+397249	None	Little to None	None	logreg
+582244	None	Little to None	None	logreg
+870090	None	Little to None	None	logreg
+462030	Abusive	Little to None	None	logreg
+446338	None	Little to None	None	logreg
+61162	None	Little to None	None	logreg
+807176	None	Little to None	None	logreg
+864604	None	Little to None	Organization	logreg
+709055	None	Little to None	None	logreg
+581292	None	Little to None	None	logreg
+563959	None	Little to None	None	logreg
+727426	None	Little to None	None	logreg
+561351	None	Little to None	None	logreg
+916629	None	Little to None	None	logreg
+242659	None	Little to None	None	logreg
+711936	None	Little to None	None	logreg
+398564	Abusive	Little to None	None	logreg
+638288	Political Hate	Little to None	Individual	logreg
+571045	None	Little to None	None	logreg
+396357	None	Little to None	None	logreg
+657340	None	Little to None	None	logreg
+131821	Religious Hate	Little to None	None	logreg
+881260	None	Little to None	None	logreg
+87349	None	Little to None	None	logreg
+232700	None	Little to None	Organization	logreg
+22307	Political Hate	Mild	Organization	logreg
+352983	Abusive	Little to None	None	logreg
+389506	Abusive	Severe	Individual	logreg
+335493	None	Little to None	None	logreg
+739982	Abusive	Little to None	None	logreg
+328094	Political Hate	Little to None	Organization	logreg
+528740	None	Little to None	None	logreg
+808137	None	Little to None	None	logreg
+554827	Abusive	Little to None	None	logreg
+858794	None	Little to None	None	logreg
+633224	None	Little to None	None	logreg
+780101	None	Little to None	None	logreg
+602479	None	Little to None	None	logreg
+540580	None	Little to None	None	logreg
+778356	None	Little to None	None	logreg
+43268	None	Little to None	None	logreg
+262437	None	Little to None	None	logreg
+71353	None	Little to None	None	logreg
+730463	Abusive	Little to None	None	logreg
+653820	None	Little to None	None	logreg
+335542	None	Little to None	None	logreg
+826227	Abusive	Little to None	None	logreg
+443806	None	Little to None	None	logreg
+769421	Political Hate	Mild	Society	logreg
+685630	None	Little to None	None	logreg
+590194	None	Little to None	None	logreg
+466683	None	Little to None	None	logreg
+280790	Political Hate	Mild	Society	logreg
+860057	None	Little to None	None	logreg
+871168	Abusive	Little to None	None	logreg
+141496	None	Little to None	None	logreg
+3736	None	Little to None	None	logreg
+288686	None	Little to None	None	logreg
+267813	None	Little to None	None	logreg
+832012	None	Little to None	None	logreg
+32904	None	Little to None	None	logreg
+268117	None	Little to None	None	logreg
+776783	None	Little to None	None	logreg
+850339	Political Hate	Severe	Individual	logreg
+223593	Political Hate	Little to None	Organization	logreg
+387123	None	Little to None	None	logreg
+939377	None	Little to None	None	logreg
+484079	None	Little to None	None	logreg
+897137	None	Little to None	None	logreg
+655003	None	Little to None	None	logreg
+585973	None	Little to None	None	logreg
+29600	None	Little to None	None	logreg
+830036	None	Little to None	None	logreg
+565839	Abusive	Little to None	None	logreg
+359406	None	Little to None	None	logreg
+308062	None	Little to None	None	logreg
+594507	None	Little to None	None	logreg
+34433	None	Little to None	None	logreg
+43262	None	Little to None	None	logreg
+145863	None	Little to None	None	logreg
+592053	None	Little to None	None	logreg
+235746	Profane	Severe	Individual	logreg
+893409	None	Little to None	None	logreg
+939031	None	Little to None	None	logreg
+647343	None	Little to None	None	logreg
+868309	Abusive	Little to None	None	logreg
+81611	None	Little to None	None	logreg
+693429	Political Hate	Severe	Individual	logreg
+546533	None	Severe	None	logreg
+804580	None	Little to None	None	logreg
+774663	None	Little to None	None	logreg
+442687	Abusive	Severe	Society	logreg
+22333	None	Little to None	None	logreg
+883311	Abusive	Mild	Organization	logreg
+68897	Political Hate	Mild	Organization	logreg
+716697	Political Hate	Little to None	Organization	logreg
+366472	None	Little to None	None	logreg
+112632	None	Little to None	None	logreg
+759580	None	Little to None	None	logreg
+68501	Political Hate	Little to None	None	logreg
+570238	Abusive	Little to None	Community	logreg
+833247	None	Little to None	None	logreg
+742235	None	Little to None	None	logreg
+160687	None	Little to None	None	logreg
+854753	None	Little to None	None	logreg
+256250	Abusive	Severe	Individual	logreg
+801382	None	Little to None	None	logreg
+358092	None	Little to None	None	logreg
+593155	None	Little to None	None	logreg
+72962	None	Little to None	None	logreg
+472051	None	Little to None	None	logreg
+736544	None	Little to None	None	logreg
+26584	None	Little to None	Organization	logreg
+14123	Abusive	Mild	Individual	logreg
+422940	None	Little to None	None	logreg
+530930	None	Little to None	None	logreg
+643961	None	Little to None	None	logreg
+725166	None	Little to None	None	logreg
+183565	None	Little to None	None	logreg
+592528	None	Mild	None	logreg
+332661	None	Little to None	None	logreg
+893187	None	Little to None	None	logreg
+574249	None	Little to None	None	logreg
+702233	None	Little to None	None	logreg
+332441	None	Little to None	None	logreg
+120948	None	Little to None	None	logreg
+303017	Abusive	Severe	Individual	logreg
+6209	None	Little to None	None	logreg
+239068	None	Little to None	None	logreg
+17716	None	Little to None	None	logreg
+358382	None	Little to None	None	logreg
+528149	None	Little to None	None	logreg
+154954	Abusive	Little to None	None	logreg
+237442	Political Hate	Mild	Organization	logreg
+385586	None	Little to None	None	logreg
+872714	None	Little to None	None	logreg
+173242	None	Little to None	None	logreg
+357390	None	Little to None	None	logreg
+399716	None	Little to None	None	logreg
+562599	Political Hate	Little to None	Organization	logreg
+353085	None	Little to None	None	logreg
+732405	None	Little to None	None	logreg
+42984	None	Little to None	None	logreg
+327956	None	Little to None	None	logreg
+638917	None	Little to None	None	logreg
+93540	None	Little to None	None	logreg
+787421	Abusive	Little to None	Society	logreg
+504895	None	Little to None	None	logreg
+291320	None	Little to None	None	logreg
+406332	None	Little to None	Individual	logreg
+764894	None	Little to None	None	logreg
+670548	None	Little to None	None	logreg
+817559	None	Little to None	None	logreg
+256795	None	Mild	None	logreg
+152630	None	Little to None	None	logreg
+17630	None	Little to None	None	logreg
+567139	None	Little to None	None	logreg
+563824	None	Little to None	None	logreg
+139630	Political Hate	Mild	Organization	logreg
+322733	Abusive	Severe	Individual	logreg
+524979	None	Little to None	None	logreg
+52851	None	Little to None	None	logreg
+449962	None	Little to None	None	logreg
+521733	None	Little to None	None	logreg
+820909	None	Little to None	None	logreg
+776132	None	Little to None	None	logreg
+208816	None	Little to None	None	logreg
+168294	None	Little to None	None	logreg
+186490	Political Hate	Mild	Organization	logreg
+34763	Political Hate	Mild	Organization	logreg
+890503	Abusive	Little to None	Organization	logreg
+730297	None	Little to None	None	logreg
+267275	None	Little to None	None	logreg
+875303	None	Little to None	None	logreg
+410510	None	Little to None	None	logreg
+198288	None	Little to None	None	logreg
+878523	Abusive	Mild	None	logreg
+804090	None	Little to None	None	logreg
+876050	None	Little to None	None	logreg
+538825	None	Little to None	None	logreg
+439504	None	Little to None	None	logreg
+98661	None	Little to None	None	logreg
+50223	Abusive	Little to None	None	logreg
+882392	None	Little to None	None	logreg
+31474	None	Little to None	None	logreg
+752145	None	Little to None	None	logreg
+864075	None	Little to None	None	logreg
+459116	Abusive	Little to None	None	logreg
+498640	None	Little to None	None	logreg
+802864	None	Little to None	None	logreg
+295472	None	Little to None	None	logreg
+934066	Abusive	Little to None	None	logreg
+902880	None	Little to None	None	logreg
+111465	Political Hate	Mild	Community	logreg
+933484	None	Little to None	None	logreg
+667357	None	Little to None	None	logreg
+81463	None	Little to None	None	logreg
+649992	None	Little to None	None	logreg
+60065	Political Hate	Mild	Organization	logreg
+328916	None	Little to None	None	logreg
+304492	None	Little to None	None	logreg
+385489	None	Little to None	None	logreg
+683209	None	Little to None	None	logreg
+67622	None	Little to None	None	logreg
+507528	Profane	Severe	Community	logreg
+460125	None	Little to None	None	logreg
+285627	None	Little to None	None	logreg
+309055	None	Little to None	None	logreg
+702822	Abusive	Little to None	None	logreg
+714655	None	Little to None	None	logreg
+265922	None	Little to None	None	logreg
+485097	None	Little to None	None	logreg
+270514	None	Little to None	None	logreg
+87760	None	Little to None	None	logreg
+169601	None	Little to None	None	logreg
+798353	None	Little to None	None	logreg
+100120	None	Little to None	None	logreg
+441410	Abusive	Severe	Individual	logreg
+592756	None	Little to None	None	logreg
+90373	None	Little to None	None	logreg
+664668	None	Little to None	None	logreg
+122017	None	Little to None	None	logreg
+544288	None	Little to None	None	logreg
+499935	Abusive	Little to None	None	logreg
+192544	None	Little to None	None	logreg
+173116	Abusive	Little to None	None	logreg
+704684	Abusive	Little to None	Society	logreg
+845711	None	Little to None	None	logreg
+880642	None	Little to None	None	logreg
+335733	None	Little to None	Organization	logreg
+819142	None	Little to None	None	logreg
+123199	None	Little to None	None	logreg
+216638	None	Little to None	None	logreg
+215582	Political Hate	Little to None	Organization	logreg
+553211	Abusive	Little to None	Organization	logreg
+826034	None	Little to None	None	logreg
+918589	None	Little to None	None	logreg
+547320	None	Little to None	None	logreg
+266882	None	Little to None	None	logreg
+750993	None	Little to None	None	logreg
+653654	None	Little to None	None	logreg
+890678	None	Little to None	None	logreg
+381394	None	Little to None	None	logreg
+356587	None	Little to None	None	logreg
+590822	Abusive	Little to None	Individual	logreg
+166688	Abusive	Little to None	None	logreg
+230635	None	Little to None	None	logreg
+55098	None	Little to None	None	logreg
+617669	None	Little to None	None	logreg
+180620	None	Little to None	None	logreg
+187898	None	Little to None	None	logreg
+371940	Abusive	Mild	Society	logreg
+181651	Political Hate	Little to None	Organization	logreg
+147825	Abusive	Little to None	Community	logreg
+438932	None	Little to None	None	logreg
+63001	Political Hate	Mild	Society	logreg
+329086	None	Little to None	None	logreg
+301069	None	Little to None	None	logreg
+347294	None	Little to None	None	logreg
+461037	Abusive	Little to None	None	logreg
+170607	None	Little to None	None	logreg
+499607	None	Little to None	None	logreg
+710744	Abusive	Mild	Community	logreg
+240005	None	Little to None	None	logreg
+424128	None	Little to None	None	logreg
+779357	Abusive	Mild	Society	logreg
+845111	None	Little to None	None	logreg
+676339	None	Little to None	None	logreg
+290884	Abusive	Little to None	Organization	logreg
+909302	None	Little to None	None	logreg
+357977	Abusive	Little to None	None	logreg
+134372	Abusive	Severe	None	logreg
+659032	None	Little to None	None	logreg
+545917	None	Little to None	None	logreg
+95904	None	Little to None	Organization	logreg
+627730	None	Little to None	None	logreg
+560795	None	Little to None	None	logreg
+379566	Abusive	Little to None	Society	logreg
+142362	None	Little to None	None	logreg
+582295	None	Little to None	None	logreg
+214358	Abusive	Little to None	None	logreg
+773834	None	Little to None	None	logreg
+378204	None	Little to None	None	logreg
+2503	Abusive	Severe	Community	logreg
+66287	None	Little to None	None	logreg
+497947	None	Little to None	None	logreg
+821205	None	Little to None	None	logreg
+704887	None	Little to None	None	logreg
+142605	None	Little to None	None	logreg
+793597	None	Little to None	None	logreg
+244475	Political Hate	Little to None	Individual	logreg
+732424	None	Little to None	None	logreg
+669456	Political Hate	Mild	Organization	logreg
+786746	None	Little to None	None	logreg
+260582	Political Hate	Mild	Organization	logreg
+669509	None	Little to None	None	logreg
+519827	None	Little to None	None	logreg
+204443	None	Little to None	None	logreg
+583890	None	Little to None	None	logreg
+637584	None	Little to None	None	logreg
+24646	None	Little to None	None	logreg
+280857	None	Little to None	None	logreg
+446535	None	Little to None	None	logreg
+687543	None	Severe	None	logreg
+237066	Political Hate	Little to None	Organization	logreg
+912999	Abusive	Little to None	None	logreg
+194057	Political Hate	Mild	Organization	logreg
+146810	Abusive	Little to None	None	logreg
+442009	None	Little to None	None	logreg
+350875	None	Little to None	None	logreg
+721365	Abusive	Little to None	None	logreg
+798776	None	Little to None	None	logreg
+752086	None	Little to None	None	logreg
+203	None	Little to None	None	logreg
+798871	None	Little to None	None	logreg
+903406	None	Little to None	None	logreg
+447678	Abusive	Little to None	None	logreg
+782699	None	Little to None	None	logreg
+188831	None	Little to None	None	logreg
+653198	None	Little to None	None	logreg
+439858	None	Little to None	None	logreg
+869461	None	Little to None	None	logreg
+389095	None	Little to None	None	logreg
+378732	None	Little to None	None	logreg
+906177	None	Little to None	None	logreg
+309517	None	Little to None	None	logreg
+356240	None	Little to None	None	logreg
+612238	Political Hate	Little to None	Organization	logreg
+404551	None	Little to None	None	logreg
+417818	None	Little to None	None	logreg
+626581	None	Little to None	None	logreg
+839516	None	Little to None	None	logreg
+794748	None	Little to None	None	logreg
+849980	None	Little to None	None	logreg
+721487	Abusive	Little to None	Organization	logreg
+625949	Political Hate	Mild	Organization	logreg
+593733	Abusive	Little to None	None	logreg
+853345	None	Little to None	None	logreg
+434994	None	Little to None	None	logreg
+439183	None	Little to None	None	logreg
+688066	None	Little to None	None	logreg
+343290	None	Little to None	None	logreg
+529720	None	Little to None	None	logreg
+8435	Abusive	Mild	Individual	logreg
+625145	None	Little to None	None	logreg
+523883	Abusive	Severe	Community	logreg
+871055	None	Little to None	None	logreg
+1467	None	Little to None	None	logreg
+414730	Abusive	Severe	None	logreg
+23986	Political Hate	Little to None	Society	logreg
+604006	None	Little to None	None	logreg
+35914	None	Little to None	None	logreg
+921548	None	Little to None	None	logreg
+600422	None	Little to None	None	logreg
+820850	None	Little to None	None	logreg
+172221	None	Little to None	None	logreg
+151782	None	Little to None	None	logreg
+729740	None	Little to None	None	logreg
+795158	Abusive	Mild	Society	logreg
+89095	None	Little to None	None	logreg
+871021	Abusive	Little to None	Community	logreg
+410433	None	Little to None	None	logreg
+259966	None	Little to None	None	logreg
+622086	Political Hate	Mild	Organization	logreg
+757437	Abusive	Severe	None	logreg
+834041	None	Little to None	None	logreg
+614182	None	Little to None	None	logreg
+213978	Abusive	Mild	Individual	logreg
+177775	None	Little to None	None	logreg
+175096	None	Little to None	None	logreg
+924491	None	Little to None	None	logreg
+74708	Political Hate	Mild	Organization	logreg
+145454	None	Little to None	None	logreg
+122063	None	Little to None	None	logreg
+523490	None	Little to None	None	logreg
+567534	None	Little to None	None	logreg
+3766	None	Little to None	None	logreg
+898495	None	Little to None	None	logreg
+215674	None	Little to None	None	logreg
+12410	Religious Hate	Severe	Community	logreg
+710245	None	Little to None	None	logreg
+10063	None	Little to None	None	logreg
+540310	None	Little to None	None	logreg
+412055	None	Little to None	None	logreg
+151874	None	Little to None	None	logreg
+773973	None	Little to None	None	logreg
+258469	None	Little to None	None	logreg
+336614	None	Little to None	None	logreg
+881812	None	Little to None	None	logreg
+183470	Political Hate	Mild	Individual	logreg
+703445	None	Little to None	None	logreg
+577195	None	Little to None	None	logreg
+408421	Abusive	Little to None	Individual	logreg
+115868	None	Little to None	None	logreg
+641646	None	Little to None	None	logreg
+868822	None	Little to None	None	logreg
+847093	None	Little to None	None	logreg
+564034	Abusive	Mild	None	logreg
+257938	None	Little to None	None	logreg
+106592	None	Little to None	None	logreg
+792068	None	Little to None	None	logreg
+555057	None	Little to None	None	logreg
+390255	None	Little to None	None	logreg
+245231	None	Little to None	None	logreg
+475110	None	Little to None	None	logreg
+413861	None	Little to None	None	logreg
+800883	Abusive	Severe	Individual	logreg
+685063	None	Little to None	None	logreg
+65728	Political Hate	Mild	Organization	logreg
+933802	None	Little to None	None	logreg
+11690	Abusive	Mild	Society	logreg
+706579	None	Little to None	None	logreg
+215276	None	Little to None	None	logreg
+204169	None	Little to None	None	logreg
+554749	None	Little to None	None	logreg
+102106	Political Hate	Mild	Organization	logreg
+687707	None	Little to None	None	logreg
+782993	None	Little to None	None	logreg
+694802	Abusive	Mild	Society	logreg
+140095	None	Little to None	None	logreg
+449706	None	Little to None	None	logreg
+103008	None	Little to None	None	logreg
+268505	Religious Hate	Severe	Individual	logreg
+677768	None	Little to None	None	logreg
+399395	Abusive	Mild	Society	logreg
+934704	None	Little to None	None	logreg
+183078	Abusive	Little to None	None	logreg
+472268	Abusive	Little to None	None	logreg
+140804	None	Little to None	None	logreg
+266462	None	Little to None	None	logreg
+4502	Abusive	Mild	Society	logreg
+601389	Political Hate	Mild	Organization	logreg
+51708	None	Little to None	None	logreg
+451288	None	Little to None	None	logreg
+723131	None	Little to None	None	logreg
+514786	None	Little to None	None	logreg
+301007	None	Little to None	None	logreg
+229205	None	Little to None	None	logreg
+524989	None	Little to None	None	logreg
+824458	None	Little to None	None	logreg
+522751	Abusive	Severe	Individual	logreg
+829398	None	Little to None	None	logreg
+442481	None	Little to None	None	logreg
+86918	Political Hate	Severe	Community	logreg
+760133	None	Little to None	None	logreg
+22336	None	Little to None	None	logreg
+110130	None	Little to None	None	logreg
+794326	None	Little to None	None	logreg
+184205	Political Hate	Little to None	Organization	logreg
+501326	None	Little to None	None	logreg
+305515	None	Little to None	None	logreg
+453214	None	Little to None	None	logreg
+780977	None	Little to None	None	logreg
+197116	None	Little to None	None	logreg
+709765	None	Little to None	None	logreg
+660740	None	Little to None	None	logreg
+751452	Abusive	Severe	Individual	logreg
+776616	None	Little to None	None	logreg
+594957	None	Little to None	None	logreg
+758653	None	Little to None	None	logreg
+467601	None	Little to None	None	logreg
+853875	None	Little to None	None	logreg
+734436	None	Little to None	Individual	logreg
+432795	None	Little to None	None	logreg
+176963	None	Little to None	None	logreg
+693454	None	Little to None	None	logreg
+431121	None	Little to None	None	logreg
+603293	Political Hate	Mild	Organization	logreg
+204163	None	Little to None	None	logreg
+404753	None	Little to None	None	logreg
+350340	None	Little to None	None	logreg
+101669	None	Little to None	None	logreg
+693172	None	Little to None	None	logreg
+881339	Abusive	Severe	None	logreg
+234873	None	Little to None	None	logreg
+463879	None	Little to None	None	logreg
+391778	None	Little to None	None	logreg
+696795	None	Little to None	None	logreg
+392525	None	Little to None	None	logreg
+437546	None	Little to None	Organization	logreg
+230845	Political Hate	Mild	Organization	logreg
+759262	None	Little to None	None	logreg
+790411	None	Little to None	None	logreg
+300211	Abusive	Severe	Individual	logreg
+429825	None	Little to None	None	logreg
+241815	None	Severe	None	logreg
+587877	None	Little to None	None	logreg
+417035	None	Little to None	None	logreg
+329867	None	Little to None	None	logreg
+858636	None	Little to None	None	logreg
+817662	None	Little to None	None	logreg
+36995	None	Little to None	None	logreg
+540133	Abusive	Mild	Organization	logreg
+178133	None	Little to None	None	logreg
+939084	None	Little to None	None	logreg
+220070	Abusive	Severe	Individual	logreg
+810990	None	Little to None	None	logreg
+564915	None	Little to None	None	logreg
+896030	None	Little to None	None	logreg
+803000	None	Little to None	None	logreg
+434425	Abusive	Mild	Individual	logreg
+484732	None	Little to None	None	logreg
+928724	Abusive	Severe	Individual	logreg
+188109	None	Little to None	None	logreg
+885876	Abusive	Severe	None	logreg
+439903	None	Little to None	None	logreg
+896774	None	Little to None	None	logreg
+201236	None	Little to None	None	logreg
+294331	None	Little to None	None	logreg
+283925	None	Little to None	None	logreg
+619478	None	Severe	Individual	logreg
+849009	None	Little to None	None	logreg
+716054	None	Little to None	None	logreg
+560726	None	Little to None	None	logreg
+743594	None	Little to None	None	logreg
+624407	None	Little to None	None	logreg
+258727	Abusive	Little to None	Community	logreg
+380744	None	Little to None	None	logreg
+413547	None	Little to None	None	logreg
+234141	Abusive	Severe	Individual	logreg
+60206	None	Little to None	None	logreg
+579827	Profane	Severe	Individual	logreg
+148976	None	Little to None	None	logreg
+201516	None	Little to None	None	logreg
+586357	None	Little to None	None	logreg
+368041	None	Little to None	None	logreg
+281038	None	Little to None	None	logreg
+200103	None	Little to None	None	logreg
+656857	None	Little to None	None	logreg
+877106	None	Little to None	None	logreg
+680816	None	Little to None	None	logreg
+853980	None	Mild	Individual	logreg
+416765	None	Little to None	None	logreg
+777041	None	Little to None	None	logreg
+486896	None	Little to None	None	logreg
+1238	None	Little to None	None	logreg
+690011	None	Little to None	None	logreg
+561745	None	Little to None	None	logreg
+419301	Abusive	Little to None	Individual	logreg
+484745	Political Hate	Mild	Organization	logreg
+563636	None	Little to None	None	logreg
+813902	None	Little to None	None	logreg
+7505	None	Little to None	None	logreg
+648031	None	Little to None	None	logreg
+144853	None	Little to None	None	logreg
+181520	None	Little to None	Organization	logreg
+93012	Political Hate	Little to None	Organization	logreg
+48276	None	Little to None	None	logreg
+640764	None	Little to None	None	logreg
+273507	None	Little to None	None	logreg
+687548	None	Little to None	None	logreg
+917353	None	Little to None	None	logreg
+269221	None	Little to None	None	logreg
+922476	None	Little to None	None	logreg
+807407	None	Severe	Organization	logreg
+195060	None	Little to None	None	logreg
+656139	None	Little to None	None	logreg
+799134	None	Little to None	None	logreg
+826825	None	Little to None	None	logreg
+9907	Religious Hate	Severe	None	logreg
+298673	None	Little to None	None	logreg
+13386	None	Little to None	None	logreg
+842536	None	Little to None	None	logreg
+726308	None	Little to None	None	logreg
+306330	Abusive	Severe	None	logreg
+688599	None	Little to None	None	logreg
+689584	None	Little to None	None	logreg
+490674	None	Little to None	None	logreg
+456718	None	Little to None	None	logreg
+520231	None	Little to None	None	logreg
+331709	None	Little to None	None	logreg
+409943	None	Little to None	None	logreg
+56275	Religious Hate	Little to None	None	logreg
+692039	Abusive	Little to None	Society	logreg
+269451	Abusive	Severe	Individual	logreg
+13455	Abusive	Little to None	None	logreg
+612107	None	Little to None	None	logreg
+520921	None	Little to None	None	logreg
+309449	None	Little to None	None	logreg
+30231	Abusive	Severe	None	logreg
+749946	None	Little to None	None	logreg
+230540	None	Little to None	None	logreg
+306383	None	Little to None	None	logreg
+266663	None	Little to None	None	logreg
+306200	None	Little to None	None	logreg
+932141	None	Little to None	None	logreg
+159638	None	Little to None	None	logreg
+153112	None	Little to None	None	logreg
+36929	None	Little to None	None	logreg
+570695	None	Little to None	None	logreg
+930405	None	Little to None	None	logreg
+934284	None	Little to None	None	logreg
+241721	Abusive	Little to None	None	logreg
+743285	None	Little to None	None	logreg
+650205	Abusive	Little to None	None	logreg
+231694	Abusive	Severe	Individual	logreg
+240267	Political Hate	Little to None	Society	logreg
+105646	None	Little to None	None	logreg
+166927	None	Little to None	None	logreg
+222182	None	Little to None	Organization	logreg
+719880	None	Little to None	None	logreg
+304302	None	Little to None	None	logreg
+246202	None	Little to None	Organization	logreg
+581414	None	Little to None	None	logreg
+39223	None	Little to None	None	logreg
+331481	None	Little to None	None	logreg
+759027	Abusive	Little to None	None	logreg
+372475	None	Little to None	None	logreg
+279602	None	Little to None	None	logreg
+374463	None	Little to None	None	logreg
+522124	None	Little to None	None	logreg
+96971	Abusive	Mild	Individual	logreg
+563986	None	Little to None	None	logreg
+186068	None	Little to None	None	logreg
+645261	None	Little to None	None	logreg
+491781	None	Little to None	None	logreg
+227160	None	Little to None	None	logreg
+49682	Abusive	Mild	Society	logreg
+715513	None	Little to None	None	logreg
+750666	None	Little to None	None	logreg
+498452	None	Little to None	None	logreg
+749770	None	Little to None	None	logreg
+374272	Abusive	Mild	Community	logreg
+300680	Political Hate	Mild	Individual	logreg
+502810	None	Little to None	None	logreg
+537922	None	Little to None	None	logreg
+301818	None	Little to None	None	logreg
+77449	None	Little to None	None	logreg
+158868	Abusive	Little to None	None	logreg
+565434	Abusive	Little to None	Community	logreg
+744307	None	Little to None	None	logreg
+648825	Political Hate	Mild	Organization	logreg
+918300	None	Little to None	None	logreg
+573225	None	Little to None	None	logreg
+627856	None	Little to None	None	logreg
+772659	Abusive	Little to None	None	logreg
+776500	None	Little to None	None	logreg
+709524	None	Little to None	None	logreg
+321575	None	Little to None	None	logreg
+137962	None	Little to None	None	logreg
+542955	None	Little to None	None	logreg
+413666	None	Little to None	None	logreg
+436247	None	Little to None	None	logreg
+116299	None	Little to None	None	logreg
+764090	Political Hate	Mild	Society	logreg
+236100	None	Little to None	None	logreg
+602786	None	Little to None	None	logreg
+331368	None	Little to None	None	logreg
+281614	None	Little to None	None	logreg
+60782	None	Little to None	None	logreg
+789968	Profane	Little to None	None	logreg
+712671	None	Little to None	None	logreg
+859775	None	Little to None	None	logreg
+652672	None	Little to None	None	logreg
+482297	None	Little to None	None	logreg
+831573	None	Little to None	None	logreg
+878250	None	Little to None	None	logreg
+524161	None	Little to None	None	logreg
+740158	None	Little to None	None	logreg
+116408	None	Little to None	None	logreg
+852595	None	Little to None	None	logreg
+6970	None	Little to None	None	logreg
+15185	None	Little to None	None	logreg
+104676	None	Little to None	None	logreg
+514480	None	Little to None	None	logreg
+190562	None	Little to None	None	logreg
+236486	None	Little to None	None	logreg
+332051	Profane	Little to None	None	logreg
+324497	None	Little to None	None	logreg
+616466	None	Little to None	None	logreg
+153952	None	Little to None	None	logreg
+937715	Abusive	Little to None	None	logreg
+408137	None	Little to None	None	logreg
+722171	None	Little to None	None	logreg
+187787	None	Little to None	Organization	logreg
+833086	Abusive	Mild	Community	logreg
+402586	None	Little to None	None	logreg
+79900	None	Little to None	None	logreg
+455503	None	Little to None	None	logreg
+662760	None	Little to None	None	logreg
+145666	None	Little to None	None	logreg
+269395	None	Little to None	None	logreg
+855977	Abusive	Little to None	None	logreg
+411862	Abusive	Little to None	Individual	logreg
+840865	None	Little to None	None	logreg
+656131	None	Little to None	Society	logreg
+283203	Political Hate	Mild	Society	logreg
+635480	None	Little to None	None	logreg
+929892	Abusive	Severe	Organization	logreg
+900226	None	Little to None	None	logreg
+187748	Abusive	Little to None	None	logreg
+863939	None	Little to None	None	logreg
+562894	None	Little to None	None	logreg
+229250	None	Little to None	None	logreg
+258055	None	Little to None	None	logreg
+516568	None	Little to None	None	logreg
+241001	None	Little to None	None	logreg
+738147	None	Little to None	None	logreg
+914834	None	Little to None	None	logreg
+502930	None	Little to None	None	logreg
+157805	Abusive	Little to None	None	logreg
+182528	None	Little to None	None	logreg
+496305	None	Little to None	None	logreg
+127441	None	Little to None	None	logreg
+516994	Abusive	Little to None	Individual	logreg
+296128	None	Little to None	None	logreg
+498286	None	Little to None	None	logreg
+882886	None	Little to None	None	logreg
+654441	None	Little to None	None	logreg
+355409	None	Little to None	None	logreg
+526987	None	Little to None	None	logreg
+166978	None	Mild	None	logreg
+17756	Political Hate	Little to None	None	logreg
+266720	None	Little to None	None	logreg
+814729	None	Little to None	None	logreg
+622339	Sexism	Little to None	None	logreg
+735625	None	Little to None	None	logreg
+202261	None	Little to None	None	logreg
+374523	None	Little to None	None	logreg
+336668	None	Little to None	None	logreg
+548637	None	Little to None	None	logreg
+303416	None	Little to None	None	logreg
+564069	None	Little to None	None	logreg
+796931	None	Little to None	None	logreg
+830985	None	Little to None	None	logreg
+492468	None	Little to None	None	logreg
+251311	None	Little to None	None	logreg
+842728	Political Hate	Little to None	Organization	logreg
+124702	None	Little to None	None	logreg
+891343	None	Little to None	None	logreg
+376956	None	Little to None	None	logreg
+676134	Abusive	Little to None	None	logreg
+353841	None	Little to None	None	logreg
+669871	None	Little to None	None	logreg
+720106	None	Little to None	None	logreg
+551785	None	Little to None	None	logreg
+31813	None	Little to None	None	logreg
+179141	None	Little to None	None	logreg
+722850	Abusive	Little to None	None	logreg
+111661	Political Hate	Mild	Organization	logreg
+385980	None	Little to None	None	logreg
+478200	None	Little to None	None	logreg
+627607	None	Little to None	None	logreg
+723418	Abusive	Mild	Organization	logreg
+121301	None	Little to None	None	logreg
+111742	None	Little to None	None	logreg
+448538	Abusive	Little to None	None	logreg
+244405	None	Little to None	None	logreg
+51703	None	Little to None	None	logreg
+276254	None	Little to None	None	logreg
+818115	None	Little to None	None	logreg
+839545	Profane	Severe	Individual	logreg
+500452	Abusive	Little to None	Individual	logreg
+100905	Political Hate	Mild	Organization	logreg
+10100	None	Little to None	None	logreg
+17326	Religious Hate	Severe	Community	logreg
+802542	None	Little to None	None	logreg
+405562	Abusive	Little to None	None	logreg
+297210	Abusive	Mild	Organization	logreg
+633450	None	Little to None	None	logreg
+24947	None	Little to None	None	logreg
+827247	None	Little to None	Organization	logreg
+91001	None	Little to None	None	logreg
+797577	None	Little to None	None	logreg
+203064	None	Little to None	None	logreg
+437031	Religious Hate	Little to None	None	logreg
+76338	None	Little to None	None	logreg
+28529	Abusive	Mild	Organization	logreg
+416581	None	Little to None	None	logreg
+326992	Political Hate	Little to None	Individual	logreg
+294318	None	Little to None	None	logreg
+24010	None	Little to None	None	logreg
+391690	None	Little to None	None	logreg
+898471	None	Little to None	None	logreg
+139015	None	Little to None	None	logreg
+629277	Abusive	Little to None	None	logreg
+249523	None	Severe	None	logreg
+480655	None	Little to None	None	logreg
+923143	None	Little to None	None	logreg
+574020	None	Little to None	None	logreg
+498850	None	Little to None	None	logreg
+858529	None	Little to None	None	logreg
+916168	None	Little to None	None	logreg
+547040	None	Little to None	None	logreg
+465291	Abusive	Little to None	Individual	logreg
+571806	Political Hate	Mild	Organization	logreg
+569300	None	Little to None	None	logreg
+499970	Political Hate	Mild	Organization	logreg
+447242	None	Little to None	None	logreg
+184864	Abusive	Little to None	Organization	logreg
+463779	None	Little to None	None	logreg
+733792	None	Little to None	None	logreg
+687387	None	Little to None	None	logreg
+363410	None	Little to None	None	logreg
+613123	None	Little to None	None	logreg
+202791	None	Little to None	None	logreg
+635751	None	Little to None	None	logreg
+608506	None	Little to None	None	logreg
+17576	None	Little to None	None	logreg
+230291	None	Little to None	None	logreg
+382243	None	Little to None	None	logreg
+549845	Abusive	Little to None	None	logreg
+201772	None	Little to None	None	logreg
+326030	None	Little to None	None	logreg
+604410	None	Little to None	None	logreg
+32709	None	Little to None	None	logreg
+229330	None	Little to None	None	logreg
+131732	Abusive	Little to None	Individual	logreg
+10683	Political Hate	Mild	Organization	logreg
+364807	None	Little to None	None	logreg
+934121	None	Little to None	None	logreg
+315440	None	Little to None	None	logreg
+840059	None	Little to None	None	logreg
+195161	None	Little to None	None	logreg
+157090	None	Little to None	None	logreg
+653468	None	Little to None	None	logreg
+377827	None	Little to None	None	logreg
+588597	Political Hate	Little to None	Organization	logreg
+200076	None	Little to None	None	logreg
+266411	None	Little to None	None	logreg
+346398	None	Little to None	None	logreg
+825712	None	Little to None	None	logreg
+693484	None	Little to None	None	logreg
+109964	None	Little to None	Individual	logreg
+304021	None	Little to None	None	logreg
+265907	None	Little to None	None	logreg
+781953	None	Little to None	None	logreg
+697858	None	Little to None	None	logreg
+476327	None	Little to None	None	logreg
+927901	Abusive	Mild	Community	logreg
+837639	None	Little to None	None	logreg
+492990	None	Little to None	None	logreg
+360379	None	Little to None	None	logreg
+618518	None	Little to None	None	logreg
+649931	None	Little to None	None	logreg
+175496	Political Hate	Mild	Individual	logreg
+422178	None	Little to None	None	logreg
+763331	Abusive	Little to None	None	logreg
+463514	None	Little to None	None	logreg
+452271	None	Little to None	None	logreg
+255091	None	Little to None	None	logreg
+639406	None	Little to None	None	logreg
+617882	None	Little to None	None	logreg
+424539	None	Little to None	None	logreg
+534382	None	Little to None	None	logreg
+656382	None	Little to None	None	logreg
+523467	None	Little to None	None	logreg
+678646	None	Little to None	None	logreg
+13863	None	Little to None	None	logreg
+345913	None	Little to None	None	logreg
+670277	None	Little to None	None	logreg
+759098	None	Little to None	None	logreg
+174859	None	Little to None	None	logreg
+81340	None	Little to None	None	logreg
+922743	None	Little to None	None	logreg
+105579	None	Little to None	None	logreg
+819932	None	Little to None	None	logreg
+724622	None	Little to None	None	logreg
+8040	None	Little to None	None	logreg
+661589	None	Little to None	None	logreg
+25308	None	Little to None	None	logreg
+479411	None	Little to None	None	logreg
+104723	Political Hate	Severe	None	logreg
+804467	None	Little to None	None	logreg
+164017	Abusive	Little to None	Individual	logreg
+228242	Abusive	Little to None	Individual	logreg
+668562	Political Hate	Mild	Community	logreg
+900643	Abusive	Mild	Individual	logreg
+171741	None	Little to None	None	logreg
+596654	None	Little to None	None	logreg
+294586	None	Little to None	None	logreg
+118070	Political Hate	Little to None	Organization	logreg
+643819	None	Little to None	None	logreg
+316098	None	Little to None	None	logreg
+483088	None	Little to None	None	logreg
+803231	None	Little to None	None	logreg
+798743	None	Little to None	None	logreg
+292802	Political Hate	Little to None	Organization	logreg
+130898	Abusive	Little to None	Organization	logreg
+656615	None	Little to None	None	logreg
+369848	Political Hate	Severe	Society	logreg
+42763	None	Little to None	None	logreg
+198700	Abusive	Severe	Individual	logreg
+147433	Political Hate	Mild	Individual	logreg
+112969	None	Little to None	None	logreg
+365334	None	Little to None	None	logreg
+334533	Abusive	Little to None	None	logreg
+45513	None	Little to None	None	logreg
+194291	Abusive	Mild	Individual	logreg
+242147	None	Little to None	None	logreg
+543843	None	Little to None	None	logreg
+765276	None	Little to None	None	logreg
+104725	Political Hate	Severe	Organization	logreg
+618757	None	Little to None	None	logreg
+181782	None	Little to None	None	logreg
+914164	None	Little to None	None	logreg
+822076	None	Little to None	None	logreg
+599831	None	Little to None	Individual	logreg
+703814	None	Little to None	None	logreg
+871608	None	Little to None	None	logreg
+139975	Political Hate	Little to None	Organization	logreg
+368136	None	Little to None	None	logreg
+809802	None	Little to None	None	logreg
+568236	None	Little to None	None	logreg
+642774	Political Hate	Mild	Organization	logreg
+553115	Political Hate	Little to None	Organization	logreg
+147246	None	Little to None	None	logreg
+871806	None	Little to None	None	logreg
+906009	None	Little to None	None	logreg
+604767	Abusive	Little to None	Organization	logreg
+98991	None	Little to None	None	logreg
+491918	Political Hate	Little to None	Organization	logreg
+398790	None	Little to None	None	logreg
+350726	None	Little to None	None	logreg
+175253	Abusive	Little to None	None	logreg
+29355	None	Little to None	None	logreg
+93250	None	Mild	None	logreg
+19886	None	Little to None	None	logreg
+445227	None	Little to None	None	logreg
+853191	None	Little to None	None	logreg
+679355	Abusive	Little to None	None	logreg
+782445	None	Little to None	None	logreg
+907865	None	Little to None	None	logreg
+330279	Abusive	Mild	Community	logreg
+79692	Abusive	Little to None	None	logreg
+482416	Abusive	Severe	Organization	logreg
+316930	None	Little to None	None	logreg
+389198	Political Hate	Mild	Community	logreg
+383466	None	Little to None	None	logreg
+726414	Abusive	Severe	Society	logreg
+511782	Abusive	Little to None	None	logreg
+319242	None	Little to None	None	logreg
+908647	None	Little to None	None	logreg
+462082	None	Little to None	None	logreg
+471029	None	Little to None	None	logreg
+825212	None	Little to None	None	logreg
+655469	None	Little to None	None	logreg
+162768	None	Little to None	None	logreg
+213891	None	Little to None	None	logreg
+189626	None	Little to None	None	logreg
+618775	None	Little to None	None	logreg
+467524	None	Little to None	None	logreg
+833010	None	Little to None	None	logreg
+437027	None	Little to None	None	logreg
+751682	None	Little to None	None	logreg
+394778	None	Little to None	None	logreg
+462766	None	Little to None	None	logreg
+464908	None	Little to None	None	logreg
+551029	None	Little to None	None	logreg
+930583	None	Little to None	None	logreg
+127354	None	Little to None	None	logreg
+474903	None	Little to None	None	logreg
+154285	None	Little to None	None	logreg
+516498	None	Little to None	None	logreg
+211955	Political Hate	Mild	Organization	logreg
+542234	None	Little to None	None	logreg
+376628	None	Little to None	None	logreg
+700225	None	Little to None	None	logreg
+786647	None	Little to None	None	logreg
+257576	None	Little to None	None	logreg
+758485	None	Little to None	None	logreg
+99453	None	Little to None	None	logreg
+915727	None	Little to None	None	logreg
+376246	None	Little to None	None	logreg
+373071	Abusive	Mild	Organization	logreg
+470824	None	Little to None	None	logreg
+178420	None	Little to None	None	logreg
+217557	None	Little to None	None	logreg
+191400	Political Hate	Mild	Organization	logreg
+517200	Abusive	Little to None	None	logreg
+653544	Political Hate	Mild	None	logreg
+70411	None	Little to None	None	logreg
+149905	Abusive	Little to None	None	logreg
+153918	None	Little to None	None	logreg
+723635	None	Little to None	None	logreg
+666300	None	Little to None	None	logreg
+323812	None	Little to None	None	logreg
+9604	None	Little to None	None	logreg
+770780	None	Little to None	None	logreg
+271658	None	Little to None	None	logreg
+882647	None	Little to None	None	logreg
+551920	None	Little to None	None	logreg
+583947	None	Little to None	None	logreg
+820628	None	Little to None	None	logreg
+277192	None	Little to None	None	logreg
+897906	None	Little to None	None	logreg
+249214	None	Little to None	None	logreg
+893683	None	Little to None	None	logreg
+4464	None	Little to None	None	logreg
+9468	Abusive	Mild	None	logreg
+377406	Political Hate	Severe	Individual	logreg
+560474	None	Little to None	None	logreg
+486586	None	Little to None	None	logreg
+521490	None	Little to None	None	logreg
+5279	None	Little to None	None	logreg
+42496	Abusive	Mild	Community	logreg
+13705	None	Little to None	None	logreg
+326556	None	Little to None	None	logreg
+517143	None	Little to None	None	logreg
+663202	Political Hate	Mild	Society	logreg
+17476	None	Little to None	None	logreg
+422364	None	Little to None	None	logreg
+319609	None	Little to None	None	logreg
+934595	None	Little to None	None	logreg
+283893	None	Little to None	None	logreg
+105406	None	Little to None	Individual	logreg
+454062	Abusive	Little to None	None	logreg
+685691	Political Hate	Severe	None	logreg
+671240	None	Little to None	None	logreg
+323990	Political Hate	Mild	Organization	logreg
+464804	None	Little to None	None	logreg
+126109	None	Little to None	None	logreg
+599618	None	Little to None	None	logreg
+517229	None	Little to None	None	logreg
+212493	Abusive	Mild	Organization	logreg
+395279	None	Little to None	None	logreg
+802441	None	Little to None	None	logreg
+372446	None	Little to None	None	logreg
+131053	None	Little to None	None	logreg
+927153	Political Hate	Mild	Individual	logreg
+382647	None	Little to None	None	logreg
+739909	None	Little to None	None	logreg
+196365	Abusive	Little to None	Individual	logreg
+725545	None	Little to None	None	logreg
+742737	None	Little to None	None	logreg
+324922	None	Little to None	None	logreg
+687465	None	Little to None	None	logreg
+127196	None	Little to None	None	logreg
+156582	None	Little to None	None	logreg
+736072	None	Little to None	None	logreg
+367939	Abusive	Little to None	None	logreg
+227990	Political Hate	Little to None	None	logreg
+491013	None	Little to None	None	logreg
+331079	None	Little to None	None	logreg
+22603	None	Little to None	None	logreg
+142732	None	Little to None	None	logreg
+503395	None	Little to None	None	logreg
+97888	None	Little to None	None	logreg
+107987	None	Little to None	None	logreg
+538964	None	Little to None	None	logreg
+516815	None	Little to None	None	logreg
+675200	Abusive	Little to None	None	logreg
+922846	None	Little to None	None	logreg
+206055	Abusive	Mild	Individual	logreg
+580711	Political Hate	Little to None	Organization	logreg
+433603	None	Little to None	None	logreg
+913918	None	Little to None	None	logreg
+681581	None	Little to None	None	logreg
+584423	None	Little to None	None	logreg
+81260	None	Little to None	None	logreg
+736221	None	Little to None	None	logreg
+623514	None	Little to None	None	logreg
+370581	None	Little to None	None	logreg
+192811	None	Little to None	None	logreg
+217208	Political Hate	Little to None	None	logreg
+889961	None	Little to None	None	logreg
+178079	None	Little to None	None	logreg
+90439	None	Little to None	None	logreg
+178971	None	Little to None	None	logreg
+22665	None	Little to None	None	logreg
+899276	None	Little to None	None	logreg
+310071	None	Little to None	None	logreg
+360030	None	Little to None	None	logreg
+77977	Abusive	Little to None	None	logreg
+830214	None	Little to None	None	logreg
+38886	Abusive	Severe	Individual	logreg
+105862	Abusive	Little to None	None	logreg
+702732	None	Little to None	None	logreg
+938497	None	Little to None	None	logreg
+213252	None	Little to None	None	logreg
+457833	Abusive	Little to None	None	logreg
+816803	None	Little to None	None	logreg
+299704	None	Little to None	None	logreg
+803472	None	Little to None	None	logreg
+753215	None	Little to None	None	logreg
+542741	None	Little to None	None	logreg
+836974	None	Little to None	None	logreg
+691680	Abusive	Little to None	None	logreg
+846299	None	Little to None	None	logreg
+433275	Abusive	Little to None	Community	logreg
+756273	None	Little to None	None	logreg
+740920	Religious Hate	Little to None	None	logreg
+43626	Political Hate	Little to None	None	logreg
+267060	None	Little to None	None	logreg
+457841	None	Little to None	None	logreg
+875925	None	Little to None	None	logreg
+707304	None	Little to None	None	logreg
+305585	None	Little to None	None	logreg
+677304	Political Hate	Little to None	Organization	logreg
+402761	None	Little to None	None	logreg
+142035	None	Little to None	None	logreg
+322005	None	Little to None	None	logreg
+49390	None	Little to None	None	logreg
+707302	Abusive	Mild	Organization	logreg
+333125	Political Hate	Little to None	Organization	logreg
+416891	None	Little to None	None	logreg
+781755	None	Little to None	None	logreg
+372629	None	Little to None	None	logreg
+746812	Political Hate	Mild	Organization	logreg
+661051	Abusive	Severe	Organization	logreg
+223473	None	Little to None	None	logreg
+366446	None	Little to None	None	logreg
+439019	None	Mild	None	logreg
+89017	Abusive	Little to None	None	logreg
+833385	Profane	Little to None	Community	logreg
+701974	None	Little to None	None	logreg
+532046	None	Little to None	None	logreg
+524121	None	Little to None	None	logreg
+73484	None	Little to None	None	logreg
+41759	None	Little to None	None	logreg
+556898	Political Hate	Mild	Organization	logreg
+74071	None	Little to None	None	logreg
+664811	None	Little to None	None	logreg
+596155	None	Little to None	None	logreg
+861670	None	Little to None	None	logreg
+557487	None	Little to None	None	logreg
+475743	None	Little to None	None	logreg
+708802	Profane	Little to None	None	logreg
+510655	None	Little to None	None	logreg
+345029	None	Little to None	None	logreg
+853057	None	Little to None	None	logreg
+242665	None	Little to None	None	logreg
+823119	Abusive	Little to None	Organization	logreg
+608926	None	Little to None	None	logreg
+480932	Political Hate	Mild	Individual	logreg
+641524	None	Little to None	None	logreg
+571911	None	Little to None	None	logreg
+787716	None	Little to None	None	logreg
+265020	Abusive	Little to None	None	logreg
+303183	None	Little to None	None	logreg
+352571	Abusive	Little to None	None	logreg
+263134	None	Little to None	None	logreg
+611932	Abusive	Little to None	None	logreg
+868718	None	Little to None	None	logreg
+503912	Political Hate	Severe	Organization	logreg
+844107	Abusive	Severe	Individual	logreg
+361784	None	Little to None	None	logreg
+707013	None	Little to None	None	logreg
+540056	None	Little to None	None	logreg
+835721	None	Little to None	None	logreg
+235755	Political Hate	Mild	Organization	logreg
+667776	None	Little to None	None	logreg
+649091	Political Hate	Mild	Organization	logreg
+770663	Abusive	Mild	Community	logreg
+449984	None	Little to None	None	logreg
+832298	None	Little to None	None	logreg
+659157	Abusive	Little to None	None	logreg
+271809	None	Little to None	None	logreg
+806432	None	Little to None	None	logreg
+137318	Abusive	Mild	Organization	logreg
+153306	None	Little to None	None	logreg
+38470	Abusive	Severe	Organization	logreg
+431582	None	Little to None	None	logreg
+717164	None	Little to None	None	logreg
+580143	None	Little to None	None	logreg
+49990	Abusive	Little to None	None	logreg
+845881	Abusive	Mild	Organization	logreg
+28237	Abusive	Severe	Individual	logreg
+448410	None	Little to None	None	logreg
+392869	Abusive	Mild	Organization	logreg
+427357	Abusive	Little to None	None	logreg
+803479	Abusive	Little to None	Society	logreg
+758098	Abusive	Mild	Community	logreg
+120841	Abusive	Little to None	None	logreg
+801244	None	Little to None	None	logreg
+925289	Political Hate	Mild	Community	logreg
+777026	Abusive	Severe	Individual	logreg
+7401	None	Little to None	None	logreg
+766209	None	Little to None	None	logreg
+146616	None	Little to None	None	logreg
+449920	None	Little to None	None	logreg
+395149	Abusive	Mild	Society	logreg
+783461	None	Little to None	None	logreg
+323363	None	Little to None	None	logreg
+857583	None	Little to None	None	logreg
+535131	None	Little to None	None	logreg
+449455	None	Little to None	None	logreg
+530188	None	Little to None	None	logreg
+841983	None	Little to None	None	logreg
+863107	None	Little to None	None	logreg
+441302	None	Little to None	None	logreg
+398777	Abusive	Little to None	None	logreg
+756172	None	Little to None	None	logreg
+706050	None	Little to None	None	logreg
+514434	None	Little to None	None	logreg
+513361	None	Little to None	None	logreg
+516223	None	Little to None	None	logreg
+31791	None	Little to None	None	logreg
+143438	None	Little to None	None	logreg
+799188	None	Little to None	None	logreg
+336449	None	Little to None	None	logreg
+767986	None	Little to None	None	logreg
+694508	None	Little to None	None	logreg
+186493	None	Little to None	None	logreg
+104882	None	Little to None	None	logreg
+280325	None	Little to None	None	logreg
+366514	Abusive	Mild	None	logreg
+566626	None	Little to None	None	logreg
+274439	Abusive	Little to None	None	logreg
+775968	None	Little to None	None	logreg
+665640	None	Little to None	None	logreg
+922707	None	Little to None	None	logreg
+131971	Abusive	Little to None	Organization	logreg
+467462	None	Little to None	None	logreg
+392346	None	Little to None	None	logreg
+14129	None	Little to None	None	logreg
+727009	None	Little to None	Individual	logreg
+202951	None	Little to None	None	logreg
+511558	None	Little to None	None	logreg
+396493	None	Little to None	None	logreg
+675473	None	Little to None	None	logreg
+487864	None	Little to None	None	logreg
+345179	None	Little to None	None	logreg
+714384	Abusive	Little to None	None	logreg
+378869	None	Little to None	None	logreg
+91557	None	Little to None	None	logreg
+401006	None	Little to None	None	logreg
+426265	None	Little to None	None	logreg
+623520	None	Little to None	None	logreg
+589727	Abusive	Little to None	None	logreg

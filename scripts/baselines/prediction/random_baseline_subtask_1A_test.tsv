@@ -1,0 +1,3401 @@
+id	label	model
+12764	Religious Hate	random baseline
+202933	Abusive	random baseline
+165894	Abusive	random baseline
+124999	Abusive	random baseline
+535301	Sexism	random baseline
+432948	Abusive	random baseline
+34737	None	random baseline
+377091	None	random baseline
+840467	Abusive	random baseline
+361701	Abusive	random baseline
+184161	Profane	random baseline
+531785	Political Hate	random baseline
+402930	Abusive	random baseline
+578332	Abusive	random baseline
+723077	Abusive	random baseline
+776755	Profane	random baseline
+587800	None	random baseline
+869387	Sexism	random baseline
+620490	Religious Hate	random baseline
+241030	Sexism	random baseline
+764029	Religious Hate	random baseline
+174711	Political Hate	random baseline
+65995	Abusive	random baseline
+871343	Political Hate	random baseline
+715822	None	random baseline
+106487	Abusive	random baseline
+764737	Abusive	random baseline
+917460	Sexism	random baseline
+531356	Religious Hate	random baseline
+266651	Political Hate	random baseline
+739854	Abusive	random baseline
+266764	None	random baseline
+73332	Sexism	random baseline
+760242	Religious Hate	random baseline
+320758	Abusive	random baseline
+609567	Sexism	random baseline
+16555	None	random baseline
+404893	Abusive	random baseline
+357862	Sexism	random baseline
+624326	Sexism	random baseline
+364169	Abusive	random baseline
+631673	Profane	random baseline
+105543	Sexism	random baseline
+699006	Abusive	random baseline
+701268	None	random baseline
+742298	Profane	random baseline
+643737	Religious Hate	random baseline
+689092	Profane	random baseline
+563553	Profane	random baseline
+662932	Political Hate	random baseline
+473263	None	random baseline
+422168	Political Hate	random baseline
+862941	Religious Hate	random baseline
+342937	Sexism	random baseline
+178372	None	random baseline
+916768	Abusive	random baseline
+215239	Sexism	random baseline
+763206	Abusive	random baseline
+666182	Abusive	random baseline
+503048	Profane	random baseline
+519953	Political Hate	random baseline
+679666	None	random baseline
+237037	Religious Hate	random baseline
+561654	None	random baseline
+335959	Religious Hate	random baseline
+672138	Political Hate	random baseline
+705318	Abusive	random baseline
+251010	Abusive	random baseline
+50757	Sexism	random baseline
+708711	Religious Hate	random baseline
+379033	Political Hate	random baseline
+356889	Abusive	random baseline
+380864	Sexism	random baseline
+357388	Political Hate	random baseline
+237264	Political Hate	random baseline
+785645	Abusive	random baseline
+10221	Profane	random baseline
+51427	Abusive	random baseline
+327009	Sexism	random baseline
+72638	Political Hate	random baseline
+454694	None	random baseline
+531585	Profane	random baseline
+905729	Religious Hate	random baseline
+826344	Abusive	random baseline
+622615	Religious Hate	random baseline
+341026	Profane	random baseline
+756812	None	random baseline
+446998	Abusive	random baseline
+507755	Political Hate	random baseline
+252185	Profane	random baseline
+677872	Political Hate	random baseline
+573406	Profane	random baseline
+708512	Political Hate	random baseline
+35865	Religious Hate	random baseline
+521314	Abusive	random baseline
+629720	Sexism	random baseline
+579590	Religious Hate	random baseline
+420676	Profane	random baseline
+888468	Religious Hate	random baseline
+507098	Profane	random baseline
+33791	Sexism	random baseline
+628771	Religious Hate	random baseline
+197579	Religious Hate	random baseline
+228413	Abusive	random baseline
+607208	Religious Hate	random baseline
+482851	Sexism	random baseline
+641065	Political Hate	random baseline
+154089	Religious Hate	random baseline
+21246	None	random baseline
+99970	Sexism	random baseline
+243706	Religious Hate	random baseline
+366232	Profane	random baseline
+799431	Profane	random baseline
+151836	Abusive	random baseline
+384383	Political Hate	random baseline
+430350	Religious Hate	random baseline
+321512	Religious Hate	random baseline
+791877	Abusive	random baseline
+369126	Sexism	random baseline
+769210	Abusive	random baseline
+389866	Religious Hate	random baseline
+124392	Religious Hate	random baseline
+111565	None	random baseline
+87928	Profane	random baseline
+507897	None	random baseline
+284276	Political Hate	random baseline
+211557	Profane	random baseline
+407528	Abusive	random baseline
+656024	None	random baseline
+163256	None	random baseline
+701482	Political Hate	random baseline
+28613	Sexism	random baseline
+393451	Profane	random baseline
+130986	Political Hate	random baseline
+47847	None	random baseline
+474831	Profane	random baseline
+262358	Religious Hate	random baseline
+809182	None	random baseline
+912597	Abusive	random baseline
+491193	Abusive	random baseline
+605569	Religious Hate	random baseline
+380424	Political Hate	random baseline
+603456	Abusive	random baseline
+107100	Profane	random baseline
+626831	Abusive	random baseline
+447213	Political Hate	random baseline
+697862	Sexism	random baseline
+91497	Abusive	random baseline
+652526	None	random baseline
+24792	Profane	random baseline
+571083	Profane	random baseline
+890268	Religious Hate	random baseline
+5297	Abusive	random baseline
+920594	Sexism	random baseline
+172944	Profane	random baseline
+624079	Abusive	random baseline
+770329	None	random baseline
+692607	Religious Hate	random baseline
+3052	Political Hate	random baseline
+844455	Abusive	random baseline
+814896	Religious Hate	random baseline
+110591	Political Hate	random baseline
+180575	None	random baseline
+254322	Religious Hate	random baseline
+574720	Sexism	random baseline
+622377	Political Hate	random baseline
+623083	Profane	random baseline
+668718	Political Hate	random baseline
+633172	Sexism	random baseline
+6790	None	random baseline
+850984	Religious Hate	random baseline
+500524	Political Hate	random baseline
+581344	Sexism	random baseline
+654769	Political Hate	random baseline
+706547	Profane	random baseline
+603782	Abusive	random baseline
+302171	Profane	random baseline
+744717	Sexism	random baseline
+512972	Political Hate	random baseline
+781353	Religious Hate	random baseline
+384814	Sexism	random baseline
+15032	Religious Hate	random baseline
+251425	Profane	random baseline
+813466	Political Hate	random baseline
+675844	Political Hate	random baseline
+2583	Abusive	random baseline
+659227	Sexism	random baseline
+169886	Political Hate	random baseline
+381979	Political Hate	random baseline
+299641	Sexism	random baseline
+704171	Abusive	random baseline
+618279	None	random baseline
+641060	Profane	random baseline
+562096	Political Hate	random baseline
+318122	Abusive	random baseline
+451639	None	random baseline
+653504	None	random baseline
+144836	Abusive	random baseline
+426811	None	random baseline
+399359	Abusive	random baseline
+610564	Political Hate	random baseline
+246780	Political Hate	random baseline
+838887	Abusive	random baseline
+144994	Religious Hate	random baseline
+854277	Religious Hate	random baseline
+865313	None	random baseline
+578428	Profane	random baseline
+187917	Political Hate	random baseline
+348388	None	random baseline
+741123	Religious Hate	random baseline
+634544	Profane	random baseline
+778366	Sexism	random baseline
+441000	None	random baseline
+377994	Profane	random baseline
+362805	Religious Hate	random baseline
+12475	Profane	random baseline
+460383	None	random baseline
+870913	Sexism	random baseline
+2715	Political Hate	random baseline
+921356	Sexism	random baseline
+196647	Abusive	random baseline
+824151	Profane	random baseline
+382540	Profane	random baseline
+1087	Religious Hate	random baseline
+380610	Religious Hate	random baseline
+416517	Sexism	random baseline
+456028	Profane	random baseline
+431471	Sexism	random baseline
+453235	Abusive	random baseline
+927587	None	random baseline
+422259	Religious Hate	random baseline
+896697	Profane	random baseline
+42562	Political Hate	random baseline
+197313	Profane	random baseline
+690302	None	random baseline
+925174	Sexism	random baseline
+535584	Religious Hate	random baseline
+931365	Abusive	random baseline
+227393	Profane	random baseline
+329379	Religious Hate	random baseline
+56445	Political Hate	random baseline
+546158	Religious Hate	random baseline
+258725	Political Hate	random baseline
+175825	Religious Hate	random baseline
+937532	Profane	random baseline
+833099	Abusive	random baseline
+321436	Abusive	random baseline
+755018	Religious Hate	random baseline
+798262	Religious Hate	random baseline
+866278	Profane	random baseline
+210321	Religious Hate	random baseline
+363164	None	random baseline
+370542	Religious Hate	random baseline
+132703	Political Hate	random baseline
+601946	Religious Hate	random baseline
+897150	None	random baseline
+256376	Religious Hate	random baseline
+240015	Political Hate	random baseline
+259547	Profane	random baseline
+67131	Sexism	random baseline
+923885	Profane	random baseline
+226135	None	random baseline
+662300	Sexism	random baseline
+677456	Profane	random baseline
+485008	Political Hate	random baseline
+529942	Political Hate	random baseline
+914346	Sexism	random baseline
+298173	Sexism	random baseline
+446809	Religious Hate	random baseline
+671424	None	random baseline
+793955	Religious Hate	random baseline
+157776	None	random baseline
+283469	Abusive	random baseline
+206317	None	random baseline
+33066	Religious Hate	random baseline
+36214	None	random baseline
+683112	Abusive	random baseline
+831416	Abusive	random baseline
+473865	Profane	random baseline
+783655	Religious Hate	random baseline
+344565	Abusive	random baseline
+240377	Political Hate	random baseline
+205517	Sexism	random baseline
+624990	Profane	random baseline
+114646	Profane	random baseline
+860260	Profane	random baseline
+321233	Profane	random baseline
+287639	None	random baseline
+698525	None	random baseline
+640865	Sexism	random baseline
+493551	Profane	random baseline
+329369	Sexism	random baseline
+687000	Profane	random baseline
+938515	Sexism	random baseline
+71327	Political Hate	random baseline
+82872	Sexism	random baseline
+564549	None	random baseline
+93050	Profane	random baseline
+684599	Abusive	random baseline
+923214	Sexism	random baseline
+712666	None	random baseline
+516447	Sexism	random baseline
+789503	Political Hate	random baseline
+126197	Profane	random baseline
+83510	Sexism	random baseline
+693378	Profane	random baseline
+766830	Profane	random baseline
+917369	Religious Hate	random baseline
+140689	Profane	random baseline
+828319	Abusive	random baseline
+441784	Sexism	random baseline
+584069	Sexism	random baseline
+595722	Sexism	random baseline
+587975	Sexism	random baseline
+737847	Abusive	random baseline
+355260	Political Hate	random baseline
+208807	Profane	random baseline
+698527	Profane	random baseline
+342704	Political Hate	random baseline
+281083	Abusive	random baseline
+594110	Religious Hate	random baseline
+208175	Abusive	random baseline
+536181	None	random baseline
+562508	Abusive	random baseline
+844368	Political Hate	random baseline
+355570	None	random baseline
+576652	Political Hate	random baseline
+230254	Profane	random baseline
+396913	Sexism	random baseline
+160607	Profane	random baseline
+775615	Religious Hate	random baseline
+634523	Sexism	random baseline
+313291	Abusive	random baseline
+631046	Profane	random baseline
+550426	Profane	random baseline
+807498	None	random baseline
+388081	Religious Hate	random baseline
+532701	Sexism	random baseline
+506934	Political Hate	random baseline
+322440	Profane	random baseline
+507780	Sexism	random baseline
+133106	Abusive	random baseline
+584019	None	random baseline
+474793	Abusive	random baseline
+890928	None	random baseline
+888703	Sexism	random baseline
+391227	Profane	random baseline
+511127	Sexism	random baseline
+507374	Political Hate	random baseline
+680347	Political Hate	random baseline
+63627	Religious Hate	random baseline
+903197	Religious Hate	random baseline
+938868	None	random baseline
+675732	None	random baseline
+482546	Political Hate	random baseline
+675440	Sexism	random baseline
+115168	Sexism	random baseline
+352533	Sexism	random baseline
+630861	Abusive	random baseline
+768879	Political Hate	random baseline
+882539	Sexism	random baseline
+558518	Political Hate	random baseline
+937312	None	random baseline
+422059	Political Hate	random baseline
+416662	Sexism	random baseline
+632696	Sexism	random baseline
+203962	None	random baseline
+857709	Religious Hate	random baseline
+793617	Profane	random baseline
+486353	Political Hate	random baseline
+635854	None	random baseline
+84223	Sexism	random baseline
+150930	Sexism	random baseline
+156149	Sexism	random baseline
+772243	Sexism	random baseline
+644418	Sexism	random baseline
+723392	Religious Hate	random baseline
+717266	Abusive	random baseline
+75367	Profane	random baseline
+398304	Abusive	random baseline
+350619	Profane	random baseline
+633361	None	random baseline
+545400	Religious Hate	random baseline
+184710	Abusive	random baseline
+126450	Sexism	random baseline
+157874	Sexism	random baseline
+268695	Abusive	random baseline
+443262	Profane	random baseline
+405050	Political Hate	random baseline
+475199	Sexism	random baseline
+909906	Political Hate	random baseline
+619424	Profane	random baseline
+338317	Sexism	random baseline
+208842	None	random baseline
+297713	Religious Hate	random baseline
+198549	Sexism	random baseline
+240451	Religious Hate	random baseline
+432313	Abusive	random baseline
+556009	Abusive	random baseline
+291078	Religious Hate	random baseline
+647866	Abusive	random baseline
+885374	Profane	random baseline
+149363	Religious Hate	random baseline
+169573	Profane	random baseline
+456507	Political Hate	random baseline
+589233	Religious Hate	random baseline
+112377	None	random baseline
+831724	None	random baseline
+5407	Political Hate	random baseline
+15943	None	random baseline
+741246	Abusive	random baseline
+61405	None	random baseline
+915869	Profane	random baseline
+511267	Sexism	random baseline
+1471	Profane	random baseline
+367605	Religious Hate	random baseline
+174842	Political Hate	random baseline
+137391	Abusive	random baseline
+840729	None	random baseline
+416127	Abusive	random baseline
+330333	Political Hate	random baseline
+670421	Political Hate	random baseline
+242499	Sexism	random baseline
+144117	Sexism	random baseline
+639424	Sexism	random baseline
+394368	None	random baseline
+291259	Political Hate	random baseline
+142509	Sexism	random baseline
+226408	Political Hate	random baseline
+486351	None	random baseline
+865343	Profane	random baseline
+490548	None	random baseline
+430804	None	random baseline
+292631	Abusive	random baseline
+399708	Sexism	random baseline
+62074	Religious Hate	random baseline
+277817	Profane	random baseline
+451449	Sexism	random baseline
+937837	None	random baseline
+69996	Profane	random baseline
+472779	Profane	random baseline
+593869	Religious Hate	random baseline
+113374	Religious Hate	random baseline
+295098	Profane	random baseline
+688164	Political Hate	random baseline
+754307	Profane	random baseline
+185344	Abusive	random baseline
+206819	Profane	random baseline
+776128	Sexism	random baseline
+438265	Profane	random baseline
+586064	Abusive	random baseline
+588534	Sexism	random baseline
+863686	Sexism	random baseline
+694501	Abusive	random baseline
+97900	Political Hate	random baseline
+166900	Sexism	random baseline
+109971	Sexism	random baseline
+497464	Sexism	random baseline
+376477	Profane	random baseline
+65718	Sexism	random baseline
+784043	Political Hate	random baseline
+702897	Profane	random baseline
+352371	Profane	random baseline
+52223	Profane	random baseline
+131128	Profane	random baseline
+13831	None	random baseline
+148597	None	random baseline
+60602	None	random baseline
+752509	Political Hate	random baseline
+730085	Religious Hate	random baseline
+625048	Political Hate	random baseline
+541629	Abusive	random baseline
+895206	Sexism	random baseline
+725993	None	random baseline
+296053	Religious Hate	random baseline
+240086	Political Hate	random baseline
+106374	Political Hate	random baseline
+2358	Religious Hate	random baseline
+655996	Profane	random baseline
+2640	None	random baseline
+583695	Political Hate	random baseline
+740126	Profane	random baseline
+116038	None	random baseline
+839438	Sexism	random baseline
+216777	Religious Hate	random baseline
+717153	Sexism	random baseline
+628314	Religious Hate	random baseline
+49560	Sexism	random baseline
+484546	Sexism	random baseline
+411292	Religious Hate	random baseline
+739397	Religious Hate	random baseline
+33049	Sexism	random baseline
+234943	Religious Hate	random baseline
+85567	None	random baseline
+898840	None	random baseline
+110149	None	random baseline
+928802	Profane	random baseline
+65232	Sexism	random baseline
+609733	Abusive	random baseline
+607110	None	random baseline
+656146	None	random baseline
+122819	Sexism	random baseline
+924773	Religious Hate	random baseline
+855239	Sexism	random baseline
+455140	Political Hate	random baseline
+172685	Abusive	random baseline
+705941	Religious Hate	random baseline
+317297	Religious Hate	random baseline
+637876	Abusive	random baseline
+198449	Sexism	random baseline
+822721	Sexism	random baseline
+347419	Political Hate	random baseline
+503146	Profane	random baseline
+601962	Political Hate	random baseline
+847061	None	random baseline
+449847	Abusive	random baseline
+266272	Profane	random baseline
+579593	Religious Hate	random baseline
+696370	Profane	random baseline
+282600	None	random baseline
+901656	Sexism	random baseline
+348015	Profane	random baseline
+436616	Religious Hate	random baseline
+257730	Sexism	random baseline
+662170	Political Hate	random baseline
+385756	Sexism	random baseline
+359726	Religious Hate	random baseline
+660956	None	random baseline
+767839	None	random baseline
+104694	Religious Hate	random baseline
+939708	Profane	random baseline
+918343	Religious Hate	random baseline
+169088	Sexism	random baseline
+559219	Abusive	random baseline
+313940	Sexism	random baseline
+156518	Religious Hate	random baseline
+475465	Abusive	random baseline
+796521	Abusive	random baseline
+340667	Political Hate	random baseline
+871730	Political Hate	random baseline
+526989	Sexism	random baseline
+2000	Profane	random baseline
+770360	Political Hate	random baseline
+97016	Religious Hate	random baseline
+759827	Profane	random baseline
+121027	None	random baseline
+398334	Political Hate	random baseline
+88547	Profane	random baseline
+388063	Abusive	random baseline
+584267	Political Hate	random baseline
+199146	None	random baseline
+862801	Profane	random baseline
+663203	Sexism	random baseline
+384078	Abusive	random baseline
+674707	Abusive	random baseline
+248801	Abusive	random baseline
+434904	None	random baseline
+892832	Profane	random baseline
+849635	Religious Hate	random baseline
+357655	Profane	random baseline
+38822	Profane	random baseline
+15868	Profane	random baseline
+92875	Sexism	random baseline
+881948	Religious Hate	random baseline
+930602	None	random baseline
+297212	Sexism	random baseline
+720687	None	random baseline
+129760	Political Hate	random baseline
+195054	Religious Hate	random baseline
+109394	Religious Hate	random baseline
+869427	Abusive	random baseline
+916439	Profane	random baseline
+137360	Sexism	random baseline
+617422	Sexism	random baseline
+78119	Profane	random baseline
+723502	None	random baseline
+478562	Profane	random baseline
+65211	Sexism	random baseline
+509559	Political Hate	random baseline
+326033	Political Hate	random baseline
+863542	Political Hate	random baseline
+700913	Sexism	random baseline
+674516	Religious Hate	random baseline
+559600	Sexism	random baseline
+503290	Religious Hate	random baseline
+896878	Religious Hate	random baseline
+134107	Sexism	random baseline
+249718	Profane	random baseline
+163349	Sexism	random baseline
+401513	Profane	random baseline
+650595	Religious Hate	random baseline
+752284	Religious Hate	random baseline
+865890	Profane	random baseline
+186435	None	random baseline
+373339	Sexism	random baseline
+286709	Religious Hate	random baseline
+643016	Profane	random baseline
+27134	Political Hate	random baseline
+593062	Profane	random baseline
+676443	Political Hate	random baseline
+614707	Political Hate	random baseline
+61510	Religious Hate	random baseline
+153559	Political Hate	random baseline
+433441	Abusive	random baseline
+216305	Political Hate	random baseline
+910124	Sexism	random baseline
+620809	Sexism	random baseline
+932421	Profane	random baseline
+425270	None	random baseline
+273781	Sexism	random baseline
+187613	Political Hate	random baseline
+124364	Religious Hate	random baseline
+877298	Religious Hate	random baseline
+605600	Abusive	random baseline
+349142	Sexism	random baseline
+780477	Religious Hate	random baseline
+850714	Abusive	random baseline
+182549	None	random baseline
+591436	None	random baseline
+532973	Abusive	random baseline
+254837	Abusive	random baseline
+570134	Political Hate	random baseline
+600873	None	random baseline
+897692	Religious Hate	random baseline
+145602	None	random baseline
+674074	Religious Hate	random baseline
+617154	Religious Hate	random baseline
+131424	Political Hate	random baseline
+863095	None	random baseline
+753046	Profane	random baseline
+889442	Sexism	random baseline
+290088	Profane	random baseline
+158006	Sexism	random baseline
+915317	Sexism	random baseline
+928884	Religious Hate	random baseline
+845497	None	random baseline
+337012	None	random baseline
+806329	Abusive	random baseline
+513110	Profane	random baseline
+313334	Abusive	random baseline
+843096	Sexism	random baseline
+406040	Political Hate	random baseline
+436473	Political Hate	random baseline
+864150	Political Hate	random baseline
+307617	Religious Hate	random baseline
+486690	Religious Hate	random baseline
+197326	Political Hate	random baseline
+295541	Sexism	random baseline
+264754	Political Hate	random baseline
+214178	Profane	random baseline
+288143	Abusive	random baseline
+77822	Religious Hate	random baseline
+659471	Sexism	random baseline
+441154	Profane	random baseline
+304049	Sexism	random baseline
+635950	Political Hate	random baseline
+863812	Profane	random baseline
+642147	Religious Hate	random baseline
+206032	None	random baseline
+936269	Religious Hate	random baseline
+87245	Profane	random baseline
+831967	Profane	random baseline
+773650	Political Hate	random baseline
+578805	Abusive	random baseline
+54423	Religious Hate	random baseline
+187408	Political Hate	random baseline
+446182	Religious Hate	random baseline
+240952	Political Hate	random baseline
+609430	Abusive	random baseline
+32107	Profane	random baseline
+257935	Political Hate	random baseline
+823899	None	random baseline
+685145	Sexism	random baseline
+398331	Profane	random baseline
+153024	Political Hate	random baseline
+175531	Religious Hate	random baseline
+446560	Political Hate	random baseline
+418942	Political Hate	random baseline
+594047	Sexism	random baseline
+542787	Sexism	random baseline
+506353	Political Hate	random baseline
+841821	Political Hate	random baseline
+427816	Profane	random baseline
+186081	None	random baseline
+63181	None	random baseline
+474439	Sexism	random baseline
+266781	Religious Hate	random baseline
+863333	None	random baseline
+99308	Abusive	random baseline
+411516	Sexism	random baseline
+917711	Profane	random baseline
+297791	Political Hate	random baseline
+837511	None	random baseline
+516611	Political Hate	random baseline
+361540	Sexism	random baseline
+289632	Abusive	random baseline
+557898	Abusive	random baseline
+478098	Profane	random baseline
+219774	Religious Hate	random baseline
+639571	Political Hate	random baseline
+458029	None	random baseline
+26006	Abusive	random baseline
+615341	Religious Hate	random baseline
+365272	Religious Hate	random baseline
+446152	Religious Hate	random baseline
+924516	Religious Hate	random baseline
+912732	Profane	random baseline
+3376	None	random baseline
+873206	Sexism	random baseline
+147620	Sexism	random baseline
+48729	Political Hate	random baseline
+118706	Sexism	random baseline
+496287	Sexism	random baseline
+633278	None	random baseline
+556423	Sexism	random baseline
+192902	Religious Hate	random baseline
+750879	Profane	random baseline
+715529	Religious Hate	random baseline
+134711	Sexism	random baseline
+660107	Abusive	random baseline
+437345	Abusive	random baseline
+214891	Profane	random baseline
+900908	None	random baseline
+763719	Sexism	random baseline
+315444	Abusive	random baseline
+455707	Religious Hate	random baseline
+290653	Sexism	random baseline
+691850	Political Hate	random baseline
+318941	Religious Hate	random baseline
+182737	Religious Hate	random baseline
+285028	Political Hate	random baseline
+904223	Abusive	random baseline
+291039	Religious Hate	random baseline
+645637	Religious Hate	random baseline
+328958	Abusive	random baseline
+168539	Religious Hate	random baseline
+375694	Political Hate	random baseline
+501348	Political Hate	random baseline
+30143	Sexism	random baseline
+565055	Abusive	random baseline
+481211	None	random baseline
+8371	Profane	random baseline
+757645	Political Hate	random baseline
+738411	None	random baseline
+767666	Political Hate	random baseline
+261763	Abusive	random baseline
+351660	Sexism	random baseline
+476158	Religious Hate	random baseline
+865803	Abusive	random baseline
+111001	Political Hate	random baseline
+61880	Profane	random baseline
+530551	None	random baseline
+583453	Sexism	random baseline
+764722	Abusive	random baseline
+511997	Profane	random baseline
+884021	Sexism	random baseline
+434129	Abusive	random baseline
+318573	Profane	random baseline
+760589	None	random baseline
+804650	Sexism	random baseline
+528897	Abusive	random baseline
+716202	Abusive	random baseline
+670284	Religious Hate	random baseline
+869145	Religious Hate	random baseline
+565795	Abusive	random baseline
+801623	None	random baseline
+553622	Profane	random baseline
+690373	Political Hate	random baseline
+421996	Political Hate	random baseline
+584595	Sexism	random baseline
+790924	Religious Hate	random baseline
+839704	Sexism	random baseline
+939459	Abusive	random baseline
+533215	Profane	random baseline
+72989	Political Hate	random baseline
+577898	Religious Hate	random baseline
+912409	Religious Hate	random baseline
+53215	Political Hate	random baseline
+475181	Profane	random baseline
+220520	Political Hate	random baseline
+773174	Religious Hate	random baseline
+758814	None	random baseline
+606304	None	random baseline
+500972	Profane	random baseline
+685233	Sexism	random baseline
+475996	Abusive	random baseline
+741328	Profane	random baseline
+236813	None	random baseline
+250911	Profane	random baseline
+184353	None	random baseline
+502301	Sexism	random baseline
+104489	Political Hate	random baseline
+744914	Political Hate	random baseline
+446232	None	random baseline
+481561	Abusive	random baseline
+191354	None	random baseline
+900461	Profane	random baseline
+415829	None	random baseline
+613833	None	random baseline
+718306	Sexism	random baseline
+496351	Religious Hate	random baseline
+708366	Abusive	random baseline
+578669	Religious Hate	random baseline
+487410	Political Hate	random baseline
+360171	Religious Hate	random baseline
+97036	None	random baseline
+782954	Profane	random baseline
+881673	Sexism	random baseline
+193131	Profane	random baseline
+113089	Abusive	random baseline
+640459	Abusive	random baseline
+863300	Sexism	random baseline
+166765	None	random baseline
+465600	Religious Hate	random baseline
+524846	Sexism	random baseline
+377912	Profane	random baseline
+647030	Sexism	random baseline
+389642	None	random baseline
+838786	Sexism	random baseline
+683189	Abusive	random baseline
+44208	None	random baseline
+129258	Religious Hate	random baseline
+537879	Religious Hate	random baseline
+828437	Sexism	random baseline
+910625	Political Hate	random baseline
+897725	Religious Hate	random baseline
+129142	Abusive	random baseline
+520734	Sexism	random baseline
+274405	Sexism	random baseline
+187223	Profane	random baseline
+679398	None	random baseline
+843495	Sexism	random baseline
+888495	Sexism	random baseline
+762390	Sexism	random baseline
+385068	Political Hate	random baseline
+668222	None	random baseline
+555345	Sexism	random baseline
+427170	Abusive	random baseline
+358744	Religious Hate	random baseline
+175954	Abusive	random baseline
+685817	Profane	random baseline
+484759	None	random baseline
+395035	Sexism	random baseline
+176114	Political Hate	random baseline
+300739	None	random baseline
+528625	Abusive	random baseline
+511158	None	random baseline
+453505	None	random baseline
+293969	Profane	random baseline
+647598	None	random baseline
+553699	Sexism	random baseline
+95466	Religious Hate	random baseline
+835149	Profane	random baseline
+748909	Abusive	random baseline
+194226	Abusive	random baseline
+142118	Sexism	random baseline
+870702	Religious Hate	random baseline
+364886	Sexism	random baseline
+112111	Abusive	random baseline
+899804	Profane	random baseline
+696989	Abusive	random baseline
+887716	Sexism	random baseline
+660186	Sexism	random baseline
+901036	Political Hate	random baseline
+510168	Abusive	random baseline
+203599	None	random baseline
+423343	Religious Hate	random baseline
+83835	None	random baseline
+828482	Sexism	random baseline
+409288	Political Hate	random baseline
+40340	Sexism	random baseline
+801215	Abusive	random baseline
+666047	Profane	random baseline
+700821	Sexism	random baseline
+701993	None	random baseline
+254382	Sexism	random baseline
+623669	Religious Hate	random baseline
+175843	Profane	random baseline
+400663	Sexism	random baseline
+468054	Sexism	random baseline
+610633	Abusive	random baseline
+620852	None	random baseline
+236927	Sexism	random baseline
+359516	None	random baseline
+863317	Profane	random baseline
+590188	Sexism	random baseline
+650314	Profane	random baseline
+412701	None	random baseline
+720266	Political Hate	random baseline
+866888	Abusive	random baseline
+530041	Sexism	random baseline
+495166	Political Hate	random baseline
+114148	Abusive	random baseline
+646106	Profane	random baseline
+818634	Abusive	random baseline
+489381	Abusive	random baseline
+366857	Abusive	random baseline
+216109	Abusive	random baseline
+634558	Profane	random baseline
+250297	Sexism	random baseline
+21656	Sexism	random baseline
+356050	Profane	random baseline
+450240	Sexism	random baseline
+511964	None	random baseline
+755491	None	random baseline
+860563	Religious Hate	random baseline
+550210	Sexism	random baseline
+914642	Abusive	random baseline
+833043	Religious Hate	random baseline
+562960	Religious Hate	random baseline
+725746	Abusive	random baseline
+222268	Political Hate	random baseline
+93194	Abusive	random baseline
+227813	Profane	random baseline
+582922	None	random baseline
+86299	Profane	random baseline
+186473	Profane	random baseline
+905562	Religious Hate	random baseline
+95832	Profane	random baseline
+53058	None	random baseline
+885378	Abusive	random baseline
+821731	Abusive	random baseline
+179744	Political Hate	random baseline
+856357	Political Hate	random baseline
+879521	Religious Hate	random baseline
+101653	Profane	random baseline
+922502	None	random baseline
+376711	None	random baseline
+375336	Political Hate	random baseline
+569127	Abusive	random baseline
+233456	Abusive	random baseline
+602142	Profane	random baseline
+259506	Sexism	random baseline
+647250	Political Hate	random baseline
+236784	Abusive	random baseline
+590227	Sexism	random baseline
+349521	Profane	random baseline
+511561	Sexism	random baseline
+565514	Sexism	random baseline
+279985	Religious Hate	random baseline
+181848	Sexism	random baseline
+117547	Abusive	random baseline
+485388	Sexism	random baseline
+883559	Religious Hate	random baseline
+108865	None	random baseline
+892775	Profane	random baseline
+446371	Abusive	random baseline
+325101	Religious Hate	random baseline
+554771	Profane	random baseline
+714174	Political Hate	random baseline
+175345	Sexism	random baseline
+666577	Political Hate	random baseline
+453621	Sexism	random baseline
+658873	Sexism	random baseline
+467382	Political Hate	random baseline
+600530	None	random baseline
+56405	Religious Hate	random baseline
+50971	Political Hate	random baseline
+455443	None	random baseline
+31476	Religious Hate	random baseline
+869211	None	random baseline
+800776	Religious Hate	random baseline
+838918	None	random baseline
+442892	Political Hate	random baseline
+496264	Religious Hate	random baseline
+52071	Sexism	random baseline
+136763	None	random baseline
+432625	Religious Hate	random baseline
+271540	None	random baseline
+867436	Sexism	random baseline
+122013	Religious Hate	random baseline
+413841	Profane	random baseline
+374473	Sexism	random baseline
+153845	Profane	random baseline
+35355	Profane	random baseline
+238900	Political Hate	random baseline
+206596	Profane	random baseline
+723545	Political Hate	random baseline
+187726	None	random baseline
+143551	None	random baseline
+801088	Profane	random baseline
+110960	Sexism	random baseline
+35530	Profane	random baseline
+242127	Political Hate	random baseline
+266531	Profane	random baseline
+32418	Political Hate	random baseline
+169879	Political Hate	random baseline
+555753	Sexism	random baseline
+383955	None	random baseline
+265215	Sexism	random baseline
+513523	None	random baseline
+120318	Religious Hate	random baseline
+66478	Abusive	random baseline
+579738	Profane	random baseline
+172555	Religious Hate	random baseline
+227264	Profane	random baseline
+350192	Abusive	random baseline
+761236	Profane	random baseline
+702997	None	random baseline
+264513	None	random baseline
+268929	Abusive	random baseline
+808583	Sexism	random baseline
+614492	Abusive	random baseline
+436989	Political Hate	random baseline
+57969	Sexism	random baseline
+269802	Profane	random baseline
+395283	Political Hate	random baseline
+414051	Religious Hate	random baseline
+634572	None	random baseline
+712780	Religious Hate	random baseline
+426486	None	random baseline
+658649	None	random baseline
+514546	None	random baseline
+654533	Profane	random baseline
+811644	Profane	random baseline
+753518	Sexism	random baseline
+212933	Religious Hate	random baseline
+481410	Religious Hate	random baseline
+879597	Profane	random baseline
+916269	Religious Hate	random baseline
+596268	None	random baseline
+127543	Sexism	random baseline
+530446	Abusive	random baseline
+662349	Sexism	random baseline
+192423	None	random baseline
+915911	Sexism	random baseline
+832025	Profane	random baseline
+235058	Profane	random baseline
+342722	Political Hate	random baseline
+590535	Profane	random baseline
+117357	Abusive	random baseline
+229350	Religious Hate	random baseline
+155928	Sexism	random baseline
+769055	Profane	random baseline
+84582	Profane	random baseline
+451655	Religious Hate	random baseline
+818907	Profane	random baseline
+646802	Religious Hate	random baseline
+13335	Religious Hate	random baseline
+542439	None	random baseline
+580999	Profane	random baseline
+84554	Profane	random baseline
+416200	None	random baseline
+590424	Sexism	random baseline
+856234	Political Hate	random baseline
+833479	Religious Hate	random baseline
+628374	Sexism	random baseline
+766711	Profane	random baseline
+533202	Political Hate	random baseline
+380661	Sexism	random baseline
+634726	None	random baseline
+850101	Political Hate	random baseline
+720638	Abusive	random baseline
+918299	Religious Hate	random baseline
+187	Sexism	random baseline
+864313	Religious Hate	random baseline
+510537	Sexism	random baseline
+897340	None	random baseline
+542171	Political Hate	random baseline
+409108	Political Hate	random baseline
+22085	Religious Hate	random baseline
+63549	Profane	random baseline
+438546	Profane	random baseline
+355393	Religious Hate	random baseline
+521395	Sexism	random baseline
+323114	Profane	random baseline
+484458	Political Hate	random baseline
+599475	Profane	random baseline
+797360	Sexism	random baseline
+651286	Religious Hate	random baseline
+683669	Profane	random baseline
+930782	None	random baseline
+639703	Abusive	random baseline
+492224	None	random baseline
+888195	None	random baseline
+775619	Political Hate	random baseline
+115463	None	random baseline
+624463	Sexism	random baseline
+276240	Profane	random baseline
+548182	Political Hate	random baseline
+236122	Religious Hate	random baseline
+938584	Religious Hate	random baseline
+817776	Profane	random baseline
+21930	Profane	random baseline
+558901	Religious Hate	random baseline
+587590	Abusive	random baseline
+211908	Political Hate	random baseline
+60346	Sexism	random baseline
+605691	Religious Hate	random baseline
+929182	Religious Hate	random baseline
+712367	None	random baseline
+320500	None	random baseline
+100677	Abusive	random baseline
+651652	Abusive	random baseline
+295085	None	random baseline
+98323	Profane	random baseline
+158100	Political Hate	random baseline
+443977	Religious Hate	random baseline
+742186	Political Hate	random baseline
+14621	Religious Hate	random baseline
+2141	Sexism	random baseline
+939740	Sexism	random baseline
+675171	Abusive	random baseline
+154958	Political Hate	random baseline
+792298	Political Hate	random baseline
+146258	Profane	random baseline
+692258	Profane	random baseline
+655142	Profane	random baseline
+279831	Political Hate	random baseline
+904641	Sexism	random baseline
+76223	Sexism	random baseline
+356935	Religious Hate	random baseline
+454409	Religious Hate	random baseline
+151915	Abusive	random baseline
+289689	Political Hate	random baseline
+681172	Sexism	random baseline
+68747	Sexism	random baseline
+440160	Religious Hate	random baseline
+1052	Religious Hate	random baseline
+604360	Abusive	random baseline
+514264	Political Hate	random baseline
+792554	Sexism	random baseline
+359885	Abusive	random baseline
+669056	Abusive	random baseline
+467484	Abusive	random baseline
+618921	Political Hate	random baseline
+487676	Political Hate	random baseline
+794639	Abusive	random baseline
+716246	Religious Hate	random baseline
+720764	Profane	random baseline
+719110	Abusive	random baseline
+117150	Sexism	random baseline
+735722	Abusive	random baseline
+476769	Abusive	random baseline
+241694	Political Hate	random baseline
+638142	Political Hate	random baseline
+17820	Profane	random baseline
+330114	Religious Hate	random baseline
+862260	Profane	random baseline
+857208	Sexism	random baseline
+68092	None	random baseline
+487264	Religious Hate	random baseline
+473274	None	random baseline
+887201	Profane	random baseline
+670410	None	random baseline
+704946	Profane	random baseline
+772823	Religious Hate	random baseline
+506461	Political Hate	random baseline
+380105	Abusive	random baseline
+929223	Profane	random baseline
+529715	Abusive	random baseline
+455667	Political Hate	random baseline
+718043	None	random baseline
+25258	Profane	random baseline
+460726	None	random baseline
+203292	None	random baseline
+933690	Religious Hate	random baseline
+799342	Sexism	random baseline
+353835	Profane	random baseline
+506091	None	random baseline
+143296	Sexism	random baseline
+246688	Religious Hate	random baseline
+759063	None	random baseline
+299831	Profane	random baseline
+872711	Profane	random baseline
+912606	None	random baseline
+473707	Political Hate	random baseline
+333814	Political Hate	random baseline
+745132	Profane	random baseline
+646880	Sexism	random baseline
+801734	Abusive	random baseline
+253010	Abusive	random baseline
+938397	Profane	random baseline
+26778	Sexism	random baseline
+279632	Profane	random baseline
+81888	Sexism	random baseline
+830204	Profane	random baseline
+618989	Religious Hate	random baseline
+391464	Abusive	random baseline
+834652	Religious Hate	random baseline
+657293	Abusive	random baseline
+624795	None	random baseline
+443138	Profane	random baseline
+762703	None	random baseline
+561	Religious Hate	random baseline
+226325	Sexism	random baseline
+755107	Abusive	random baseline
+601796	None	random baseline
+204339	Profane	random baseline
+821623	Political Hate	random baseline
+373459	Religious Hate	random baseline
+140309	Profane	random baseline
+415542	Religious Hate	random baseline
+934048	Abusive	random baseline
+410499	Religious Hate	random baseline
+738445	Abusive	random baseline
+697740	Religious Hate	random baseline
+844028	Abusive	random baseline
+880305	None	random baseline
+45411	Political Hate	random baseline
+309202	None	random baseline
+585486	None	random baseline
+16436	Sexism	random baseline
+438854	Sexism	random baseline
+516844	Sexism	random baseline
+384723	Abusive	random baseline
+891578	Sexism	random baseline
+629162	Abusive	random baseline
+468009	Sexism	random baseline
+166047	Profane	random baseline
+104001	Profane	random baseline
+783482	None	random baseline
+259244	Religious Hate	random baseline
+266603	Abusive	random baseline
+101545	None	random baseline
+439409	Abusive	random baseline
+635499	Abusive	random baseline
+841496	None	random baseline
+869467	Abusive	random baseline
+119302	Sexism	random baseline
+566785	Sexism	random baseline
+155600	None	random baseline
+472227	Political Hate	random baseline
+739865	Sexism	random baseline
+56526	Abusive	random baseline
+830	Religious Hate	random baseline
+329377	Profane	random baseline
+730452	Sexism	random baseline
+830987	Sexism	random baseline
+372273	Political Hate	random baseline
+844517	Profane	random baseline
+323431	Profane	random baseline
+698240	None	random baseline
+889749	None	random baseline
+165523	Abusive	random baseline
+17339	Abusive	random baseline
+137020	None	random baseline
+572005	Sexism	random baseline
+408325	Profane	random baseline
+623444	Profane	random baseline
+82577	None	random baseline
+887946	Profane	random baseline
+927166	Religious Hate	random baseline
+813556	Religious Hate	random baseline
+3490	None	random baseline
+453858	Abusive	random baseline
+748818	Religious Hate	random baseline
+459611	Religious Hate	random baseline
+240501	Sexism	random baseline
+19075	Profane	random baseline
+806839	None	random baseline
+111890	Political Hate	random baseline
+535210	Political Hate	random baseline
+871081	None	random baseline
+884878	Political Hate	random baseline
+898010	Profane	random baseline
+68987	Abusive	random baseline
+610453	None	random baseline
+23122	Religious Hate	random baseline
+205839	Sexism	random baseline
+618548	None	random baseline
+740458	Abusive	random baseline
+770490	Religious Hate	random baseline
+482233	Abusive	random baseline
+788242	Profane	random baseline
+126523	Religious Hate	random baseline
+905792	None	random baseline
+345610	Abusive	random baseline
+317318	Sexism	random baseline
+243588	Abusive	random baseline
+414606	Sexism	random baseline
+136399	Sexism	random baseline
+191369	Religious Hate	random baseline
+728783	Religious Hate	random baseline
+482592	Political Hate	random baseline
+122439	Abusive	random baseline
+253523	Religious Hate	random baseline
+45101	Political Hate	random baseline
+476886	Sexism	random baseline
+683469	Abusive	random baseline
+666632	Political Hate	random baseline
+127473	None	random baseline
+137857	Abusive	random baseline
+579518	Profane	random baseline
+832568	Abusive	random baseline
+463030	Political Hate	random baseline
+547660	None	random baseline
+754167	Sexism	random baseline
+899858	Religious Hate	random baseline
+703344	Religious Hate	random baseline
+324565	Sexism	random baseline
+106292	Abusive	random baseline
+255440	Political Hate	random baseline
+436900	None	random baseline
+606151	Political Hate	random baseline
+309007	None	random baseline
+327077	Abusive	random baseline
+418238	Profane	random baseline
+72757	Abusive	random baseline
+692374	Sexism	random baseline
+816564	Abusive	random baseline
+119826	Abusive	random baseline
+158169	Abusive	random baseline
+818065	Religious Hate	random baseline
+31839	Abusive	random baseline
+192048	Political Hate	random baseline
+551718	Religious Hate	random baseline
+290709	None	random baseline
+141250	Religious Hate	random baseline
+466967	Political Hate	random baseline
+152791	None	random baseline
+473966	Profane	random baseline
+928108	None	random baseline
+605290	Sexism	random baseline
+22197	Profane	random baseline
+697466	Abusive	random baseline
+797481	Abusive	random baseline
+295211	Religious Hate	random baseline
+11300	Sexism	random baseline
+837060	Religious Hate	random baseline
+201014	Religious Hate	random baseline
+85382	None	random baseline
+303037	Political Hate	random baseline
+444287	Religious Hate	random baseline
+21647	Sexism	random baseline
+709058	None	random baseline
+766452	Religious Hate	random baseline
+595553	Sexism	random baseline
+404783	None	random baseline
+598072	Profane	random baseline
+581670	Sexism	random baseline
+236138	None	random baseline
+447724	Sexism	random baseline
+198229	None	random baseline
+35745	Profane	random baseline
+51265	None	random baseline
+925220	Sexism	random baseline
+854174	Profane	random baseline
+919184	Religious Hate	random baseline
+515754	Abusive	random baseline
+490004	Sexism	random baseline
+312418	Profane	random baseline
+346286	Religious Hate	random baseline
+319520	Profane	random baseline
+900758	Religious Hate	random baseline
+74509	Profane	random baseline
+646154	Abusive	random baseline
+700643	Political Hate	random baseline
+847137	Political Hate	random baseline
+95080	Abusive	random baseline
+906529	Profane	random baseline
+682124	Religious Hate	random baseline
+469188	Profane	random baseline
+267691	Religious Hate	random baseline
+427105	Sexism	random baseline
+664450	Sexism	random baseline
+640153	Sexism	random baseline
+484242	Profane	random baseline
+471083	Profane	random baseline
+574555	Abusive	random baseline
+802913	Sexism	random baseline
+835881	Sexism	random baseline
+559943	Sexism	random baseline
+795168	Abusive	random baseline
+38230	Religious Hate	random baseline
+299735	None	random baseline
+250352	Profane	random baseline
+819839	Religious Hate	random baseline
+405003	Sexism	random baseline
+827981	Abusive	random baseline
+28308	Sexism	random baseline
+588699	Abusive	random baseline
+614167	Political Hate	random baseline
+679145	Abusive	random baseline
+786296	Political Hate	random baseline
+446957	Abusive	random baseline
+704588	Abusive	random baseline
+43603	Religious Hate	random baseline
+32256	Religious Hate	random baseline
+581040	Profane	random baseline
+167074	None	random baseline
+829153	Profane	random baseline
+40499	Abusive	random baseline
+233045	Profane	random baseline
+375606	None	random baseline
+156263	None	random baseline
+132091	Political Hate	random baseline
+559369	Sexism	random baseline
+91773	Sexism	random baseline
+681553	Political Hate	random baseline
+451889	None	random baseline
+364298	Profane	random baseline
+475018	Profane	random baseline
+498828	Profane	random baseline
+220766	Sexism	random baseline
+596534	None	random baseline
+893035	Religious Hate	random baseline
+721693	Abusive	random baseline
+566630	Sexism	random baseline
+510917	Religious Hate	random baseline
+30335	Abusive	random baseline
+354009	Religious Hate	random baseline
+243048	Abusive	random baseline
+107921	Political Hate	random baseline
+711532	Abusive	random baseline
+831245	None	random baseline
+399608	Profane	random baseline
+417141	Political Hate	random baseline
+252720	Profane	random baseline
+170188	Sexism	random baseline
+483947	None	random baseline
+847056	Religious Hate	random baseline
+367163	Sexism	random baseline
+909156	Political Hate	random baseline
+370219	Profane	random baseline
+71806	Religious Hate	random baseline
+816473	Abusive	random baseline
+167294	Sexism	random baseline
+491544	Abusive	random baseline
+436246	Political Hate	random baseline
+201893	Profane	random baseline
+668650	Religious Hate	random baseline
+63718	Abusive	random baseline
+902166	Religious Hate	random baseline
+191091	Sexism	random baseline
+304562	Abusive	random baseline
+31411	Religious Hate	random baseline
+227352	None	random baseline
+651254	Religious Hate	random baseline
+1166	Religious Hate	random baseline
+506179	None	random baseline
+96808	Profane	random baseline
+923170	Profane	random baseline
+693864	Abusive	random baseline
+137657	Religious Hate	random baseline
+233268	Political Hate	random baseline
+615620	Abusive	random baseline
+438135	Sexism	random baseline
+102326	Sexism	random baseline
+633408	Sexism	random baseline
+611056	Profane	random baseline
+660700	None	random baseline
+592068	Political Hate	random baseline
+810169	Religious Hate	random baseline
+68630	Profane	random baseline
+900125	Religious Hate	random baseline
+8135	None	random baseline
+428767	Sexism	random baseline
+890006	Profane	random baseline
+501331	Political Hate	random baseline
+386869	Political Hate	random baseline
+457538	Religious Hate	random baseline
+902366	Sexism	random baseline
+904408	Sexism	random baseline
+108794	Abusive	random baseline
+135561	Religious Hate	random baseline
+639745	Abusive	random baseline
+602490	Abusive	random baseline
+326459	None	random baseline
+859202	Political Hate	random baseline
+473414	Abusive	random baseline
+726590	None	random baseline
+785752	Sexism	random baseline
+772939	None	random baseline
+352613	Religious Hate	random baseline
+244330	Profane	random baseline
+900669	Political Hate	random baseline
+300858	Religious Hate	random baseline
+154521	Political Hate	random baseline
+85820	None	random baseline
+48374	Political Hate	random baseline
+401830	Political Hate	random baseline
+659995	Political Hate	random baseline
+481612	Political Hate	random baseline
+353638	Abusive	random baseline
+155874	None	random baseline
+150600	Abusive	random baseline
+644211	Profane	random baseline
+69914	Profane	random baseline
+895549	Sexism	random baseline
+391602	Political Hate	random baseline
+188806	Political Hate	random baseline
+875163	Abusive	random baseline
+531401	Sexism	random baseline
+82518	Sexism	random baseline
+931919	Profane	random baseline
+333351	Religious Hate	random baseline
+856298	Profane	random baseline
+486747	None	random baseline
+110691	Religious Hate	random baseline
+2644	None	random baseline
+561120	Political Hate	random baseline
+130983	Political Hate	random baseline
+501098	Political Hate	random baseline
+82263	Sexism	random baseline
+29182	Religious Hate	random baseline
+212273	Religious Hate	random baseline
+623230	Political Hate	random baseline
+6425	None	random baseline
+540760	Profane	random baseline
+494478	Political Hate	random baseline
+616145	Political Hate	random baseline
+347165	Religious Hate	random baseline
+738489	Religious Hate	random baseline
+171199	Profane	random baseline
+299661	Profane	random baseline
+572130	Political Hate	random baseline
+500521	Political Hate	random baseline
+674339	Political Hate	random baseline
+739286	Abusive	random baseline
+889123	Profane	random baseline
+363478	Sexism	random baseline
+409110	Profane	random baseline
+362208	None	random baseline
+46420	Religious Hate	random baseline
+628302	None	random baseline
+121278	Profane	random baseline
+611302	Political Hate	random baseline
+218567	Sexism	random baseline
+735901	Sexism	random baseline
+465792	Religious Hate	random baseline
+829134	Abusive	random baseline
+11285	Profane	random baseline
+561526	Religious Hate	random baseline
+192199	None	random baseline
+928945	Religious Hate	random baseline
+165162	Religious Hate	random baseline
+280630	Political Hate	random baseline
+625122	Political Hate	random baseline
+442311	Profane	random baseline
+563147	Profane	random baseline
+676593	Political Hate	random baseline
+488817	Political Hate	random baseline
+475977	Sexism	random baseline
+476390	Political Hate	random baseline
+552776	Religious Hate	random baseline
+276751	Profane	random baseline
+242069	Sexism	random baseline
+345400	Religious Hate	random baseline
+874395	Profane	random baseline
+872132	Religious Hate	random baseline
+613180	Political Hate	random baseline
+456006	Religious Hate	random baseline
+899171	Religious Hate	random baseline
+526595	Abusive	random baseline
+592644	Abusive	random baseline
+600825	Profane	random baseline
+525773	Profane	random baseline
+630766	None	random baseline
+921266	Sexism	random baseline
+221431	None	random baseline
+668595	Abusive	random baseline
+163448	Abusive	random baseline
+268035	Abusive	random baseline
+13055	None	random baseline
+328169	Abusive	random baseline
+525662	Abusive	random baseline
+598939	Religious Hate	random baseline
+883170	None	random baseline
+28953	Profane	random baseline
+848058	Political Hate	random baseline
+372514	Profane	random baseline
+147481	Political Hate	random baseline
+251442	Abusive	random baseline
+325678	None	random baseline
+175236	Sexism	random baseline
+117662	Abusive	random baseline
+502422	Abusive	random baseline
+214062	Profane	random baseline
+119013	Sexism	random baseline
+374147	Abusive	random baseline
+443252	Profane	random baseline
+171561	Profane	random baseline
+655661	Political Hate	random baseline
+716103	Religious Hate	random baseline
+920137	Religious Hate	random baseline
+359307	Sexism	random baseline
+146675	Abusive	random baseline
+40313	Religious Hate	random baseline
+90860	Religious Hate	random baseline
+527131	Abusive	random baseline
+220456	Religious Hate	random baseline
+85942	Political Hate	random baseline
+667291	Religious Hate	random baseline
+441382	None	random baseline
+381311	Sexism	random baseline
+835925	None	random baseline
+888616	Political Hate	random baseline
+698061	Profane	random baseline
+39591	Sexism	random baseline
+920428	Sexism	random baseline
+640534	Abusive	random baseline
+68271	Political Hate	random baseline
+136411	None	random baseline
+540991	Sexism	random baseline
+824492	Political Hate	random baseline
+434469	Sexism	random baseline
+422740	Abusive	random baseline
+572161	Political Hate	random baseline
+119098	Profane	random baseline
+355165	Profane	random baseline
+775199	Political Hate	random baseline
+837413	Abusive	random baseline
+443309	Political Hate	random baseline
+587223	Abusive	random baseline
+594572	Political Hate	random baseline
+22735	None	random baseline
+116413	None	random baseline
+710583	Political Hate	random baseline
+726636	Abusive	random baseline
+868107	Profane	random baseline
+128785	Profane	random baseline
+521034	None	random baseline
+738233	None	random baseline
+5308	Religious Hate	random baseline
+198886	Profane	random baseline
+894583	Abusive	random baseline
+804137	Profane	random baseline
+18542	Profane	random baseline
+297422	None	random baseline
+603678	None	random baseline
+858228	Profane	random baseline
+546201	Religious Hate	random baseline
+47131	Political Hate	random baseline
+82767	Abusive	random baseline
+728929	Abusive	random baseline
+693066	Political Hate	random baseline
+848852	Political Hate	random baseline
+362882	Sexism	random baseline
+546456	Abusive	random baseline
+75345	Sexism	random baseline
+279149	Political Hate	random baseline
+8283	Abusive	random baseline
+696820	Religious Hate	random baseline
+705215	None	random baseline
+28959	Religious Hate	random baseline
+289930	Sexism	random baseline
+109655	None	random baseline
+648187	Profane	random baseline
+221976	Sexism	random baseline
+837622	Profane	random baseline
+360212	Sexism	random baseline
+161236	Religious Hate	random baseline
+391732	Sexism	random baseline
+562801	Abusive	random baseline
+63256	Religious Hate	random baseline
+381089	Profane	random baseline
+510562	Profane	random baseline
+177616	None	random baseline
+439929	Sexism	random baseline
+841974	None	random baseline
+113983	None	random baseline
+498745	None	random baseline
+786905	Sexism	random baseline
+492739	Political Hate	random baseline
+585980	Abusive	random baseline
+425651	Sexism	random baseline
+569506	None	random baseline
+857246	Profane	random baseline
+265292	Sexism	random baseline
+609994	Religious Hate	random baseline
+826584	Abusive	random baseline
+460609	Profane	random baseline
+644542	Sexism	random baseline
+276176	Religious Hate	random baseline
+619102	Religious Hate	random baseline
+891625	Sexism	random baseline
+798443	Sexism	random baseline
+730888	None	random baseline
+346632	Political Hate	random baseline
+380253	None	random baseline
+370503	Abusive	random baseline
+803701	Sexism	random baseline
+248258	Political Hate	random baseline
+252345	Religious Hate	random baseline
+562683	Religious Hate	random baseline
+601766	Sexism	random baseline
+752224	None	random baseline
+774095	Profane	random baseline
+930299	Profane	random baseline
+378827	Abusive	random baseline
+656481	Profane	random baseline
+500381	Religious Hate	random baseline
+27958	Profane	random baseline
+928671	Abusive	random baseline
+390166	Profane	random baseline
+488577	Religious Hate	random baseline
+162980	Profane	random baseline
+560228	Profane	random baseline
+211363	None	random baseline
+555638	Abusive	random baseline
+528703	Religious Hate	random baseline
+683734	None	random baseline
+671313	Abusive	random baseline
+464409	Sexism	random baseline
+697953	Profane	random baseline
+769838	Sexism	random baseline
+643094	None	random baseline
+659189	None	random baseline
+729086	Sexism	random baseline
+76120	Profane	random baseline
+502902	Religious Hate	random baseline
+35497	Political Hate	random baseline
+878023	Political Hate	random baseline
+182903	Sexism	random baseline
+331432	Sexism	random baseline
+87304	Abusive	random baseline
+582911	Religious Hate	random baseline
+865624	None	random baseline
+786884	Profane	random baseline
+201460	Profane	random baseline
+824978	Abusive	random baseline
+131089	Profane	random baseline
+45828	Sexism	random baseline
+716999	None	random baseline
+399791	Profane	random baseline
+822399	None	random baseline
+468175	None	random baseline
+559340	Religious Hate	random baseline
+564393	Political Hate	random baseline
+292000	Religious Hate	random baseline
+399452	Abusive	random baseline
+136541	None	random baseline
+926094	Abusive	random baseline
+246108	Religious Hate	random baseline
+825840	Abusive	random baseline
+581994	Sexism	random baseline
+354067	Profane	random baseline
+681734	Abusive	random baseline
+26649	None	random baseline
+627386	Political Hate	random baseline
+145008	Profane	random baseline
+915087	Profane	random baseline
+547709	Sexism	random baseline
+281881	Religious Hate	random baseline
+273124	Political Hate	random baseline
+605863	Abusive	random baseline
+415658	None	random baseline
+726974	Sexism	random baseline
+397924	Profane	random baseline
+404924	None	random baseline
+297714	Sexism	random baseline
+63483	Profane	random baseline
+322043	Profane	random baseline
+234193	Sexism	random baseline
+719447	Religious Hate	random baseline
+385281	Religious Hate	random baseline
+63708	Profane	random baseline
+333270	Political Hate	random baseline
+700234	Political Hate	random baseline
+265890	Religious Hate	random baseline
+841683	Abusive	random baseline
+46046	Profane	random baseline
+7628	Religious Hate	random baseline
+385452	Profane	random baseline
+666403	Sexism	random baseline
+651179	Profane	random baseline
+526158	Sexism	random baseline
+235512	Sexism	random baseline
+647610	Profane	random baseline
+684832	Sexism	random baseline
+688194	None	random baseline
+835048	Profane	random baseline
+295774	Sexism	random baseline
+936137	Profane	random baseline
+527913	Sexism	random baseline
+844457	None	random baseline
+94083	Religious Hate	random baseline
+918182	Political Hate	random baseline
+675306	Profane	random baseline
+164879	Sexism	random baseline
+135358	None	random baseline
+419189	Sexism	random baseline
+367074	Political Hate	random baseline
+904401	None	random baseline
+885491	Abusive	random baseline
+399277	Political Hate	random baseline
+335110	Abusive	random baseline
+727424	Abusive	random baseline
+886894	Profane	random baseline
+67349	Profane	random baseline
+397383	Sexism	random baseline
+557190	Sexism	random baseline
+646473	Sexism	random baseline
+723824	Abusive	random baseline
+591417	Abusive	random baseline
+336787	Profane	random baseline
+222633	Sexism	random baseline
+389169	Religious Hate	random baseline
+536990	Sexism	random baseline
+464931	None	random baseline
+271738	Profane	random baseline
+250102	Religious Hate	random baseline
+81993	Religious Hate	random baseline
+712190	Political Hate	random baseline
+11416	Abusive	random baseline
+821017	Political Hate	random baseline
+81196	Religious Hate	random baseline
+310154	Religious Hate	random baseline
+679181	Sexism	random baseline
+180647	Religious Hate	random baseline
+51949	None	random baseline
+822701	Profane	random baseline
+912407	None	random baseline
+893154	Sexism	random baseline
+501987	Profane	random baseline
+600447	Sexism	random baseline
+98057	Abusive	random baseline
+250188	Religious Hate	random baseline
+828949	Political Hate	random baseline
+485208	Abusive	random baseline
+663570	Profane	random baseline
+829683	Religious Hate	random baseline
+635887	Abusive	random baseline
+347313	None	random baseline
+871351	Sexism	random baseline
+41186	Sexism	random baseline
+209087	None	random baseline
+609508	Religious Hate	random baseline
+93819	Abusive	random baseline
+906773	Profane	random baseline
+164314	Political Hate	random baseline
+922627	Religious Hate	random baseline
+580295	Profane	random baseline
+320403	None	random baseline
+131965	None	random baseline
+790489	Political Hate	random baseline
+258586	Abusive	random baseline
+149958	None	random baseline
+524231	None	random baseline
+877558	None	random baseline
+728208	Religious Hate	random baseline
+421836	Religious Hate	random baseline
+80075	None	random baseline
+517299	Abusive	random baseline
+129667	Abusive	random baseline
+834853	None	random baseline
+512238	Profane	random baseline
+154916	Profane	random baseline
+750522	Abusive	random baseline
+468203	Profane	random baseline
+427803	None	random baseline
+146156	Profane	random baseline
+333979	Political Hate	random baseline
+478605	Abusive	random baseline
+695510	Religious Hate	random baseline
+595492	Sexism	random baseline
+73581	Sexism	random baseline
+446110	Sexism	random baseline
+73708	Political Hate	random baseline
+309066	Sexism	random baseline
+464922	Religious Hate	random baseline
+335323	None	random baseline
+894940	Political Hate	random baseline
+760055	Religious Hate	random baseline
+300274	Sexism	random baseline
+744701	Religious Hate	random baseline
+145343	Profane	random baseline
+386458	Abusive	random baseline
+245102	Religious Hate	random baseline
+331635	Religious Hate	random baseline
+603164	Sexism	random baseline
+832827	Political Hate	random baseline
+617494	Abusive	random baseline
+459408	Religious Hate	random baseline
+758944	Abusive	random baseline
+435141	None	random baseline
+894471	Religious Hate	random baseline
+879749	Political Hate	random baseline
+100340	Abusive	random baseline
+157977	None	random baseline
+100523	Profane	random baseline
+19240	Political Hate	random baseline
+609427	None	random baseline
+698537	Religious Hate	random baseline
+639002	Sexism	random baseline
+169203	Political Hate	random baseline
+827808	Religious Hate	random baseline
+707068	Profane	random baseline
+227085	Abusive	random baseline
+567057	Sexism	random baseline
+244933	Political Hate	random baseline
+73391	Political Hate	random baseline
+469472	Political Hate	random baseline
+101243	Profane	random baseline
+443447	Sexism	random baseline
+223631	Profane	random baseline
+60877	None	random baseline
+627019	Profane	random baseline
+41524	None	random baseline
+510107	Profane	random baseline
+48829	Political Hate	random baseline
+631587	Sexism	random baseline
+273738	Sexism	random baseline
+412411	Sexism	random baseline
+95413	Sexism	random baseline
+778490	Political Hate	random baseline
+511909	None	random baseline
+753789	Profane	random baseline
+365059	Abusive	random baseline
+837143	Sexism	random baseline
+496482	Profane	random baseline
+903692	Abusive	random baseline
+452308	Profane	random baseline
+604597	Sexism	random baseline
+516479	None	random baseline
+884813	Political Hate	random baseline
+316375	Abusive	random baseline
+128273	Abusive	random baseline
+932106	Abusive	random baseline
+338346	Profane	random baseline
+781358	Political Hate	random baseline
+245253	Political Hate	random baseline
+440543	Abusive	random baseline
+69508	Abusive	random baseline
+46748	Religious Hate	random baseline
+77622	None	random baseline
+772309	Religious Hate	random baseline
+758729	Profane	random baseline
+291623	None	random baseline
+79228	Profane	random baseline
+672177	Political Hate	random baseline
+123280	Religious Hate	random baseline
+246668	Political Hate	random baseline
+540577	None	random baseline
+678402	Religious Hate	random baseline
+627222	Profane	random baseline
+349744	Profane	random baseline
+892828	Sexism	random baseline
+790220	Profane	random baseline
+489069	Religious Hate	random baseline
+576472	None	random baseline
+362619	None	random baseline
+888632	Profane	random baseline
+157427	Abusive	random baseline
+88274	Religious Hate	random baseline
+654296	None	random baseline
+546871	Profane	random baseline
+714366	Abusive	random baseline
+124924	Political Hate	random baseline
+140611	Religious Hate	random baseline
+119558	Sexism	random baseline
+603201	Religious Hate	random baseline
+356978	Profane	random baseline
+737157	Abusive	random baseline
+717086	Profane	random baseline
+878114	Sexism	random baseline
+438274	Profane	random baseline
+332470	None	random baseline
+277190	Sexism	random baseline
+233769	Political Hate	random baseline
+928377	Religious Hate	random baseline
+254669	Religious Hate	random baseline
+175420	Profane	random baseline
+269571	Profane	random baseline
+142080	Sexism	random baseline
+517120	Sexism	random baseline
+692974	Abusive	random baseline
+209866	Sexism	random baseline
+845841	Sexism	random baseline
+205879	Political Hate	random baseline
+369385	Sexism	random baseline
+764706	Abusive	random baseline
+504039	None	random baseline
+878750	Abusive	random baseline
+671380	Abusive	random baseline
+694236	Profane	random baseline
+565463	Sexism	random baseline
+544801	Abusive	random baseline
+307571	None	random baseline
+557408	Religious Hate	random baseline
+931038	Sexism	random baseline
+795336	None	random baseline
+743568	Profane	random baseline
+281059	Profane	random baseline
+241218	Religious Hate	random baseline
+493143	None	random baseline
+4211	None	random baseline
+466053	Profane	random baseline
+559620	Political Hate	random baseline
+593980	Sexism	random baseline
+786474	Sexism	random baseline
+430212	Religious Hate	random baseline
+404662	Sexism	random baseline
+174220	Abusive	random baseline
+807057	Religious Hate	random baseline
+680306	Profane	random baseline
+235465	Sexism	random baseline
+657276	None	random baseline
+268333	Sexism	random baseline
+397874	Sexism	random baseline
+451433	Abusive	random baseline
+375904	Political Hate	random baseline
+557325	None	random baseline
+232414	None	random baseline
+9702	Religious Hate	random baseline
+11159	Profane	random baseline
+43434	Political Hate	random baseline
+821366	Abusive	random baseline
+103702	Sexism	random baseline
+782050	None	random baseline
+464774	None	random baseline
+494862	Abusive	random baseline
+257348	Abusive	random baseline
+558234	Sexism	random baseline
+926892	Sexism	random baseline
+472086	Sexism	random baseline
+71998	None	random baseline
+386085	Religious Hate	random baseline
+932001	Profane	random baseline
+550966	Religious Hate	random baseline
+217614	Political Hate	random baseline
+751613	Sexism	random baseline
+829917	Political Hate	random baseline
+715475	Abusive	random baseline
+195427	Profane	random baseline
+357847	Profane	random baseline
+344389	Political Hate	random baseline
+724484	Political Hate	random baseline
+566318	Political Hate	random baseline
+229920	Political Hate	random baseline
+291141	None	random baseline
+685003	Sexism	random baseline
+823068	Abusive	random baseline
+467304	Sexism	random baseline
+623209	None	random baseline
+391054	Abusive	random baseline
+408728	Religious Hate	random baseline
+828880	Religious Hate	random baseline
+817214	None	random baseline
+796154	Political Hate	random baseline
+382892	Political Hate	random baseline
+517694	Profane	random baseline
+867699	Religious Hate	random baseline
+701100	Religious Hate	random baseline
+243586	Abusive	random baseline
+813985	Sexism	random baseline
+278215	Political Hate	random baseline
+470395	Profane	random baseline
+708810	None	random baseline
+526539	Sexism	random baseline
+559111	Profane	random baseline
+357223	Profane	random baseline
+921429	Sexism	random baseline
+324418	Political Hate	random baseline
+650935	Profane	random baseline
+38930	Religious Hate	random baseline
+8971	Abusive	random baseline
+739479	None	random baseline
+797851	Profane	random baseline
+760390	Sexism	random baseline
+831693	Sexism	random baseline
+862239	Abusive	random baseline
+278473	Sexism	random baseline
+641709	Abusive	random baseline
+40920	None	random baseline
+452383	Sexism	random baseline
+887001	Political Hate	random baseline
+807629	None	random baseline
+742470	Religious Hate	random baseline
+906061	Political Hate	random baseline
+633257	Profane	random baseline
+351010	Religious Hate	random baseline
+823876	Political Hate	random baseline
+334604	Sexism	random baseline
+445824	Abusive	random baseline
+468140	Religious Hate	random baseline
+394049	Sexism	random baseline
+162757	Political Hate	random baseline
+57731	Religious Hate	random baseline
+371906	Abusive	random baseline
+700128	Religious Hate	random baseline
+839768	Abusive	random baseline
+411555	Profane	random baseline
+84795	Sexism	random baseline
+774878	None	random baseline
+505229	Sexism	random baseline
+289014	Political Hate	random baseline
+694048	Abusive	random baseline
+181111	None	random baseline
+46517	Political Hate	random baseline
+97053	Sexism	random baseline
+746764	Sexism	random baseline
+390622	Profane	random baseline
+444633	Religious Hate	random baseline
+103602	None	random baseline
+224242	Profane	random baseline
+477505	Sexism	random baseline
+92649	Political Hate	random baseline
+360414	Religious Hate	random baseline
+63542	Abusive	random baseline
+301203	Abusive	random baseline
+508058	Abusive	random baseline
+738605	None	random baseline
+172299	Abusive	random baseline
+378925	Religious Hate	random baseline
+607161	Religious Hate	random baseline
+380233	Religious Hate	random baseline
+540926	Profane	random baseline
+668969	Religious Hate	random baseline
+316990	Profane	random baseline
+482466	Sexism	random baseline
+260887	Profane	random baseline
+563963	Political Hate	random baseline
+917361	Political Hate	random baseline
+266571	Profane	random baseline
+51068	Profane	random baseline
+348468	Political Hate	random baseline
+807445	Sexism	random baseline
+427140	Sexism	random baseline
+422165	Political Hate	random baseline
+55904	Sexism	random baseline
+265434	Profane	random baseline
+267256	Abusive	random baseline
+518142	Abusive	random baseline
+782489	Sexism	random baseline
+916917	Profane	random baseline
+591157	Religious Hate	random baseline
+662682	Profane	random baseline
+393092	Religious Hate	random baseline
+915065	Profane	random baseline
+33824	Religious Hate	random baseline
+756658	Abusive	random baseline
+658706	Profane	random baseline
+727816	Profane	random baseline
+654176	None	random baseline
+182173	Profane	random baseline
+399562	Political Hate	random baseline
+435617	None	random baseline
+112763	Political Hate	random baseline
+91780	Abusive	random baseline
+396665	None	random baseline
+513823	None	random baseline
+321815	Abusive	random baseline
+706639	Sexism	random baseline
+790250	Abusive	random baseline
+243116	Abusive	random baseline
+869136	Profane	random baseline
+628622	Profane	random baseline
+425618	Religious Hate	random baseline
+348905	Political Hate	random baseline
+280702	Profane	random baseline
+796835	Profane	random baseline
+339696	Profane	random baseline
+664582	Abusive	random baseline
+219751	Abusive	random baseline
+861727	Abusive	random baseline
+194260	Sexism	random baseline
+33277	None	random baseline
+224231	Religious Hate	random baseline
+886973	Profane	random baseline
+582310	Profane	random baseline
+433077	Religious Hate	random baseline
+552679	Sexism	random baseline
+643528	None	random baseline
+85565	Sexism	random baseline
+628830	Sexism	random baseline
+749660	Political Hate	random baseline
+1595	Sexism	random baseline
+23293	None	random baseline
+509035	Abusive	random baseline
+886202	Political Hate	random baseline
+742533	Political Hate	random baseline
+27838	Sexism	random baseline
+75041	Religious Hate	random baseline
+228134	Profane	random baseline
+382699	Abusive	random baseline
+242473	Sexism	random baseline
+447845	Sexism	random baseline
+686719	Sexism	random baseline
+325929	Political Hate	random baseline
+138617	Abusive	random baseline
+37781	None	random baseline
+265785	Profane	random baseline
+624047	Religious Hate	random baseline
+395781	None	random baseline
+719558	Political Hate	random baseline
+934245	Sexism	random baseline
+181499	None	random baseline
+397249	None	random baseline
+582244	None	random baseline
+870090	Religious Hate	random baseline
+462030	Religious Hate	random baseline
+446338	Religious Hate	random baseline
+61162	Abusive	random baseline
+807176	Abusive	random baseline
+864604	None	random baseline
+709055	None	random baseline
+581292	None	random baseline
+563959	Abusive	random baseline
+727426	Abusive	random baseline
+561351	Profane	random baseline
+916629	None	random baseline
+242659	Sexism	random baseline
+711936	Profane	random baseline
+398564	Sexism	random baseline
+638288	Profane	random baseline
+571045	Religious Hate	random baseline
+396357	None	random baseline
+657340	None	random baseline
+131821	Abusive	random baseline
+881260	Sexism	random baseline
+87349	Profane	random baseline
+232700	None	random baseline
+22307	None	random baseline
+352983	None	random baseline
+389506	None	random baseline
+335493	Abusive	random baseline
+739982	Profane	random baseline
+328094	Political Hate	random baseline
+528740	Profane	random baseline
+808137	Sexism	random baseline
+554827	None	random baseline
+858794	Abusive	random baseline
+633224	Profane	random baseline
+780101	Abusive	random baseline
+602479	Abusive	random baseline
+540580	Abusive	random baseline
+778356	Religious Hate	random baseline
+43268	Sexism	random baseline
+262437	Sexism	random baseline
+71353	Profane	random baseline
+730463	Abusive	random baseline
+653820	Abusive	random baseline
+335542	Abusive	random baseline
+826227	Religious Hate	random baseline
+443806	Profane	random baseline
+769421	None	random baseline
+685630	Political Hate	random baseline
+590194	Political Hate	random baseline
+466683	Profane	random baseline
+280790	None	random baseline
+860057	Political Hate	random baseline
+871168	Abusive	random baseline
+141496	Abusive	random baseline
+3736	Religious Hate	random baseline
+288686	Abusive	random baseline
+267813	Sexism	random baseline
+832012	Political Hate	random baseline
+32904	Abusive	random baseline
+268117	Profane	random baseline
+776783	Profane	random baseline
+850339	Political Hate	random baseline
+223593	Profane	random baseline
+387123	Abusive	random baseline
+939377	Abusive	random baseline
+484079	Religious Hate	random baseline
+897137	None	random baseline
+655003	Abusive	random baseline
+585973	Political Hate	random baseline
+29600	Political Hate	random baseline
+830036	None	random baseline
+565839	Abusive	random baseline
+359406	Religious Hate	random baseline
+308062	Abusive	random baseline
+594507	Religious Hate	random baseline
+34433	None	random baseline
+43262	Religious Hate	random baseline
+145863	Religious Hate	random baseline
+592053	Profane	random baseline
+235746	Political Hate	random baseline
+893409	Sexism	random baseline
+939031	None	random baseline
+647343	None	random baseline
+868309	Political Hate	random baseline
+81611	Political Hate	random baseline
+693429	None	random baseline
+546533	Profane	random baseline
+804580	Sexism	random baseline
+774663	None	random baseline
+442687	Abusive	random baseline
+22333	Political Hate	random baseline
+883311	Profane	random baseline
+68897	None	random baseline
+716697	Profane	random baseline
+366472	Religious Hate	random baseline
+112632	Religious Hate	random baseline
+759580	Sexism	random baseline
+68501	Profane	random baseline
+570238	Profane	random baseline
+833247	Religious Hate	random baseline
+742235	Abusive	random baseline
+160687	Political Hate	random baseline
+854753	Profane	random baseline
+256250	Sexism	random baseline
+801382	Sexism	random baseline
+358092	Profane	random baseline
+593155	None	random baseline
+72962	Sexism	random baseline
+472051	Religious Hate	random baseline
+736544	Political Hate	random baseline
+26584	None	random baseline
+14123	None	random baseline
+422940	Political Hate	random baseline
+530930	Religious Hate	random baseline
+643961	Sexism	random baseline
+725166	Political Hate	random baseline
+183565	Profane	random baseline
+592528	Sexism	random baseline
+332661	Profane	random baseline
+893187	Profane	random baseline
+574249	None	random baseline
+702233	Political Hate	random baseline
+332441	Political Hate	random baseline
+120948	Profane	random baseline
+303017	Profane	random baseline
+6209	Political Hate	random baseline
+239068	Sexism	random baseline
+17716	Political Hate	random baseline
+358382	Profane	random baseline
+528149	Sexism	random baseline
+154954	Abusive	random baseline
+237442	Sexism	random baseline
+385586	Sexism	random baseline
+872714	Religious Hate	random baseline
+173242	Abusive	random baseline
+357390	Abusive	random baseline
+399716	None	random baseline
+562599	Political Hate	random baseline
+353085	Religious Hate	random baseline
+732405	Abusive	random baseline
+42984	Sexism	random baseline
+327956	Profane	random baseline
+638917	Profane	random baseline
+93540	Political Hate	random baseline
+787421	Religious Hate	random baseline
+504895	None	random baseline
+291320	Sexism	random baseline
+406332	Sexism	random baseline
+764894	None	random baseline
+670548	Abusive	random baseline
+817559	None	random baseline
+256795	None	random baseline
+152630	None	random baseline
+17630	Profane	random baseline
+567139	Abusive	random baseline
+563824	Profane	random baseline
+139630	Abusive	random baseline
+322733	Political Hate	random baseline
+524979	Sexism	random baseline
+52851	Profane	random baseline
+449962	Profane	random baseline
+521733	Political Hate	random baseline
+820909	Political Hate	random baseline
+776132	None	random baseline
+208816	Political Hate	random baseline
+168294	Profane	random baseline
+186490	Religious Hate	random baseline
+34763	Profane	random baseline
+890503	Profane	random baseline
+730297	Religious Hate	random baseline
+267275	Political Hate	random baseline
+875303	None	random baseline
+410510	Abusive	random baseline
+198288	Religious Hate	random baseline
+878523	Sexism	random baseline
+804090	Sexism	random baseline
+876050	Sexism	random baseline
+538825	Abusive	random baseline
+439504	Abusive	random baseline
+98661	None	random baseline
+50223	Religious Hate	random baseline
+882392	Political Hate	random baseline
+31474	Abusive	random baseline
+752145	Sexism	random baseline
+864075	Religious Hate	random baseline
+459116	Sexism	random baseline
+498640	None	random baseline
+802864	Political Hate	random baseline
+295472	Profane	random baseline
+934066	Religious Hate	random baseline
+902880	Profane	random baseline
+111465	Sexism	random baseline
+933484	None	random baseline
+667357	Profane	random baseline
+81463	None	random baseline
+649992	Abusive	random baseline
+60065	Political Hate	random baseline
+328916	Profane	random baseline
+304492	Profane	random baseline
+385489	Abusive	random baseline
+683209	Sexism	random baseline
+67622	None	random baseline
+507528	Sexism	random baseline
+460125	Religious Hate	random baseline
+285627	Religious Hate	random baseline
+309055	Abusive	random baseline
+702822	Political Hate	random baseline
+714655	Religious Hate	random baseline
+265922	Sexism	random baseline
+485097	Abusive	random baseline
+270514	Abusive	random baseline
+87760	Political Hate	random baseline
+169601	Sexism	random baseline
+798353	Religious Hate	random baseline
+100120	Political Hate	random baseline
+441410	Religious Hate	random baseline
+592756	Abusive	random baseline
+90373	Abusive	random baseline
+664668	Abusive	random baseline
+122017	None	random baseline
+544288	Abusive	random baseline
+499935	None	random baseline
+192544	Profane	random baseline
+173116	Sexism	random baseline
+704684	Abusive	random baseline
+845711	Political Hate	random baseline
+880642	Sexism	random baseline
+335733	Religious Hate	random baseline
+819142	Sexism	random baseline
+123199	Sexism	random baseline
+216638	Religious Hate	random baseline
+215582	None	random baseline
+553211	Political Hate	random baseline
+826034	Political Hate	random baseline
+918589	Abusive	random baseline
+547320	Profane	random baseline
+266882	Political Hate	random baseline
+750993	Profane	random baseline
+653654	Political Hate	random baseline
+890678	Abusive	random baseline
+381394	Sexism	random baseline
+356587	Profane	random baseline
+590822	Political Hate	random baseline
+166688	Political Hate	random baseline
+230635	None	random baseline
+55098	None	random baseline
+617669	Religious Hate	random baseline
+180620	Sexism	random baseline
+187898	Abusive	random baseline
+371940	Political Hate	random baseline
+181651	Abusive	random baseline
+147825	Political Hate	random baseline
+438932	None	random baseline
+63001	Abusive	random baseline
+329086	Religious Hate	random baseline
+301069	Sexism	random baseline
+347294	Political Hate	random baseline
+461037	Sexism	random baseline
+170607	None	random baseline
+499607	Religious Hate	random baseline
+710744	Sexism	random baseline
+240005	Profane	random baseline
+424128	None	random baseline
+779357	Profane	random baseline
+845111	Sexism	random baseline
+676339	Sexism	random baseline
+290884	Sexism	random baseline
+909302	Political Hate	random baseline
+357977	Profane	random baseline
+134372	Profane	random baseline
+659032	Sexism	random baseline
+545917	Abusive	random baseline
+95904	Abusive	random baseline
+627730	Religious Hate	random baseline
+560795	None	random baseline
+379566	Profane	random baseline
+142362	Religious Hate	random baseline
+582295	Profane	random baseline
+214358	Sexism	random baseline
+773834	None	random baseline
+378204	Abusive	random baseline
+2503	Profane	random baseline
+66287	Religious Hate	random baseline
+497947	None	random baseline
+821205	Political Hate	random baseline
+704887	Sexism	random baseline
+142605	Religious Hate	random baseline
+793597	Political Hate	random baseline
+244475	Sexism	random baseline
+732424	Profane	random baseline
+669456	Profane	random baseline
+786746	Profane	random baseline
+260582	Profane	random baseline
+669509	None	random baseline
+519827	Profane	random baseline
+204443	Political Hate	random baseline
+583890	Political Hate	random baseline
+637584	Profane	random baseline
+24646	Political Hate	random baseline
+280857	Religious Hate	random baseline
+446535	None	random baseline
+687543	Sexism	random baseline
+237066	Abusive	random baseline
+912999	Abusive	random baseline
+194057	Religious Hate	random baseline
+146810	Religious Hate	random baseline
+442009	None	random baseline
+350875	Profane	random baseline
+721365	Sexism	random baseline
+798776	Religious Hate	random baseline
+752086	None	random baseline
+203	Sexism	random baseline
+798871	None	random baseline
+903406	Religious Hate	random baseline
+447678	Profane	random baseline
+782699	Political Hate	random baseline
+188831	Religious Hate	random baseline
+653198	None	random baseline
+439858	Political Hate	random baseline
+869461	Religious Hate	random baseline
+389095	Sexism	random baseline
+378732	Political Hate	random baseline
+906177	Abusive	random baseline
+309517	Political Hate	random baseline
+356240	Profane	random baseline
+612238	Religious Hate	random baseline
+404551	Abusive	random baseline
+417818	None	random baseline
+626581	Religious Hate	random baseline
+839516	None	random baseline
+794748	Sexism	random baseline
+849980	Political Hate	random baseline
+721487	Religious Hate	random baseline
+625949	Sexism	random baseline
+593733	Abusive	random baseline
+853345	Political Hate	random baseline
+434994	Political Hate	random baseline
+439183	Religious Hate	random baseline
+688066	None	random baseline
+343290	Political Hate	random baseline
+529720	Abusive	random baseline
+8435	None	random baseline
+625145	Profane	random baseline
+523883	None	random baseline
+871055	Abusive	random baseline
+1467	Religious Hate	random baseline
+414730	Religious Hate	random baseline
+23986	Profane	random baseline
+604006	None	random baseline
+35914	Political Hate	random baseline
+921548	Religious Hate	random baseline
+600422	Political Hate	random baseline
+820850	None	random baseline
+172221	Abusive	random baseline
+151782	Political Hate	random baseline
+729740	Sexism	random baseline
+795158	Profane	random baseline
+89095	Political Hate	random baseline
+871021	None	random baseline
+410433	Sexism	random baseline
+259966	Sexism	random baseline
+622086	None	random baseline
+757437	None	random baseline
+834041	None	random baseline
+614182	Religious Hate	random baseline
+213978	Political Hate	random baseline
+177775	Profane	random baseline
+175096	Abusive	random baseline
+924491	Religious Hate	random baseline
+74708	None	random baseline
+145454	Political Hate	random baseline
+122063	None	random baseline
+523490	Profane	random baseline
+567534	Sexism	random baseline
+3766	None	random baseline
+898495	Profane	random baseline
+215674	None	random baseline
+12410	Political Hate	random baseline
+710245	Sexism	random baseline
+10063	Abusive	random baseline
+540310	Sexism	random baseline
+412055	None	random baseline
+151874	Abusive	random baseline
+773973	Abusive	random baseline
+258469	Abusive	random baseline
+336614	Political Hate	random baseline
+881812	Profane	random baseline
+183470	Political Hate	random baseline
+703445	None	random baseline
+577195	Profane	random baseline
+408421	Political Hate	random baseline
+115868	Sexism	random baseline
+641646	Profane	random baseline
+868822	Abusive	random baseline
+847093	Sexism	random baseline
+564034	Sexism	random baseline
+257938	Political Hate	random baseline
+106592	Profane	random baseline
+792068	Sexism	random baseline
+555057	Political Hate	random baseline
+390255	None	random baseline
+245231	Sexism	random baseline
+475110	Profane	random baseline
+413861	Abusive	random baseline
+800883	Religious Hate	random baseline
+685063	Sexism	random baseline
+65728	Sexism	random baseline
+933802	Sexism	random baseline
+11690	Profane	random baseline
+706579	Profane	random baseline
+215276	None	random baseline
+204169	Abusive	random baseline
+554749	Profane	random baseline
+102106	Religious Hate	random baseline
+687707	Abusive	random baseline
+782993	Profane	random baseline
+694802	Sexism	random baseline
+140095	Profane	random baseline
+449706	Sexism	random baseline
+103008	Political Hate	random baseline
+268505	Sexism	random baseline
+677768	None	random baseline
+399395	Religious Hate	random baseline
+934704	Political Hate	random baseline
+183078	Abusive	random baseline
+472268	Abusive	random baseline
+140804	Sexism	random baseline
+266462	None	random baseline
+4502	Abusive	random baseline
+601389	None	random baseline
+51708	Profane	random baseline
+451288	Political Hate	random baseline
+723131	Religious Hate	random baseline
+514786	Profane	random baseline
+301007	Sexism	random baseline
+229205	None	random baseline
+524989	None	random baseline
+824458	Abusive	random baseline
+522751	None	random baseline
+829398	Political Hate	random baseline
+442481	Abusive	random baseline
+86918	Political Hate	random baseline
+760133	Abusive	random baseline
+22336	Religious Hate	random baseline
+110130	Political Hate	random baseline
+794326	None	random baseline
+184205	Profane	random baseline
+501326	Abusive	random baseline
+305515	Sexism	random baseline
+453214	Political Hate	random baseline
+780977	Religious Hate	random baseline
+197116	Political Hate	random baseline
+709765	Abusive	random baseline
+660740	Abusive	random baseline
+751452	Political Hate	random baseline
+776616	Abusive	random baseline
+594957	Religious Hate	random baseline
+758653	Religious Hate	random baseline
+467601	Religious Hate	random baseline
+853875	Religious Hate	random baseline
+734436	Political Hate	random baseline
+432795	Religious Hate	random baseline
+176963	Sexism	random baseline
+693454	None	random baseline
+431121	None	random baseline
+603293	Religious Hate	random baseline
+204163	Sexism	random baseline
+404753	Political Hate	random baseline
+350340	Political Hate	random baseline
+101669	Political Hate	random baseline
+693172	Profane	random baseline
+881339	Profane	random baseline
+234873	None	random baseline
+463879	Abusive	random baseline
+391778	None	random baseline
+696795	Abusive	random baseline
+392525	Abusive	random baseline
+437546	Abusive	random baseline
+230845	Sexism	random baseline
+759262	Political Hate	random baseline
+790411	Religious Hate	random baseline
+300211	None	random baseline
+429825	Profane	random baseline
+241815	Abusive	random baseline
+587877	Profane	random baseline
+417035	None	random baseline
+329867	Profane	random baseline
+858636	Profane	random baseline
+817662	Political Hate	random baseline
+36995	None	random baseline
+540133	None	random baseline
+178133	Abusive	random baseline
+939084	None	random baseline
+220070	Sexism	random baseline
+810990	Abusive	random baseline
+564915	Political Hate	random baseline
+896030	Abusive	random baseline
+803000	None	random baseline
+434425	Abusive	random baseline
+484732	Religious Hate	random baseline
+928724	Religious Hate	random baseline
+188109	None	random baseline
+885876	Abusive	random baseline
+439903	Abusive	random baseline
+896774	Profane	random baseline
+201236	Sexism	random baseline
+294331	Abusive	random baseline
+283925	Political Hate	random baseline
+619478	Sexism	random baseline
+849009	Profane	random baseline
+716054	Abusive	random baseline
+560726	Religious Hate	random baseline
+743594	None	random baseline
+624407	Sexism	random baseline
+258727	Political Hate	random baseline
+380744	Political Hate	random baseline
+413547	Profane	random baseline
+234141	Political Hate	random baseline
+60206	Sexism	random baseline
+579827	Abusive	random baseline
+148976	Abusive	random baseline
+201516	None	random baseline
+586357	Religious Hate	random baseline
+368041	None	random baseline
+281038	Political Hate	random baseline
+200103	Profane	random baseline
+656857	None	random baseline
+877106	Abusive	random baseline
+680816	Abusive	random baseline
+853980	Political Hate	random baseline
+416765	Sexism	random baseline
+777041	Political Hate	random baseline
+486896	Religious Hate	random baseline
+1238	Religious Hate	random baseline
+690011	None	random baseline
+561745	Religious Hate	random baseline
+419301	Abusive	random baseline
+484745	Political Hate	random baseline
+563636	Sexism	random baseline
+813902	Profane	random baseline
+7505	Profane	random baseline
+648031	Profane	random baseline
+144853	Abusive	random baseline
+181520	Religious Hate	random baseline
+93012	Profane	random baseline
+48276	None	random baseline
+640764	Sexism	random baseline
+273507	Abusive	random baseline
+687548	Religious Hate	random baseline
+917353	Political Hate	random baseline
+269221	Religious Hate	random baseline
+922476	Political Hate	random baseline
+807407	Profane	random baseline
+195060	Profane	random baseline
+656139	Sexism	random baseline
+799134	Religious Hate	random baseline
+826825	Religious Hate	random baseline
+9907	None	random baseline
+298673	Sexism	random baseline
+13386	Political Hate	random baseline
+842536	Abusive	random baseline
+726308	Religious Hate	random baseline
+306330	None	random baseline
+688599	Profane	random baseline
+689584	Profane	random baseline
+490674	Sexism	random baseline
+456718	Profane	random baseline
+520231	Religious Hate	random baseline
+331709	Abusive	random baseline
+409943	Religious Hate	random baseline
+56275	None	random baseline
+692039	Profane	random baseline
+269451	Abusive	random baseline
+13455	None	random baseline
+612107	Profane	random baseline
+520921	Political Hate	random baseline
+309449	Profane	random baseline
+30231	Sexism	random baseline
+749946	None	random baseline
+230540	Sexism	random baseline
+306383	Profane	random baseline
+266663	Political Hate	random baseline
+306200	Abusive	random baseline
+932141	Abusive	random baseline
+159638	Sexism	random baseline
+153112	Religious Hate	random baseline
+36929	None	random baseline
+570695	Political Hate	random baseline
+930405	Abusive	random baseline
+934284	None	random baseline
+241721	Religious Hate	random baseline
+743285	None	random baseline
+650205	Abusive	random baseline
+231694	Religious Hate	random baseline
+240267	Sexism	random baseline
+105646	Abusive	random baseline
+166927	Abusive	random baseline
+222182	Religious Hate	random baseline
+719880	None	random baseline
+304302	Sexism	random baseline
+246202	Sexism	random baseline
+581414	Religious Hate	random baseline
+39223	Sexism	random baseline
+331481	Sexism	random baseline
+759027	Political Hate	random baseline
+372475	Abusive	random baseline
+279602	None	random baseline
+374463	Political Hate	random baseline
+522124	Political Hate	random baseline
+96971	Religious Hate	random baseline
+563986	Abusive	random baseline
+186068	Profane	random baseline
+645261	Sexism	random baseline
+491781	Profane	random baseline
+227160	Political Hate	random baseline
+49682	Religious Hate	random baseline
+715513	Profane	random baseline
+750666	None	random baseline
+498452	None	random baseline
+749770	None	random baseline
+374272	None	random baseline
+300680	Sexism	random baseline
+502810	Profane	random baseline
+537922	Religious Hate	random baseline
+301818	None	random baseline
+77449	Sexism	random baseline
+158868	Religious Hate	random baseline
+565434	Sexism	random baseline
+744307	Religious Hate	random baseline
+648825	Political Hate	random baseline
+918300	Religious Hate	random baseline
+573225	Sexism	random baseline
+627856	Religious Hate	random baseline
+772659	Abusive	random baseline
+776500	Abusive	random baseline
+709524	Religious Hate	random baseline
+321575	Sexism	random baseline
+137962	Abusive	random baseline
+542955	Profane	random baseline
+413666	Political Hate	random baseline
+436247	Abusive	random baseline
+116299	Sexism	random baseline
+764090	Political Hate	random baseline
+236100	Profane	random baseline
+602786	Religious Hate	random baseline
+331368	Religious Hate	random baseline
+281614	Profane	random baseline
+60782	Political Hate	random baseline
+789968	Abusive	random baseline
+712671	Sexism	random baseline
+859775	Sexism	random baseline
+652672	Religious Hate	random baseline
+482297	Sexism	random baseline
+831573	Sexism	random baseline
+878250	Religious Hate	random baseline
+524161	Profane	random baseline
+740158	None	random baseline
+116408	Profane	random baseline
+852595	Religious Hate	random baseline
+6970	Sexism	random baseline
+15185	Abusive	random baseline
+104676	Political Hate	random baseline
+514480	Profane	random baseline
+190562	None	random baseline
+236486	Religious Hate	random baseline
+332051	Abusive	random baseline
+324497	Profane	random baseline
+616466	Political Hate	random baseline
+153952	Abusive	random baseline
+937715	None	random baseline
+408137	Political Hate	random baseline
+722171	Political Hate	random baseline
+187787	Sexism	random baseline
+833086	Sexism	random baseline
+402586	Political Hate	random baseline
+79900	Political Hate	random baseline
+455503	Abusive	random baseline
+662760	None	random baseline
+145666	Religious Hate	random baseline
+269395	Sexism	random baseline
+855977	Religious Hate	random baseline
+411862	Religious Hate	random baseline
+840865	Sexism	random baseline
+656131	Sexism	random baseline
+283203	Religious Hate	random baseline
+635480	None	random baseline
+929892	None	random baseline
+900226	Abusive	random baseline
+187748	Abusive	random baseline
+863939	Abusive	random baseline
+562894	None	random baseline
+229250	None	random baseline
+258055	Political Hate	random baseline
+516568	Profane	random baseline
+241001	None	random baseline
+738147	None	random baseline
+914834	None	random baseline
+502930	None	random baseline
+157805	Political Hate	random baseline
+182528	Sexism	random baseline
+496305	Political Hate	random baseline
+127441	Abusive	random baseline
+516994	Religious Hate	random baseline
+296128	Profane	random baseline
+498286	Religious Hate	random baseline
+882886	Political Hate	random baseline
+654441	Abusive	random baseline
+355409	Religious Hate	random baseline
+526987	Sexism	random baseline
+166978	Sexism	random baseline
+17756	Political Hate	random baseline
+266720	Abusive	random baseline
+814729	Political Hate	random baseline
+622339	Abusive	random baseline
+735625	Profane	random baseline
+202261	Religious Hate	random baseline
+374523	Political Hate	random baseline
+336668	Profane	random baseline
+548637	Profane	random baseline
+303416	None	random baseline
+564069	Political Hate	random baseline
+796931	Abusive	random baseline
+830985	Religious Hate	random baseline
+492468	Profane	random baseline
+251311	None	random baseline
+842728	Political Hate	random baseline
+124702	Political Hate	random baseline
+891343	None	random baseline
+376956	Profane	random baseline
+676134	Sexism	random baseline
+353841	Religious Hate	random baseline
+669871	Profane	random baseline
+720106	Political Hate	random baseline
+551785	Profane	random baseline
+31813	None	random baseline
+179141	Sexism	random baseline
+722850	Sexism	random baseline
+111661	Abusive	random baseline
+385980	Political Hate	random baseline
+478200	Political Hate	random baseline
+627607	None	random baseline
+723418	Sexism	random baseline
+121301	None	random baseline
+111742	Profane	random baseline
+448538	Religious Hate	random baseline
+244405	Sexism	random baseline
+51703	None	random baseline
+276254	Abusive	random baseline
+818115	Sexism	random baseline
+839545	Sexism	random baseline
+500452	Profane	random baseline
+100905	Political Hate	random baseline
+10100	Sexism	random baseline
+17326	None	random baseline
+802542	None	random baseline
+405562	Sexism	random baseline
+297210	Religious Hate	random baseline
+633450	Sexism	random baseline
+24947	Profane	random baseline
+827247	None	random baseline
+91001	Sexism	random baseline
+797577	Political Hate	random baseline
+203064	Sexism	random baseline
+437031	Sexism	random baseline
+76338	Profane	random baseline
+28529	Religious Hate	random baseline
+416581	Political Hate	random baseline
+326992	None	random baseline
+294318	Religious Hate	random baseline
+24010	Political Hate	random baseline
+391690	Political Hate	random baseline
+898471	Religious Hate	random baseline
+139015	Abusive	random baseline
+629277	Sexism	random baseline
+249523	Profane	random baseline
+480655	Political Hate	random baseline
+923143	Profane	random baseline
+574020	Abusive	random baseline
+498850	Sexism	random baseline
+858529	Religious Hate	random baseline
+916168	None	random baseline
+547040	Abusive	random baseline
+465291	Political Hate	random baseline
+571806	Profane	random baseline
+569300	Abusive	random baseline
+499970	Sexism	random baseline
+447242	Religious Hate	random baseline
+184864	Religious Hate	random baseline
+463779	Political Hate	random baseline
+733792	Sexism	random baseline
+687387	Abusive	random baseline
+363410	None	random baseline
+613123	None	random baseline
+202791	None	random baseline
+635751	Sexism	random baseline
+608506	Political Hate	random baseline
+17576	Abusive	random baseline
+230291	None	random baseline
+382243	Sexism	random baseline
+549845	Religious Hate	random baseline
+201772	Sexism	random baseline
+326030	Sexism	random baseline
+604410	Political Hate	random baseline
+32709	Abusive	random baseline
+229330	Religious Hate	random baseline
+131732	Religious Hate	random baseline
+10683	Sexism	random baseline
+364807	Religious Hate	random baseline
+934121	Abusive	random baseline
+315440	Abusive	random baseline
+840059	Religious Hate	random baseline
+195161	Sexism	random baseline
+157090	Profane	random baseline
+653468	Sexism	random baseline
+377827	Sexism	random baseline
+588597	None	random baseline
+200076	Sexism	random baseline
+266411	None	random baseline
+346398	None	random baseline
+825712	Religious Hate	random baseline
+693484	Profane	random baseline
+109964	Profane	random baseline
+304021	Religious Hate	random baseline
+265907	Abusive	random baseline
+781953	Religious Hate	random baseline
+697858	Abusive	random baseline
+476327	Abusive	random baseline
+927901	None	random baseline
+837639	Sexism	random baseline
+492990	Profane	random baseline
+360379	None	random baseline
+618518	Abusive	random baseline
+649931	Abusive	random baseline
+175496	Religious Hate	random baseline
+422178	None	random baseline
+763331	Sexism	random baseline
+463514	None	random baseline
+452271	Religious Hate	random baseline
+255091	Sexism	random baseline
+639406	Religious Hate	random baseline
+617882	Profane	random baseline
+424539	Profane	random baseline
+534382	Religious Hate	random baseline
+656382	Sexism	random baseline
+523467	Sexism	random baseline
+678646	Sexism	random baseline
+13863	Sexism	random baseline
+345913	Sexism	random baseline
+670277	None	random baseline
+759098	Sexism	random baseline
+174859	Religious Hate	random baseline
+81340	Religious Hate	random baseline
+922743	None	random baseline
+105579	Religious Hate	random baseline
+819932	Political Hate	random baseline
+724622	Religious Hate	random baseline
+8040	Abusive	random baseline
+661589	None	random baseline
+25308	Abusive	random baseline
+479411	Abusive	random baseline
+104723	Abusive	random baseline
+804467	Profane	random baseline
+164017	Sexism	random baseline
+228242	Political Hate	random baseline
+668562	Sexism	random baseline
+900643	None	random baseline
+171741	Profane	random baseline
+596654	Political Hate	random baseline
+294586	Religious Hate	random baseline
+118070	Profane	random baseline
+643819	Sexism	random baseline
+316098	Profane	random baseline
+483088	Political Hate	random baseline
+803231	Profane	random baseline
+798743	Political Hate	random baseline
+292802	None	random baseline
+130898	Abusive	random baseline
+656615	Religious Hate	random baseline
+369848	None	random baseline
+42763	None	random baseline
+198700	Abusive	random baseline
+147433	Profane	random baseline
+112969	Political Hate	random baseline
+365334	Sexism	random baseline
+334533	Sexism	random baseline
+45513	Sexism	random baseline
+194291	Political Hate	random baseline
+242147	Religious Hate	random baseline
+543843	Profane	random baseline
+765276	Abusive	random baseline
+104725	Sexism	random baseline
+618757	Profane	random baseline
+181782	Sexism	random baseline
+914164	None	random baseline
+822076	Sexism	random baseline
+599831	Sexism	random baseline
+703814	Profane	random baseline
+871608	Political Hate	random baseline
+139975	Religious Hate	random baseline
+368136	Sexism	random baseline
+809802	Sexism	random baseline
+568236	Religious Hate	random baseline
+642774	Abusive	random baseline
+553115	Political Hate	random baseline
+147246	Abusive	random baseline
+871806	Abusive	random baseline
+906009	Sexism	random baseline
+604767	None	random baseline
+98991	Political Hate	random baseline
+491918	Political Hate	random baseline
+398790	Sexism	random baseline
+350726	Abusive	random baseline
+175253	Sexism	random baseline
+29355	Religious Hate	random baseline
+93250	None	random baseline
+19886	Religious Hate	random baseline
+445227	None	random baseline
+853191	Sexism	random baseline
+679355	Profane	random baseline
+782445	Abusive	random baseline
+907865	Profane	random baseline
+330279	Sexism	random baseline
+79692	Profane	random baseline
+482416	Profane	random baseline
+316930	Profane	random baseline
+389198	Profane	random baseline
+383466	None	random baseline
+726414	None	random baseline
+511782	Profane	random baseline
+319242	Profane	random baseline
+908647	Religious Hate	random baseline
+462082	Religious Hate	random baseline
+471029	Profane	random baseline
+825212	Sexism	random baseline
+655469	None	random baseline
+162768	Religious Hate	random baseline
+213891	None	random baseline
+189626	Political Hate	random baseline
+618775	Sexism	random baseline
+467524	Religious Hate	random baseline
+833010	Sexism	random baseline
+437027	Profane	random baseline
+751682	Sexism	random baseline
+394778	Sexism	random baseline
+462766	Religious Hate	random baseline
+464908	Sexism	random baseline
+551029	Sexism	random baseline
+930583	Religious Hate	random baseline
+127354	Political Hate	random baseline
+474903	Religious Hate	random baseline
+154285	Political Hate	random baseline
+516498	Religious Hate	random baseline
+211955	Political Hate	random baseline
+542234	Sexism	random baseline
+376628	Political Hate	random baseline
+700225	Sexism	random baseline
+786647	Profane	random baseline
+257576	Abusive	random baseline
+758485	Abusive	random baseline
+99453	Profane	random baseline
+915727	Sexism	random baseline
+376246	Religious Hate	random baseline
+373071	Profane	random baseline
+470824	Sexism	random baseline
+178420	Sexism	random baseline
+217557	None	random baseline
+191400	Profane	random baseline
+517200	Sexism	random baseline
+653544	Profane	random baseline
+70411	Religious Hate	random baseline
+149905	Religious Hate	random baseline
+153918	Political Hate	random baseline
+723635	Abusive	random baseline
+666300	Political Hate	random baseline
+323812	Political Hate	random baseline
+9604	Religious Hate	random baseline
+770780	Political Hate	random baseline
+271658	Political Hate	random baseline
+882647	Abusive	random baseline
+551920	None	random baseline
+583947	Religious Hate	random baseline
+820628	Sexism	random baseline
+277192	Profane	random baseline
+897906	Religious Hate	random baseline
+249214	Profane	random baseline
+893683	Abusive	random baseline
+4464	Sexism	random baseline
+9468	Profane	random baseline
+377406	Political Hate	random baseline
+560474	Abusive	random baseline
+486586	Abusive	random baseline
+521490	None	random baseline
+5279	Political Hate	random baseline
+42496	Political Hate	random baseline
+13705	Abusive	random baseline
+326556	Political Hate	random baseline
+517143	Religious Hate	random baseline
+663202	Religious Hate	random baseline
+17476	Political Hate	random baseline
+422364	Profane	random baseline
+319609	Sexism	random baseline
+934595	Sexism	random baseline
+283893	Sexism	random baseline
+105406	None	random baseline
+454062	Sexism	random baseline
+685691	Profane	random baseline
+671240	Religious Hate	random baseline
+323990	None	random baseline
+464804	Religious Hate	random baseline
+126109	Sexism	random baseline
+599618	Abusive	random baseline
+517229	None	random baseline
+212493	Religious Hate	random baseline
+395279	Abusive	random baseline
+802441	Political Hate	random baseline
+372446	Profane	random baseline
+131053	None	random baseline
+927153	Sexism	random baseline
+382647	None	random baseline
+739909	Profane	random baseline
+196365	None	random baseline
+725545	Abusive	random baseline
+742737	Abusive	random baseline
+324922	Profane	random baseline
+687465	Sexism	random baseline
+127196	Abusive	random baseline
+156582	None	random baseline
+736072	Political Hate	random baseline
+367939	Sexism	random baseline
+227990	Abusive	random baseline
+491013	Abusive	random baseline
+331079	Religious Hate	random baseline
+22603	None	random baseline
+142732	None	random baseline
+503395	Sexism	random baseline
+97888	Profane	random baseline
+107987	Profane	random baseline
+538964	Abusive	random baseline
+516815	Religious Hate	random baseline
+675200	Abusive	random baseline
+922846	Profane	random baseline
+206055	Political Hate	random baseline
+580711	Political Hate	random baseline
+433603	Political Hate	random baseline
+913918	Religious Hate	random baseline
+681581	Abusive	random baseline
+584423	Abusive	random baseline
+81260	None	random baseline
+736221	Sexism	random baseline
+623514	Political Hate	random baseline
+370581	None	random baseline
+192811	Profane	random baseline
+217208	Abusive	random baseline
+889961	None	random baseline
+178079	Abusive	random baseline
+90439	Religious Hate	random baseline
+178971	Religious Hate	random baseline
+22665	Religious Hate	random baseline
+899276	Political Hate	random baseline
+310071	Profane	random baseline
+360030	None	random baseline
+77977	Sexism	random baseline
+830214	Abusive	random baseline
+38886	Abusive	random baseline
+105862	Profane	random baseline
+702732	Political Hate	random baseline
+938497	Sexism	random baseline
+213252	Religious Hate	random baseline
+457833	Profane	random baseline
+816803	Profane	random baseline
+299704	Religious Hate	random baseline
+803472	Political Hate	random baseline
+753215	Sexism	random baseline
+542741	Abusive	random baseline
+836974	Political Hate	random baseline
+691680	None	random baseline
+846299	Abusive	random baseline
+433275	Abusive	random baseline
+756273	Sexism	random baseline
+740920	Political Hate	random baseline
+43626	None	random baseline
+267060	Sexism	random baseline
+457841	Sexism	random baseline
+875925	Political Hate	random baseline
+707304	None	random baseline
+305585	None	random baseline
+677304	Political Hate	random baseline
+402761	Sexism	random baseline
+142035	None	random baseline
+322005	Profane	random baseline
+49390	Abusive	random baseline
+707302	Political Hate	random baseline
+333125	Political Hate	random baseline
+416891	Sexism	random baseline
+781755	Religious Hate	random baseline
+372629	Profane	random baseline
+746812	Political Hate	random baseline
+661051	Sexism	random baseline
+223473	Sexism	random baseline
+366446	Abusive	random baseline
+439019	Abusive	random baseline
+89017	None	random baseline
+833385	Profane	random baseline
+701974	Sexism	random baseline
+532046	Sexism	random baseline
+524121	Religious Hate	random baseline
+73484	Sexism	random baseline
+41759	Abusive	random baseline
+556898	Sexism	random baseline
+74071	Political Hate	random baseline
+664811	Profane	random baseline
+596155	None	random baseline
+861670	Sexism	random baseline
+557487	Abusive	random baseline
+475743	Profane	random baseline
+708802	Political Hate	random baseline
+510655	Profane	random baseline
+345029	Religious Hate	random baseline
+853057	None	random baseline
+242665	Profane	random baseline
+823119	Religious Hate	random baseline
+608926	Profane	random baseline
+480932	None	random baseline
+641524	Profane	random baseline
+571911	Profane	random baseline
+787716	Religious Hate	random baseline
+265020	Profane	random baseline
+303183	None	random baseline
+352571	Sexism	random baseline
+263134	Sexism	random baseline
+611932	Abusive	random baseline
+868718	None	random baseline
+503912	Profane	random baseline
+844107	Abusive	random baseline
+361784	Sexism	random baseline
+707013	Political Hate	random baseline
+540056	Religious Hate	random baseline
+835721	Sexism	random baseline
+235755	Political Hate	random baseline
+667776	Religious Hate	random baseline
+649091	Political Hate	random baseline
+770663	Abusive	random baseline
+449984	Profane	random baseline
+832298	Profane	random baseline
+659157	Abusive	random baseline
+271809	Profane	random baseline
+806432	Political Hate	random baseline
+137318	None	random baseline
+153306	Sexism	random baseline
+38470	None	random baseline
+431582	Profane	random baseline
+717164	None	random baseline
+580143	Political Hate	random baseline
+49990	None	random baseline
+845881	Abusive	random baseline
+28237	Sexism	random baseline
+448410	Religious Hate	random baseline
+392869	None	random baseline
+427357	None	random baseline
+803479	Sexism	random baseline
+758098	Political Hate	random baseline
+120841	Religious Hate	random baseline
+801244	None	random baseline
+925289	Religious Hate	random baseline
+777026	Profane	random baseline
+7401	Political Hate	random baseline
+766209	Religious Hate	random baseline
+146616	None	random baseline
+449920	Religious Hate	random baseline
+395149	Sexism	random baseline
+783461	Religious Hate	random baseline
+323363	None	random baseline
+857583	Abusive	random baseline
+535131	Religious Hate	random baseline
+449455	Religious Hate	random baseline
+530188	Abusive	random baseline
+841983	Sexism	random baseline
+863107	Profane	random baseline
+441302	Sexism	random baseline
+398777	Abusive	random baseline
+756172	Political Hate	random baseline
+706050	Abusive	random baseline
+514434	Religious Hate	random baseline
+513361	Profane	random baseline
+516223	Profane	random baseline
+31791	Sexism	random baseline
+143438	Sexism	random baseline
+799188	Religious Hate	random baseline
+336449	None	random baseline
+767986	Abusive	random baseline
+694508	None	random baseline
+186493	Sexism	random baseline
+104882	Religious Hate	random baseline
+280325	None	random baseline
+366514	Political Hate	random baseline
+566626	Sexism	random baseline
+274439	Sexism	random baseline
+775968	Religious Hate	random baseline
+665640	Sexism	random baseline
+922707	Abusive	random baseline
+131971	Sexism	random baseline
+467462	Religious Hate	random baseline
+392346	None	random baseline
+14129	Political Hate	random baseline
+727009	Sexism	random baseline
+202951	Profane	random baseline
+511558	Profane	random baseline
+396493	Political Hate	random baseline
+675473	Profane	random baseline
+487864	Religious Hate	random baseline
+345179	Abusive	random baseline
+714384	Religious Hate	random baseline
+378869	Political Hate	random baseline
+91557	Religious Hate	random baseline
+401006	None	random baseline
+426265	Abusive	random baseline
+623520	Political Hate	random baseline
+589727	Religious Hate	random baseline
+923659	Sexism	random baseline

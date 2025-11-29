@@ -1,0 +1,3400 @@
+id	hate_type	hate_severity	to_whom	model
+12764	Religious Hate	Little to None	Society	random baseline
+202933	Abusive	Severe	Society	random baseline
+165894	None	Severe	Society	random baseline
+124999	Abusive	Mild	Organization	random baseline
+535301	Abusive	Little to None	Society	random baseline
+432948	Profane	Severe	None	random baseline
+34737	Religious Hate	Severe	Individual	random baseline
+377091	Political Hate	Little to None	Organization	random baseline
+840467	None	Little to None	Society	random baseline
+361701	Sexism	Mild	Organization	random baseline
+184161	Abusive	Severe	None	random baseline
+531785	Religious Hate	Little to None	None	random baseline
+402930	None	Little to None	None	random baseline
+578332	Sexism	Little to None	Community	random baseline
+723077	Sexism	Little to None	Community	random baseline
+776755	Religious Hate	Mild	Community	random baseline
+587800	Political Hate	Severe	Organization	random baseline
+869387	Religious Hate	Severe	Society	random baseline
+620490	Sexism	Little to None	Society	random baseline
+241030	Profane	Little to None	Individual	random baseline
+764029	None	Mild	Organization	random baseline
+174711	Abusive	Little to None	None	random baseline
+65995	Religious Hate	Little to None	Society	random baseline
+871343	Sexism	Little to None	Organization	random baseline
+715822	Abusive	Mild	Society	random baseline
+106487	Sexism	Little to None	Community	random baseline
+764737	Religious Hate	Little to None	Individual	random baseline
+917460	Profane	Severe	Society	random baseline
+531356	Political Hate	Mild	Organization	random baseline
+266651	Profane	Little to None	Individual	random baseline
+739854	Abusive	Severe	Individual	random baseline
+266764	Profane	Mild	Community	random baseline
+73332	Sexism	Mild	Individual	random baseline
+760242	Abusive	Mild	None	random baseline
+320758	Political Hate	Mild	None	random baseline
+609567	Religious Hate	Mild	Community	random baseline
+16555	Abusive	Little to None	Individual	random baseline
+404893	Religious Hate	Little to None	None	random baseline
+357862	Abusive	Mild	Individual	random baseline
+624326	None	Mild	Organization	random baseline
+364169	Profane	Little to None	Organization	random baseline
+631673	Sexism	Mild	Organization	random baseline
+105543	None	Mild	Individual	random baseline
+699006	None	Little to None	Society	random baseline
+701268	Religious Hate	Little to None	Society	random baseline
+742298	Profane	Little to None	Organization	random baseline
+643737	Sexism	Little to None	Community	random baseline
+689092	Profane	Mild	Society	random baseline
+563553	Sexism	Mild	Society	random baseline
+662932	None	Mild	Organization	random baseline
+473263	Abusive	Mild	Organization	random baseline
+422168	None	Mild	None	random baseline
+862941	Political Hate	Mild	Organization	random baseline
+342937	Sexism	Severe	Individual	random baseline
+178372	Political Hate	Severe	Organization	random baseline
+916768	Profane	Little to None	Community	random baseline
+215239	Sexism	Little to None	Individual	random baseline
+763206	Sexism	Mild	Community	random baseline
+666182	Political Hate	Little to None	Society	random baseline
+503048	Sexism	Little to None	Organization	random baseline
+519953	Sexism	Little to None	Community	random baseline
+679666	Political Hate	Little to None	Society	random baseline
+237037	None	Little to None	Organization	random baseline
+561654	Political Hate	Little to None	Individual	random baseline
+335959	Religious Hate	Severe	Community	random baseline
+672138	Political Hate	Severe	Individual	random baseline
+705318	Profane	Severe	Community	random baseline
+251010	Religious Hate	Mild	None	random baseline
+50757	Political Hate	Severe	Society	random baseline
+708711	Profane	Mild	Individual	random baseline
+379033	Religious Hate	Severe	Community	random baseline
+356889	Sexism	Little to None	Individual	random baseline
+380864	Profane	Little to None	Community	random baseline
+357388	None	Severe	Individual	random baseline
+237264	Abusive	Mild	Individual	random baseline
+785645	Political Hate	Mild	Organization	random baseline
+10221	Religious Hate	Mild	Society	random baseline
+51427	Abusive	Mild	Individual	random baseline
+327009	Profane	Mild	Individual	random baseline
+72638	Political Hate	Mild	Individual	random baseline
+454694	Political Hate	Mild	None	random baseline
+531585	Profane	Severe	None	random baseline
+905729	Profane	Little to None	Organization	random baseline
+826344	Sexism	Severe	Individual	random baseline
+622615	None	Mild	Society	random baseline
+341026	None	Mild	Society	random baseline
+756812	Abusive	Mild	Individual	random baseline
+446998	Abusive	Little to None	None	random baseline
+507755	Profane	Mild	Community	random baseline
+252185	Profane	Severe	None	random baseline
+677872	Profane	Severe	Community	random baseline
+573406	Sexism	Little to None	None	random baseline
+708512	None	Mild	Society	random baseline
+35865	Sexism	Severe	None	random baseline
+521314	Political Hate	Mild	None	random baseline
+629720	Profane	Mild	Individual	random baseline
+579590	Profane	Little to None	None	random baseline
+420676	Sexism	Severe	None	random baseline
+888468	Abusive	Little to None	Community	random baseline
+507098	Profane	Little to None	Society	random baseline
+33791	Religious Hate	Little to None	Society	random baseline
+628771	Political Hate	Severe	Organization	random baseline
+197579	Profane	Severe	Community	random baseline
+228413	Religious Hate	Severe	Society	random baseline
+607208	Profane	Mild	Individual	random baseline
+482851	Sexism	Little to None	Community	random baseline
+641065	Sexism	Little to None	Society	random baseline
+154089	None	Severe	Community	random baseline
+21246	Sexism	Little to None	Organization	random baseline
+99970	Religious Hate	Mild	Organization	random baseline
+243706	Sexism	Severe	None	random baseline
+366232	Abusive	Little to None	None	random baseline
+799431	Political Hate	Severe	Organization	random baseline
+151836	Sexism	Severe	Individual	random baseline
+384383	Profane	Little to None	None	random baseline
+430350	Sexism	Severe	None	random baseline
+321512	Sexism	Mild	Society	random baseline
+791877	Profane	Little to None	Community	random baseline
+369126	None	Mild	Society	random baseline
+769210	Sexism	Severe	Society	random baseline
+389866	Profane	Little to None	None	random baseline
+124392	Political Hate	Mild	None	random baseline
+111565	None	Mild	None	random baseline
+87928	Religious Hate	Little to None	Society	random baseline
+507897	Religious Hate	Little to None	Community	random baseline
+284276	Religious Hate	Mild	Organization	random baseline
+211557	Religious Hate	Severe	Organization	random baseline
+407528	None	Little to None	Community	random baseline
+656024	Sexism	Mild	Individual	random baseline
+163256	Political Hate	Little to None	Society	random baseline
+701482	Political Hate	Little to None	None	random baseline
+28613	Sexism	Severe	Organization	random baseline
+393451	Sexism	Little to None	Community	random baseline
+130986	None	Severe	Society	random baseline
+47847	Sexism	Mild	Community	random baseline
+474831	Sexism	Severe	Community	random baseline
+262358	Profane	Mild	Individual	random baseline
+809182	Profane	Little to None	Community	random baseline
+912597	Abusive	Mild	None	random baseline
+491193	Profane	Little to None	None	random baseline
+605569	Sexism	Little to None	Organization	random baseline
+380424	Sexism	Severe	None	random baseline
+603456	Profane	Severe	Organization	random baseline
+107100	Profane	Mild	Community	random baseline
+626831	Profane	Severe	Organization	random baseline
+447213	Religious Hate	Little to None	Society	random baseline
+697862	Sexism	Severe	Individual	random baseline
+91497	Political Hate	Little to None	Individual	random baseline
+652526	Profane	Severe	Organization	random baseline
+24792	Profane	Severe	None	random baseline
+571083	Religious Hate	Severe	Individual	random baseline
+890268	Sexism	Severe	Individual	random baseline
+5297	Religious Hate	Severe	Individual	random baseline
+920594	None	Severe	Community	random baseline
+172944	Sexism	Little to None	None	random baseline
+624079	Religious Hate	Severe	Organization	random baseline
+770329	Abusive	Mild	Individual	random baseline
+692607	Abusive	Severe	None	random baseline
+3052	Political Hate	Mild	Organization	random baseline
+844455	None	Little to None	Community	random baseline
+814896	Religious Hate	Mild	None	random baseline
+110591	Profane	Mild	None	random baseline
+180575	Political Hate	Severe	Individual	random baseline
+254322	None	Severe	Individual	random baseline
+574720	Profane	Mild	None	random baseline
+622377	Abusive	Severe	Individual	random baseline
+623083	Abusive	Little to None	Organization	random baseline
+668718	Political Hate	Severe	Community	random baseline
+633172	Political Hate	Mild	Community	random baseline
+6790	None	Little to None	Community	random baseline
+850984	Abusive	Little to None	Community	random baseline
+500524	Sexism	Little to None	Society	random baseline
+581344	Abusive	Severe	Community	random baseline
+654769	Religious Hate	Mild	Community	random baseline
+706547	Profane	Severe	Individual	random baseline
+603782	None	Severe	Organization	random baseline
+302171	Religious Hate	Mild	Society	random baseline
+744717	Profane	Severe	None	random baseline
+512972	Profane	Severe	Community	random baseline
+781353	Sexism	Little to None	Organization	random baseline
+384814	Political Hate	Severe	Individual	random baseline
+15032	Sexism	Mild	Individual	random baseline
+251425	Sexism	Mild	None	random baseline
+813466	Profane	Mild	Individual	random baseline
+675844	Profane	Severe	None	random baseline
+2583	Religious Hate	Mild	Organization	random baseline
+659227	Profane	Little to None	Organization	random baseline
+169886	Religious Hate	Little to None	Society	random baseline
+381979	Political Hate	Severe	None	random baseline
+299641	Profane	Severe	None	random baseline
+704171	Political Hate	Mild	Individual	random baseline
+618279	Abusive	Severe	Individual	random baseline
+641060	Abusive	Severe	Society	random baseline
+562096	Abusive	Little to None	Individual	random baseline
+318122	None	Mild	Individual	random baseline
+451639	Political Hate	Severe	Community	random baseline
+653504	Sexism	Mild	None	random baseline
+144836	Sexism	Mild	Society	random baseline
+426811	Profane	Little to None	None	random baseline
+399359	Political Hate	Little to None	Organization	random baseline
+610564	Religious Hate	Mild	Organization	random baseline
+246780	Sexism	Little to None	Community	random baseline
+838887	Abusive	Mild	None	random baseline
+144994	Profane	Severe	Organization	random baseline
+854277	Profane	Mild	Individual	random baseline
+865313	Profane	Mild	Organization	random baseline
+578428	Abusive	Mild	Organization	random baseline
+187917	Religious Hate	Little to None	Society	random baseline
+348388	Profane	Little to None	None	random baseline
+741123	Profane	Little to None	Individual	random baseline
+634544	Political Hate	Little to None	None	random baseline
+778366	Sexism	Little to None	Organization	random baseline
+441000	Profane	Severe	None	random baseline
+377994	Religious Hate	Severe	Society	random baseline
+362805	Sexism	Mild	Organization	random baseline
+12475	None	Little to None	None	random baseline
+460383	Abusive	Little to None	Community	random baseline
+870913	Religious Hate	Little to None	Society	random baseline
+2715	Religious Hate	Mild	Individual	random baseline
+921356	Religious Hate	Mild	None	random baseline
+196647	Sexism	Little to None	None	random baseline
+824151	Sexism	Severe	None	random baseline
+382540	Religious Hate	Mild	Individual	random baseline
+1087	Sexism	Little to None	Society	random baseline
+380610	Profane	Severe	None	random baseline
+416517	Abusive	Mild	None	random baseline
+456028	Political Hate	Mild	Individual	random baseline
+431471	Political Hate	Little to None	Individual	random baseline
+453235	Religious Hate	Little to None	Individual	random baseline
+927587	Political Hate	Little to None	None	random baseline
+422259	Abusive	Severe	Community	random baseline
+896697	Political Hate	Severe	Organization	random baseline
+42562	Abusive	Severe	Individual	random baseline
+197313	Abusive	Little to None	Community	random baseline
+690302	None	Severe	Society	random baseline
+925174	Profane	Severe	Society	random baseline
+535584	Profane	Severe	None	random baseline
+931365	Abusive	Little to None	Individual	random baseline
+227393	Religious Hate	Little to None	Community	random baseline
+329379	Political Hate	Little to None	None	random baseline
+56445	Religious Hate	Severe	Society	random baseline
+546158	Profane	Little to None	Individual	random baseline
+258725	Religious Hate	Little to None	Community	random baseline
+175825	Political Hate	Mild	Community	random baseline
+937532	Sexism	Little to None	Community	random baseline
+833099	None	Mild	None	random baseline
+321436	Political Hate	Little to None	Society	random baseline
+755018	None	Mild	None	random baseline
+798262	Religious Hate	Little to None	Individual	random baseline
+866278	Political Hate	Mild	Community	random baseline
+210321	Sexism	Mild	Society	random baseline
+363164	Abusive	Severe	Individual	random baseline
+370542	Sexism	Mild	None	random baseline
+132703	None	Severe	Society	random baseline
+601946	None	Mild	Individual	random baseline
+897150	Sexism	Little to None	Individual	random baseline
+256376	Abusive	Severe	None	random baseline
+240015	Profane	Severe	None	random baseline
+259547	Sexism	Severe	Organization	random baseline
+67131	None	Severe	Society	random baseline
+923885	Religious Hate	Little to None	Community	random baseline
+226135	None	Severe	Organization	random baseline
+662300	None	Little to None	Community	random baseline
+677456	None	Severe	Individual	random baseline
+485008	Profane	Little to None	Society	random baseline
+529942	Sexism	Mild	None	random baseline
+914346	Abusive	Mild	Society	random baseline
+298173	Sexism	Severe	Organization	random baseline
+446809	Abusive	Severe	Individual	random baseline
+671424	None	Severe	Organization	random baseline
+793955	Sexism	Little to None	Community	random baseline
+157776	Sexism	Severe	None	random baseline
+283469	Religious Hate	Mild	None	random baseline
+206317	Sexism	Little to None	None	random baseline
+33066	None	Mild	None	random baseline
+36214	Profane	Severe	Organization	random baseline
+683112	Abusive	Severe	Organization	random baseline
+831416	Abusive	Mild	Society	random baseline
+473865	Abusive	Little to None	Society	random baseline
+783655	Profane	Severe	None	random baseline
+344565	Profane	Severe	Individual	random baseline
+240377	Sexism	Little to None	Individual	random baseline
+205517	Religious Hate	Little to None	Organization	random baseline
+624990	Abusive	Mild	Community	random baseline
+114646	Profane	Mild	Community	random baseline
+860260	None	Little to None	Society	random baseline
+321233	Political Hate	Little to None	Individual	random baseline
+287639	Profane	Severe	Organization	random baseline
+698525	Abusive	Little to None	Community	random baseline
+640865	Sexism	Little to None	Society	random baseline
+493551	Sexism	Mild	None	random baseline
+329369	Sexism	Mild	None	random baseline
+687000	Abusive	Severe	Individual	random baseline
+938515	None	Mild	Society	random baseline
+71327	Religious Hate	Mild	Organization	random baseline
+82872	Sexism	Little to None	None	random baseline
+564549	Sexism	Little to None	Individual	random baseline
+93050	Political Hate	Severe	Individual	random baseline
+684599	None	Mild	Organization	random baseline
+923214	Religious Hate	Severe	Individual	random baseline
+712666	None	Severe	Individual	random baseline
+516447	Profane	Severe	Community	random baseline
+789503	Profane	Little to None	Community	random baseline
+126197	Political Hate	Severe	Community	random baseline
+83510	Sexism	Mild	Organization	random baseline
+693378	Profane	Little to None	Organization	random baseline
+766830	Sexism	Severe	None	random baseline
+917369	None	Mild	Society	random baseline
+140689	Profane	Mild	Community	random baseline
+828319	Abusive	Mild	Society	random baseline
+441784	Sexism	Little to None	Organization	random baseline
+584069	Sexism	Mild	Organization	random baseline
+595722	Religious Hate	Severe	Individual	random baseline
+587975	None	Severe	Community	random baseline
+737847	Profane	Severe	Individual	random baseline
+355260	Religious Hate	Mild	Individual	random baseline
+208807	None	Severe	Society	random baseline
+698527	Sexism	Severe	None	random baseline
+342704	Profane	Mild	Organization	random baseline
+281083	Profane	Little to None	Individual	random baseline
+594110	Sexism	Mild	Community	random baseline
+208175	Religious Hate	Mild	Individual	random baseline
+536181	Religious Hate	Severe	Community	random baseline
+562508	Profane	Severe	None	random baseline
+844368	Political Hate	Mild	None	random baseline
+355570	Profane	Little to None	None	random baseline
+576652	None	Little to None	Society	random baseline
+230254	Religious Hate	Severe	Individual	random baseline
+396913	Sexism	Severe	Organization	random baseline
+160607	Political Hate	Mild	Community	random baseline
+775615	Profane	Mild	None	random baseline
+634523	Profane	Little to None	Community	random baseline
+313291	Sexism	Mild	Community	random baseline
+631046	None	Little to None	Organization	random baseline
+550426	None	Severe	Community	random baseline
+807498	Political Hate	Mild	Individual	random baseline
+388081	Profane	Mild	Individual	random baseline
+532701	Abusive	Little to None	None	random baseline
+506934	Religious Hate	Mild	Society	random baseline
+322440	Abusive	Severe	Community	random baseline
+507780	Political Hate	Mild	Organization	random baseline
+133106	Religious Hate	Severe	None	random baseline
+584019	Abusive	Little to None	Organization	random baseline
+474793	Profane	Mild	Community	random baseline
+890928	Political Hate	Severe	None	random baseline
+888703	Religious Hate	Mild	Society	random baseline
+391227	Political Hate	Severe	None	random baseline
+511127	Religious Hate	Mild	Society	random baseline
+507374	Political Hate	Severe	Society	random baseline
+680347	Abusive	Little to None	Organization	random baseline
+63627	Political Hate	Little to None	Individual	random baseline
+903197	Profane	Little to None	None	random baseline
+938868	Abusive	Little to None	Organization	random baseline
+675732	Political Hate	Mild	Individual	random baseline
+482546	Profane	Severe	Individual	random baseline
+675440	None	Mild	Community	random baseline
+115168	Religious Hate	Little to None	Society	random baseline
+352533	Profane	Little to None	Organization	random baseline
+630861	None	Mild	Individual	random baseline
+768879	Sexism	Mild	None	random baseline
+882539	Religious Hate	Severe	Community	random baseline
+558518	Profane	Severe	Organization	random baseline
+937312	Political Hate	Mild	None	random baseline
+422059	Abusive	Little to None	Community	random baseline
+416662	Sexism	Mild	None	random baseline
+632696	Profane	Mild	Society	random baseline
+203962	Religious Hate	Little to None	Community	random baseline
+857709	None	Mild	None	random baseline
+793617	Abusive	Severe	Community	random baseline
+486353	Political Hate	Mild	Community	random baseline
+635854	Religious Hate	Little to None	Individual	random baseline
+84223	Abusive	Mild	Society	random baseline
+150930	None	Little to None	None	random baseline
+156149	Sexism	Severe	Society	random baseline
+772243	Sexism	Little to None	None	random baseline
+644418	Profane	Mild	Individual	random baseline
+723392	Abusive	Severe	Society	random baseline
+717266	Abusive	Severe	Society	random baseline
+75367	Sexism	Severe	Organization	random baseline
+398304	Sexism	Little to None	Individual	random baseline
+350619	Profane	Severe	None	random baseline
+633361	Political Hate	Mild	Community	random baseline
+545400	None	Severe	Society	random baseline
+184710	Abusive	Severe	None	random baseline
+126450	Profane	Mild	Community	random baseline
+157874	Religious Hate	Mild	Society	random baseline
+268695	Religious Hate	Mild	None	random baseline
+443262	Profane	Severe	Organization	random baseline
+405050	Political Hate	Severe	Organization	random baseline
+475199	Profane	Little to None	Individual	random baseline
+909906	Sexism	Severe	Society	random baseline
+619424	Religious Hate	Little to None	Community	random baseline
+338317	Religious Hate	Severe	Society	random baseline
+208842	Sexism	Little to None	None	random baseline
+297713	Sexism	Mild	Individual	random baseline
+198549	Political Hate	Little to None	Individual	random baseline
+240451	Political Hate	Severe	Society	random baseline
+432313	Political Hate	Severe	Society	random baseline
+556009	Profane	Little to None	Organization	random baseline
+291078	None	Severe	Individual	random baseline
+647866	Religious Hate	Severe	Society	random baseline
+885374	Political Hate	Severe	Organization	random baseline
+149363	None	Little to None	Community	random baseline
+169573	Abusive	Severe	Society	random baseline
+456507	Abusive	Little to None	Individual	random baseline
+589233	Abusive	Little to None	Individual	random baseline
+112377	None	Mild	Organization	random baseline
+831724	None	Mild	None	random baseline
+5407	Profane	Little to None	Society	random baseline
+15943	Religious Hate	Severe	Individual	random baseline
+741246	Religious Hate	Severe	Organization	random baseline
+61405	Religious Hate	Severe	Individual	random baseline
+915869	Sexism	Severe	Community	random baseline
+511267	Sexism	Severe	None	random baseline
+1471	None	Mild	None	random baseline
+367605	Profane	Mild	Society	random baseline
+174842	Sexism	Mild	Individual	random baseline
+137391	Profane	Mild	Community	random baseline
+840729	Abusive	Little to None	Organization	random baseline
+416127	Abusive	Mild	Individual	random baseline
+330333	Profane	Mild	None	random baseline
+670421	Sexism	Severe	Community	random baseline
+242499	Profane	Little to None	None	random baseline
+144117	Sexism	Severe	Society	random baseline
+639424	Religious Hate	Severe	Community	random baseline
+394368	Religious Hate	Severe	Society	random baseline
+291259	Sexism	Little to None	Organization	random baseline
+142509	Abusive	Little to None	Society	random baseline
+226408	Abusive	Mild	Individual	random baseline
+486351	Profane	Severe	Community	random baseline
+865343	Abusive	Mild	Organization	random baseline
+490548	Sexism	Severe	Organization	random baseline
+430804	None	Mild	Community	random baseline
+292631	Profane	Severe	Individual	random baseline
+399708	Abusive	Severe	Individual	random baseline
+62074	Abusive	Mild	Society	random baseline
+277817	Political Hate	Little to None	Community	random baseline
+451449	Political Hate	Mild	None	random baseline
+937837	None	Mild	None	random baseline
+69996	Political Hate	Mild	Individual	random baseline
+472779	Abusive	Severe	Society	random baseline
+593869	Political Hate	Mild	Individual	random baseline
+113374	Abusive	Mild	None	random baseline
+295098	Abusive	Mild	Individual	random baseline
+688164	Religious Hate	Severe	Community	random baseline
+754307	Profane	Little to None	Individual	random baseline
+185344	Political Hate	Little to None	None	random baseline
+206819	Sexism	Severe	Community	random baseline
+776128	None	Little to None	Individual	random baseline
+438265	Profane	Mild	None	random baseline
+586064	Profane	Little to None	Organization	random baseline
+588534	Religious Hate	Severe	None	random baseline
+863686	Abusive	Mild	Society	random baseline
+694501	Abusive	Severe	Organization	random baseline
+97900	Abusive	Severe	None	random baseline
+166900	None	Mild	Community	random baseline
+109971	Political Hate	Mild	Organization	random baseline
+497464	None	Little to None	Organization	random baseline
+376477	Political Hate	Little to None	Society	random baseline
+65718	None	Little to None	Community	random baseline
+784043	Profane	Severe	Organization	random baseline
+702897	Political Hate	Little to None	None	random baseline
+352371	Sexism	Mild	Individual	random baseline
+52223	Profane	Severe	Individual	random baseline
+131128	None	Little to None	Organization	random baseline
+13831	Political Hate	Severe	Individual	random baseline
+148597	Religious Hate	Little to None	Community	random baseline
+60602	Political Hate	Little to None	Individual	random baseline
+752509	Religious Hate	Mild	Community	random baseline
+730085	Political Hate	Little to None	Organization	random baseline
+625048	Abusive	Mild	None	random baseline
+541629	Profane	Severe	Individual	random baseline
+895206	None	Mild	Organization	random baseline
+725993	Sexism	Severe	Individual	random baseline
+296053	Abusive	Mild	Individual	random baseline
+240086	None	Mild	Individual	random baseline
+106374	Political Hate	Little to None	Community	random baseline
+2358	Profane	Little to None	Organization	random baseline
+655996	Sexism	Little to None	Individual	random baseline
+2640	Profane	Severe	Individual	random baseline
+583695	Profane	Mild	Organization	random baseline
+740126	Religious Hate	Mild	Society	random baseline
+116038	Abusive	Mild	Community	random baseline
+839438	None	Severe	Society	random baseline
+216777	Abusive	Little to None	Society	random baseline
+717153	Abusive	Mild	Community	random baseline
+628314	Political Hate	Mild	Organization	random baseline
+49560	Abusive	Severe	None	random baseline
+484546	Abusive	Little to None	Community	random baseline
+411292	Sexism	Little to None	Community	random baseline
+739397	Profane	Little to None	Individual	random baseline
+33049	Religious Hate	Severe	Society	random baseline
+234943	Religious Hate	Mild	Society	random baseline
+85567	Religious Hate	Little to None	Individual	random baseline
+898840	None	Severe	Organization	random baseline
+110149	Profane	Severe	None	random baseline
+928802	Abusive	Little to None	None	random baseline
+65232	Political Hate	Severe	Society	random baseline
+609733	Political Hate	Mild	Community	random baseline
+607110	Political Hate	Little to None	Organization	random baseline
+656146	Abusive	Little to None	Organization	random baseline
+122819	Abusive	Mild	Community	random baseline
+924773	None	Severe	Individual	random baseline
+855239	Profane	Little to None	Community	random baseline
+455140	Profane	Severe	Community	random baseline
+172685	Religious Hate	Little to None	Society	random baseline
+705941	Abusive	Little to None	Organization	random baseline
+317297	Sexism	Little to None	None	random baseline
+637876	Political Hate	Little to None	Individual	random baseline
+198449	None	Mild	None	random baseline
+822721	None	Mild	None	random baseline
+347419	Profane	Severe	Individual	random baseline
+503146	Sexism	Little to None	Individual	random baseline
+601962	Profane	Mild	None	random baseline
+847061	None	Severe	None	random baseline
+449847	Political Hate	Little to None	None	random baseline
+266272	None	Mild	None	random baseline
+579593	Religious Hate	Little to None	Community	random baseline
+696370	Sexism	Mild	Individual	random baseline
+282600	Sexism	Severe	Organization	random baseline
+901656	None	Little to None	None	random baseline
+348015	Political Hate	Mild	Individual	random baseline
+436616	Sexism	Severe	Community	random baseline
+257730	Profane	Little to None	Community	random baseline
+662170	Religious Hate	Mild	Society	random baseline
+385756	Profane	Mild	Community	random baseline
+359726	Profane	Severe	Society	random baseline
+660956	Religious Hate	Severe	Society	random baseline
+767839	Sexism	Mild	None	random baseline
+104694	None	Severe	None	random baseline
+939708	Profane	Mild	Organization	random baseline
+918343	Political Hate	Severe	None	random baseline
+169088	Abusive	Mild	Community	random baseline
+559219	Profane	Little to None	Community	random baseline
+313940	Sexism	Severe	Community	random baseline
+156518	None	Severe	Individual	random baseline
+475465	Political Hate	Mild	Society	random baseline
+796521	None	Little to None	Individual	random baseline
+340667	Abusive	Severe	Community	random baseline
+871730	Abusive	Severe	Organization	random baseline
+526989	Profane	Mild	None	random baseline
+2000	Religious Hate	Little to None	Society	random baseline
+770360	None	Severe	Community	random baseline
+97016	None	Severe	Community	random baseline
+759827	Profane	Severe	Individual	random baseline
+121027	Religious Hate	Mild	Organization	random baseline
+398334	Political Hate	Mild	Society	random baseline
+88547	Profane	Mild	Community	random baseline
+388063	Sexism	Mild	None	random baseline
+584267	Sexism	Mild	None	random baseline
+199146	None	Mild	None	random baseline
+862801	Profane	Severe	Individual	random baseline
+663203	Political Hate	Mild	None	random baseline
+384078	None	Severe	Organization	random baseline
+674707	None	Little to None	Organization	random baseline
+248801	Abusive	Little to None	Community	random baseline
+434904	Profane	Severe	None	random baseline
+892832	Sexism	Little to None	Society	random baseline
+849635	Profane	Severe	Individual	random baseline
+357655	Sexism	Severe	Community	random baseline
+38822	Religious Hate	Mild	Organization	random baseline
+15868	Abusive	Little to None	Individual	random baseline
+92875	Religious Hate	Severe	Individual	random baseline
+881948	None	Mild	None	random baseline
+930602	Profane	Severe	Society	random baseline
+297212	Religious Hate	Little to None	Society	random baseline
+720687	Profane	Mild	Society	random baseline
+129760	None	Severe	None	random baseline
+195054	None	Mild	Society	random baseline
+109394	Profane	Little to None	Individual	random baseline
+869427	Profane	Severe	Organization	random baseline
+916439	Abusive	Severe	Individual	random baseline
+137360	Religious Hate	Severe	Society	random baseline
+617422	Abusive	Severe	Community	random baseline
+78119	Profane	Little to None	Community	random baseline
+723502	None	Mild	Organization	random baseline
+478562	Abusive	Mild	None	random baseline
+65211	Sexism	Severe	Organization	random baseline
+509559	Sexism	Mild	Organization	random baseline
+326033	Religious Hate	Severe	Individual	random baseline
+863542	Profane	Little to None	Individual	random baseline
+700913	Religious Hate	Severe	Organization	random baseline
+674516	Abusive	Mild	Society	random baseline
+559600	None	Mild	Organization	random baseline
+503290	Abusive	Severe	Community	random baseline
+896878	Political Hate	Severe	Individual	random baseline
+134107	Sexism	Little to None	Individual	random baseline
+249718	Profane	Little to None	None	random baseline
+163349	Political Hate	Little to None	Organization	random baseline
+401513	Profane	Severe	Community	random baseline
+650595	None	Mild	Community	random baseline
+752284	Political Hate	Severe	None	random baseline
+865890	Sexism	Severe	Organization	random baseline
+186435	None	Mild	Society	random baseline
+373339	Sexism	Mild	Society	random baseline
+286709	Profane	Severe	Organization	random baseline
+643016	Abusive	Little to None	Society	random baseline
+27134	Profane	Little to None	Organization	random baseline
+593062	Abusive	Little to None	Individual	random baseline
+676443	None	Mild	Community	random baseline
+614707	None	Mild	Organization	random baseline
+61510	Religious Hate	Little to None	Individual	random baseline
+153559	Profane	Mild	None	random baseline
+433441	Profane	Mild	Community	random baseline
+216305	Abusive	Mild	Community	random baseline
+910124	Abusive	Little to None	Individual	random baseline
+620809	Sexism	Mild	Community	random baseline
+932421	Abusive	Mild	None	random baseline
+425270	Profane	Severe	None	random baseline
+273781	Political Hate	Mild	Individual	random baseline
+187613	Profane	Mild	None	random baseline
+124364	Sexism	Little to None	None	random baseline
+877298	Sexism	Little to None	None	random baseline
+605600	Abusive	Severe	Society	random baseline
+349142	Abusive	Mild	None	random baseline
+780477	Abusive	Severe	Individual	random baseline
+850714	Sexism	Severe	Community	random baseline
+182549	Profane	Mild	Community	random baseline
+591436	Political Hate	Severe	None	random baseline
+532973	Religious Hate	Severe	Society	random baseline
+254837	Religious Hate	Mild	None	random baseline
+570134	None	Severe	None	random baseline
+600873	Abusive	Little to None	Individual	random baseline
+897692	Profane	Little to None	Society	random baseline
+145602	Sexism	Severe	Society	random baseline
+674074	Abusive	Severe	None	random baseline
+617154	Sexism	Severe	Individual	random baseline
+131424	Profane	Mild	Organization	random baseline
+863095	Sexism	Little to None	Society	random baseline
+753046	Profane	Mild	Organization	random baseline
+889442	Political Hate	Little to None	Organization	random baseline
+290088	None	Severe	Society	random baseline
+158006	Sexism	Severe	Society	random baseline
+915317	Religious Hate	Mild	Organization	random baseline
+928884	Political Hate	Mild	Individual	random baseline
+845497	Religious Hate	Little to None	None	random baseline
+337012	Political Hate	Mild	None	random baseline
+806329	Profane	Mild	None	random baseline
+513110	Political Hate	Mild	Individual	random baseline
+313334	Abusive	Severe	Community	random baseline
+843096	Sexism	Severe	Society	random baseline
+406040	Sexism	Little to None	None	random baseline
+436473	Political Hate	Severe	Individual	random baseline
+864150	Political Hate	Mild	Individual	random baseline
+307617	Political Hate	Severe	Society	random baseline
+486690	Religious Hate	Severe	Organization	random baseline
+197326	Religious Hate	Little to None	Individual	random baseline
+295541	Abusive	Mild	None	random baseline
+264754	None	Severe	Organization	random baseline
+214178	Abusive	Severe	Organization	random baseline
+288143	Sexism	Severe	Community	random baseline
+77822	Religious Hate	Severe	Community	random baseline
+659471	Sexism	Little to None	Individual	random baseline
+441154	Abusive	Little to None	Society	random baseline
+304049	None	Little to None	Individual	random baseline
+635950	Religious Hate	Mild	Community	random baseline
+863812	Religious Hate	Mild	None	random baseline
+642147	Profane	Little to None	Organization	random baseline
+206032	Profane	Mild	Organization	random baseline
+936269	Sexism	Severe	Organization	random baseline
+87245	Sexism	Mild	Society	random baseline
+831967	Abusive	Severe	Community	random baseline
+773650	Religious Hate	Mild	Individual	random baseline
+578805	Profane	Mild	Society	random baseline
+54423	Profane	Mild	Community	random baseline
+187408	Political Hate	Severe	Organization	random baseline
+446182	Abusive	Severe	Society	random baseline
+240952	Sexism	Little to None	Society	random baseline
+609430	Profane	Mild	Individual	random baseline
+32107	Political Hate	Mild	Community	random baseline
+257935	Profane	Little to None	Society	random baseline
+823899	Abusive	Severe	Individual	random baseline
+685145	Profane	Mild	Individual	random baseline
+398331	Sexism	Severe	None	random baseline
+153024	Sexism	Little to None	None	random baseline
+175531	None	Little to None	Organization	random baseline
+446560	Political Hate	Severe	Individual	random baseline
+418942	Profane	Little to None	None	random baseline
+594047	Sexism	Severe	Organization	random baseline
+542787	Abusive	Severe	Community	random baseline
+506353	Religious Hate	Severe	Organization	random baseline
+841821	Sexism	Severe	Individual	random baseline
+427816	Religious Hate	Mild	Society	random baseline
+186081	Abusive	Severe	Society	random baseline
+63181	Abusive	Mild	None	random baseline
+474439	Profane	Severe	Community	random baseline
+266781	Religious Hate	Severe	Society	random baseline
+863333	Sexism	Mild	Society	random baseline
+99308	Profane	Little to None	Community	random baseline
+411516	Sexism	Severe	Society	random baseline
+917711	Profane	Little to None	Society	random baseline
+297791	Abusive	Mild	None	random baseline
+837511	Sexism	Mild	Society	random baseline
+516611	Abusive	Little to None	Individual	random baseline
+361540	Profane	Severe	Organization	random baseline
+289632	Political Hate	Mild	Organization	random baseline
+557898	Abusive	Little to None	Individual	random baseline
+478098	Abusive	Severe	Organization	random baseline
+219774	Abusive	Mild	Community	random baseline
+639571	Political Hate	Mild	Society	random baseline
+458029	Abusive	Mild	Society	random baseline
+26006	Political Hate	Little to None	Society	random baseline
+615341	Religious Hate	Little to None	Individual	random baseline
+365272	None	Mild	Individual	random baseline
+446152	Profane	Little to None	None	random baseline
+924516	None	Severe	Organization	random baseline
+912732	Political Hate	Severe	Community	random baseline
+3376	Sexism	Severe	Society	random baseline
+873206	Political Hate	Mild	Community	random baseline
+147620	Religious Hate	Mild	None	random baseline
+48729	Profane	Mild	Individual	random baseline
+118706	Abusive	Little to None	Community	random baseline
+496287	Sexism	Severe	Community	random baseline
+633278	None	Severe	Individual	random baseline
+556423	Political Hate	Severe	Organization	random baseline
+192902	Religious Hate	Severe	Organization	random baseline
+750879	Profane	Severe	Community	random baseline
+715529	Profane	Severe	Organization	random baseline
+134711	Political Hate	Mild	Community	random baseline
+660107	Political Hate	Severe	Organization	random baseline
+437345	Profane	Severe	Society	random baseline
+214891	Sexism	Severe	Individual	random baseline
+900908	Abusive	Little to None	Organization	random baseline
+763719	Religious Hate	Little to None	None	random baseline
+315444	Profane	Mild	Organization	random baseline
+455707	Religious Hate	Severe	None	random baseline
+290653	Sexism	Severe	Society	random baseline
+691850	None	Severe	Community	random baseline
+318941	Abusive	Mild	Society	random baseline
+182737	Political Hate	Severe	Community	random baseline
+285028	Profane	Little to None	Organization	random baseline
+904223	None	Little to None	Community	random baseline
+291039	Religious Hate	Mild	Community	random baseline
+645637	Religious Hate	Little to None	Society	random baseline
+328958	Religious Hate	Severe	None	random baseline
+168539	Sexism	Little to None	Society	random baseline
+375694	None	Mild	Organization	random baseline
+501348	Abusive	Severe	Individual	random baseline
+30143	Sexism	Severe	Organization	random baseline
+565055	Profane	Mild	Community	random baseline
+481211	Sexism	Severe	Community	random baseline
+8371	None	Little to None	Organization	random baseline
+757645	Profane	Mild	Society	random baseline
+738411	Sexism	Severe	None	random baseline
+767666	Religious Hate	Mild	Society	random baseline
+261763	Political Hate	Mild	None	random baseline
+351660	Abusive	Little to None	Organization	random baseline
+476158	Sexism	Mild	Organization	random baseline
+865803	Religious Hate	Little to None	Society	random baseline
+111001	Abusive	Severe	Society	random baseline
+61880	None	Mild	None	random baseline
+530551	Abusive	Little to None	None	random baseline
+583453	Religious Hate	Severe	None	random baseline
+764722	Religious Hate	Severe	Organization	random baseline
+511997	Political Hate	Little to None	Community	random baseline
+884021	Political Hate	Mild	Organization	random baseline
+434129	Abusive	Severe	Community	random baseline
+318573	Political Hate	Little to None	Individual	random baseline
+760589	Sexism	Little to None	Organization	random baseline
+804650	Abusive	Little to None	Society	random baseline
+528897	Religious Hate	Severe	Organization	random baseline
+716202	Sexism	Severe	Individual	random baseline
+670284	Sexism	Mild	Community	random baseline
+869145	Sexism	Severe	None	random baseline
+565795	Political Hate	Mild	Community	random baseline
+801623	Sexism	Little to None	Society	random baseline
+553622	Religious Hate	Severe	Community	random baseline
+690373	Religious Hate	Mild	None	random baseline
+421996	None	Little to None	Community	random baseline
+584595	Religious Hate	Severe	Organization	random baseline
+790924	Sexism	Mild	Organization	random baseline
+839704	Sexism	Mild	Community	random baseline
+939459	Profane	Mild	Community	random baseline
+533215	Political Hate	Little to None	Community	random baseline
+72989	Political Hate	Mild	None	random baseline
+577898	Abusive	Little to None	Individual	random baseline
+912409	Religious Hate	Severe	Community	random baseline
+53215	Sexism	Mild	None	random baseline
+475181	None	Mild	Community	random baseline
+220520	Political Hate	Mild	Organization	random baseline
+773174	Religious Hate	Severe	Organization	random baseline
+758814	Abusive	Little to None	Community	random baseline
+606304	Religious Hate	Little to None	Individual	random baseline
+500972	None	Severe	Organization	random baseline
+685233	Religious Hate	Severe	Society	random baseline
+475996	Political Hate	Little to None	Individual	random baseline
+741328	None	Little to None	Society	random baseline
+236813	None	Mild	Society	random baseline
+250911	Religious Hate	Mild	Community	random baseline
+184353	None	Little to None	Individual	random baseline
+502301	Political Hate	Severe	Society	random baseline
+104489	Political Hate	Severe	Community	random baseline
+744914	Political Hate	Severe	None	random baseline
+446232	Sexism	Severe	Individual	random baseline
+481561	Political Hate	Mild	Society	random baseline
+191354	Religious Hate	Severe	Organization	random baseline
+900461	None	Mild	None	random baseline
+415829	None	Mild	Organization	random baseline
+613833	Sexism	Little to None	None	random baseline
+718306	None	Little to None	Society	random baseline
+496351	Abusive	Little to None	Community	random baseline
+708366	Political Hate	Severe	Community	random baseline
+578669	Political Hate	Severe	Community	random baseline
+487410	Abusive	Severe	None	random baseline
+360171	Political Hate	Mild	None	random baseline
+97036	Political Hate	Severe	None	random baseline
+782954	Profane	Little to None	Individual	random baseline
+881673	Sexism	Severe	None	random baseline
+193131	Profane	Mild	Society	random baseline
+113089	Profane	Mild	Society	random baseline
+640459	Profane	Severe	Community	random baseline
+863300	Sexism	Little to None	None	random baseline
+166765	None	Mild	Organization	random baseline
+465600	Abusive	Little to None	None	random baseline
+524846	None	Little to None	Community	random baseline
+377912	Political Hate	Mild	Community	random baseline
+647030	Sexism	Severe	Society	random baseline
+389642	None	Little to None	Society	random baseline
+838786	Political Hate	Little to None	Individual	random baseline
+683189	Political Hate	Severe	Community	random baseline
+44208	Abusive	Severe	Organization	random baseline
+129258	Religious Hate	Little to None	Society	random baseline
+537879	Abusive	Little to None	Society	random baseline
+828437	Religious Hate	Mild	Individual	random baseline
+910625	Religious Hate	Little to None	Individual	random baseline
+897725	Sexism	Severe	Individual	random baseline
+129142	Sexism	Little to None	Organization	random baseline
+520734	Political Hate	Mild	Community	random baseline
+274405	None	Little to None	Society	random baseline
+187223	Abusive	Little to None	None	random baseline
+679398	Political Hate	Mild	Community	random baseline
+843495	Abusive	Mild	Community	random baseline
+888495	Profane	Little to None	Society	random baseline
+762390	None	Severe	Society	random baseline
+385068	Political Hate	Little to None	Society	random baseline
+668222	Religious Hate	Mild	Society	random baseline
+555345	Abusive	Mild	None	random baseline
+427170	Abusive	Little to None	None	random baseline
+358744	Profane	Little to None	Individual	random baseline
+175954	None	Severe	Organization	random baseline
+685817	Political Hate	Mild	Organization	random baseline
+484759	Sexism	Little to None	Society	random baseline
+395035	None	Mild	Organization	random baseline
+176114	Profane	Severe	Society	random baseline
+300739	Abusive	Little to None	None	random baseline
+528625	Political Hate	Mild	Individual	random baseline
+511158	None	Mild	Society	random baseline
+453505	Political Hate	Severe	Community	random baseline
+293969	Profane	Mild	Society	random baseline
+647598	Religious Hate	Mild	None	random baseline
+553699	Abusive	Mild	Organization	random baseline
+95466	Religious Hate	Little to None	Community	random baseline
+835149	Profane	Severe	Individual	random baseline
+748909	Religious Hate	Severe	None	random baseline
+194226	Political Hate	Little to None	Individual	random baseline
+142118	None	Mild	Community	random baseline
+870702	Sexism	Mild	Individual	random baseline
+364886	Abusive	Mild	Community	random baseline
+112111	Abusive	Severe	Community	random baseline
+899804	Political Hate	Mild	None	random baseline
+696989	None	Severe	Community	random baseline
+887716	Political Hate	Little to None	Society	random baseline
+660186	Sexism	Mild	Organization	random baseline
+901036	Abusive	Severe	Individual	random baseline
+510168	None	Little to None	Individual	random baseline
+203599	Sexism	Little to None	Society	random baseline
+423343	Religious Hate	Severe	None	random baseline
+83835	Sexism	Mild	None	random baseline
+828482	Sexism	Little to None	Society	random baseline
+409288	None	Little to None	Organization	random baseline
+40340	Religious Hate	Little to None	Community	random baseline
+801215	Sexism	Mild	Organization	random baseline
+666047	Religious Hate	Mild	None	random baseline
+700821	Profane	Mild	None	random baseline
+701993	Religious Hate	Severe	Individual	random baseline
+254382	Political Hate	Mild	None	random baseline
+623669	Religious Hate	Little to None	Society	random baseline
+175843	Religious Hate	Severe	Society	random baseline
+400663	Profane	Little to None	Society	random baseline
+468054	Sexism	Little to None	Community	random baseline
+610633	Religious Hate	Mild	Community	random baseline
+620852	Political Hate	Little to None	None	random baseline
+236927	Sexism	Mild	None	random baseline
+359516	Sexism	Mild	Community	random baseline
+863317	None	Mild	Individual	random baseline
+590188	Sexism	Little to None	Organization	random baseline
+650314	Profane	Severe	Individual	random baseline
+412701	Abusive	Mild	Organization	random baseline
+720266	Abusive	Severe	Organization	random baseline
+866888	Political Hate	Severe	None	random baseline
+530041	Political Hate	Little to None	Society	random baseline
+495166	None	Mild	None	random baseline
+114148	Religious Hate	Mild	None	random baseline
+646106	Sexism	Mild	Society	random baseline
+818634	Abusive	Little to None	Organization	random baseline
+489381	Profane	Severe	Organization	random baseline
+366857	Sexism	Little to None	Society	random baseline
+216109	Religious Hate	Mild	Individual	random baseline
+634558	Political Hate	Little to None	Individual	random baseline
+250297	Sexism	Severe	Organization	random baseline
+21656	Abusive	Little to None	Society	random baseline
+356050	Profane	Mild	Organization	random baseline
+450240	Profane	Mild	Organization	random baseline
+511964	Abusive	Mild	Community	random baseline
+755491	None	Little to None	Organization	random baseline
+860563	None	Mild	None	random baseline
+550210	Religious Hate	Mild	Organization	random baseline
+914642	Profane	Severe	None	random baseline
+833043	Sexism	Little to None	Organization	random baseline
+562960	Political Hate	Severe	None	random baseline
+725746	None	Mild	Individual	random baseline
+222268	Sexism	Severe	Society	random baseline
+93194	Sexism	Severe	Community	random baseline
+227813	Political Hate	Severe	None	random baseline
+582922	Religious Hate	Severe	Community	random baseline
+86299	None	Severe	Organization	random baseline
+186473	Sexism	Severe	Community	random baseline
+905562	Religious Hate	Little to None	Individual	random baseline
+95832	Political Hate	Little to None	Individual	random baseline
+53058	Abusive	Severe	Community	random baseline
+885378	Political Hate	Mild	Society	random baseline
+821731	Sexism	Mild	Society	random baseline
+179744	Political Hate	Mild	Society	random baseline
+856357	Sexism	Mild	Individual	random baseline
+879521	Political Hate	Severe	Society	random baseline
+101653	None	Severe	None	random baseline
+922502	Political Hate	Little to None	None	random baseline
+376711	Religious Hate	Severe	None	random baseline
+375336	Political Hate	Little to None	Individual	random baseline
+569127	Religious Hate	Severe	Individual	random baseline
+233456	Abusive	Little to None	Individual	random baseline
+602142	Sexism	Mild	None	random baseline
+259506	Sexism	Severe	None	random baseline
+647250	None	Severe	Individual	random baseline
+236784	Profane	Mild	Individual	random baseline
+590227	Abusive	Mild	Society	random baseline
+349521	Abusive	Severe	None	random baseline
+511561	Profane	Severe	Society	random baseline
+565514	Abusive	Mild	None	random baseline
+279985	None	Mild	None	random baseline
+181848	Religious Hate	Mild	Community	random baseline
+117547	Religious Hate	Severe	None	random baseline
+485388	Sexism	Severe	None	random baseline
+883559	None	Severe	Individual	random baseline
+108865	Religious Hate	Severe	Individual	random baseline
+892775	Political Hate	Mild	Society	random baseline
+446371	None	Little to None	Society	random baseline
+325101	Abusive	Mild	None	random baseline
+554771	Political Hate	Severe	Community	random baseline
+714174	Political Hate	Mild	Community	random baseline
+175345	Sexism	Mild	Organization	random baseline
+666577	Profane	Little to None	Society	random baseline
+453621	Religious Hate	Severe	Society	random baseline
+658873	Profane	Little to None	None	random baseline
+467382	Sexism	Severe	Organization	random baseline
+600530	Religious Hate	Mild	Society	random baseline
+56405	Sexism	Mild	None	random baseline
+50971	None	Severe	None	random baseline
+455443	Profane	Little to None	Individual	random baseline
+31476	Sexism	Severe	Individual	random baseline
+869211	Abusive	Little to None	Society	random baseline
+800776	Abusive	Severe	Organization	random baseline
+838918	Political Hate	Severe	Society	random baseline
+442892	Sexism	Mild	Individual	random baseline
+496264	None	Severe	Community	random baseline
+52071	Abusive	Mild	None	random baseline
+136763	Profane	Mild	Community	random baseline
+432625	Profane	Severe	Community	random baseline
+271540	Profane	Mild	Individual	random baseline
+867436	Profane	Severe	Individual	random baseline
+122013	None	Little to None	None	random baseline
+413841	Religious Hate	Severe	Community	random baseline
+374473	Sexism	Severe	Individual	random baseline
+153845	Sexism	Severe	Individual	random baseline
+35355	Political Hate	Mild	Organization	random baseline
+238900	Religious Hate	Little to None	None	random baseline
+206596	Political Hate	Severe	Community	random baseline
+723545	Abusive	Little to None	Community	random baseline
+187726	Sexism	Mild	Community	random baseline
+143551	Sexism	Severe	Community	random baseline
+801088	Sexism	Mild	Individual	random baseline
+110960	Religious Hate	Little to None	Society	random baseline
+35530	Political Hate	Little to None	Individual	random baseline
+242127	Political Hate	Little to None	Society	random baseline
+266531	None	Mild	None	random baseline
+32418	Profane	Mild	Community	random baseline
+169879	Abusive	Severe	Community	random baseline
+555753	Political Hate	Little to None	Society	random baseline
+383955	None	Little to None	Organization	random baseline
+265215	Abusive	Little to None	Individual	random baseline
+513523	Religious Hate	Little to None	Community	random baseline
+120318	Sexism	Severe	None	random baseline
+66478	None	Severe	Community	random baseline
+579738	Religious Hate	Severe	Individual	random baseline
+172555	Sexism	Little to None	Individual	random baseline
+227264	Abusive	Little to None	Community	random baseline
+350192	None	Severe	Community	random baseline
+761236	None	Little to None	Society	random baseline
+702997	Profane	Severe	Society	random baseline
+264513	None	Little to None	None	random baseline
+268929	Abusive	Little to None	Individual	random baseline
+808583	None	Severe	None	random baseline
+614492	Profane	Mild	Society	random baseline
+436989	Religious Hate	Little to None	Community	random baseline
+57969	Political Hate	Little to None	Organization	random baseline
+269802	Religious Hate	Little to None	Society	random baseline
+395283	None	Severe	Organization	random baseline
+414051	None	Mild	Society	random baseline
+634572	None	Little to None	Individual	random baseline
+712780	Religious Hate	Mild	Organization	random baseline
+426486	Profane	Severe	None	random baseline
+658649	Abusive	Little to None	Community	random baseline
+514546	Political Hate	Severe	Individual	random baseline
+654533	Profane	Mild	Individual	random baseline
+811644	Political Hate	Severe	Society	random baseline
+753518	Political Hate	Severe	Society	random baseline
+212933	Abusive	Severe	Organization	random baseline
+481410	None	Severe	None	random baseline
+879597	Political Hate	Severe	Organization	random baseline
+916269	Sexism	Severe	Community	random baseline
+596268	Abusive	Little to None	Organization	random baseline
+127543	Sexism	Mild	Community	random baseline
+530446	Political Hate	Severe	None	random baseline
+662349	Abusive	Little to None	Community	random baseline
+192423	Sexism	Severe	Individual	random baseline
+915911	Sexism	Little to None	None	random baseline
+832025	Political Hate	Mild	None	random baseline
+235058	Abusive	Mild	Organization	random baseline
+342722	Profane	Mild	Community	random baseline
+590535	Religious Hate	Mild	Community	random baseline
+117357	Profane	Mild	Community	random baseline
+229350	None	Severe	None	random baseline
+155928	Abusive	Severe	Community	random baseline
+769055	Abusive	Severe	Organization	random baseline
+84582	Religious Hate	Severe	Organization	random baseline
+451655	Religious Hate	Little to None	Society	random baseline
+818907	Profane	Mild	Society	random baseline
+646802	Profane	Little to None	None	random baseline
+13335	None	Mild	Organization	random baseline
+542439	None	Little to None	None	random baseline
+580999	Religious Hate	Severe	None	random baseline
+84554	Political Hate	Mild	Individual	random baseline
+416200	Profane	Little to None	Individual	random baseline
+590424	None	Mild	None	random baseline
+856234	Religious Hate	Severe	Society	random baseline
+833479	Religious Hate	Mild	Society	random baseline
+628374	Sexism	Mild	None	random baseline
+766711	Abusive	Little to None	Society	random baseline
+533202	Religious Hate	Mild	Community	random baseline
+380661	Sexism	Severe	Individual	random baseline
+634726	None	Little to None	None	random baseline
+850101	Religious Hate	Severe	Organization	random baseline
+720638	Sexism	Severe	Individual	random baseline
+918299	Sexism	Little to None	None	random baseline
+187	Religious Hate	Severe	Organization	random baseline
+864313	Sexism	Mild	Community	random baseline
+510537	Political Hate	Mild	Individual	random baseline
+897340	Abusive	Mild	Organization	random baseline
+542171	Religious Hate	Severe	Society	random baseline
+409108	Political Hate	Mild	None	random baseline
+22085	Political Hate	Little to None	Organization	random baseline
+63549	Profane	Mild	Individual	random baseline
+438546	None	Severe	Community	random baseline
+355393	Political Hate	Mild	Society	random baseline
+521395	Political Hate	Little to None	Individual	random baseline
+323114	Profane	Little to None	None	random baseline
+484458	None	Mild	None	random baseline
+599475	None	Mild	Individual	random baseline
+797360	Religious Hate	Little to None	Organization	random baseline
+651286	None	Mild	None	random baseline
+683669	Abusive	Mild	None	random baseline
+930782	Religious Hate	Severe	Society	random baseline
+639703	Profane	Mild	Society	random baseline
+492224	Religious Hate	Severe	Organization	random baseline
+888195	Abusive	Mild	Community	random baseline
+775619	Religious Hate	Severe	None	random baseline
+115463	Religious Hate	Little to None	None	random baseline
+624463	Religious Hate	Little to None	Society	random baseline
+276240	Sexism	Little to None	Community	random baseline
+548182	Religious Hate	Little to None	Community	random baseline
+236122	None	Severe	Individual	random baseline
+938584	Religious Hate	Little to None	Organization	random baseline
+817776	Sexism	Little to None	Individual	random baseline
+21930	Political Hate	Mild	Individual	random baseline
+558901	Religious Hate	Mild	None	random baseline
+587590	None	Little to None	Society	random baseline
+211908	Sexism	Severe	Community	random baseline
+60346	Profane	Little to None	Individual	random baseline
+605691	Sexism	Mild	Community	random baseline
+929182	Religious Hate	Mild	Society	random baseline
+712367	Political Hate	Little to None	Organization	random baseline
+320500	Sexism	Mild	Individual	random baseline
+100677	Sexism	Severe	Society	random baseline
+651652	Political Hate	Mild	Society	random baseline
+295085	Abusive	Little to None	Society	random baseline
+98323	Religious Hate	Severe	None	random baseline
+158100	None	Little to None	Individual	random baseline
+443977	Sexism	Severe	None	random baseline
+742186	Religious Hate	Severe	Community	random baseline
+14621	Profane	Severe	Society	random baseline
+2141	Abusive	Little to None	Society	random baseline
+939740	Political Hate	Severe	None	random baseline
+675171	None	Mild	None	random baseline
+154958	Political Hate	Severe	Individual	random baseline
+792298	Political Hate	Little to None	None	random baseline
+146258	Religious Hate	Severe	Individual	random baseline
+692258	Profane	Severe	None	random baseline
+655142	Sexism	Little to None	Organization	random baseline
+279831	Political Hate	Severe	Society	random baseline
+904641	Sexism	Severe	Organization	random baseline
+76223	Religious Hate	Severe	None	random baseline
+356935	Profane	Little to None	Organization	random baseline
+454409	None	Little to None	None	random baseline
+151915	Profane	Little to None	Individual	random baseline
+289689	Political Hate	Mild	Individual	random baseline
+681172	Profane	Mild	Individual	random baseline
+68747	Profane	Little to None	None	random baseline
+440160	None	Severe	Individual	random baseline
+1052	Sexism	Mild	Individual	random baseline
+604360	Sexism	Little to None	Individual	random baseline
+514264	Religious Hate	Mild	Society	random baseline
+792554	Religious Hate	Little to None	Individual	random baseline
+359885	None	Little to None	Society	random baseline
+669056	None	Mild	Individual	random baseline
+467484	Political Hate	Mild	Organization	random baseline
+618921	Sexism	Severe	Organization	random baseline
+487676	Abusive	Little to None	Organization	random baseline
+794639	None	Severe	Organization	random baseline
+716246	Sexism	Severe	Individual	random baseline
+720764	Sexism	Little to None	Individual	random baseline
+719110	None	Mild	Organization	random baseline
+117150	None	Severe	None	random baseline
+735722	Sexism	Little to None	Society	random baseline
+476769	None	Severe	Community	random baseline
+241694	Profane	Mild	Organization	random baseline
+638142	Religious Hate	Little to None	Individual	random baseline
+17820	Sexism	Little to None	Organization	random baseline
+330114	Abusive	Severe	None	random baseline
+862260	Religious Hate	Severe	Organization	random baseline
+857208	None	Little to None	Society	random baseline
+68092	Sexism	Little to None	None	random baseline
+487264	None	Little to None	None	random baseline
+473274	Profane	Little to None	None	random baseline
+887201	Sexism	Little to None	Society	random baseline
+670410	Religious Hate	Mild	None	random baseline
+704946	Religious Hate	Mild	Individual	random baseline
+772823	Political Hate	Mild	Community	random baseline
+506461	Sexism	Mild	Individual	random baseline
+380105	Religious Hate	Severe	Individual	random baseline
+929223	Abusive	Mild	Community	random baseline
+529715	Religious Hate	Little to None	Individual	random baseline
+455667	Profane	Mild	None	random baseline
+718043	Sexism	Mild	Organization	random baseline
+25258	None	Little to None	Organization	random baseline
+460726	Profane	Severe	None	random baseline
+203292	Sexism	Little to None	Organization	random baseline
+933690	Abusive	Severe	Organization	random baseline
+799342	Political Hate	Mild	Society	random baseline
+353835	Abusive	Little to None	None	random baseline
+506091	Religious Hate	Little to None	Community	random baseline
+143296	Sexism	Little to None	Organization	random baseline
+246688	Sexism	Severe	Community	random baseline
+759063	Religious Hate	Severe	Society	random baseline
+299831	Profane	Little to None	None	random baseline
+872711	Sexism	Mild	None	random baseline
+912606	None	Little to None	Individual	random baseline
+473707	None	Severe	Society	random baseline
+333814	Religious Hate	Mild	Individual	random baseline
+745132	Political Hate	Severe	None	random baseline
+646880	Profane	Mild	Society	random baseline
+801734	None	Mild	Community	random baseline
+253010	Profane	Mild	Society	random baseline
+938397	Political Hate	Mild	Community	random baseline
+26778	Profane	Little to None	Individual	random baseline
+279632	Profane	Mild	Organization	random baseline
+81888	Profane	Little to None	Community	random baseline
+830204	Religious Hate	Mild	Organization	random baseline
+618989	Abusive	Little to None	Society	random baseline
+391464	Abusive	Severe	Society	random baseline
+834652	Sexism	Mild	Community	random baseline
+657293	Abusive	Severe	Organization	random baseline
+624795	None	Little to None	Organization	random baseline
+443138	Sexism	Little to None	Individual	random baseline
+762703	Political Hate	Severe	Community	random baseline
+561	Profane	Little to None	None	random baseline
+226325	None	Severe	Society	random baseline
+755107	Political Hate	Severe	None	random baseline
+601796	Sexism	Severe	Organization	random baseline
+204339	None	Severe	Community	random baseline
+821623	Profane	Severe	Organization	random baseline
+373459	Religious Hate	Little to None	Society	random baseline
+140309	Sexism	Mild	Community	random baseline
+415542	Political Hate	Little to None	Community	random baseline
+934048	Political Hate	Mild	None	random baseline
+410499	Sexism	Severe	Community	random baseline
+738445	Religious Hate	Little to None	Individual	random baseline
+697740	Abusive	Severe	Individual	random baseline
+844028	None	Mild	None	random baseline
+880305	Abusive	Mild	Individual	random baseline
+45411	Sexism	Mild	Community	random baseline
+309202	Religious Hate	Little to None	Individual	random baseline
+585486	Abusive	Severe	Society	random baseline
+16436	None	Little to None	None	random baseline
+438854	Religious Hate	Little to None	Community	random baseline
+516844	Profane	Little to None	Organization	random baseline
+384723	None	Mild	Society	random baseline
+891578	None	Mild	Organization	random baseline
+629162	None	Little to None	Organization	random baseline
+468009	Profane	Severe	Community	random baseline
+166047	Abusive	Severe	Community	random baseline
+104001	Profane	Little to None	Organization	random baseline
+783482	Political Hate	Severe	Organization	random baseline
+259244	Profane	Mild	None	random baseline
+266603	None	Mild	Individual	random baseline
+101545	Abusive	Severe	None	random baseline
+439409	Profane	Mild	None	random baseline
+635499	Abusive	Little to None	Society	random baseline
+841496	Sexism	Mild	Society	random baseline
+869467	Sexism	Little to None	Community	random baseline
+119302	None	Little to None	Society	random baseline
+566785	Abusive	Mild	Society	random baseline
+155600	Abusive	Mild	Community	random baseline
+472227	Profane	Mild	Organization	random baseline
+739865	Religious Hate	Little to None	Individual	random baseline
+56526	Abusive	Severe	Society	random baseline
+830	Abusive	Mild	Individual	random baseline
+329377	Sexism	Mild	Organization	random baseline
+730452	Sexism	Little to None	Organization	random baseline
+830987	Political Hate	Mild	Community	random baseline
+372273	None	Little to None	None	random baseline
+844517	Sexism	Severe	None	random baseline
+323431	Sexism	Mild	Individual	random baseline
+698240	Political Hate	Little to None	Individual	random baseline
+889749	Profane	Little to None	None	random baseline
+165523	Religious Hate	Little to None	Individual	random baseline
+17339	Political Hate	Little to None	Society	random baseline
+137020	Profane	Severe	Community	random baseline
+572005	Political Hate	Severe	Society	random baseline
+408325	Sexism	Little to None	Organization	random baseline
+623444	Religious Hate	Little to None	Community	random baseline
+82577	Profane	Severe	Individual	random baseline
+887946	None	Mild	None	random baseline
+927166	Sexism	Mild	Community	random baseline
+813556	Profane	Mild	Community	random baseline
+3490	Political Hate	Mild	Individual	random baseline
+453858	Sexism	Severe	Individual	random baseline
+748818	Sexism	Little to None	Community	random baseline
+459611	None	Severe	None	random baseline
+240501	Profane	Little to None	Society	random baseline
+19075	Religious Hate	Little to None	Society	random baseline
+806839	Sexism	Mild	Individual	random baseline
+111890	Religious Hate	Severe	Community	random baseline
+535210	Religious Hate	Severe	Individual	random baseline
+871081	Religious Hate	Mild	Individual	random baseline
+884878	Sexism	Little to None	Society	random baseline
+898010	Profane	Little to None	Organization	random baseline
+68987	Abusive	Little to None	Society	random baseline
+610453	Profane	Little to None	Organization	random baseline
+23122	Abusive	Little to None	Organization	random baseline
+205839	Abusive	Severe	Organization	random baseline
+618548	Abusive	Mild	Organization	random baseline
+740458	Sexism	Little to None	None	random baseline
+770490	Profane	Little to None	Organization	random baseline
+482233	Profane	Little to None	Community	random baseline
+788242	None	Severe	Society	random baseline
+126523	Sexism	Mild	None	random baseline
+905792	Profane	Severe	Individual	random baseline
+345610	Abusive	Mild	None	random baseline
+317318	Political Hate	Little to None	Society	random baseline
+243588	Profane	Little to None	Community	random baseline
+414606	Religious Hate	Severe	Society	random baseline
+136399	None	Little to None	Organization	random baseline
+191369	Profane	Little to None	None	random baseline
+728783	Abusive	Severe	Organization	random baseline
+482592	Sexism	Severe	Community	random baseline
+122439	Religious Hate	Mild	Organization	random baseline
+253523	Abusive	Little to None	Society	random baseline
+45101	Profane	Mild	Society	random baseline
+476886	Profane	Little to None	Individual	random baseline
+683469	Religious Hate	Little to None	Organization	random baseline
+666632	Abusive	Mild	Community	random baseline
+127473	Profane	Little to None	Community	random baseline
+137857	Abusive	Little to None	Individual	random baseline
+579518	None	Severe	None	random baseline
+832568	Sexism	Mild	Society	random baseline
+463030	None	Little to None	Community	random baseline
+547660	Sexism	Severe	Individual	random baseline
+754167	Abusive	Mild	None	random baseline
+899858	None	Severe	Society	random baseline
+703344	Religious Hate	Little to None	Community	random baseline
+324565	Religious Hate	Little to None	None	random baseline
+106292	None	Little to None	Society	random baseline
+255440	Profane	Little to None	Organization	random baseline
+436900	Sexism	Little to None	Community	random baseline
+606151	Abusive	Severe	Individual	random baseline
+309007	Profane	Little to None	Individual	random baseline
+327077	Abusive	Little to None	None	random baseline
+418238	None	Mild	Organization	random baseline
+72757	Profane	Severe	Individual	random baseline
+692374	Abusive	Little to None	Society	random baseline
+816564	Sexism	Little to None	Individual	random baseline
+119826	Political Hate	Mild	Society	random baseline
+158169	Religious Hate	Mild	None	random baseline
+818065	Sexism	Mild	None	random baseline
+31839	Abusive	Mild	Individual	random baseline
+192048	Sexism	Little to None	Community	random baseline
+551718	Religious Hate	Little to None	Community	random baseline
+290709	Abusive	Little to None	Community	random baseline
+141250	Abusive	Little to None	Society	random baseline
+466967	Political Hate	Severe	Organization	random baseline
+152791	Religious Hate	Mild	Community	random baseline
+473966	None	Little to None	Organization	random baseline
+928108	Sexism	Little to None	Individual	random baseline
+605290	Religious Hate	Little to None	Society	random baseline
+22197	Political Hate	Severe	Organization	random baseline
+697466	Religious Hate	Mild	Organization	random baseline
+797481	Religious Hate	Little to None	None	random baseline
+295211	Political Hate	Little to None	None	random baseline
+11300	Sexism	Severe	Organization	random baseline
+837060	Political Hate	Severe	Individual	random baseline
+201014	Religious Hate	Mild	Society	random baseline
+85382	None	Little to None	Individual	random baseline
+303037	Abusive	Little to None	Organization	random baseline
+444287	Political Hate	Little to None	None	random baseline
+21647	Profane	Mild	Organization	random baseline
+709058	Political Hate	Severe	Individual	random baseline
+766452	Profane	Severe	Society	random baseline
+595553	None	Severe	Community	random baseline
+404783	Political Hate	Little to None	Society	random baseline
+598072	Sexism	Little to None	Organization	random baseline
+581670	Profane	Severe	Organization	random baseline
+236138	Religious Hate	Severe	Individual	random baseline
+447724	Political Hate	Little to None	None	random baseline
+198229	Religious Hate	Mild	Society	random baseline
+35745	Abusive	Little to None	Organization	random baseline
+51265	None	Little to None	Individual	random baseline
+925220	None	Severe	None	random baseline
+854174	Abusive	Severe	Community	random baseline
+919184	Abusive	Little to None	Society	random baseline
+515754	Religious Hate	Mild	Society	random baseline
+490004	Abusive	Severe	Organization	random baseline
+312418	Political Hate	Little to None	None	random baseline
+346286	None	Little to None	Community	random baseline
+319520	Abusive	Little to None	Community	random baseline
+900758	Sexism	Mild	Individual	random baseline
+74509	None	Mild	None	random baseline
+646154	None	Mild	Society	random baseline
+700643	Religious Hate	Severe	Society	random baseline
+847137	Sexism	Mild	Community	random baseline
+95080	Abusive	Severe	None	random baseline
+906529	Sexism	Severe	Organization	random baseline
+682124	None	Little to None	Organization	random baseline
+469188	None	Mild	Organization	random baseline
+267691	Profane	Mild	Organization	random baseline
+427105	Religious Hate	Little to None	Individual	random baseline
+664450	None	Little to None	None	random baseline
+640153	Abusive	Little to None	Individual	random baseline
+484242	Political Hate	Little to None	Society	random baseline
+471083	Sexism	Little to None	Organization	random baseline
+574555	Political Hate	Severe	None	random baseline
+802913	Political Hate	Mild	Society	random baseline
+835881	Political Hate	Little to None	None	random baseline
+559943	Abusive	Little to None	None	random baseline
+795168	None	Mild	Organization	random baseline
+38230	Political Hate	Mild	Society	random baseline
+299735	Profane	Severe	Community	random baseline
+250352	Abusive	Mild	Organization	random baseline
+819839	Political Hate	Little to None	None	random baseline
+405003	Sexism	Mild	Community	random baseline
+827981	Profane	Mild	Community	random baseline
+28308	Sexism	Little to None	Community	random baseline
+588699	Political Hate	Severe	Society	random baseline
+614167	None	Mild	Individual	random baseline
+679145	Abusive	Mild	Organization	random baseline
+786296	Profane	Mild	None	random baseline
+446957	Profane	Mild	None	random baseline
+704588	Profane	Little to None	Society	random baseline
+43603	Sexism	Little to None	Individual	random baseline
+32256	Religious Hate	Mild	Individual	random baseline
+581040	Abusive	Little to None	Individual	random baseline
+167074	Profane	Little to None	Organization	random baseline
+829153	Profane	Mild	Community	random baseline
+40499	Religious Hate	Mild	Community	random baseline
+233045	Political Hate	Little to None	Community	random baseline
+375606	Profane	Severe	Individual	random baseline
+156263	Abusive	Little to None	Organization	random baseline
+132091	Profane	Severe	None	random baseline
+559369	Political Hate	Mild	Organization	random baseline
+91773	Profane	Little to None	None	random baseline
+681553	Abusive	Severe	Community	random baseline
+451889	None	Little to None	None	random baseline
+364298	Religious Hate	Mild	None	random baseline
+475018	Profane	Mild	Community	random baseline
+498828	None	Mild	Organization	random baseline
+220766	Abusive	Mild	Community	random baseline
+596534	Religious Hate	Mild	Organization	random baseline
+893035	Profane	Severe	None	random baseline
+721693	Religious Hate	Severe	Organization	random baseline
+566630	Abusive	Severe	Society	random baseline
+510917	Sexism	Mild	Community	random baseline
+30335	Abusive	Severe	Organization	random baseline
+354009	Abusive	Severe	Society	random baseline
+243048	Political Hate	Mild	Community	random baseline
+107921	Profane	Mild	None	random baseline
+711532	None	Little to None	Society	random baseline
+831245	Abusive	Little to None	None	random baseline
+399608	None	Little to None	Organization	random baseline
+417141	Sexism	Severe	Community	random baseline
+252720	Profane	Mild	Community	random baseline
+170188	Political Hate	Mild	Organization	random baseline
+483947	Sexism	Little to None	None	random baseline
+847056	Political Hate	Little to None	Organization	random baseline
+367163	Profane	Mild	Society	random baseline
+909156	Abusive	Severe	Society	random baseline
+370219	Political Hate	Mild	Society	random baseline
+71806	Political Hate	Mild	None	random baseline
+816473	Abusive	Mild	Community	random baseline
+167294	Religious Hate	Severe	Society	random baseline
+491544	Abusive	Little to None	Individual	random baseline
+436246	Sexism	Little to None	None	random baseline
+201893	Sexism	Mild	Organization	random baseline
+668650	Abusive	Severe	Organization	random baseline
+63718	None	Severe	None	random baseline
+902166	Sexism	Mild	Society	random baseline
+191091	Political Hate	Mild	Organization	random baseline
+304562	Religious Hate	Severe	None	random baseline
+31411	None	Little to None	Community	random baseline
+227352	Sexism	Mild	Community	random baseline
+651254	None	Little to None	Society	random baseline
+1166	Abusive	Little to None	Community	random baseline
+506179	Profane	Severe	Society	random baseline
+96808	Sexism	Severe	Society	random baseline
+923170	Abusive	Little to None	Organization	random baseline
+693864	Religious Hate	Little to None	Society	random baseline
+137657	None	Severe	Society	random baseline
+233268	None	Little to None	Organization	random baseline
+615620	Abusive	Severe	Community	random baseline
+438135	Abusive	Little to None	Organization	random baseline
+102326	Profane	Mild	None	random baseline
+633408	None	Little to None	Organization	random baseline
+611056	Sexism	Mild	Society	random baseline
+660700	Profane	Little to None	Society	random baseline
+592068	Abusive	Little to None	Individual	random baseline
+810169	None	Little to None	Individual	random baseline
+68630	Abusive	Severe	Society	random baseline
+900125	Abusive	Severe	Individual	random baseline
+8135	Political Hate	Severe	None	random baseline
+428767	Religious Hate	Severe	Individual	random baseline
+890006	Political Hate	Little to None	Community	random baseline
+501331	Political Hate	Severe	Society	random baseline
+386869	Profane	Little to None	Organization	random baseline
+457538	Sexism	Severe	Society	random baseline
+902366	Religious Hate	Severe	Community	random baseline
+904408	Abusive	Mild	Individual	random baseline
+108794	Abusive	Little to None	Individual	random baseline
+135561	None	Little to None	Individual	random baseline
+639745	Religious Hate	Mild	None	random baseline
+602490	Abusive	Mild	Organization	random baseline
+326459	None	Mild	Community	random baseline
+859202	Sexism	Mild	Organization	random baseline
+473414	Religious Hate	Severe	Society	random baseline
+726590	None	Severe	Organization	random baseline
+785752	Abusive	Mild	Society	random baseline
+772939	Abusive	Mild	Society	random baseline
+352613	Political Hate	Severe	Individual	random baseline
+244330	Profane	Severe	None	random baseline
+900669	Religious Hate	Little to None	None	random baseline
+300858	Sexism	Mild	Community	random baseline
+154521	Abusive	Mild	Individual	random baseline
+85820	Profane	Little to None	Individual	random baseline
+48374	Abusive	Severe	None	random baseline
+401830	Profane	Severe	None	random baseline
+659995	Profane	Mild	Community	random baseline
+481612	Political Hate	Severe	Organization	random baseline
+353638	Political Hate	Severe	Society	random baseline
+155874	Abusive	Little to None	Individual	random baseline
+150600	Profane	Little to None	None	random baseline
+644211	None	Mild	Individual	random baseline
+69914	None	Little to None	None	random baseline
+895549	Political Hate	Mild	Individual	random baseline
+391602	Abusive	Mild	Society	random baseline
+188806	Religious Hate	Little to None	None	random baseline
+875163	Profane	Severe	Individual	random baseline
+531401	Abusive	Severe	Organization	random baseline
+82518	Abusive	Little to None	Society	random baseline
+931919	Religious Hate	Little to None	Individual	random baseline
+333351	Religious Hate	Mild	Organization	random baseline
+856298	Abusive	Mild	None	random baseline
+486747	Abusive	Mild	Individual	random baseline
+110691	Religious Hate	Severe	Community	random baseline
+2644	Sexism	Severe	Society	random baseline
+561120	Sexism	Little to None	None	random baseline
+130983	Abusive	Severe	None	random baseline
+501098	Religious Hate	Severe	Organization	random baseline
+82263	None	Mild	Organization	random baseline
+29182	Profane	Little to None	Society	random baseline
+212273	None	Little to None	None	random baseline
+623230	None	Severe	Organization	random baseline
+6425	None	Mild	None	random baseline
+540760	Political Hate	Little to None	Individual	random baseline
+494478	Abusive	Severe	None	random baseline
+616145	Profane	Severe	Individual	random baseline
+347165	None	Little to None	Society	random baseline
+738489	Political Hate	Little to None	Community	random baseline
+171199	Abusive	Severe	Organization	random baseline
+299661	None	Severe	Community	random baseline
+572130	Sexism	Mild	Community	random baseline
+500521	None	Severe	None	random baseline
+674339	Political Hate	Mild	Organization	random baseline
+739286	Abusive	Severe	Community	random baseline
+889123	Profane	Severe	Society	random baseline
+363478	Profane	Little to None	Community	random baseline
+409110	None	Severe	Individual	random baseline
+362208	Sexism	Little to None	Individual	random baseline
+46420	Political Hate	Mild	None	random baseline
+628302	None	Little to None	Community	random baseline
+121278	Sexism	Little to None	Organization	random baseline
+611302	Sexism	Little to None	Community	random baseline
+218567	Religious Hate	Mild	Community	random baseline
+735901	Sexism	Severe	Organization	random baseline
+465792	Political Hate	Mild	Organization	random baseline
+829134	Religious Hate	Little to None	Organization	random baseline
+11285	None	Little to None	None	random baseline
+561526	None	Little to None	Individual	random baseline
+192199	Political Hate	Severe	Community	random baseline
+928945	Sexism	Mild	Society	random baseline
+165162	Political Hate	Severe	Society	random baseline
+280630	None	Mild	Community	random baseline
+625122	Sexism	Mild	Individual	random baseline
+442311	None	Little to None	Organization	random baseline
+563147	Abusive	Mild	Society	random baseline
+676593	Sexism	Mild	None	random baseline
+488817	Religious Hate	Little to None	Community	random baseline
+475977	Abusive	Little to None	Individual	random baseline
+476390	Abusive	Mild	Community	random baseline
+552776	Abusive	Little to None	Individual	random baseline
+276751	Political Hate	Little to None	Organization	random baseline
+242069	Religious Hate	Little to None	Community	random baseline
+345400	Religious Hate	Mild	Individual	random baseline
+874395	Sexism	Mild	Society	random baseline
+872132	Abusive	Little to None	None	random baseline
+613180	Abusive	Severe	Individual	random baseline
+456006	Religious Hate	Severe	Society	random baseline
+899171	Political Hate	Little to None	Society	random baseline
+526595	Political Hate	Severe	Individual	random baseline
+592644	Sexism	Little to None	Individual	random baseline
+600825	Religious Hate	Severe	Organization	random baseline
+525773	Political Hate	Little to None	Organization	random baseline
+630766	None	Little to None	Individual	random baseline
+921266	Sexism	Little to None	Society	random baseline
+221431	Political Hate	Severe	Society	random baseline
+668595	Sexism	Mild	Society	random baseline
+163448	Religious Hate	Severe	None	random baseline
+268035	Religious Hate	Little to None	Society	random baseline
+13055	Religious Hate	Mild	Community	random baseline
+328169	None	Mild	None	random baseline
+525662	Sexism	Mild	Society	random baseline
+598939	None	Severe	None	random baseline
+883170	Abusive	Severe	Society	random baseline
+28953	Religious Hate	Severe	Society	random baseline
+848058	Profane	Mild	Individual	random baseline
+372514	Abusive	Severe	Organization	random baseline
+147481	Sexism	Severe	None	random baseline
+251442	Sexism	Severe	Community	random baseline
+325678	Sexism	Severe	None	random baseline
+175236	Sexism	Mild	Community	random baseline
+117662	None	Severe	Community	random baseline
+502422	None	Severe	None	random baseline
+214062	Sexism	Mild	Individual	random baseline
+119013	None	Little to None	Community	random baseline
+374147	Political Hate	Mild	Individual	random baseline
+443252	Profane	Severe	Organization	random baseline
+171561	None	Little to None	Society	random baseline
+655661	None	Little to None	Society	random baseline
+716103	Sexism	Mild	Society	random baseline
+920137	Abusive	Mild	None	random baseline
+359307	Profane	Severe	Organization	random baseline
+146675	Profane	Severe	Community	random baseline
+40313	Religious Hate	Mild	Individual	random baseline
+90860	Sexism	Mild	Community	random baseline
+527131	Profane	Little to None	Community	random baseline
+220456	Sexism	Severe	Community	random baseline
+85942	Abusive	Severe	None	random baseline
+667291	None	Little to None	None	random baseline
+441382	Profane	Severe	Individual	random baseline
+381311	None	Little to None	Organization	random baseline
+835925	Sexism	Mild	None	random baseline
+888616	Abusive	Mild	Community	random baseline
+698061	Religious Hate	Severe	Organization	random baseline
+39591	None	Mild	Community	random baseline
+920428	Profane	Severe	Community	random baseline
+640534	Sexism	Little to None	Community	random baseline
+68271	Profane	Mild	Society	random baseline
+136411	Religious Hate	Severe	Organization	random baseline
+540991	Profane	Little to None	Community	random baseline
+824492	Sexism	Little to None	Organization	random baseline
+434469	Political Hate	Mild	Society	random baseline
+422740	Abusive	Little to None	None	random baseline
+572161	Abusive	Severe	None	random baseline
+119098	Political Hate	Little to None	Society	random baseline
+355165	None	Severe	None	random baseline
+775199	Profane	Severe	Organization	random baseline
+837413	Sexism	Little to None	Society	random baseline
+443309	None	Mild	None	random baseline
+587223	None	Severe	Individual	random baseline
+594572	Sexism	Mild	Individual	random baseline
+22735	None	Little to None	None	random baseline
+116413	Political Hate	Severe	Organization	random baseline
+710583	Religious Hate	Mild	Organization	random baseline
+726636	Abusive	Severe	Individual	random baseline
+868107	None	Little to None	Society	random baseline
+128785	Profane	Severe	Community	random baseline
+521034	Religious Hate	Little to None	Individual	random baseline
+738233	Profane	Little to None	Society	random baseline
+5308	Political Hate	Severe	None	random baseline
+198886	Religious Hate	Severe	Community	random baseline
+894583	None	Mild	Community	random baseline
+804137	None	Little to None	Organization	random baseline
+18542	Political Hate	Severe	Individual	random baseline
+297422	Abusive	Severe	None	random baseline
+603678	None	Severe	Individual	random baseline
+858228	Sexism	Severe	Organization	random baseline
+546201	Political Hate	Mild	Individual	random baseline
+47131	Political Hate	Little to None	Society	random baseline
+82767	Political Hate	Severe	Organization	random baseline
+728929	Political Hate	Severe	Organization	random baseline
+693066	Religious Hate	Little to None	Individual	random baseline
+848852	Political Hate	Little to None	Individual	random baseline
+362882	Profane	Mild	None	random baseline
+546456	Political Hate	Mild	Individual	random baseline
+75345	None	Severe	Community	random baseline
+279149	Sexism	Severe	Community	random baseline
+8283	Profane	Severe	Society	random baseline
+696820	Political Hate	Little to None	Community	random baseline
+705215	Profane	Mild	Individual	random baseline
+28959	Sexism	Little to None	None	random baseline
+289930	Political Hate	Severe	Society	random baseline
+109655	None	Little to None	None	random baseline
+648187	Sexism	Severe	Society	random baseline
+221976	Religious Hate	Little to None	None	random baseline
+837622	None	Little to None	Organization	random baseline
+360212	Religious Hate	Mild	Individual	random baseline
+161236	Abusive	Little to None	None	random baseline
+391732	Abusive	Mild	Organization	random baseline
+562801	Abusive	Mild	None	random baseline
+63256	Profane	Little to None	Individual	random baseline
+381089	Sexism	Little to None	Organization	random baseline
+510562	Abusive	Severe	Community	random baseline
+177616	Profane	Mild	Organization	random baseline
+439929	Political Hate	Mild	Community	random baseline
+841974	Sexism	Mild	Organization	random baseline
+113983	None	Severe	Society	random baseline
+498745	Political Hate	Mild	Society	random baseline
+786905	Profane	Little to None	Society	random baseline
+492739	Political Hate	Mild	None	random baseline
+585980	Political Hate	Severe	Individual	random baseline
+425651	None	Mild	None	random baseline
+569506	Profane	Mild	Individual	random baseline
+857246	Religious Hate	Mild	Community	random baseline
+265292	Profane	Little to None	Society	random baseline
+609994	Religious Hate	Little to None	Community	random baseline
+826584	Religious Hate	Severe	Society	random baseline
+460609	Political Hate	Severe	Individual	random baseline
+644542	Religious Hate	Little to None	Community	random baseline
+276176	Political Hate	Mild	Organization	random baseline
+619102	Religious Hate	Severe	Society	random baseline
+891625	Religious Hate	Little to None	Organization	random baseline
+798443	Abusive	Mild	None	random baseline
+730888	Abusive	Little to None	Society	random baseline
+346632	Political Hate	Mild	Community	random baseline
+380253	Sexism	Little to None	Individual	random baseline
+370503	Sexism	Severe	Society	random baseline
+803701	Political Hate	Little to None	Community	random baseline
+248258	Political Hate	Little to None	Individual	random baseline
+252345	Religious Hate	Mild	Organization	random baseline
+562683	Abusive	Little to None	Community	random baseline
+601766	None	Mild	Organization	random baseline
+752224	Sexism	Little to None	None	random baseline
+774095	None	Little to None	Society	random baseline
+930299	Sexism	Severe	Community	random baseline
+378827	None	Severe	Community	random baseline
+656481	None	Mild	Society	random baseline
+500381	Sexism	Severe	None	random baseline
+27958	Religious Hate	Mild	Individual	random baseline
+928671	Abusive	Mild	Society	random baseline
+390166	Sexism	Mild	Individual	random baseline
+488577	Political Hate	Mild	Individual	random baseline
+162980	Religious Hate	Little to None	None	random baseline
+560228	Abusive	Mild	None	random baseline
+211363	None	Little to None	Organization	random baseline
+555638	None	Severe	Individual	random baseline
+528703	Political Hate	Mild	None	random baseline
+683734	None	Severe	Society	random baseline
+671313	Profane	Little to None	Society	random baseline
+464409	None	Severe	Organization	random baseline
+697953	Profane	Severe	Community	random baseline
+769838	Religious Hate	Mild	None	random baseline
+643094	Abusive	Severe	None	random baseline
+659189	Political Hate	Mild	None	random baseline
+729086	Religious Hate	Severe	Organization	random baseline
+76120	Sexism	Little to None	Community	random baseline
+502902	Abusive	Severe	Society	random baseline
+35497	Religious Hate	Severe	Individual	random baseline
+878023	Sexism	Severe	Community	random baseline
+182903	Profane	Little to None	Organization	random baseline
+331432	Religious Hate	Severe	Organization	random baseline
+87304	Political Hate	Mild	Society	random baseline
+582911	Religious Hate	Little to None	Individual	random baseline
+865624	Political Hate	Mild	Society	random baseline
+786884	Abusive	Severe	Society	random baseline
+201460	None	Little to None	Society	random baseline
+824978	None	Mild	Organization	random baseline
+131089	Religious Hate	Severe	None	random baseline
+45828	Profane	Severe	None	random baseline
+716999	Profane	Little to None	Individual	random baseline
+399791	Sexism	Little to None	Society	random baseline
+822399	Profane	Mild	Individual	random baseline
+468175	Sexism	Severe	Individual	random baseline
+559340	None	Little to None	None	random baseline
+564393	Political Hate	Severe	Society	random baseline
+292000	Religious Hate	Little to None	Organization	random baseline
+399452	Abusive	Mild	Community	random baseline
+136541	Sexism	Severe	Community	random baseline
+926094	Sexism	Mild	Individual	random baseline
+246108	None	Mild	Individual	random baseline
+825840	Political Hate	Mild	Organization	random baseline
+581994	Sexism	Mild	Society	random baseline
+354067	Religious Hate	Mild	None	random baseline
+681734	Religious Hate	Little to None	None	random baseline
+26649	Abusive	Little to None	Individual	random baseline
+627386	None	Severe	Organization	random baseline
+145008	None	Little to None	Individual	random baseline
+915087	Political Hate	Severe	Community	random baseline
+547709	None	Mild	Society	random baseline
+281881	None	Severe	Organization	random baseline
+273124	Religious Hate	Mild	Organization	random baseline
+605863	Political Hate	Mild	Community	random baseline
+415658	None	Little to None	Community	random baseline
+726974	None	Little to None	None	random baseline
+397924	Profane	Little to None	Organization	random baseline
+404924	Profane	Mild	None	random baseline
+297714	None	Severe	Organization	random baseline
+63483	Sexism	Mild	Individual	random baseline
+322043	Sexism	Little to None	Individual	random baseline
+234193	Profane	Severe	None	random baseline
+719447	Profane	Severe	Community	random baseline
+385281	Political Hate	Mild	Community	random baseline
+63708	Sexism	Little to None	Society	random baseline
+333270	Religious Hate	Mild	Society	random baseline
+700234	None	Severe	Community	random baseline
+265890	None	Severe	Society	random baseline
+841683	None	Mild	Society	random baseline
+46046	None	Little to None	Community	random baseline
+7628	Abusive	Little to None	Society	random baseline
+385452	Abusive	Mild	Community	random baseline
+666403	Abusive	Little to None	Organization	random baseline
+651179	Religious Hate	Mild	Organization	random baseline
+526158	Religious Hate	Little to None	Organization	random baseline
+235512	Sexism	Little to None	Individual	random baseline
+647610	None	Mild	Community	random baseline
+684832	Sexism	Severe	Organization	random baseline
+688194	Profane	Severe	None	random baseline
+835048	Sexism	Severe	Society	random baseline
+295774	Political Hate	Mild	Individual	random baseline
+936137	None	Mild	Individual	random baseline
+527913	Religious Hate	Little to None	Individual	random baseline
+844457	Abusive	Little to None	Organization	random baseline
+94083	Profane	Little to None	Organization	random baseline
+918182	Profane	Severe	Individual	random baseline
+675306	Sexism	Little to None	None	random baseline
+164879	None	Little to None	None	random baseline
+135358	Sexism	Severe	Individual	random baseline
+419189	Sexism	Mild	Community	random baseline
+367074	Political Hate	Severe	Individual	random baseline
+904401	Profane	Mild	Individual	random baseline
+885491	None	Mild	None	random baseline
+399277	Political Hate	Little to None	Organization	random baseline
+335110	Sexism	Severe	None	random baseline
+727424	Sexism	Little to None	Society	random baseline
+886894	None	Little to None	Individual	random baseline
+67349	Abusive	Mild	Community	random baseline
+397383	Religious Hate	Severe	Individual	random baseline
+557190	Religious Hate	Severe	Organization	random baseline
+646473	Religious Hate	Mild	Society	random baseline
+723824	Profane	Severe	Community	random baseline
+591417	Profane	Mild	None	random baseline
+336787	Religious Hate	Mild	Individual	random baseline
+222633	Abusive	Mild	None	random baseline
+389169	Religious Hate	Severe	Organization	random baseline
+536990	Abusive	Severe	Society	random baseline
+464931	Political Hate	Severe	Society	random baseline
+271738	Profane	Little to None	Organization	random baseline
+250102	Religious Hate	Severe	Individual	random baseline
+81993	Political Hate	Severe	Community	random baseline
+712190	Abusive	Mild	None	random baseline
+11416	Sexism	Severe	Society	random baseline
+821017	Sexism	Little to None	None	random baseline
+81196	Religious Hate	Mild	Society	random baseline
+310154	Political Hate	Severe	None	random baseline
+679181	Sexism	Severe	Community	random baseline
+180647	None	Mild	Organization	random baseline
+51949	Religious Hate	Severe	Community	random baseline
+822701	Religious Hate	Mild	Organization	random baseline
+912407	Abusive	Severe	Society	random baseline
+893154	Sexism	Little to None	None	random baseline
+501987	Abusive	Mild	Organization	random baseline
+600447	Abusive	Mild	Organization	random baseline
+98057	Political Hate	Little to None	Organization	random baseline
+250188	None	Little to None	None	random baseline
+828949	Profane	Mild	Organization	random baseline
+485208	Profane	Little to None	Society	random baseline
+663570	Political Hate	Mild	Organization	random baseline
+829683	None	Little to None	Organization	random baseline
+635887	Religious Hate	Severe	Individual	random baseline
+347313	Religious Hate	Mild	Society	random baseline
+871351	Profane	Mild	Community	random baseline
+41186	Profane	Mild	Community	random baseline
+209087	Religious Hate	Mild	Community	random baseline
+609508	Profane	Severe	Organization	random baseline
+93819	None	Little to None	Individual	random baseline
+906773	None	Little to None	Organization	random baseline
+164314	Political Hate	Severe	None	random baseline
+922627	Religious Hate	Severe	Individual	random baseline
+580295	Political Hate	Severe	None	random baseline
+320403	Abusive	Mild	Individual	random baseline
+131965	Political Hate	Mild	Individual	random baseline
+790489	Political Hate	Mild	Individual	random baseline
+258586	Political Hate	Severe	None	random baseline
+149958	Sexism	Severe	Individual	random baseline
+524231	Sexism	Little to None	Organization	random baseline
+877558	Profane	Severe	Organization	random baseline
+728208	Religious Hate	Mild	None	random baseline
+421836	Profane	Little to None	Organization	random baseline
+80075	Sexism	Mild	Society	random baseline
+517299	None	Mild	Community	random baseline
+129667	Abusive	Severe	Society	random baseline
+834853	Political Hate	Severe	Society	random baseline
+512238	Profane	Severe	None	random baseline
+154916	Religious Hate	Mild	Society	random baseline
+750522	Religious Hate	Little to None	None	random baseline
+468203	None	Severe	Society	random baseline
+427803	Religious Hate	Severe	Individual	random baseline
+146156	Sexism	Severe	Individual	random baseline
+333979	Abusive	Severe	Community	random baseline
+478605	Profane	Little to None	Individual	random baseline
+695510	Abusive	Little to None	Individual	random baseline
+595492	None	Mild	Individual	random baseline
+73581	Abusive	Little to None	Individual	random baseline
+446110	Profane	Severe	None	random baseline
+73708	Sexism	Little to None	Organization	random baseline
+309066	Abusive	Mild	Society	random baseline
+464922	Religious Hate	Mild	None	random baseline
+335323	Profane	Severe	Society	random baseline
+894940	Abusive	Severe	Community	random baseline
+760055	None	Mild	Society	random baseline
+300274	Abusive	Little to None	None	random baseline
+744701	Profane	Severe	Organization	random baseline
+145343	Abusive	Little to None	Society	random baseline
+386458	Political Hate	Little to None	Society	random baseline
+245102	Political Hate	Severe	Individual	random baseline
+331635	Sexism	Mild	Organization	random baseline
+603164	Profane	Little to None	Community	random baseline
+832827	Abusive	Severe	Community	random baseline
+617494	Profane	Mild	Community	random baseline
+459408	Political Hate	Little to None	None	random baseline
+758944	Abusive	Mild	Individual	random baseline
+435141	Political Hate	Little to None	Individual	random baseline
+894471	Political Hate	Severe	None	random baseline
+879749	Profane	Mild	Organization	random baseline
+100340	Profane	Severe	Society	random baseline
+157977	Political Hate	Mild	Organization	random baseline
+100523	Profane	Mild	Society	random baseline
+19240	None	Little to None	Individual	random baseline
+609427	Political Hate	Mild	Community	random baseline
+698537	Sexism	Mild	Organization	random baseline
+639002	Sexism	Severe	Society	random baseline
+169203	Profane	Little to None	Individual	random baseline
+827808	Sexism	Mild	Community	random baseline
+707068	Sexism	Mild	Society	random baseline
+227085	None	Severe	Individual	random baseline
+567057	Religious Hate	Little to None	Individual	random baseline
+244933	Religious Hate	Severe	Society	random baseline
+73391	Political Hate	Mild	Community	random baseline
+469472	Religious Hate	Mild	Community	random baseline
+101243	Sexism	Little to None	Organization	random baseline
+443447	Religious Hate	Mild	Society	random baseline
+223631	Political Hate	Little to None	Society	random baseline
+60877	None	Little to None	None	random baseline
+627019	Political Hate	Mild	None	random baseline
+41524	Profane	Little to None	None	random baseline
+510107	Profane	Mild	Community	random baseline
+48829	None	Severe	Individual	random baseline
+631587	Profane	Little to None	Community	random baseline
+273738	Sexism	Severe	Organization	random baseline
+412411	Sexism	Little to None	Society	random baseline
+95413	Sexism	Severe	Society	random baseline
+778490	Abusive	Severe	Community	random baseline
+511909	None	Mild	Community	random baseline
+753789	Political Hate	Severe	Community	random baseline
+365059	Profane	Little to None	Society	random baseline
+837143	Political Hate	Severe	None	random baseline
+496482	Sexism	Mild	None	random baseline
+903692	Abusive	Mild	Organization	random baseline
+452308	Political Hate	Mild	Organization	random baseline
+604597	Abusive	Little to None	None	random baseline
+516479	Religious Hate	Little to None	None	random baseline
+884813	Religious Hate	Mild	Organization	random baseline
+316375	Religious Hate	Mild	Society	random baseline
+128273	Sexism	Little to None	Organization	random baseline
+932106	Abusive	Mild	Individual	random baseline
+338346	Political Hate	Mild	Society	random baseline
+781358	Profane	Little to None	Society	random baseline
+245253	Political Hate	Little to None	Society	random baseline
+440543	Abusive	Little to None	Individual	random baseline
+69508	None	Little to None	Community	random baseline
+46748	Profane	Mild	Individual	random baseline
+77622	Profane	Mild	Individual	random baseline
+772309	Profane	Severe	Organization	random baseline
+758729	Sexism	Little to None	Society	random baseline
+291623	Political Hate	Mild	None	random baseline
+79228	Religious Hate	Mild	Organization	random baseline
+672177	Abusive	Severe	Community	random baseline
+123280	Sexism	Mild	Community	random baseline
+246668	None	Severe	Individual	random baseline
+540577	None	Little to None	None	random baseline
+678402	Political Hate	Severe	None	random baseline
+627222	None	Little to None	Organization	random baseline
+349744	Religious Hate	Severe	Society	random baseline
+892828	Profane	Little to None	Individual	random baseline
+790220	Profane	Mild	None	random baseline
+489069	Profane	Severe	Organization	random baseline
+576472	Abusive	Mild	None	random baseline
+362619	Political Hate	Little to None	Individual	random baseline
+888632	Religious Hate	Mild	Community	random baseline
+157427	Profane	Mild	Community	random baseline
+88274	Profane	Little to None	None	random baseline
+654296	Religious Hate	Little to None	Individual	random baseline
+546871	Religious Hate	Severe	Society	random baseline
+714366	Sexism	Mild	None	random baseline
+124924	Sexism	Severe	Community	random baseline
+140611	Sexism	Mild	Society	random baseline
+119558	Political Hate	Mild	None	random baseline
+603201	Abusive	Little to None	Community	random baseline
+356978	Political Hate	Little to None	Organization	random baseline
+737157	Profane	Severe	Society	random baseline
+717086	Abusive	Little to None	Society	random baseline
+878114	Political Hate	Severe	Organization	random baseline
+438274	Abusive	Severe	None	random baseline
+332470	Profane	Severe	Society	random baseline
+277190	Religious Hate	Severe	Organization	random baseline
+233769	Abusive	Mild	Individual	random baseline
+928377	Political Hate	Mild	Individual	random baseline
+254669	Abusive	Mild	Organization	random baseline
+175420	Abusive	Little to None	None	random baseline
+269571	Sexism	Severe	Individual	random baseline
+142080	Religious Hate	Little to None	Community	random baseline
+517120	Abusive	Mild	Individual	random baseline
+692974	Political Hate	Mild	Society	random baseline
+209866	Abusive	Mild	None	random baseline
+845841	Profane	Mild	Community	random baseline
+205879	None	Little to None	Individual	random baseline
+369385	Sexism	Little to None	Community	random baseline
+764706	Political Hate	Mild	Community	random baseline
+504039	Religious Hate	Mild	None	random baseline
+878750	Religious Hate	Severe	Society	random baseline
+671380	Religious Hate	Severe	None	random baseline
+694236	Religious Hate	Severe	Individual	random baseline
+565463	Sexism	Little to None	Society	random baseline
+544801	None	Mild	None	random baseline
+307571	Political Hate	Little to None	Community	random baseline
+557408	Abusive	Little to None	Society	random baseline
+931038	Profane	Severe	Society	random baseline
+795336	Political Hate	Severe	Organization	random baseline
+743568	Religious Hate	Little to None	None	random baseline
+281059	Political Hate	Severe	Society	random baseline
+241218	Abusive	Mild	Community	random baseline
+493143	Profane	Mild	Individual	random baseline
+4211	Religious Hate	Little to None	Organization	random baseline
+466053	Sexism	Severe	Individual	random baseline
+559620	Sexism	Severe	Individual	random baseline
+593980	None	Little to None	Society	random baseline
+786474	Abusive	Mild	Society	random baseline
+430212	Religious Hate	Mild	None	random baseline
+404662	None	Little to None	Community	random baseline
+174220	None	Mild	Individual	random baseline
+807057	None	Mild	Individual	random baseline
+680306	Profane	Mild	Organization	random baseline
+235465	Abusive	Little to None	Individual	random baseline
+657276	Religious Hate	Severe	Community	random baseline
+268333	None	Severe	Organization	random baseline
+397874	Profane	Mild	None	random baseline
+451433	None	Severe	Organization	random baseline
+375904	Profane	Severe	Society	random baseline
+557325	Religious Hate	Little to None	Organization	random baseline
+232414	None	Severe	Organization	random baseline
+9702	Abusive	Severe	Society	random baseline
+11159	Profane	Little to None	None	random baseline
+43434	Profane	Mild	None	random baseline
+821366	Political Hate	Little to None	Community	random baseline
+103702	Political Hate	Little to None	None	random baseline
+782050	None	Severe	Organization	random baseline
+464774	Religious Hate	Mild	Community	random baseline
+494862	Profane	Mild	Society	random baseline
+257348	Profane	Severe	Society	random baseline
+558234	None	Little to None	None	random baseline
+926892	Political Hate	Little to None	None	random baseline
+472086	None	Little to None	Community	random baseline
+71998	None	Mild	Individual	random baseline
+386085	Abusive	Little to None	Organization	random baseline
+932001	Abusive	Mild	Community	random baseline
+550966	Religious Hate	Mild	Community	random baseline
+217614	Sexism	Mild	Community	random baseline
+751613	Sexism	Little to None	Organization	random baseline
+829917	Profane	Little to None	Individual	random baseline
+715475	Profane	Severe	Community	random baseline
+195427	None	Little to None	Community	random baseline
+357847	None	Mild	None	random baseline
+344389	Abusive	Mild	Community	random baseline
+724484	None	Severe	None	random baseline
+566318	Political Hate	Mild	None	random baseline
+229920	None	Severe	None	random baseline
+291141	Profane	Little to None	Individual	random baseline
+685003	None	Severe	Society	random baseline
+823068	Profane	Mild	Organization	random baseline
+467304	Religious Hate	Severe	Organization	random baseline
+623209	Religious Hate	Severe	Organization	random baseline
+391054	Profane	Mild	Individual	random baseline
+408728	Religious Hate	Severe	Individual	random baseline
+828880	Religious Hate	Little to None	Organization	random baseline
+817214	Profane	Little to None	Society	random baseline
+796154	Sexism	Mild	Society	random baseline
+382892	Abusive	Mild	None	random baseline
+517694	None	Severe	Organization	random baseline
+867699	Abusive	Mild	None	random baseline
+701100	Abusive	Mild	None	random baseline
+243586	Religious Hate	Little to None	None	random baseline
+813985	None	Mild	Organization	random baseline
+278215	Abusive	Mild	Community	random baseline
+470395	Profane	Severe	Individual	random baseline
+708810	None	Little to None	Community	random baseline
+526539	None	Little to None	Organization	random baseline
+559111	Sexism	Mild	Organization	random baseline
+357223	Religious Hate	Little to None	Individual	random baseline
+921429	Sexism	Little to None	None	random baseline
+324418	Sexism	Little to None	Community	random baseline
+650935	Sexism	Severe	Organization	random baseline
+38930	Religious Hate	Mild	Society	random baseline
+8971	None	Severe	Society	random baseline
+739479	Political Hate	Mild	Community	random baseline
+797851	Sexism	Mild	Individual	random baseline
+760390	Religious Hate	Mild	Individual	random baseline
+831693	Religious Hate	Little to None	Community	random baseline
+862239	Abusive	Mild	Organization	random baseline
+278473	Political Hate	Little to None	Organization	random baseline
+641709	Abusive	Mild	Individual	random baseline
+40920	Profane	Little to None	Community	random baseline
+452383	Religious Hate	Little to None	None	random baseline
+887001	Sexism	Severe	Individual	random baseline
+807629	Political Hate	Little to None	Organization	random baseline
+742470	Religious Hate	Little to None	Society	random baseline
+906061	Profane	Severe	Organization	random baseline
+633257	None	Mild	Organization	random baseline
+351010	Sexism	Severe	Organization	random baseline
+823876	None	Mild	None	random baseline
+334604	Abusive	Little to None	Individual	random baseline
+445824	Political Hate	Mild	Individual	random baseline
+468140	Sexism	Little to None	Community	random baseline
+394049	None	Severe	None	random baseline
+162757	Religious Hate	Little to None	Individual	random baseline
+57731	Abusive	Severe	None	random baseline
+371906	Profane	Little to None	Community	random baseline
+700128	Religious Hate	Severe	None	random baseline
+839768	Sexism	Severe	Community	random baseline
+411555	Religious Hate	Severe	Community	random baseline
+84795	Religious Hate	Mild	Society	random baseline
+774878	Religious Hate	Severe	Organization	random baseline
+505229	Religious Hate	Mild	Community	random baseline
+289014	Abusive	Little to None	Organization	random baseline
+694048	Sexism	Mild	Community	random baseline
+181111	Abusive	Severe	None	random baseline
+46517	Profane	Little to None	Organization	random baseline
+97053	Sexism	Mild	Organization	random baseline
+746764	Political Hate	Mild	Organization	random baseline
+390622	Political Hate	Mild	Individual	random baseline
+444633	Political Hate	Mild	Individual	random baseline
+103602	Abusive	Severe	Community	random baseline
+224242	Abusive	Little to None	Society	random baseline
+477505	Political Hate	Mild	Community	random baseline
+92649	Political Hate	Mild	None	random baseline
+360414	None	Mild	Individual	random baseline
+63542	Abusive	Little to None	None	random baseline
+301203	Sexism	Severe	Community	random baseline
+508058	Abusive	Little to None	Individual	random baseline
+738605	Political Hate	Severe	None	random baseline
+172299	Sexism	Little to None	Organization	random baseline
+378925	Political Hate	Mild	Society	random baseline
+607161	Religious Hate	Little to None	Community	random baseline
+380233	Religious Hate	Severe	Individual	random baseline
+540926	Abusive	Severe	Individual	random baseline
+668969	Abusive	Mild	Organization	random baseline
+316990	Sexism	Little to None	Individual	random baseline
+482466	Sexism	Mild	Community	random baseline
+260887	Sexism	Little to None	Community	random baseline
+563963	Profane	Little to None	None	random baseline
+917361	None	Severe	None	random baseline
+266571	Political Hate	Little to None	Society	random baseline
+51068	Abusive	Severe	Community	random baseline
+348468	Abusive	Mild	None	random baseline
+807445	Religious Hate	Severe	None	random baseline
+427140	Abusive	Little to None	Society	random baseline
+422165	Abusive	Severe	Individual	random baseline
+55904	Religious Hate	Little to None	Organization	random baseline
+265434	Sexism	Mild	Society	random baseline
+267256	None	Little to None	Community	random baseline
+518142	None	Severe	Individual	random baseline
+782489	Abusive	Mild	Individual	random baseline
+916917	Abusive	Severe	None	random baseline
+591157	Sexism	Mild	Individual	random baseline
+662682	Political Hate	Little to None	Community	random baseline
+393092	None	Little to None	Organization	random baseline
+915065	Sexism	Severe	None	random baseline
+33824	Abusive	Severe	Society	random baseline
+756658	None	Mild	Community	random baseline
+658706	Profane	Little to None	Individual	random baseline
+727816	Religious Hate	Severe	Organization	random baseline
+654176	Political Hate	Severe	Organization	random baseline
+182173	Profane	Mild	Organization	random baseline
+399562	Political Hate	Mild	Society	random baseline
+435617	Religious Hate	Severe	Organization	random baseline
+112763	Sexism	Little to None	None	random baseline
+91780	Political Hate	Little to None	None	random baseline
+396665	Political Hate	Little to None	Society	random baseline
+513823	Sexism	Severe	Community	random baseline
+321815	Profane	Severe	Organization	random baseline
+706639	None	Little to None	Individual	random baseline
+790250	Abusive	Mild	Community	random baseline
+243116	Religious Hate	Severe	Society	random baseline
+869136	Sexism	Severe	Society	random baseline
+628622	Religious Hate	Little to None	Community	random baseline
+425618	Profane	Mild	None	random baseline
+348905	Sexism	Little to None	Individual	random baseline
+280702	Political Hate	Mild	Society	random baseline
+796835	None	Severe	Individual	random baseline
+339696	Political Hate	Severe	Society	random baseline
+664582	Abusive	Severe	Organization	random baseline
+219751	Profane	Little to None	Community	random baseline
+861727	Religious Hate	Severe	Individual	random baseline
+194260	Religious Hate	Severe	None	random baseline
+33277	Religious Hate	Severe	Society	random baseline
+224231	Profane	Mild	Individual	random baseline
+886973	Sexism	Little to None	None	random baseline
+582310	Profane	Severe	Individual	random baseline
+433077	Profane	Severe	None	random baseline
+552679	Abusive	Little to None	Individual	random baseline
+643528	Political Hate	Mild	Society	random baseline
+85565	Political Hate	Severe	Organization	random baseline
+628830	Abusive	Mild	Society	random baseline
+749660	Political Hate	Severe	Community	random baseline
+1595	Profane	Severe	Individual	random baseline
+23293	Abusive	Mild	None	random baseline
+509035	Abusive	Mild	None	random baseline
+886202	Abusive	Little to None	Individual	random baseline
+742533	Profane	Little to None	Community	random baseline
+27838	None	Mild	Society	random baseline
+75041	Abusive	Little to None	Community	random baseline
+228134	Sexism	Mild	None	random baseline
+382699	Sexism	Severe	Community	random baseline
+242473	Profane	Mild	Society	random baseline
+447845	Religious Hate	Little to None	Society	random baseline
+686719	Profane	Mild	Community	random baseline
+325929	Political Hate	Severe	None	random baseline
+138617	Abusive	Mild	Organization	random baseline
+37781	Sexism	Little to None	Individual	random baseline
+265785	Abusive	Little to None	Individual	random baseline
+624047	Sexism	Mild	Organization	random baseline
+395781	None	Severe	Community	random baseline
+719558	Profane	Little to None	Individual	random baseline
+934245	Abusive	Mild	Individual	random baseline
+181499	Political Hate	Severe	Individual	random baseline
+397249	Abusive	Mild	None	random baseline
+582244	Abusive	Little to None	Organization	random baseline
+870090	Religious Hate	Little to None	Organization	random baseline
+462030	Abusive	Little to None	Community	random baseline
+446338	None	Little to None	Community	random baseline
+61162	Abusive	Severe	Individual	random baseline
+807176	Sexism	Mild	Individual	random baseline
+864604	Religious Hate	Severe	Society	random baseline
+709055	None	Mild	Individual	random baseline
+581292	Sexism	Little to None	Community	random baseline
+563959	Political Hate	Mild	Individual	random baseline
+727426	Religious Hate	Mild	Society	random baseline
+561351	Abusive	Severe	Community	random baseline
+916629	Abusive	Little to None	Society	random baseline
+242659	None	Severe	Society	random baseline
+711936	Religious Hate	Mild	Individual	random baseline
+398564	None	Little to None	Community	random baseline
+638288	None	Little to None	Community	random baseline
+571045	Political Hate	Severe	Society	random baseline
+396357	None	Little to None	Society	random baseline
+657340	Political Hate	Little to None	Organization	random baseline
+131821	Political Hate	Little to None	Society	random baseline
+881260	Political Hate	Severe	Community	random baseline
+87349	Abusive	Severe	Organization	random baseline
+232700	Abusive	Mild	None	random baseline
+22307	Political Hate	Severe	Community	random baseline
+352983	Religious Hate	Severe	Individual	random baseline
+389506	Abusive	Severe	None	random baseline
+335493	Profane	Mild	Society	random baseline
+739982	Religious Hate	Mild	Organization	random baseline
+328094	Abusive	Mild	Community	random baseline
+528740	Profane	Mild	Society	random baseline
+808137	Abusive	Little to None	Society	random baseline
+554827	Sexism	Little to None	Society	random baseline
+858794	Sexism	Mild	Community	random baseline
+633224	Religious Hate	Severe	Individual	random baseline
+780101	Abusive	Little to None	Society	random baseline
+602479	Abusive	Severe	Organization	random baseline
+540580	Sexism	Severe	None	random baseline
+778356	Sexism	Mild	Society	random baseline
+43268	Abusive	Mild	Individual	random baseline
+262437	Profane	Mild	None	random baseline
+71353	Religious Hate	Severe	Society	random baseline
+730463	Political Hate	Mild	Society	random baseline
+653820	Sexism	Mild	Organization	random baseline
+335542	Sexism	Mild	Individual	random baseline
+826227	None	Mild	Organization	random baseline
+443806	Abusive	Mild	Individual	random baseline
+769421	Abusive	Mild	Society	random baseline
+685630	Political Hate	Severe	Individual	random baseline
+590194	Religious Hate	Little to None	Individual	random baseline
+466683	None	Severe	None	random baseline
+280790	Religious Hate	Severe	None	random baseline
+860057	Profane	Severe	None	random baseline
+871168	Political Hate	Severe	Organization	random baseline
+141496	None	Little to None	Individual	random baseline
+3736	None	Little to None	Society	random baseline
+288686	Political Hate	Severe	Organization	random baseline
+267813	Political Hate	Mild	Society	random baseline
+832012	Religious Hate	Mild	Individual	random baseline
+32904	Religious Hate	Little to None	Individual	random baseline
+268117	Sexism	Little to None	Individual	random baseline
+776783	None	Little to None	Individual	random baseline
+850339	Sexism	Mild	Society	random baseline
+223593	Abusive	Severe	Society	random baseline
+387123	Sexism	Severe	Organization	random baseline
+939377	Religious Hate	Little to None	Society	random baseline
+484079	Abusive	Little to None	Community	random baseline
+897137	Political Hate	Severe	Society	random baseline
+655003	None	Severe	Society	random baseline
+585973	Religious Hate	Severe	Community	random baseline
+29600	Profane	Mild	Community	random baseline
+830036	Abusive	Little to None	Individual	random baseline
+565839	Profane	Severe	Organization	random baseline
+359406	Abusive	Little to None	Community	random baseline
+308062	Religious Hate	Little to None	Society	random baseline
+594507	None	Severe	None	random baseline
+34433	Religious Hate	Little to None	Individual	random baseline
+43262	None	Mild	Individual	random baseline
+145863	Profane	Little to None	None	random baseline
+592053	Profane	Mild	Organization	random baseline
+235746	Sexism	Severe	Individual	random baseline
+893409	Religious Hate	Mild	None	random baseline
+939031	Sexism	Severe	Society	random baseline
+647343	Profane	Mild	Organization	random baseline
+868309	Abusive	Little to None	Individual	random baseline
+81611	Political Hate	Severe	Individual	random baseline
+693429	Abusive	Little to None	Community	random baseline
+546533	Religious Hate	Mild	Society	random baseline
+804580	Profane	Mild	Community	random baseline
+774663	Religious Hate	Little to None	Organization	random baseline
+442687	Abusive	Mild	Organization	random baseline
+22333	Political Hate	Little to None	None	random baseline
+883311	Religious Hate	Severe	Community	random baseline
+68897	Religious Hate	Little to None	Individual	random baseline
+716697	Religious Hate	Mild	None	random baseline
+366472	Profane	Severe	Organization	random baseline
+112632	Sexism	Mild	Organization	random baseline
+759580	Profane	Mild	Society	random baseline
+68501	Religious Hate	Severe	Individual	random baseline
+570238	None	Mild	None	random baseline
+833247	Religious Hate	Mild	Society	random baseline
+742235	Abusive	Mild	Individual	random baseline
+160687	None	Severe	Organization	random baseline
+854753	None	Severe	None	random baseline
+256250	None	Mild	None	random baseline
+801382	Religious Hate	Mild	Organization	random baseline
+358092	Political Hate	Severe	Community	random baseline
+593155	Religious Hate	Severe	Society	random baseline
+72962	None	Severe	Organization	random baseline
+472051	Religious Hate	Severe	Community	random baseline
+736544	Political Hate	Mild	Community	random baseline
+26584	Political Hate	Severe	Community	random baseline
+14123	None	Severe	None	random baseline
+422940	Sexism	Severe	Society	random baseline
+530930	None	Mild	Community	random baseline
+643961	Sexism	Little to None	Organization	random baseline
+725166	Sexism	Severe	Individual	random baseline
+183565	Religious Hate	Mild	Individual	random baseline
+592528	Religious Hate	Severe	Society	random baseline
+332661	None	Severe	Community	random baseline
+893187	Political Hate	Mild	Community	random baseline
+574249	Religious Hate	Severe	None	random baseline
+702233	None	Mild	Organization	random baseline
+332441	Religious Hate	Little to None	Community	random baseline
+120948	Sexism	Mild	Community	random baseline
+303017	Abusive	Severe	Society	random baseline
+6209	Profane	Mild	None	random baseline
+239068	Sexism	Severe	None	random baseline
+17716	Religious Hate	Mild	Individual	random baseline
+358382	Sexism	Severe	Society	random baseline
+528149	Abusive	Severe	None	random baseline
+154954	Sexism	Mild	Society	random baseline
+237442	Sexism	Severe	Organization	random baseline
+385586	Abusive	Mild	Individual	random baseline
+872714	Sexism	Mild	Community	random baseline
+173242	Religious Hate	Severe	Organization	random baseline
+357390	Religious Hate	Mild	Community	random baseline
+399716	Profane	Severe	Society	random baseline
+562599	None	Mild	None	random baseline
+353085	Sexism	Little to None	Organization	random baseline
+732405	Abusive	Little to None	None	random baseline
+42984	None	Little to None	Organization	random baseline
+327956	Sexism	Little to None	None	random baseline
+638917	Political Hate	Mild	Organization	random baseline
+93540	Abusive	Mild	None	random baseline
+787421	Sexism	Mild	None	random baseline
+504895	Political Hate	Little to None	Organization	random baseline
+291320	Abusive	Little to None	None	random baseline
+406332	Religious Hate	Little to None	Organization	random baseline
+764894	Profane	Severe	Organization	random baseline
+670548	None	Little to None	Organization	random baseline
+817559	Religious Hate	Mild	Organization	random baseline
+256795	Political Hate	Little to None	Organization	random baseline
+152630	Abusive	Severe	Organization	random baseline
+17630	Sexism	Mild	Community	random baseline
+567139	Sexism	Little to None	None	random baseline
+563824	Religious Hate	Severe	Community	random baseline
+139630	Political Hate	Severe	None	random baseline
+322733	Abusive	Little to None	Individual	random baseline
+524979	Sexism	Little to None	None	random baseline
+52851	Political Hate	Severe	Society	random baseline
+449962	Sexism	Severe	Individual	random baseline
+521733	Sexism	Severe	Society	random baseline
+820909	Sexism	Little to None	Individual	random baseline
+776132	Abusive	Little to None	None	random baseline
+208816	Profane	Mild	None	random baseline
+168294	Abusive	Little to None	Organization	random baseline
+186490	Sexism	Severe	Individual	random baseline
+34763	Political Hate	Severe	None	random baseline
+890503	Sexism	Severe	Individual	random baseline
+730297	Sexism	Little to None	Organization	random baseline
+267275	Abusive	Mild	None	random baseline
+875303	Sexism	Mild	Society	random baseline
+410510	None	Severe	None	random baseline
+198288	Religious Hate	Mild	Organization	random baseline
+878523	Religious Hate	Mild	Individual	random baseline
+804090	Religious Hate	Mild	Individual	random baseline
+876050	Religious Hate	Severe	Organization	random baseline
+538825	Political Hate	Mild	Organization	random baseline
+439504	None	Mild	Community	random baseline
+98661	Sexism	Severe	Community	random baseline
+50223	Religious Hate	Mild	Society	random baseline
+882392	Religious Hate	Severe	Individual	random baseline
+31474	None	Little to None	Community	random baseline
+752145	Sexism	Severe	Society	random baseline
+864075	Religious Hate	Severe	Organization	random baseline
+459116	Political Hate	Severe	None	random baseline
+498640	Abusive	Little to None	Individual	random baseline
+802864	Religious Hate	Severe	Organization	random baseline
+295472	Religious Hate	Mild	Society	random baseline
+934066	Abusive	Severe	Organization	random baseline
+902880	None	Little to None	Individual	random baseline
+111465	None	Mild	Community	random baseline
+933484	Political Hate	Severe	None	random baseline
+667357	Sexism	Mild	None	random baseline
+81463	Religious Hate	Little to None	Society	random baseline
+649992	Sexism	Severe	Community	random baseline
+60065	Sexism	Severe	Community	random baseline
+328916	Political Hate	Severe	Community	random baseline
+304492	Profane	Little to None	None	random baseline
+385489	Abusive	Mild	Individual	random baseline
+683209	Profane	Severe	None	random baseline
+67622	Profane	Severe	Society	random baseline
+507528	Abusive	Little to None	Organization	random baseline
+460125	Religious Hate	Little to None	Community	random baseline
+285627	Abusive	Little to None	None	random baseline
+309055	Abusive	Severe	None	random baseline
+702822	Abusive	Severe	Society	random baseline
+714655	Abusive	Severe	Society	random baseline
+265922	Abusive	Mild	Community	random baseline
+485097	Profane	Mild	None	random baseline
+270514	Political Hate	Little to None	None	random baseline
+87760	Sexism	Severe	Community	random baseline
+169601	Abusive	Little to None	Individual	random baseline
+798353	Political Hate	Severe	Society	random baseline
+100120	Profane	Little to None	Individual	random baseline
+441410	Sexism	Little to None	Organization	random baseline
+592756	Abusive	Mild	None	random baseline
+90373	Profane	Little to None	Community	random baseline
+664668	None	Mild	Community	random baseline
+122017	Sexism	Mild	Community	random baseline
+544288	None	Little to None	Society	random baseline
+499935	Political Hate	Little to None	Community	random baseline
+192544	Political Hate	Severe	Organization	random baseline
+173116	Abusive	Severe	Society	random baseline
+704684	Political Hate	Mild	Individual	random baseline
+845711	Abusive	Mild	None	random baseline
+880642	Religious Hate	Severe	Individual	random baseline
+335733	Profane	Little to None	Individual	random baseline
+819142	Abusive	Little to None	Society	random baseline
+123199	Religious Hate	Severe	Individual	random baseline
+216638	Profane	Mild	Organization	random baseline
+215582	Political Hate	Mild	Society	random baseline
+553211	None	Severe	Society	random baseline
+826034	Political Hate	Little to None	Community	random baseline
+918589	Political Hate	Mild	Organization	random baseline
+547320	Political Hate	Severe	None	random baseline
+266882	None	Mild	Individual	random baseline
+750993	Sexism	Severe	None	random baseline
+653654	Sexism	Little to None	Individual	random baseline
+890678	Religious Hate	Little to None	Organization	random baseline
+381394	Political Hate	Severe	Individual	random baseline
+356587	Sexism	Severe	Individual	random baseline
+590822	Abusive	Mild	Organization	random baseline
+166688	Sexism	Little to None	Individual	random baseline
+230635	Abusive	Little to None	None	random baseline
+55098	Sexism	Little to None	Organization	random baseline
+617669	Profane	Severe	Organization	random baseline
+180620	Sexism	Severe	Society	random baseline
+187898	Sexism	Mild	Individual	random baseline
+371940	Sexism	Mild	Society	random baseline
+181651	Political Hate	Mild	Individual	random baseline
+147825	None	Little to None	None	random baseline
+438932	Sexism	Little to None	Community	random baseline
+63001	Religious Hate	Little to None	Organization	random baseline
+329086	Sexism	Mild	Society	random baseline
+301069	Religious Hate	Mild	Individual	random baseline
+347294	Religious Hate	Mild	Community	random baseline
+461037	Political Hate	Little to None	Society	random baseline
+170607	Religious Hate	Mild	None	random baseline
+499607	Political Hate	Severe	Society	random baseline
+710744	None	Mild	Organization	random baseline
+240005	Sexism	Severe	Individual	random baseline
+424128	Abusive	Severe	Individual	random baseline
+779357	Abusive	Severe	Community	random baseline
+845111	Profane	Mild	Individual	random baseline
+676339	Religious Hate	Mild	None	random baseline
+290884	Profane	Mild	Community	random baseline
+909302	Abusive	Mild	Individual	random baseline
+357977	Abusive	Mild	Organization	random baseline
+134372	Abusive	Mild	Society	random baseline
+659032	Profane	Little to None	Community	random baseline
+545917	Sexism	Little to None	Individual	random baseline
+95904	Religious Hate	Little to None	Individual	random baseline
+627730	Profane	Little to None	Organization	random baseline
+560795	Abusive	Severe	Individual	random baseline
+379566	Profane	Severe	Organization	random baseline
+142362	Abusive	Mild	Organization	random baseline
+582295	Political Hate	Severe	Individual	random baseline
+214358	Abusive	Mild	Individual	random baseline
+773834	Profane	Little to None	Community	random baseline
+378204	Profane	Severe	Society	random baseline
+2503	Sexism	Mild	Individual	random baseline
+66287	Abusive	Little to None	Community	random baseline
+497947	Abusive	Little to None	Society	random baseline
+821205	Sexism	Mild	Organization	random baseline
+704887	Sexism	Mild	Community	random baseline
+142605	Religious Hate	Severe	Community	random baseline
+793597	Profane	Severe	None	random baseline
+244475	None	Severe	None	random baseline
+732424	Religious Hate	Severe	Organization	random baseline
+669456	Sexism	Mild	Community	random baseline
+786746	Profane	Little to None	None	random baseline
+260582	Political Hate	Little to None	Individual	random baseline
+669509	Religious Hate	Little to None	Individual	random baseline
+519827	Sexism	Severe	Community	random baseline
+204443	None	Severe	None	random baseline
+583890	Political Hate	Mild	Society	random baseline
+637584	Abusive	Severe	Society	random baseline
+24646	Abusive	Mild	Individual	random baseline
+280857	Sexism	Severe	None	random baseline
+446535	Profane	Mild	Individual	random baseline
+687543	None	Severe	None	random baseline
+237066	Abusive	Mild	Community	random baseline
+912999	Political Hate	Severe	Organization	random baseline
+194057	None	Mild	Organization	random baseline
+146810	Abusive	Severe	Society	random baseline
+442009	Sexism	Mild	Society	random baseline
+350875	Sexism	Severe	Individual	random baseline
+721365	Profane	Severe	Organization	random baseline
+798776	Religious Hate	Little to None	Community	random baseline
+752086	Political Hate	Severe	Individual	random baseline
+203	Political Hate	Mild	Organization	random baseline
+798871	Religious Hate	Mild	Community	random baseline
+903406	Religious Hate	Severe	Organization	random baseline
+447678	Political Hate	Little to None	Organization	random baseline
+782699	Sexism	Little to None	None	random baseline
+188831	Sexism	Mild	None	random baseline
+653198	Abusive	Mild	Community	random baseline
+439858	Sexism	Severe	Individual	random baseline
+869461	Sexism	Severe	Community	random baseline
+389095	Abusive	Severe	Community	random baseline
+378732	Abusive	Severe	None	random baseline
+906177	Sexism	Severe	Community	random baseline
+309517	Religious Hate	Little to None	None	random baseline
+356240	Religious Hate	Severe	None	random baseline
+612238	Profane	Mild	Society	random baseline
+404551	Political Hate	Severe	Society	random baseline
+417818	Profane	Little to None	Community	random baseline
+626581	Sexism	Severe	Organization	random baseline
+839516	Religious Hate	Severe	Organization	random baseline
+794748	Sexism	Little to None	Society	random baseline
+849980	Profane	Mild	Society	random baseline
+721487	Profane	Mild	Individual	random baseline
+625949	Political Hate	Little to None	Organization	random baseline
+593733	Political Hate	Severe	Organization	random baseline
+853345	Abusive	Mild	Individual	random baseline
+434994	Religious Hate	Mild	None	random baseline
+439183	Religious Hate	Mild	Individual	random baseline
+688066	Political Hate	Mild	Individual	random baseline
+343290	Abusive	Severe	None	random baseline
+529720	Religious Hate	Little to None	Individual	random baseline
+8435	Profane	Little to None	Organization	random baseline
+625145	Abusive	Severe	Society	random baseline
+523883	Abusive	Mild	Community	random baseline
+871055	Religious Hate	Little to None	Community	random baseline
+1467	Political Hate	Severe	Individual	random baseline
+414730	None	Mild	Organization	random baseline
+23986	Political Hate	Little to None	None	random baseline
+604006	Abusive	Little to None	Individual	random baseline
+35914	Profane	Little to None	Individual	random baseline
+921548	None	Mild	None	random baseline
+600422	Political Hate	Little to None	Individual	random baseline
+820850	Sexism	Severe	Society	random baseline
+172221	Sexism	Severe	Individual	random baseline
+151782	Political Hate	Mild	Organization	random baseline
+729740	None	Little to None	None	random baseline
+795158	Religious Hate	Severe	None	random baseline
+89095	Abusive	Severe	None	random baseline
+871021	Abusive	Severe	Society	random baseline
+410433	Abusive	Mild	None	random baseline
+259966	Sexism	Severe	None	random baseline
+622086	Abusive	Severe	Society	random baseline
+757437	Political Hate	Little to None	Community	random baseline
+834041	Religious Hate	Severe	None	random baseline
+614182	Religious Hate	Severe	Individual	random baseline
+213978	Religious Hate	Mild	Individual	random baseline
+177775	Sexism	Little to None	Community	random baseline
+175096	Profane	Little to None	Organization	random baseline
+924491	Sexism	Severe	Individual	random baseline
+74708	None	Mild	Organization	random baseline
+145454	None	Mild	Organization	random baseline
+122063	Sexism	Severe	Community	random baseline
+523490	Religious Hate	Mild	Community	random baseline
+567534	Sexism	Severe	Community	random baseline
+3766	Political Hate	Mild	Community	random baseline
+898495	Profane	Little to None	None	random baseline
+215674	Religious Hate	Mild	Community	random baseline
+12410	Profane	Mild	Society	random baseline
+710245	Political Hate	Little to None	None	random baseline
+10063	Religious Hate	Mild	Community	random baseline
+540310	Political Hate	Severe	Community	random baseline
+412055	Political Hate	Little to None	Organization	random baseline
+151874	Religious Hate	Mild	Individual	random baseline
+773973	Abusive	Mild	Community	random baseline
+258469	Abusive	Mild	Society	random baseline
+336614	Abusive	Little to None	None	random baseline
+881812	Abusive	Mild	Society	random baseline
+183470	Political Hate	Little to None	Individual	random baseline
+703445	Sexism	Severe	Society	random baseline
+577195	Profane	Little to None	Organization	random baseline
+408421	Political Hate	Mild	Individual	random baseline
+115868	None	Mild	Community	random baseline
+641646	None	Mild	Individual	random baseline
+868822	None	Mild	Community	random baseline
+847093	Sexism	Mild	Organization	random baseline
+564034	Sexism	Mild	Organization	random baseline
+257938	Political Hate	Severe	None	random baseline
+106592	Abusive	Mild	Community	random baseline
+792068	Political Hate	Severe	None	random baseline
+555057	None	Mild	Individual	random baseline
+390255	Political Hate	Mild	None	random baseline
+245231	Political Hate	Little to None	None	random baseline
+475110	Religious Hate	Severe	None	random baseline
+413861	Profane	Mild	Organization	random baseline
+800883	Religious Hate	Little to None	Society	random baseline
+685063	Religious Hate	Mild	None	random baseline
+65728	Sexism	Severe	Community	random baseline
+933802	None	Mild	Organization	random baseline
+11690	Sexism	Little to None	Society	random baseline
+706579	Sexism	Mild	Society	random baseline
+215276	Profane	Severe	Individual	random baseline
+204169	Abusive	Severe	Individual	random baseline
+554749	Abusive	Severe	None	random baseline
+102106	None	Severe	Individual	random baseline
+687707	Sexism	Little to None	Individual	random baseline
+782993	Abusive	Severe	None	random baseline
+694802	Profane	Little to None	Society	random baseline
+140095	Abusive	Little to None	Society	random baseline
+449706	Abusive	Little to None	Society	random baseline
+103008	Abusive	Severe	Community	random baseline
+268505	Religious Hate	Little to None	None	random baseline
+677768	Political Hate	Mild	None	random baseline
+399395	Profane	Little to None	Organization	random baseline
+934704	Sexism	Little to None	Organization	random baseline
+183078	Profane	Severe	Organization	random baseline
+472268	Abusive	Little to None	Individual	random baseline
+140804	Profane	Severe	Community	random baseline
+266462	Abusive	Mild	Society	random baseline
+4502	Abusive	Little to None	None	random baseline
+601389	Sexism	Little to None	Community	random baseline
+51708	Political Hate	Severe	Organization	random baseline
+451288	Profane	Mild	Community	random baseline
+723131	None	Little to None	Society	random baseline
+514786	Religious Hate	Severe	Community	random baseline
+301007	Political Hate	Little to None	Community	random baseline
+229205	None	Severe	Organization	random baseline
+524989	Sexism	Mild	Individual	random baseline
+824458	Abusive	Little to None	Organization	random baseline
+522751	Sexism	Mild	Organization	random baseline
+829398	Religious Hate	Severe	None	random baseline
+442481	Profane	Severe	Society	random baseline
+86918	None	Mild	Community	random baseline
+760133	Sexism	Mild	None	random baseline
+22336	Religious Hate	Mild	None	random baseline
+110130	Abusive	Little to None	None	random baseline
+794326	Political Hate	Severe	Society	random baseline
+184205	Religious Hate	Mild	None	random baseline
+501326	Profane	Severe	Individual	random baseline
+305515	Religious Hate	Little to None	Organization	random baseline
+453214	Profane	Mild	Society	random baseline
+780977	Sexism	Severe	Individual	random baseline
+197116	None	Severe	Organization	random baseline
+709765	Profane	Mild	Organization	random baseline
+660740	Abusive	Little to None	Society	random baseline
+751452	Religious Hate	Severe	Society	random baseline
+776616	Abusive	Severe	None	random baseline
+594957	Profane	Little to None	Individual	random baseline
+758653	Profane	Severe	Organization	random baseline
+467601	Religious Hate	Severe	Society	random baseline
+853875	Sexism	Severe	Organization	random baseline
+734436	Religious Hate	Mild	Community	random baseline
+432795	Profane	Severe	Individual	random baseline
+176963	Sexism	Severe	None	random baseline
+693454	Religious Hate	Mild	Community	random baseline
+431121	Profane	Mild	Society	random baseline
+603293	None	Mild	Community	random baseline
+204163	Political Hate	Severe	Society	random baseline
+404753	Religious Hate	Severe	Organization	random baseline
+350340	None	Little to None	Society	random baseline
+101669	Sexism	Severe	Organization	random baseline
+693172	None	Mild	Community	random baseline
+881339	Political Hate	Mild	Community	random baseline
+234873	Political Hate	Mild	Organization	random baseline
+463879	Religious Hate	Severe	Community	random baseline
+391778	None	Severe	Society	random baseline
+696795	Religious Hate	Severe	Community	random baseline
+392525	Profane	Severe	Society	random baseline
+437546	Profane	Little to None	Society	random baseline
+230845	Profane	Little to None	Individual	random baseline
+759262	Sexism	Little to None	Community	random baseline
+790411	Profane	Mild	Community	random baseline
+300211	Religious Hate	Mild	Community	random baseline
+429825	Sexism	Mild	Society	random baseline
+241815	Sexism	Severe	Organization	random baseline
+587877	Political Hate	Mild	None	random baseline
+417035	Sexism	Little to None	None	random baseline
+329867	Profane	Little to None	Society	random baseline
+858636	Political Hate	Severe	Individual	random baseline
+817662	Sexism	Severe	Individual	random baseline
+36995	Religious Hate	Severe	Individual	random baseline
+540133	Abusive	Severe	Individual	random baseline
+178133	Profane	Severe	None	random baseline
+939084	Political Hate	Little to None	Organization	random baseline
+220070	Abusive	Severe	Organization	random baseline
+810990	Profane	Severe	Individual	random baseline
+564915	None	Severe	None	random baseline
+896030	None	Mild	Organization	random baseline
+803000	None	Little to None	Society	random baseline
+434425	Profane	Little to None	Individual	random baseline
+484732	Sexism	Severe	None	random baseline
+928724	Religious Hate	Severe	Individual	random baseline
+188109	Sexism	Severe	Community	random baseline
+885876	Profane	Little to None	Organization	random baseline
+439903	Profane	Severe	Individual	random baseline
+896774	Abusive	Mild	Society	random baseline
+201236	Sexism	Severe	Community	random baseline
+294331	None	Mild	Individual	random baseline
+283925	Religious Hate	Mild	None	random baseline
+619478	Sexism	Severe	Society	random baseline
+849009	Sexism	Mild	Organization	random baseline
+716054	Political Hate	Little to None	Community	random baseline
+560726	Abusive	Mild	Community	random baseline
+743594	None	Little to None	Society	random baseline
+624407	Religious Hate	Mild	Organization	random baseline
+258727	Religious Hate	Mild	Society	random baseline
+380744	None	Severe	Organization	random baseline
+413547	Abusive	Mild	Organization	random baseline
+234141	Profane	Mild	Society	random baseline
+60206	Religious Hate	Little to None	Community	random baseline
+579827	None	Severe	None	random baseline
+148976	Abusive	Little to None	Society	random baseline
+201516	None	Severe	Organization	random baseline
+586357	None	Little to None	None	random baseline
+368041	Religious Hate	Mild	Individual	random baseline
+281038	Religious Hate	Little to None	Community	random baseline
+200103	Political Hate	Little to None	Society	random baseline
+656857	Abusive	Mild	Community	random baseline
+877106	None	Little to None	Organization	random baseline
+680816	Religious Hate	Little to None	Organization	random baseline
+853980	Abusive	Mild	None	random baseline
+416765	Profane	Mild	Individual	random baseline
+777041	Abusive	Mild	Community	random baseline
+486896	None	Severe	Community	random baseline
+1238	Abusive	Severe	Organization	random baseline
+690011	Political Hate	Mild	Organization	random baseline
+561745	Political Hate	Mild	Individual	random baseline
+419301	Abusive	Severe	Organization	random baseline
+484745	Religious Hate	Mild	Organization	random baseline
+563636	Profane	Mild	Individual	random baseline
+813902	Sexism	Little to None	Society	random baseline
+7505	Sexism	Little to None	None	random baseline
+648031	Profane	Severe	Organization	random baseline
+144853	Abusive	Little to None	Community	random baseline
+181520	None	Severe	Society	random baseline
+93012	None	Severe	Community	random baseline
+48276	Political Hate	Severe	Organization	random baseline
+640764	None	Mild	Individual	random baseline
+273507	Sexism	Mild	Organization	random baseline
+687548	Religious Hate	Little to None	Individual	random baseline
+917353	Abusive	Severe	Organization	random baseline
+269221	Political Hate	Little to None	None	random baseline
+922476	None	Mild	Community	random baseline
+807407	None	Little to None	Organization	random baseline
+195060	Abusive	Mild	Community	random baseline
+656139	Religious Hate	Mild	Individual	random baseline
+799134	Abusive	Little to None	Society	random baseline
+826825	Sexism	Little to None	None	random baseline
+9907	Profane	Mild	Society	random baseline
+298673	Religious Hate	Little to None	Organization	random baseline
+13386	None	Severe	Organization	random baseline
+842536	Sexism	Mild	None	random baseline
+726308	Political Hate	Severe	Organization	random baseline
+306330	None	Mild	None	random baseline
+688599	Religious Hate	Mild	Community	random baseline
+689584	Political Hate	Severe	Community	random baseline
+490674	Political Hate	Severe	None	random baseline
+456718	Political Hate	Severe	Community	random baseline
+520231	Political Hate	Mild	Individual	random baseline
+331709	Religious Hate	Severe	Society	random baseline
+409943	Abusive	Severe	Society	random baseline
+56275	Sexism	Severe	Organization	random baseline
+692039	Religious Hate	Little to None	Organization	random baseline
+269451	Religious Hate	Severe	Society	random baseline
+13455	None	Mild	Community	random baseline
+612107	Political Hate	Mild	Society	random baseline
+520921	Abusive	Severe	Community	random baseline
+309449	None	Severe	Organization	random baseline
+30231	Profane	Severe	Community	random baseline
+749946	Profane	Mild	Individual	random baseline
+230540	Religious Hate	Little to None	None	random baseline
+306383	None	Severe	None	random baseline
+266663	Abusive	Severe	Community	random baseline
+306200	Profane	Mild	Society	random baseline
+932141	Abusive	Little to None	Community	random baseline
+159638	Profane	Mild	None	random baseline
+153112	Sexism	Severe	None	random baseline
+36929	Abusive	Mild	Organization	random baseline
+570695	None	Mild	Society	random baseline
+930405	Religious Hate	Mild	Society	random baseline
+934284	None	Severe	Society	random baseline
+241721	Religious Hate	Little to None	Organization	random baseline
+743285	Sexism	Severe	Society	random baseline
+650205	Profane	Severe	None	random baseline
+231694	Religious Hate	Severe	Organization	random baseline
+240267	Religious Hate	Little to None	Organization	random baseline
+105646	Abusive	Mild	None	random baseline
+166927	Abusive	Severe	Individual	random baseline
+222182	Profane	Mild	Organization	random baseline
+719880	Sexism	Little to None	Community	random baseline
+304302	Religious Hate	Severe	Individual	random baseline
+246202	Political Hate	Severe	None	random baseline
+581414	Political Hate	Mild	Society	random baseline
+39223	Abusive	Little to None	Society	random baseline
+331481	Abusive	Severe	Organization	random baseline
+759027	Religious Hate	Severe	Organization	random baseline
+372475	Abusive	Mild	Individual	random baseline
+279602	Abusive	Severe	Individual	random baseline
+374463	Profane	Little to None	Organization	random baseline
+522124	None	Mild	Society	random baseline
+96971	Religious Hate	Little to None	Society	random baseline
+563986	Abusive	Little to None	Individual	random baseline
+186068	None	Mild	None	random baseline
+645261	Political Hate	Severe	Community	random baseline
+491781	Political Hate	Mild	Society	random baseline
+227160	None	Severe	Individual	random baseline
+49682	None	Severe	Society	random baseline
+715513	Political Hate	Little to None	Organization	random baseline
+750666	None	Severe	Society	random baseline
+498452	Religious Hate	Little to None	None	random baseline
+749770	Political Hate	Little to None	Individual	random baseline
+374272	None	Little to None	Individual	random baseline
+300680	Abusive	Little to None	Community	random baseline
+502810	Profane	Severe	Community	random baseline
+537922	Profane	Severe	Organization	random baseline
+301818	Profane	Mild	Society	random baseline
+77449	Profane	Little to None	None	random baseline
+158868	None	Little to None	Community	random baseline
+565434	Sexism	Little to None	Community	random baseline
+744307	Abusive	Little to None	Organization	random baseline
+648825	Abusive	Little to None	Individual	random baseline
+918300	None	Mild	Society	random baseline
+573225	Abusive	Severe	Community	random baseline
+627856	Sexism	Little to None	Individual	random baseline
+772659	Abusive	Mild	Community	random baseline
+776500	None	Mild	Individual	random baseline
+709524	None	Little to None	Community	random baseline
+321575	Abusive	Severe	Organization	random baseline
+137962	Political Hate	Severe	Society	random baseline
+542955	Sexism	Mild	None	random baseline
+413666	Political Hate	Severe	Organization	random baseline
+436247	None	Mild	Society	random baseline
+116299	Profane	Severe	None	random baseline
+764090	Abusive	Little to None	Individual	random baseline
+236100	Sexism	Mild	Individual	random baseline
+602786	Religious Hate	Little to None	Community	random baseline
+331368	None	Mild	Individual	random baseline
+281614	Sexism	Little to None	Community	random baseline
+60782	Abusive	Little to None	Individual	random baseline
+789968	Political Hate	Little to None	Individual	random baseline
+712671	Sexism	Severe	Society	random baseline
+859775	Sexism	Little to None	Community	random baseline
+652672	Profane	Little to None	Individual	random baseline
+482297	Sexism	Severe	Organization	random baseline
+831573	Sexism	Little to None	Organization	random baseline
+878250	Political Hate	Little to None	Individual	random baseline
+524161	Profane	Mild	Individual	random baseline
+740158	Political Hate	Mild	Individual	random baseline
+116408	None	Severe	Society	random baseline
+852595	None	Little to None	Society	random baseline
+6970	Abusive	Severe	Society	random baseline
+15185	Sexism	Little to None	None	random baseline
+104676	Religious Hate	Severe	None	random baseline
+514480	None	Mild	Community	random baseline
+190562	Sexism	Severe	None	random baseline
+236486	Religious Hate	Little to None	None	random baseline
+332051	None	Little to None	Society	random baseline
+324497	Profane	Little to None	None	random baseline
+616466	Religious Hate	Severe	Society	random baseline
+153952	Political Hate	Mild	Community	random baseline
+937715	None	Severe	Organization	random baseline
+408137	Abusive	Mild	Society	random baseline
+722171	Sexism	Little to None	Individual	random baseline
+187787	Profane	Severe	Society	random baseline
+833086	Political Hate	Mild	None	random baseline
+402586	None	Little to None	Organization	random baseline
+79900	Profane	Mild	None	random baseline
+455503	Sexism	Severe	None	random baseline
+662760	Religious Hate	Mild	Individual	random baseline
+145666	Sexism	Little to None	None	random baseline
+269395	Sexism	Severe	Society	random baseline
+855977	Abusive	Mild	Society	random baseline
+411862	Profane	Little to None	Organization	random baseline
+840865	Religious Hate	Mild	Organization	random baseline
+656131	Profane	Mild	Society	random baseline
+283203	Political Hate	Severe	Individual	random baseline
+635480	Abusive	Severe	Individual	random baseline
+929892	Political Hate	Severe	Organization	random baseline
+900226	Sexism	Mild	None	random baseline
+187748	Religious Hate	Little to None	Community	random baseline
+863939	Religious Hate	Severe	Society	random baseline
+562894	Abusive	Little to None	Individual	random baseline
+229250	Sexism	Severe	Community	random baseline
+258055	Religious Hate	Severe	Community	random baseline
+516568	Religious Hate	Mild	Individual	random baseline
+241001	Profane	Severe	Organization	random baseline
+738147	Profane	Mild	Individual	random baseline
+914834	Political Hate	Little to None	None	random baseline
+502930	Sexism	Severe	Organization	random baseline
+157805	Political Hate	Mild	Individual	random baseline
+182528	Political Hate	Little to None	Community	random baseline
+496305	Religious Hate	Little to None	Community	random baseline
+127441	Profane	Mild	Society	random baseline
+516994	Abusive	Little to None	Society	random baseline
+296128	None	Severe	Society	random baseline
+498286	Political Hate	Severe	Organization	random baseline
+882886	Political Hate	Severe	Community	random baseline
+654441	Abusive	Mild	Community	random baseline
+355409	Sexism	Mild	Society	random baseline
+526987	Abusive	Severe	Individual	random baseline
+166978	None	Severe	Society	random baseline
+17756	Political Hate	Mild	Organization	random baseline
+266720	None	Little to None	Individual	random baseline
+814729	Political Hate	Little to None	Society	random baseline
+622339	Profane	Mild	Society	random baseline
+735625	None	Severe	Society	random baseline
+202261	Profane	Mild	None	random baseline
+374523	None	Little to None	Organization	random baseline
+336668	Profane	Little to None	Society	random baseline
+548637	Political Hate	Little to None	Society	random baseline
+303416	Political Hate	Mild	Individual	random baseline
+564069	Sexism	Severe	None	random baseline
+796931	Political Hate	Severe	None	random baseline
+830985	Abusive	Little to None	Organization	random baseline
+492468	Abusive	Mild	Organization	random baseline
+251311	Political Hate	Little to None	None	random baseline
+842728	Sexism	Little to None	Community	random baseline
+124702	None	Mild	Society	random baseline
+891343	Sexism	Mild	Society	random baseline
+376956	None	Little to None	Organization	random baseline
+676134	Abusive	Little to None	Society	random baseline
+353841	Profane	Severe	None	random baseline
+669871	Political Hate	Severe	Community	random baseline
+720106	Profane	Little to None	Individual	random baseline
+551785	Profane	Mild	Society	random baseline
+31813	Profane	Severe	None	random baseline
+179141	Abusive	Mild	None	random baseline
+722850	Political Hate	Mild	None	random baseline
+111661	Religious Hate	Little to None	Individual	random baseline
+385980	Abusive	Little to None	Community	random baseline
+478200	Sexism	Severe	Community	random baseline
+627607	Profane	Little to None	Community	random baseline
+723418	Political Hate	Mild	Individual	random baseline
+121301	None	Little to None	Society	random baseline
+111742	Sexism	Severe	Society	random baseline
+448538	Political Hate	Mild	None	random baseline
+244405	None	Little to None	None	random baseline
+51703	Profane	Mild	None	random baseline
+276254	Abusive	Mild	Society	random baseline
+818115	Sexism	Little to None	None	random baseline
+839545	Religious Hate	Severe	Individual	random baseline
+500452	Political Hate	Little to None	Organization	random baseline
+100905	Sexism	Severe	Society	random baseline
+10100	Religious Hate	Severe	None	random baseline
+17326	Sexism	Little to None	None	random baseline
+802542	Profane	Mild	Society	random baseline
+405562	Political Hate	Mild	Organization	random baseline
+297210	Political Hate	Little to None	Individual	random baseline
+633450	Profane	Severe	Community	random baseline
+24947	Political Hate	Little to None	None	random baseline
+827247	Religious Hate	Severe	Community	random baseline
+91001	None	Severe	Community	random baseline
+797577	Profane	Mild	Community	random baseline
+203064	None	Little to None	Community	random baseline
+437031	Political Hate	Severe	Society	random baseline
+76338	None	Little to None	Organization	random baseline
+28529	Political Hate	Severe	Organization	random baseline
+416581	Religious Hate	Mild	Organization	random baseline
+326992	None	Little to None	Society	random baseline
+294318	Sexism	Mild	Individual	random baseline
+24010	Religious Hate	Little to None	Organization	random baseline
+391690	Sexism	Little to None	Community	random baseline
+898471	Religious Hate	Mild	Organization	random baseline
+139015	None	Little to None	Individual	random baseline
+629277	Abusive	Severe	Community	random baseline
+249523	Profane	Severe	Individual	random baseline
+480655	None	Mild	Society	random baseline
+923143	Political Hate	Mild	None	random baseline
+574020	Political Hate	Severe	None	random baseline
+498850	Religious Hate	Little to None	Individual	random baseline
+858529	Sexism	Little to None	Individual	random baseline
+916168	Profane	Severe	Society	random baseline
+547040	Religious Hate	Mild	Society	random baseline
+465291	Abusive	Little to None	None	random baseline
+571806	Abusive	Little to None	Organization	random baseline
+569300	Political Hate	Severe	Society	random baseline
+499970	Abusive	Little to None	Community	random baseline
+447242	Religious Hate	Mild	Society	random baseline
+184864	Abusive	Mild	Society	random baseline
+463779	Profane	Severe	Individual	random baseline
+733792	None	Severe	Community	random baseline
+687387	None	Little to None	None	random baseline
+363410	Religious Hate	Severe	Organization	random baseline
+613123	Political Hate	Severe	Individual	random baseline
+202791	Profane	Mild	None	random baseline
+635751	Abusive	Mild	Organization	random baseline
+608506	Sexism	Little to None	Society	random baseline
+17576	Abusive	Mild	Society	random baseline
+230291	None	Mild	Individual	random baseline
+382243	Political Hate	Mild	Society	random baseline
+549845	Political Hate	Severe	Organization	random baseline
+201772	Religious Hate	Little to None	Society	random baseline
+326030	Sexism	Mild	Community	random baseline
+604410	Profane	Severe	Community	random baseline
+32709	Religious Hate	Mild	Society	random baseline
+229330	Political Hate	Mild	Organization	random baseline
+131732	Political Hate	Severe	Community	random baseline
+10683	Political Hate	Little to None	Society	random baseline
+364807	Abusive	Severe	None	random baseline
+934121	Profane	Mild	Society	random baseline
+315440	Sexism	Severe	None	random baseline
+840059	Sexism	Severe	Society	random baseline
+195161	None	Mild	Organization	random baseline
+157090	None	Little to None	Society	random baseline
+653468	Sexism	Mild	Community	random baseline
+377827	Abusive	Mild	Community	random baseline
+588597	Sexism	Little to None	None	random baseline
+200076	Sexism	Mild	None	random baseline
+266411	Abusive	Mild	None	random baseline
+346398	Abusive	Mild	Community	random baseline
+825712	None	Little to None	Society	random baseline
+693484	Profane	Little to None	Organization	random baseline
+109964	Political Hate	Mild	Community	random baseline
+304021	Sexism	Little to None	Society	random baseline
+265907	Sexism	Severe	Society	random baseline
+781953	Political Hate	Little to None	Organization	random baseline
+697858	None	Severe	Individual	random baseline
+476327	None	Severe	Individual	random baseline
+927901	Political Hate	Severe	Community	random baseline
+837639	None	Little to None	Society	random baseline
+492990	Political Hate	Little to None	Organization	random baseline
+360379	Abusive	Severe	Individual	random baseline
+618518	Abusive	Mild	Community	random baseline
+649931	Abusive	Mild	None	random baseline
+175496	Religious Hate	Little to None	Organization	random baseline
+422178	Profane	Little to None	None	random baseline
+763331	Abusive	Mild	None	random baseline
+463514	None	Little to None	Individual	random baseline
+452271	Abusive	Mild	Community	random baseline
+255091	Sexism	Little to None	Individual	random baseline
+639406	Abusive	Severe	Community	random baseline
+617882	Political Hate	Mild	Society	random baseline
+424539	Profane	Mild	Society	random baseline
+534382	None	Severe	None	random baseline
+656382	Political Hate	Little to None	Community	random baseline
+523467	Profane	Severe	Society	random baseline
+678646	Sexism	Little to None	None	random baseline
+13863	Abusive	Severe	Society	random baseline
+345913	Sexism	Little to None	Society	random baseline
+670277	Religious Hate	Severe	Society	random baseline
+759098	Sexism	Mild	Society	random baseline
+174859	Sexism	Mild	Society	random baseline
+81340	Abusive	Little to None	Individual	random baseline
+922743	Sexism	Severe	Individual	random baseline
+105579	Abusive	Little to None	Individual	random baseline
+819932	Sexism	Severe	Individual	random baseline
+724622	Abusive	Severe	Organization	random baseline
+8040	Profane	Mild	Society	random baseline
+661589	Political Hate	Mild	Society	random baseline
+25308	Profane	Mild	Organization	random baseline
+479411	Religious Hate	Mild	Society	random baseline
+104723	Political Hate	Mild	Society	random baseline
+804467	Abusive	Little to None	None	random baseline
+164017	Profane	Mild	Organization	random baseline
+228242	Religious Hate	Severe	Individual	random baseline
+668562	Religious Hate	Severe	Individual	random baseline
+900643	Political Hate	Mild	Society	random baseline
+171741	Political Hate	Severe	Individual	random baseline
+596654	Sexism	Little to None	None	random baseline
+294586	Religious Hate	Mild	Society	random baseline
+118070	Religious Hate	Mild	Society	random baseline
+643819	Political Hate	Severe	Community	random baseline
+316098	Profane	Little to None	Society	random baseline
+483088	Political Hate	Little to None	Individual	random baseline
+803231	Religious Hate	Little to None	Organization	random baseline
+798743	Religious Hate	Little to None	Individual	random baseline
+292802	None	Little to None	Community	random baseline
+130898	Sexism	Severe	Individual	random baseline
+656615	Sexism	Severe	Community	random baseline
+369848	Sexism	Little to None	None	random baseline
+42763	Abusive	Mild	Individual	random baseline
+198700	Profane	Little to None	Community	random baseline
+147433	Political Hate	Little to None	Society	random baseline
+112969	Sexism	Severe	Community	random baseline
+365334	Sexism	Severe	Society	random baseline
+334533	None	Little to None	None	random baseline
+45513	Abusive	Severe	None	random baseline
+194291	Political Hate	Severe	Society	random baseline
+242147	None	Severe	None	random baseline
+543843	None	Mild	Individual	random baseline
+765276	Political Hate	Mild	None	random baseline
+104725	Abusive	Mild	Society	random baseline
+618757	Sexism	Severe	None	random baseline
+181782	Profane	Severe	Community	random baseline
+914164	Abusive	Severe	Society	random baseline
+822076	Political Hate	Severe	Society	random baseline
+599831	Sexism	Little to None	Community	random baseline
+703814	Sexism	Severe	Community	random baseline
+871608	Sexism	Mild	Society	random baseline
+139975	None	Little to None	Individual	random baseline
+368136	Abusive	Mild	None	random baseline
+809802	Profane	Severe	Community	random baseline
+568236	Profane	Severe	Society	random baseline
+642774	Political Hate	Little to None	Community	random baseline
+553115	Political Hate	Mild	Individual	random baseline
+147246	None	Little to None	Society	random baseline
+871806	None	Little to None	Community	random baseline
+906009	Sexism	Little to None	None	random baseline
+604767	Sexism	Mild	Society	random baseline
+98991	Abusive	Little to None	Organization	random baseline
+491918	Political Hate	Little to None	None	random baseline
+398790	Political Hate	Little to None	Individual	random baseline
+350726	Abusive	Severe	Community	random baseline
+175253	None	Severe	Organization	random baseline
+29355	Sexism	Little to None	Organization	random baseline
+93250	None	Mild	None	random baseline
+19886	Abusive	Mild	Organization	random baseline
+445227	Sexism	Little to None	None	random baseline
+853191	None	Severe	Community	random baseline
+679355	Religious Hate	Little to None	Individual	random baseline
+782445	Religious Hate	Little to None	None	random baseline
+907865	Religious Hate	Little to None	Organization	random baseline
+330279	Political Hate	Severe	Community	random baseline
+79692	None	Severe	Organization	random baseline
+482416	Political Hate	Mild	Individual	random baseline
+316930	Political Hate	Little to None	None	random baseline
+389198	Profane	Little to None	Community	random baseline
+383466	Profane	Severe	Organization	random baseline
+726414	Abusive	Severe	None	random baseline
+511782	Abusive	Little to None	Community	random baseline
+319242	None	Mild	Community	random baseline
+908647	Profane	Mild	Organization	random baseline
+462082	Political Hate	Mild	Community	random baseline
+471029	Political Hate	Little to None	Individual	random baseline
+825212	None	Severe	Society	random baseline
+655469	Abusive	Severe	Community	random baseline
+162768	Abusive	Little to None	Individual	random baseline
+213891	Sexism	Severe	Society	random baseline
+189626	Sexism	Little to None	Organization	random baseline
+618775	None	Mild	Society	random baseline
+467524	Political Hate	Severe	Organization	random baseline
+833010	Sexism	Mild	Individual	random baseline
+437027	Abusive	Severe	Community	random baseline
+751682	Political Hate	Severe	Community	random baseline
+394778	Political Hate	Mild	Organization	random baseline
+462766	Political Hate	Mild	None	random baseline
+464908	None	Little to None	Organization	random baseline
+551029	Political Hate	Mild	Organization	random baseline
+930583	Religious Hate	Severe	Organization	random baseline
+127354	Political Hate	Severe	None	random baseline
+474903	None	Little to None	Society	random baseline
+154285	Sexism	Severe	None	random baseline
+516498	None	Little to None	None	random baseline
+211955	Abusive	Mild	Community	random baseline
+542234	Religious Hate	Little to None	None	random baseline
+376628	Political Hate	Severe	Society	random baseline
+700225	Profane	Severe	Society	random baseline
+786647	Profane	Little to None	Community	random baseline
+257576	Abusive	Mild	Community	random baseline
+758485	None	Severe	Community	random baseline
+99453	Sexism	Little to None	Community	random baseline
+915727	Sexism	Little to None	Organization	random baseline
+376246	Profane	Severe	Community	random baseline
+373071	Profane	Little to None	Society	random baseline
+470824	Profane	Little to None	Community	random baseline
+178420	Sexism	Little to None	Society	random baseline
+217557	Profane	Little to None	None	random baseline
+191400	Abusive	Mild	Organization	random baseline
+517200	Political Hate	Severe	Community	random baseline
+653544	Religious Hate	Severe	Organization	random baseline
+70411	None	Little to None	Individual	random baseline
+149905	Sexism	Severe	Organization	random baseline
+153918	Religious Hate	Mild	Community	random baseline
+723635	Sexism	Little to None	Society	random baseline
+666300	Profane	Mild	Individual	random baseline
+323812	Profane	Severe	None	random baseline
+9604	Political Hate	Severe	Individual	random baseline
+770780	None	Mild	Individual	random baseline
+271658	Abusive	Mild	Community	random baseline
+882647	Abusive	Severe	Individual	random baseline
+551920	Profane	Little to None	Society	random baseline
+583947	Religious Hate	Mild	None	random baseline
+820628	Religious Hate	Little to None	Organization	random baseline
+277192	Abusive	Severe	Society	random baseline
+897906	Abusive	Severe	Organization	random baseline
+249214	None	Severe	Individual	random baseline
+893683	None	Little to None	Individual	random baseline
+4464	Religious Hate	Mild	None	random baseline
+9468	Political Hate	Severe	Society	random baseline
+377406	Religious Hate	Severe	Organization	random baseline
+560474	Profane	Severe	Individual	random baseline
+486586	None	Severe	None	random baseline
+521490	Sexism	Mild	Organization	random baseline
+5279	Abusive	Little to None	Individual	random baseline
+42496	Profane	Severe	Individual	random baseline
+13705	Political Hate	Severe	Society	random baseline
+326556	Abusive	Severe	Organization	random baseline
+517143	Abusive	Severe	Individual	random baseline
+663202	Political Hate	Little to None	None	random baseline
+17476	None	Severe	Society	random baseline
+422364	Abusive	Mild	None	random baseline
+319609	Religious Hate	Mild	None	random baseline
+934595	Sexism	Severe	Society	random baseline
+283893	Abusive	Mild	Individual	random baseline
+105406	Profane	Little to None	None	random baseline
+454062	Religious Hate	Severe	Society	random baseline
+685691	Sexism	Mild	Community	random baseline
+671240	Sexism	Little to None	Individual	random baseline
+323990	Political Hate	Mild	Community	random baseline
+464804	Sexism	Little to None	Individual	random baseline
+126109	Religious Hate	Little to None	None	random baseline
+599618	Profane	Little to None	Community	random baseline
+517229	Abusive	Mild	None	random baseline
+212493	Political Hate	Severe	Society	random baseline
+395279	Profane	Severe	Society	random baseline
+802441	None	Severe	Community	random baseline
+372446	Political Hate	Severe	Community	random baseline
+131053	Religious Hate	Severe	Organization	random baseline
+927153	Profane	Severe	Individual	random baseline
+382647	Abusive	Mild	Community	random baseline
+739909	Religious Hate	Mild	Society	random baseline
+196365	Political Hate	Little to None	None	random baseline
+725545	Political Hate	Little to None	Community	random baseline
+742737	Religious Hate	Severe	Individual	random baseline
+324922	Profane	Mild	Organization	random baseline
+687465	Sexism	Mild	Individual	random baseline
+127196	Abusive	Little to None	Individual	random baseline
+156582	None	Severe	Individual	random baseline
+736072	Political Hate	Mild	None	random baseline
+367939	Political Hate	Little to None	Organization	random baseline
+227990	Profane	Severe	Society	random baseline
+491013	Political Hate	Little to None	Society	random baseline
+331079	Abusive	Severe	Organization	random baseline
+22603	Profane	Mild	Organization	random baseline
+142732	Abusive	Severe	Society	random baseline
+503395	Abusive	Mild	Organization	random baseline
+97888	None	Severe	None	random baseline
+107987	Abusive	Little to None	Individual	random baseline
+538964	Abusive	Severe	Society	random baseline
+516815	Political Hate	Mild	Community	random baseline
+675200	None	Mild	Organization	random baseline
+922846	Religious Hate	Mild	Society	random baseline
+206055	Sexism	Severe	Society	random baseline
+580711	Profane	Severe	Organization	random baseline
+433603	Abusive	Severe	Community	random baseline
+913918	Profane	Mild	Individual	random baseline
+681581	Religious Hate	Mild	Community	random baseline
+584423	Abusive	Severe	Community	random baseline
+81260	None	Little to None	Community	random baseline
+736221	Abusive	Little to None	Community	random baseline
+623514	Religious Hate	Little to None	Individual	random baseline
+370581	None	Mild	None	random baseline
+192811	Religious Hate	Mild	None	random baseline
+217208	Sexism	Severe	None	random baseline
+889961	Profane	Mild	Individual	random baseline
+178079	Profane	Mild	Society	random baseline
+90439	Abusive	Mild	Society	random baseline
+178971	Religious Hate	Severe	Society	random baseline
+22665	Religious Hate	Severe	Community	random baseline
+899276	None	Little to None	Society	random baseline
+310071	Political Hate	Mild	Community	random baseline
+360030	Political Hate	Mild	Organization	random baseline
+77977	Religious Hate	Mild	Individual	random baseline
+830214	Abusive	Little to None	Organization	random baseline
+38886	None	Mild	Individual	random baseline
+105862	Profane	Mild	Community	random baseline
+702732	Profane	Mild	None	random baseline
+938497	Sexism	Mild	Community	random baseline
+213252	Political Hate	Mild	Organization	random baseline
+457833	Political Hate	Little to None	Society	random baseline
+816803	Profane	Severe	Society	random baseline
+299704	None	Severe	Individual	random baseline
+803472	Profane	Mild	Organization	random baseline
+753215	None	Little to None	Community	random baseline
+542741	Profane	Little to None	Organization	random baseline
+836974	Religious Hate	Mild	Individual	random baseline
+691680	Profane	Little to None	Individual	random baseline
+846299	Abusive	Little to None	None	random baseline
+433275	Political Hate	Little to None	Individual	random baseline
+756273	Political Hate	Severe	Society	random baseline
+740920	None	Little to None	Organization	random baseline
+43626	Sexism	Severe	Individual	random baseline
+267060	Profane	Mild	Organization	random baseline
+457841	Profane	Severe	None	random baseline
+875925	Political Hate	Little to None	Society	random baseline
+707304	None	Severe	Organization	random baseline
+305585	Sexism	Mild	Community	random baseline
+677304	Political Hate	Mild	Organization	random baseline
+402761	Abusive	Little to None	Individual	random baseline
+142035	Political Hate	Mild	Organization	random baseline
+322005	Abusive	Severe	None	random baseline
+49390	Political Hate	Little to None	Society	random baseline
+707302	None	Mild	Community	random baseline
+333125	None	Little to None	None	random baseline
+416891	Abusive	Mild	Society	random baseline
+781755	None	Severe	Organization	random baseline
+372629	Abusive	Little to None	Organization	random baseline
+746812	Religious Hate	Mild	None	random baseline
+661051	Political Hate	Little to None	Society	random baseline
+223473	None	Severe	None	random baseline
+366446	None	Mild	None	random baseline
+439019	None	Little to None	Individual	random baseline
+89017	Sexism	Little to None	Community	random baseline
+833385	Political Hate	Little to None	Organization	random baseline
+701974	Abusive	Mild	Society	random baseline
+532046	Religious Hate	Little to None	Community	random baseline
+524121	Profane	Severe	Organization	random baseline
+73484	Religious Hate	Mild	Society	random baseline
+41759	Profane	Mild	Organization	random baseline
+556898	Abusive	Severe	Society	random baseline
+74071	Abusive	Mild	Community	random baseline
+664811	Profane	Mild	Society	random baseline
+596155	Profane	Little to None	Community	random baseline
+861670	Religious Hate	Severe	Society	random baseline
+557487	Political Hate	Little to None	Community	random baseline
+475743	None	Mild	Community	random baseline
+708802	Profane	Little to None	None	random baseline
+510655	Abusive	Severe	Individual	random baseline
+345029	Political Hate	Little to None	Society	random baseline
+853057	Political Hate	Mild	Community	random baseline
+242665	Profane	Severe	Community	random baseline
+823119	Sexism	Mild	Community	random baseline
+608926	Profane	Little to None	Society	random baseline
+480932	Profane	Severe	Community	random baseline
+641524	None	Little to None	Community	random baseline
+571911	Profane	Severe	Organization	random baseline
+787716	Abusive	Little to None	Community	random baseline
+265020	Sexism	Mild	Individual	random baseline
+303183	Sexism	Mild	Society	random baseline
+352571	Abusive	Mild	Organization	random baseline
+263134	None	Severe	Individual	random baseline
+611932	Abusive	Severe	None	random baseline
+868718	Sexism	Little to None	Community	random baseline
+503912	Profane	Severe	None	random baseline
+844107	Profane	Severe	Society	random baseline
+361784	None	Mild	Society	random baseline
+707013	Profane	Little to None	Society	random baseline
+540056	Profane	Mild	None	random baseline
+835721	Abusive	Mild	Organization	random baseline
+235755	Religious Hate	Severe	Society	random baseline
+667776	None	Little to None	Society	random baseline
+649091	None	Little to None	Society	random baseline
+770663	Abusive	Little to None	Community	random baseline
+449984	Profane	Little to None	Individual	random baseline
+832298	Religious Hate	Severe	Community	random baseline
+659157	Sexism	Little to None	Individual	random baseline
+271809	Abusive	Severe	Community	random baseline
+806432	Religious Hate	Mild	Society	random baseline
+137318	Abusive	Severe	Individual	random baseline
+153306	Sexism	Little to None	Individual	random baseline
+38470	Profane	Mild	Community	random baseline
+431582	Abusive	Severe	None	random baseline
+717164	Religious Hate	Mild	Individual	random baseline
+580143	Religious Hate	Severe	Society	random baseline
+49990	Profane	Little to None	Community	random baseline
+845881	Profane	Severe	Community	random baseline
+28237	None	Mild	Community	random baseline
+448410	Sexism	Little to None	Individual	random baseline
+392869	Abusive	Severe	None	random baseline
+427357	Sexism	Severe	Organization	random baseline
+803479	Abusive	Little to None	Individual	random baseline
+758098	Sexism	Mild	Community	random baseline
+120841	Profane	Little to None	Organization	random baseline
+801244	None	Severe	Community	random baseline
+925289	Profane	Severe	Individual	random baseline
+777026	Abusive	Little to None	Society	random baseline
+7401	Political Hate	Severe	None	random baseline
+766209	None	Severe	Society	random baseline
+146616	None	Severe	Community	random baseline
+449920	Political Hate	Severe	None	random baseline
+395149	Religious Hate	Little to None	None	random baseline
+783461	Political Hate	Mild	Community	random baseline
+323363	Religious Hate	Little to None	Individual	random baseline
+857583	Profane	Mild	Individual	random baseline
+535131	Sexism	Little to None	Society	random baseline
+449455	Sexism	Severe	None	random baseline
+530188	Profane	Mild	Society	random baseline
+841983	Sexism	Little to None	Individual	random baseline
+863107	Abusive	Mild	Organization	random baseline
+441302	Profane	Little to None	Community	random baseline
+398777	None	Little to None	Organization	random baseline
+756172	Profane	Mild	Community	random baseline
+706050	Profane	Severe	Organization	random baseline
+514434	Political Hate	Little to None	None	random baseline
+513361	Political Hate	Severe	None	random baseline
+516223	Abusive	Little to None	Society	random baseline
+31791	Profane	Mild	Society	random baseline
+143438	Sexism	Little to None	Community	random baseline
+799188	Profane	Little to None	Society	random baseline
+336449	Religious Hate	Little to None	Organization	random baseline
+767986	Sexism	Severe	Community	random baseline
+694508	Profane	Little to None	Society	random baseline
+186493	Political Hate	Little to None	Individual	random baseline
+104882	Religious Hate	Little to None	None	random baseline
+280325	Sexism	Little to None	Society	random baseline
+366514	Religious Hate	Mild	Organization	random baseline
+566626	Political Hate	Mild	Society	random baseline
+274439	Profane	Mild	Community	random baseline
+775968	Political Hate	Severe	Society	random baseline
+665640	Political Hate	Severe	Society	random baseline
+922707	Political Hate	Mild	None	random baseline
+131971	Abusive	Mild	Society	random baseline
+467462	Sexism	Little to None	Society	random baseline
+392346	Religious Hate	Little to None	None	random baseline
+14129	Political Hate	Mild	Individual	random baseline
+727009	Sexism	Mild	Society	random baseline
+202951	Sexism	Mild	None	random baseline
+511558	None	Little to None	Community	random baseline
+396493	Political Hate	Mild	Organization	random baseline
+675473	Political Hate	Severe	Society	random baseline
+487864	None	Severe	Organization	random baseline
+345179	Political Hate	Little to None	Community	random baseline
+714384	Profane	Mild	Organization	random baseline
+378869	None	Little to None	None	random baseline
+91557	None	Little to None	Organization	random baseline
+401006	Religious Hate	Severe	Organization	random baseline
+426265	Abusive	Mild	None	random baseline
+623520	Profane	Mild	Organization	random baseline
+589727	Religious Hate	Little to None	Community	random baseline

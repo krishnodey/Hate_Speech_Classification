@@ -1,0 +1,838 @@
+id	hate_type	hate_severity	to_whom	model
+879187	None	Little to None	None	randomforest
+316919	Profane	Severe	Organization	randomforest
+916242	None	Little to None	None	randomforest
+786824	None	Little to None	None	randomforest
+47284	None	Little to None	None	randomforest
+51359	None	Little to None	None	randomforest
+327639	None	Little to None	None	randomforest
+925152	Abusive	Severe	Individual	randomforest
+432602	None	Little to None	None	randomforest
+540917	None	Little to None	None	randomforest
+259015	None	Little to None	None	randomforest
+119485	None	Little to None	None	randomforest
+629565	None	Little to None	None	randomforest
+223268	None	Little to None	None	randomforest
+91157	Political Hate	Mild	Organization	randomforest
+123076	Abusive	Little to None	None	randomforest
+301408	None	Little to None	None	randomforest
+153221	None	Little to None	None	randomforest
+713730	Abusive	Severe	Individual	randomforest
+104093	Political Hate	Mild	Organization	randomforest
+284969	None	Little to None	None	randomforest
+154146	None	Little to None	None	randomforest
+903474	None	Little to None	None	randomforest
+310847	Abusive	Little to None	None	randomforest
+618320	None	Little to None	None	randomforest
+219771	None	Little to None	None	randomforest
+137796	None	Little to None	None	randomforest
+557214	None	Little to None	None	randomforest
+639414	Abusive	Mild	Organization	randomforest
+499556	Abusive	Little to None	None	randomforest
+874903	None	Little to None	None	randomforest
+242561	None	Little to None	None	randomforest
+170696	None	Little to None	None	randomforest
+400293	Abusive	Mild	Organization	randomforest
+345498	None	Little to None	None	randomforest
+682342	None	Little to None	None	randomforest
+103754	Abusive	Severe	Individual	randomforest
+763773	Abusive	Little to None	Individual	randomforest
+366364	None	Little to None	None	randomforest
+748942	None	Little to None	None	randomforest
+108952	None	Little to None	None	randomforest
+852650	None	Little to None	None	randomforest
+638113	None	Little to None	None	randomforest
+788538	None	Little to None	None	randomforest
+677410	Abusive	Little to None	None	randomforest
+194546	None	Little to None	None	randomforest
+645529	Political Hate	Little to None	Organization	randomforest
+924142	None	Little to None	None	randomforest
+69380	Political Hate	Little to None	Organization	randomforest
+748478	None	Little to None	None	randomforest
+645018	None	Little to None	None	randomforest
+295794	None	Little to None	None	randomforest
+63426	None	Little to None	None	randomforest
+63116	None	Little to None	None	randomforest
+551400	None	Little to None	None	randomforest
+835607	Abusive	Little to None	None	randomforest
+103869	Political Hate	Little to None	Community	randomforest
+562502	Abusive	Mild	Organization	randomforest
+472928	None	Little to None	None	randomforest
+319508	None	Little to None	None	randomforest
+545961	None	Little to None	None	randomforest
+698843	None	Little to None	Individual	randomforest
+590762	None	Little to None	None	randomforest
+878482	None	Little to None	None	randomforest
+451314	Profane	Severe	Individual	randomforest
+88129	Political Hate	Severe	Organization	randomforest
+189525	Abusive	Severe	Individual	randomforest
+379097	None	Severe	None	randomforest
+864667	Abusive	Mild	Organization	randomforest
+780940	None	Little to None	None	randomforest
+577465	None	Little to None	None	randomforest
+201744	None	Little to None	None	randomforest
+5641	None	Little to None	None	randomforest
+110529	Political Hate	Little to None	Organization	randomforest
+732060	None	Little to None	None	randomforest
+899521	None	Little to None	None	randomforest
+217414	None	Little to None	None	randomforest
+364331	None	Little to None	Organization	randomforest
+220584	None	Little to None	None	randomforest
+521448	None	Little to None	None	randomforest
+235213	None	Little to None	None	randomforest
+288321	None	Little to None	None	randomforest
+444659	None	Little to None	None	randomforest
+288470	None	Little to None	Organization	randomforest
+602580	None	Little to None	None	randomforest
+505064	None	Little to None	None	randomforest
+220958	None	Little to None	None	randomforest
+208873	None	Little to None	None	randomforest
+905717	Abusive	Little to None	None	randomforest
+753381	None	Little to None	None	randomforest
+189967	None	Mild	Individual	randomforest
+55334	None	Little to None	None	randomforest
+585271	None	Little to None	None	randomforest
+284428	Political Hate	Little to None	None	randomforest
+333828	None	Little to None	None	randomforest
+268077	Political Hate	Mild	Organization	randomforest
+791784	None	Little to None	None	randomforest
+29385	None	Little to None	Individual	randomforest
+721154	None	Little to None	None	randomforest
+53445	Political Hate	Mild	Individual	randomforest
+849367	None	Little to None	None	randomforest
+776247	None	Little to None	None	randomforest
+194347	None	Little to None	None	randomforest
+875084	None	Little to None	None	randomforest
+429185	Political Hate	Little to None	None	randomforest
+869559	None	Little to None	None	randomforest
+551711	Abusive	Little to None	Individual	randomforest
+459530	None	Little to None	None	randomforest
+371844	None	Little to None	None	randomforest
+678759	None	Little to None	None	randomforest
+928871	None	Little to None	None	randomforest
+938337	None	Little to None	None	randomforest
+486005	None	Little to None	None	randomforest
+739268	None	Little to None	None	randomforest
+256855	None	Little to None	None	randomforest
+57158	None	Mild	None	randomforest
+492274	None	Little to None	None	randomforest
+177187	None	Little to None	None	randomforest
+323380	None	Little to None	None	randomforest
+736173	Abusive	Severe	Organization	randomforest
+655076	Abusive	Mild	None	randomforest
+636680	None	Little to None	None	randomforest
+319075	None	Little to None	None	randomforest
+183674	Abusive	Mild	Organization	randomforest
+556548	None	Little to None	None	randomforest
+268230	None	Little to None	None	randomforest
+732875	Profane	Severe	Individual	randomforest
+212780	None	Little to None	None	randomforest
+915594	None	Little to None	None	randomforest
+187124	None	Little to None	None	randomforest
+376637	Abusive	Little to None	Society	randomforest
+237536	None	Little to None	None	randomforest
+727320	None	Little to None	None	randomforest
+62305	None	Little to None	None	randomforest
+518275	None	Little to None	None	randomforest
+190205	Abusive	Mild	Individual	randomforest
+682947	Political Hate	Little to None	Organization	randomforest
+843536	None	Little to None	None	randomforest
+298286	Political Hate	Mild	Organization	randomforest
+260368	None	Little to None	None	randomforest
+109120	None	Little to None	None	randomforest
+732085	Political Hate	Little to None	None	randomforest
+587177	None	Little to None	None	randomforest
+219166	Abusive	Little to None	None	randomforest
+712397	None	Little to None	None	randomforest
+744608	None	Little to None	None	randomforest
+839392	None	Little to None	None	randomforest
+567799	None	Mild	Organization	randomforest
+357344	Abusive	Mild	Organization	randomforest
+646789	Political Hate	Little to None	None	randomforest
+144730	None	Little to None	None	randomforest
+606121	None	Little to None	None	randomforest
+663589	None	Little to None	Organization	randomforest
+175058	None	Little to None	None	randomforest
+602882	None	Little to None	None	randomforest
+865744	None	Little to None	None	randomforest
+15148	None	Little to None	None	randomforest
+714172	None	Little to None	None	randomforest
+919656	Abusive	Little to None	Individual	randomforest
+641435	None	Little to None	None	randomforest
+542675	None	Severe	None	randomforest
+97962	None	Little to None	None	randomforest
+35543	None	Little to None	None	randomforest
+249438	None	Little to None	None	randomforest
+45817	Abusive	Severe	None	randomforest
+846205	Abusive	Little to None	Individual	randomforest
+684720	None	Little to None	None	randomforest
+659930	None	Little to None	None	randomforest
+446120	None	Little to None	None	randomforest
+315323	None	Little to None	None	randomforest
+533231	None	Little to None	None	randomforest
+103313	None	Little to None	None	randomforest
+484049	Political Hate	Mild	Organization	randomforest
+258145	None	Little to None	None	randomforest
+255461	None	Little to None	None	randomforest
+582412	None	Little to None	None	randomforest
+541719	Abusive	Little to None	Individual	randomforest
+400986	None	Little to None	None	randomforest
+547162	Political Hate	Mild	Organization	randomforest
+444235	None	Little to None	None	randomforest
+349790	Abusive	Little to None	None	randomforest
+1698	None	Little to None	None	randomforest
+733055	None	Little to None	None	randomforest
+358186	None	Little to None	None	randomforest
+272026	None	Little to None	None	randomforest
+843498	None	Little to None	None	randomforest
+903157	Profane	Severe	Community	randomforest
+869323	None	Little to None	None	randomforest
+314731	None	Little to None	None	randomforest
+923983	Abusive	Little to None	None	randomforest
+467220	Abusive	Little to None	None	randomforest
+203763	Abusive	Severe	Individual	randomforest
+254343	None	Little to None	None	randomforest
+753995	Abusive	Little to None	None	randomforest
+577269	None	Little to None	None	randomforest
+140440	None	Little to None	None	randomforest
+327128	None	Little to None	None	randomforest
+742109	None	Little to None	None	randomforest
+339941	None	Little to None	None	randomforest
+648055	None	Little to None	None	randomforest
+271686	None	Little to None	None	randomforest
+167523	Abusive	Severe	None	randomforest
+565237	None	Little to None	None	randomforest
+326583	None	Little to None	None	randomforest
+521049	None	Little to None	None	randomforest
+635150	None	Little to None	None	randomforest
+667038	None	Little to None	None	randomforest
+533234	Abusive	Little to None	Community	randomforest
+49935	None	Little to None	None	randomforest
+132749	None	Little to None	None	randomforest
+526931	None	Little to None	None	randomforest
+120887	None	Little to None	None	randomforest
+148965	Abusive	Little to None	Community	randomforest
+785355	None	Little to None	None	randomforest
+904080	None	Little to None	None	randomforest
+242296	None	Little to None	None	randomforest
+505804	None	Little to None	None	randomforest
+28164	None	Little to None	None	randomforest
+287563	Abusive	Little to None	Individual	randomforest
+866300	None	Little to None	None	randomforest
+846915	None	Little to None	None	randomforest
+363471	None	Little to None	None	randomforest
+376108	None	Little to None	None	randomforest
+725247	None	Little to None	None	randomforest
+917058	Abusive	Little to None	Individual	randomforest
+936170	Abusive	Little to None	None	randomforest
+632147	None	Little to None	None	randomforest
+71795	None	Little to None	None	randomforest
+886268	None	Little to None	None	randomforest
+22299	None	Little to None	None	randomforest
+727182	None	Little to None	None	randomforest
+565081	None	Little to None	None	randomforest
+599305	None	Little to None	None	randomforest
+443980	None	Little to None	None	randomforest
+765765	None	Little to None	None	randomforest
+473418	None	Little to None	None	randomforest
+544646	None	Little to None	None	randomforest
+351344	Abusive	Mild	Organization	randomforest
+697214	None	Little to None	None	randomforest
+371187	None	Little to None	None	randomforest
+121250	None	Little to None	None	randomforest
+20874	None	Little to None	None	randomforest
+850266	None	Little to None	None	randomforest
+439950	None	Little to None	None	randomforest
+427668	None	Little to None	None	randomforest
+60444	None	Little to None	None	randomforest
+659301	None	Little to None	None	randomforest
+592983	None	Little to None	None	randomforest
+827694	None	Little to None	None	randomforest
+566134	None	Little to None	None	randomforest
+355167	None	Little to None	None	randomforest
+350908	None	Little to None	None	randomforest
+332323	None	Little to None	None	randomforest
+454987	None	Little to None	None	randomforest
+170966	None	Little to None	None	randomforest
+56299	None	Mild	None	randomforest
+53232	None	Little to None	Organization	randomforest
+649211	None	Little to None	None	randomforest
+390308	None	Little to None	None	randomforest
+488779	None	Little to None	None	randomforest
+215984	None	Little to None	None	randomforest
+628026	None	Little to None	Individual	randomforest
+368087	None	Little to None	None	randomforest
+875776	Abusive	Little to None	None	randomforest
+831832	None	Little to None	None	randomforest
+569593	None	Little to None	None	randomforest
+469197	None	Little to None	None	randomforest
+390574	None	Little to None	None	randomforest
+436078	None	Little to None	None	randomforest
+72621	None	Little to None	None	randomforest
+265323	None	Little to None	None	randomforest
+476101	Abusive	Mild	None	randomforest
+104541	None	Little to None	None	randomforest
+446025	None	Little to None	None	randomforest
+731432	None	Little to None	None	randomforest
+162796	None	Little to None	None	randomforest
+120013	None	Little to None	None	randomforest
+836767	None	Little to None	None	randomforest
+843079	None	Little to None	None	randomforest
+97007	None	Little to None	None	randomforest
+328435	None	Little to None	None	randomforest
+779718	None	Little to None	None	randomforest
+419606	None	Little to None	None	randomforest
+920869	None	Little to None	None	randomforest
+664800	None	Little to None	None	randomforest
+98071	None	Little to None	None	randomforest
+842810	None	Little to None	None	randomforest
+19398	None	Little to None	None	randomforest
+564701	Political Hate	Severe	Individual	randomforest
+573270	None	Little to None	None	randomforest
+593127	Political Hate	Little to None	None	randomforest
+102435	None	Little to None	None	randomforest
+256050	None	Little to None	None	randomforest
+81593	None	Little to None	None	randomforest
+632323	Abusive	Mild	Organization	randomforest
+825656	None	Little to None	None	randomforest
+566899	None	Little to None	None	randomforest
+510731	None	Little to None	None	randomforest
+384979	None	Little to None	None	randomforest
+144849	None	Little to None	None	randomforest
+79787	Abusive	Mild	None	randomforest
+910730	None	Little to None	None	randomforest
+363532	Abusive	Severe	Society	randomforest
+620917	None	Little to None	None	randomforest
+600432	Political Hate	Severe	None	randomforest
+581971	None	Little to None	None	randomforest
+685765	Political Hate	Mild	Organization	randomforest
+706846	None	Little to None	None	randomforest
+266829	None	Little to None	None	randomforest
+557555	None	Little to None	None	randomforest
+496625	None	Little to None	None	randomforest
+178872	None	Little to None	None	randomforest
+711143	None	Little to None	None	randomforest
+332460	None	Little to None	None	randomforest
+29919	Political Hate	Little to None	Organization	randomforest
+655611	None	Little to None	None	randomforest
+669537	None	Little to None	None	randomforest
+208251	Profane	Severe	Community	randomforest
+866998	None	Little to None	None	randomforest
+143177	None	Little to None	None	randomforest
+769023	None	Little to None	None	randomforest
+396646	Abusive	Little to None	None	randomforest
+225407	None	Little to None	None	randomforest
+359767	Abusive	Little to None	Organization	randomforest
+123345	None	Little to None	None	randomforest
+283543	None	Little to None	None	randomforest
+542107	None	Little to None	None	randomforest
+152502	None	Little to None	None	randomforest
+146539	None	Little to None	None	randomforest
+357373	Abusive	Mild	Organization	randomforest
+25777	Profane	Little to None	Individual	randomforest
+746972	None	Little to None	None	randomforest
+270762	Abusive	Little to None	Society	randomforest
+558844	None	Little to None	None	randomforest
+740225	None	Little to None	None	randomforest
+886666	None	Little to None	None	randomforest
+606932	None	Little to None	None	randomforest
+209217	None	Little to None	None	randomforest
+777488	None	Little to None	None	randomforest
+130669	None	Little to None	None	randomforest
+762285	Abusive	Little to None	Society	randomforest
+685431	None	Little to None	None	randomforest
+771815	None	Little to None	None	randomforest
+252415	None	Little to None	None	randomforest
+687596	None	Little to None	None	randomforest
+242766	None	Little to None	None	randomforest
+447554	None	Little to None	None	randomforest
+427243	None	Little to None	None	randomforest
+140278	None	Little to None	None	randomforest
+401449	None	Little to None	None	randomforest
+765938	None	Little to None	None	randomforest
+133168	None	Little to None	None	randomforest
+306158	None	Little to None	None	randomforest
+637422	None	Little to None	None	randomforest
+663885	None	Little to None	None	randomforest
+291989	Abusive	Little to None	Society	randomforest
+298326	Abusive	Mild	Society	randomforest
+799266	None	Little to None	None	randomforest
+779258	None	Little to None	None	randomforest
+546084	None	Little to None	None	randomforest
+781242	None	Little to None	None	randomforest
+602262	None	Little to None	None	randomforest
+773036	None	Little to None	None	randomforest
+377308	None	Little to None	None	randomforest
+142631	Abusive	Little to None	None	randomforest
+895459	None	Little to None	None	randomforest
+787010	Profane	Severe	Individual	randomforest
+645662	None	Little to None	None	randomforest
+45403	None	Little to None	None	randomforest
+267853	None	Little to None	None	randomforest
+917758	None	Little to None	None	randomforest
+426332	None	Little to None	None	randomforest
+422595	None	Little to None	None	randomforest
+691331	None	Little to None	None	randomforest
+610080	None	Little to None	None	randomforest
+501233	None	Little to None	None	randomforest
+131294	None	Little to None	None	randomforest
+815428	None	Little to None	None	randomforest
+195149	Abusive	Mild	None	randomforest
+207721	None	Little to None	None	randomforest
+416773	None	Little to None	None	randomforest
+313335	Abusive	Little to None	Individual	randomforest
+329274	None	Little to None	None	randomforest
+508798	None	Little to None	None	randomforest
+868978	Abusive	Little to None	None	randomforest
+310124	None	Little to None	None	randomforest
+785154	Political Hate	Little to None	Organization	randomforest
+535201	None	Little to None	None	randomforest
+626322	None	Little to None	None	randomforest
+890167	None	Severe	None	randomforest
+184776	Abusive	Little to None	Individual	randomforest
+390461	None	Little to None	None	randomforest
+503090	Abusive	Little to None	None	randomforest
+461035	Abusive	Little to None	None	randomforest
+619709	None	Little to None	None	randomforest
+890283	None	Little to None	None	randomforest
+132888	Abusive	Little to None	Organization	randomforest
+17079	None	Severe	None	randomforest
+218300	None	Little to None	None	randomforest
+345231	None	Little to None	None	randomforest
+285893	None	Little to None	None	randomforest
+632928	None	Little to None	None	randomforest
+479465	None	Little to None	None	randomforest
+2602	None	Little to None	None	randomforest
+85641	None	Little to None	None	randomforest
+682701	None	Little to None	None	randomforest
+436258	None	Little to None	None	randomforest
+114639	None	Little to None	None	randomforest
+674071	None	Little to None	None	randomforest
+244282	None	Little to None	None	randomforest
+318350	None	Little to None	None	randomforest
+553375	Abusive	Little to None	None	randomforest
+135830	None	Little to None	None	randomforest
+260169	None	Mild	None	randomforest
+553667	None	Little to None	Individual	randomforest
+183040	None	Little to None	None	randomforest
+680751	None	Little to None	None	randomforest
+274955	Abusive	Severe	Individual	randomforest
+370027	None	Little to None	None	randomforest
+121905	None	Little to None	None	randomforest
+440653	None	Little to None	None	randomforest
+732217	None	Little to None	None	randomforest
+618508	None	Little to None	None	randomforest
+90671	Political Hate	Severe	Organization	randomforest
+322046	None	Little to None	None	randomforest
+843688	None	Little to None	None	randomforest
+645379	None	Little to None	None	randomforest
+228279	Abusive	Little to None	Organization	randomforest
+26128	None	Little to None	None	randomforest
+95316	None	Little to None	None	randomforest
+161304	None	Little to None	None	randomforest
+770118	None	Little to None	None	randomforest
+219678	Abusive	Mild	Organization	randomforest
+783494	None	Little to None	None	randomforest
+422409	None	Little to None	None	randomforest
+38646	None	Little to None	None	randomforest
+231486	None	Little to None	None	randomforest
+443053	None	Little to None	None	randomforest
+97738	Political Hate	Mild	Organization	randomforest
+493860	None	Little to None	None	randomforest
+67696	Political Hate	Severe	Organization	randomforest
+547919	None	Little to None	None	randomforest
+339308	None	Little to None	None	randomforest
+43011	None	Little to None	None	randomforest
+795119	None	Little to None	None	randomforest
+292726	None	Little to None	None	randomforest
+180440	None	Little to None	None	randomforest
+198740	None	Little to None	None	randomforest
+773993	None	Little to None	None	randomforest
+190166	None	Little to None	None	randomforest
+201671	None	Little to None	None	randomforest
+857416	None	Little to None	None	randomforest
+926290	None	Little to None	None	randomforest
+19835	None	Little to None	None	randomforest
+359775	None	Little to None	None	randomforest
+625911	None	Little to None	None	randomforest
+324644	None	Little to None	None	randomforest
+561231	None	Little to None	None	randomforest
+486277	Abusive	Little to None	None	randomforest
+699555	Abusive	Mild	None	randomforest
+796009	None	Little to None	None	randomforest
+442802	None	Little to None	None	randomforest
+345862	None	Little to None	None	randomforest
+577567	Abusive	Little to None	Individual	randomforest
+917536	Abusive	Little to None	None	randomforest
+465219	Abusive	Little to None	None	randomforest
+202537	None	Little to None	None	randomforest
+810678	None	Little to None	None	randomforest
+471847	None	Mild	None	randomforest
+451450	Abusive	Little to None	None	randomforest
+231023	None	Little to None	None	randomforest
+464828	None	Little to None	None	randomforest
+736021	None	Little to None	None	randomforest
+17036	None	Little to None	None	randomforest
+676426	Abusive	Little to None	None	randomforest
+351306	None	Little to None	None	randomforest
+628567	None	Little to None	None	randomforest
+495615	None	Little to None	None	randomforest
+248858	Abusive	Mild	Organization	randomforest
+323407	None	Little to None	None	randomforest
+800267	None	Little to None	None	randomforest
+924086	None	Little to None	None	randomforest
+332310	None	Little to None	None	randomforest
+2399	None	Little to None	None	randomforest
+642008	Political Hate	Little to None	Organization	randomforest
+579150	None	Little to None	None	randomforest
+532008	None	Little to None	None	randomforest
+920515	Profane	Severe	Individual	randomforest
+928170	None	Little to None	None	randomforest
+115600	None	Little to None	None	randomforest
+160611	None	Little to None	None	randomforest
+57343	None	Little to None	None	randomforest
+233245	Political Hate	Little to None	None	randomforest
+160063	None	Little to None	None	randomforest
+215216	None	Little to None	None	randomforest
+259716	Political Hate	Little to None	Organization	randomforest
+24649	None	Little to None	None	randomforest
+236647	None	Little to None	None	randomforest
+890600	Abusive	Little to None	None	randomforest
+818229	None	Little to None	None	randomforest
+181400	Political Hate	Little to None	Organization	randomforest
+184128	None	Little to None	None	randomforest
+732571	Abusive	Little to None	None	randomforest
+803103	None	Little to None	None	randomforest
+103559	None	Little to None	None	randomforest
+104069	Abusive	Severe	Society	randomforest
+532685	None	Little to None	None	randomforest
+860196	None	Little to None	None	randomforest
+207034	None	Little to None	None	randomforest
+852222	None	Little to None	Individual	randomforest
+620269	None	Little to None	Individual	randomforest
+214987	Abusive	Mild	Organization	randomforest
+390209	Abusive	Severe	Society	randomforest
+828144	None	Little to None	None	randomforest
+355435	None	Little to None	None	randomforest
+280909	None	Little to None	Individual	randomforest
+648822	None	Little to None	None	randomforest
+469956	Profane	Little to None	Organization	randomforest
+491045	None	Little to None	None	randomforest
+853713	None	Little to None	None	randomforest
+759980	None	Little to None	None	randomforest
+569003	None	Little to None	Individual	randomforest
+803693	None	Little to None	None	randomforest
+481481	None	Little to None	None	randomforest
+853785	None	Little to None	None	randomforest
+451339	None	Little to None	None	randomforest
+434603	None	Mild	None	randomforest
+776243	Abusive	Mild	Society	randomforest
+857738	None	Little to None	None	randomforest
+657731	None	Little to None	None	randomforest
+309549	None	Little to None	None	randomforest
+935003	None	Little to None	None	randomforest
+837370	None	Little to None	None	randomforest
+832799	None	Little to None	None	randomforest
+333504	None	Little to None	None	randomforest
+455676	Abusive	Little to None	None	randomforest
+686341	Abusive	Mild	Organization	randomforest
+833132	None	Little to None	None	randomforest
+829417	None	Little to None	None	randomforest
+173721	Abusive	Little to None	Individual	randomforest
+179807	None	Little to None	None	randomforest
+172129	None	Little to None	None	randomforest
+309949	None	Little to None	None	randomforest
+868955	None	Severe	Individual	randomforest
+649693	None	Little to None	None	randomforest
+90477	Profane	Little to None	Community	randomforest
+150665	None	Little to None	None	randomforest
+539518	None	Little to None	None	randomforest
+6441	None	Little to None	None	randomforest
+316408	Abusive	Little to None	Individual	randomforest
+673952	None	Little to None	None	randomforest
+51761	None	Little to None	None	randomforest
+754177	None	Little to None	None	randomforest
+931338	None	Little to None	None	randomforest
+522610	None	Little to None	None	randomforest
+27947	None	Little to None	None	randomforest
+653841	None	Little to None	None	randomforest
+40916	None	Mild	Individual	randomforest
+446133	None	Little to None	None	randomforest
+841967	None	Little to None	None	randomforest
+609657	None	Little to None	None	randomforest
+739084	None	Little to None	None	randomforest
+351764	None	Little to None	None	randomforest
+259184	None	Little to None	None	randomforest
+393117	None	Little to None	None	randomforest
+328240	None	Little to None	None	randomforest
+468435	None	Little to None	None	randomforest
+541450	None	Little to None	None	randomforest
+723785	None	Little to None	None	randomforest
+276566	None	Little to None	None	randomforest
+606464	None	Little to None	None	randomforest
+126449	None	Little to None	None	randomforest
+75097	None	Little to None	None	randomforest
+191972	Profane	Little to None	None	randomforest
+837237	Abusive	Little to None	None	randomforest
+400643	None	Little to None	None	randomforest
+418393	None	Little to None	None	randomforest
+910685	None	Little to None	None	randomforest
+617275	Abusive	Severe	Individual	randomforest
+494945	None	Little to None	None	randomforest
+318209	None	Little to None	None	randomforest
+696250	None	Little to None	None	randomforest
+360014	None	Little to None	None	randomforest
+578712	None	Little to None	None	randomforest
+127383	None	Little to None	None	randomforest
+452100	Profane	Little to None	Individual	randomforest
+936774	Abusive	Little to None	None	randomforest
+81295	Abusive	Little to None	None	randomforest
+312562	None	Little to None	None	randomforest
+114169	None	Little to None	None	randomforest
+758394	None	Little to None	None	randomforest
+819133	Abusive	Little to None	None	randomforest
+427526	None	Little to None	None	randomforest
+200459	None	Little to None	Organization	randomforest
+716131	None	Little to None	None	randomforest
+416788	None	Little to None	Organization	randomforest
+444300	None	Little to None	None	randomforest
+274190	None	Little to None	None	randomforest
+692604	Political Hate	Little to None	Organization	randomforest
+297287	None	Little to None	None	randomforest
+569220	Political Hate	Mild	Organization	randomforest
+464993	None	Little to None	None	randomforest
+219503	Political Hate	Mild	Organization	randomforest
+603542	None	Little to None	None	randomforest
+910996	None	Little to None	None	randomforest
+733681	None	Little to None	None	randomforest
+682912	None	Little to None	None	randomforest
+79179	Abusive	Severe	Organization	randomforest
+185878	None	Little to None	None	randomforest
+429794	None	Little to None	None	randomforest
+37514	Abusive	Little to None	Individual	randomforest
+677951	Abusive	Little to None	Individual	randomforest
+606638	None	Little to None	None	randomforest
+667790	None	Little to None	None	randomforest
+404077	Abusive	Little to None	None	randomforest
+664870	Political Hate	Little to None	Organization	randomforest
+82089	None	Little to None	None	randomforest
+506355	Abusive	Mild	Organization	randomforest
+542327	None	Little to None	None	randomforest
+691922	None	Little to None	None	randomforest
+640273	None	Little to None	None	randomforest
+320130	Abusive	Little to None	Individual	randomforest
+367958	None	Little to None	None	randomforest
+243866	None	Little to None	None	randomforest
+601147	None	Little to None	None	randomforest
+641554	None	Little to None	None	randomforest
+454838	None	Little to None	None	randomforest
+327255	None	Little to None	None	randomforest
+271180	None	Little to None	None	randomforest
+452547	Political Hate	Mild	Organization	randomforest
+627679	None	Little to None	None	randomforest
+651348	None	Little to None	None	randomforest
+328461	Abusive	Mild	Individual	randomforest
+839448	Political Hate	Little to None	Organization	randomforest
+623474	Political Hate	Mild	None	randomforest
+610269	Abusive	Little to None	None	randomforest
+323389	Profane	Little to None	Society	randomforest
+629010	Abusive	Mild	Organization	randomforest
+9257	None	Little to None	None	randomforest
+17083	None	Little to None	None	randomforest
+797040	None	Little to None	None	randomforest
+422453	Abusive	Mild	Organization	randomforest
+514992	None	Little to None	None	randomforest
+107986	None	Little to None	None	randomforest
+887752	Abusive	Little to None	None	randomforest
+452552	None	Little to None	None	randomforest
+549245	None	Little to None	None	randomforest
+391592	None	Little to None	None	randomforest
+819745	None	Little to None	None	randomforest
+881262	None	Little to None	None	randomforest
+77103	None	Little to None	None	randomforest
+554417	None	Little to None	None	randomforest
+556605	None	Little to None	None	randomforest
+145147	None	Little to None	None	randomforest
+693769	Abusive	Little to None	Organization	randomforest
+330413	None	Little to None	None	randomforest
+181628	Political Hate	Mild	Organization	randomforest
+744235	None	Little to None	None	randomforest
+235157	None	Little to None	None	randomforest
+3945	None	Mild	None	randomforest
+592566	Abusive	Little to None	None	randomforest
+822682	Abusive	Little to None	None	randomforest
+398131	None	Little to None	None	randomforest
+815971	None	Little to None	None	randomforest
+6226	None	Little to None	None	randomforest
+842029	Abusive	Little to None	None	randomforest
+230916	None	Little to None	None	randomforest
+358091	None	Little to None	None	randomforest
+118655	None	Little to None	None	randomforest
+81123	None	Little to None	Individual	randomforest
+424563	Abusive	Little to None	None	randomforest
+355947	None	Little to None	None	randomforest
+539022	None	Little to None	None	randomforest
+876492	Abusive	Little to None	None	randomforest
+532223	Abusive	Severe	None	randomforest
+267304	Abusive	Mild	Individual	randomforest
+361656	None	Little to None	None	randomforest
+175343	None	Little to None	None	randomforest
+499169	None	Little to None	None	randomforest
+425601	None	Little to None	None	randomforest
+336568	None	Little to None	None	randomforest
+244155	None	Little to None	None	randomforest
+25339	None	Little to None	None	randomforest
+843785	None	Little to None	None	randomforest
+816856	None	Little to None	None	randomforest
+466827	Abusive	Little to None	Individual	randomforest
+30825	Abusive	Little to None	None	randomforest
+914046	None	Little to None	None	randomforest
+305092	None	Little to None	Community	randomforest
+731052	None	Little to None	None	randomforest
+331086	None	Little to None	None	randomforest
+80707	None	Little to None	None	randomforest
+700511	Abusive	Little to None	Community	randomforest
+759244	Political Hate	Little to None	None	randomforest
+273391	None	Little to None	None	randomforest
+157560	None	Little to None	None	randomforest
+666349	None	Little to None	None	randomforest
+118868	Abusive	Mild	Organization	randomforest
+919196	None	Little to None	None	randomforest
+193304	Political Hate	Little to None	Organization	randomforest
+125720	None	Little to None	None	randomforest
+512574	None	Little to None	None	randomforest
+938099	None	Little to None	None	randomforest
+714519	None	Little to None	None	randomforest
+743493	None	Little to None	None	randomforest
+491880	None	Little to None	None	randomforest
+840307	None	Little to None	None	randomforest
+334019	None	Little to None	None	randomforest
+576203	None	Little to None	None	randomforest
+762331	Abusive	Little to None	None	randomforest
+421390	None	Little to None	None	randomforest
+828741	None	Little to None	None	randomforest
+357634	None	Little to None	None	randomforest
+678272	None	Little to None	None	randomforest
+330446	None	Severe	None	randomforest
+566240	None	Little to None	None	randomforest
+829440	None	Little to None	None	randomforest
+838151	None	Little to None	None	randomforest
+358884	None	Little to None	None	randomforest
+397727	None	Little to None	None	randomforest
+171669	Political Hate	Little to None	Organization	randomforest
+288289	None	Little to None	None	randomforest
+187431	None	Little to None	None	randomforest
+512049	None	Little to None	None	randomforest
+335567	Political Hate	Mild	Organization	randomforest
+383736	None	Little to None	None	randomforest
+535883	None	Little to None	None	randomforest
+392091	None	Little to None	None	randomforest
+454762	Profane	Severe	Individual	randomforest
+614159	None	Little to None	None	randomforest
+562152	Abusive	Little to None	None	randomforest
+483412	None	Little to None	None	randomforest
+537925	Abusive	Little to None	Individual	randomforest
+834167	None	Little to None	None	randomforest
+875193	None	Severe	None	randomforest
+456722	None	Little to None	None	randomforest
+516282	None	Little to None	None	randomforest
+257527	None	Little to None	None	randomforest
+148896	None	Little to None	None	randomforest
+760507	None	Little to None	None	randomforest
+922414	None	Little to None	None	randomforest
+638043	None	Little to None	None	randomforest
+173467	None	Little to None	None	randomforest
+195178	Political Hate	Mild	Organization	randomforest
+147724	None	Little to None	None	randomforest
+194025	Abusive	Little to None	None	randomforest
+624059	None	Little to None	None	randomforest
+107088	None	Little to None	None	randomforest
+43696	None	Little to None	None	randomforest
+527548	None	Little to None	None	randomforest
+43059	None	Little to None	None	randomforest
+194552	None	Little to None	None	randomforest
+895821	None	Little to None	None	randomforest
+91	None	Little to None	None	randomforest
+431755	None	Little to None	None	randomforest
+563191	None	Little to None	None	randomforest
+679996	None	Little to None	None	randomforest
+738155	None	Little to None	None	randomforest
+463056	None	Little to None	None	randomforest
+533553	None	Little to None	None	randomforest
+908606	None	Little to None	None	randomforest
+459309	None	Little to None	None	randomforest
+630443	Abusive	Mild	Organization	randomforest
+347222	None	Little to None	None	randomforest
+675724	None	Little to None	None	randomforest
+83975	Abusive	Little to None	None	randomforest
+296851	None	Little to None	None	randomforest
+535172	None	Little to None	None	randomforest
+75581	Abusive	Mild	None	randomforest
+461746	None	Little to None	None	randomforest
+874016	None	Little to None	None	randomforest
+20045	Political Hate	Little to None	None	randomforest
+253489	Abusive	Severe	Individual	randomforest
+553524	None	Little to None	None	randomforest
+57367	Abusive	Little to None	Individual	randomforest
+167339	None	Little to None	None	randomforest
+594894	Political Hate	Severe	Individual	randomforest
+452023	None	Little to None	Society	randomforest
+795964	None	Little to None	None	randomforest
+765992	None	Little to None	None	randomforest
+508875	Abusive	Mild	Individual	randomforest
+122727	None	Little to None	None	randomforest
+11814	None	Little to None	None	randomforest
+544426	Abusive	Little to None	None	randomforest
+725077	None	Little to None	None	randomforest
+225212	None	Little to None	None	randomforest
+779008	None	Little to None	None	randomforest
+122184	None	Little to None	None	randomforest
+584554	None	Little to None	None	randomforest
+172329	None	Little to None	None	randomforest
+167317	None	Little to None	None	randomforest
+685147	None	Little to None	None	randomforest
+294261	Abusive	Little to None	None	randomforest
+192130	None	Little to None	None	randomforest
+425529	None	Little to None	None	randomforest
+788604	Abusive	Little to None	Organization	randomforest
+501111	Abusive	Little to None	Individual	randomforest
+139510	Political Hate	Little to None	None	randomforest
+43771	None	Little to None	None	randomforest
+144519	None	Little to None	None	randomforest
+915772	None	Little to None	None	randomforest
+411616	Political Hate	Mild	Organization	randomforest
+475013	Abusive	Severe	Individual	randomforest
+809205	None	Little to None	None	randomforest
+541359	None	Little to None	None	randomforest
+845267	None	Little to None	None	randomforest
+113755	Abusive	Severe	Community	randomforest
+568511	None	Little to None	None	randomforest
+59618	Abusive	Severe	Individual	randomforest
+803177	None	Little to None	None	randomforest
+858819	None	Little to None	None	randomforest
+438940	None	Little to None	None	randomforest
+570407	None	Little to None	None	randomforest
+129788	None	Little to None	None	randomforest
+840086	None	Little to None	None	randomforest
+637172	None	Little to None	None	randomforest
+821993	Abusive	Mild	None	randomforest
+325856	None	Little to None	None	randomforest
+359155	None	Little to None	None	randomforest
+899842	None	Little to None	None	randomforest
+660308	None	Little to None	None	randomforest
+861989	Abusive	Little to None	None	randomforest
+605443	Abusive	Mild	None	randomforest
+27739	None	Mild	None	randomforest
+580148	Political Hate	Mild	Organization	randomforest
+528215	None	Little to None	None	randomforest
+528712	None	Little to None	None	randomforest
+100208	None	Little to None	None	randomforest
+350796	Abusive	Mild	None	randomforest
+307708	Abusive	Mild	Organization	randomforest
+162719	None	Little to None	None	randomforest
+121889	None	Little to None	None	randomforest
+612317	None	Little to None	None	randomforest
+223760	Political Hate	Severe	Organization	randomforest
+405579	None	Little to None	None	randomforest
+618511	None	Little to None	None	randomforest
+175761	None	Little to None	None	randomforest

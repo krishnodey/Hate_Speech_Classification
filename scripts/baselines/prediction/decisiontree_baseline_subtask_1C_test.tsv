@@ -1,0 +1,3400 @@
+id	hate_type	hate_severity	to_whom	model
+12764	Abusive	Mild	Society	dtree
+202933	None	Little to None	None	dtree
+165894	Abusive	Little to None	None	dtree
+124999	None	Little to None	None	dtree
+535301	None	Little to None	Individual	dtree
+432948	Abusive	Little to None	None	dtree
+34737	None	Little to None	None	dtree
+377091	None	Little to None	None	dtree
+840467	None	Little to None	None	dtree
+361701	Abusive	Severe	Organization	dtree
+184161	None	Little to None	None	dtree
+531785	None	Little to None	None	dtree
+402930	None	Little to None	None	dtree
+578332	None	Mild	Society	dtree
+723077	None	Mild	None	dtree
+776755	Abusive	Mild	Society	dtree
+587800	None	Little to None	None	dtree
+869387	None	Mild	Community	dtree
+620490	Abusive	Little to None	None	dtree
+241030	None	Mild	Organization	dtree
+764029	Religious Hate	Little to None	Community	dtree
+174711	Abusive	Little to None	None	dtree
+65995	None	Little to None	None	dtree
+871343	Political Hate	Mild	None	dtree
+715822	None	Little to None	None	dtree
+106487	None	Little to None	Community	dtree
+764737	Abusive	Little to None	Organization	dtree
+917460	Abusive	Severe	Society	dtree
+531356	None	Severe	Community	dtree
+266651	None	Little to None	None	dtree
+739854	None	Little to None	None	dtree
+266764	Abusive	Little to None	None	dtree
+73332	None	Little to None	None	dtree
+760242	None	Little to None	None	dtree
+320758	None	Severe	None	dtree
+609567	Political Hate	Little to None	Community	dtree
+16555	None	Little to None	Community	dtree
+404893	None	Mild	Organization	dtree
+357862	None	Little to None	None	dtree
+624326	None	Little to None	None	dtree
+364169	Abusive	Mild	None	dtree
+631673	None	Little to None	None	dtree
+105543	Abusive	Mild	Individual	dtree
+699006	None	Little to None	None	dtree
+701268	Political Hate	Little to None	Individual	dtree
+742298	Abusive	Mild	None	dtree
+643737	Abusive	Mild	Society	dtree
+689092	None	Little to None	None	dtree
+563553	None	Little to None	None	dtree
+662932	Abusive	Little to None	None	dtree
+473263	None	Little to None	None	dtree
+422168	Abusive	Severe	Organization	dtree
+862941	None	Little to None	Individual	dtree
+342937	Profane	Severe	Organization	dtree
+178372	Abusive	Mild	Society	dtree
+916768	None	Little to None	None	dtree
+215239	Political Hate	Little to None	Organization	dtree
+763206	None	Little to None	None	dtree
+666182	None	Little to None	None	dtree
+503048	Political Hate	Mild	Organization	dtree
+519953	None	Little to None	Individual	dtree
+679666	None	Little to None	None	dtree
+237037	None	Severe	Individual	dtree
+561654	None	Little to None	None	dtree
+335959	Profane	Severe	Individual	dtree
+672138	None	Little to None	None	dtree
+705318	Abusive	Mild	Individual	dtree
+251010	None	Little to None	Individual	dtree
+50757	None	Little to None	None	dtree
+708711	Political Hate	Little to None	None	dtree
+379033	Abusive	Mild	None	dtree
+356889	None	Little to None	None	dtree
+380864	Political Hate	Little to None	None	dtree
+357388	None	Little to None	None	dtree
+237264	Abusive	Severe	Organization	dtree
+785645	None	Little to None	None	dtree
+10221	None	Little to None	Organization	dtree
+51427	Religious Hate	Little to None	None	dtree
+327009	None	Little to None	Individual	dtree
+72638	None	Little to None	None	dtree
+454694	Abusive	Severe	None	dtree
+531585	Abusive	Little to None	None	dtree
+905729	Abusive	Little to None	Organization	dtree
+826344	None	Little to None	None	dtree
+622615	Profane	Little to None	Organization	dtree
+341026	Profane	Severe	Community	dtree
+756812	None	Little to None	Community	dtree
+446998	None	Little to None	None	dtree
+507755	None	Little to None	None	dtree
+252185	Abusive	Little to None	Individual	dtree
+677872	None	Little to None	None	dtree
+573406	None	Mild	Society	dtree
+708512	None	Little to None	None	dtree
+35865	Abusive	Little to None	Individual	dtree
+521314	None	Little to None	None	dtree
+629720	Political Hate	Little to None	None	dtree
+579590	None	Little to None	None	dtree
+420676	None	Little to None	Individual	dtree
+888468	None	Little to None	None	dtree
+507098	None	Little to None	None	dtree
+33791	None	Little to None	None	dtree
+628771	Abusive	Mild	None	dtree
+197579	None	Severe	None	dtree
+228413	Abusive	Little to None	Individual	dtree
+607208	None	Little to None	None	dtree
+482851	None	Little to None	None	dtree
+641065	None	Little to None	None	dtree
+154089	None	Little to None	None	dtree
+21246	None	Little to None	None	dtree
+99970	None	Little to None	None	dtree
+243706	Political Hate	Severe	Organization	dtree
+366232	None	Little to None	Society	dtree
+799431	None	Little to None	None	dtree
+151836	Profane	Severe	Community	dtree
+384383	Abusive	Little to None	None	dtree
+430350	Abusive	Mild	Individual	dtree
+321512	None	Little to None	Individual	dtree
+791877	None	Little to None	None	dtree
+369126	None	Little to None	Individual	dtree
+769210	None	Little to None	None	dtree
+389866	None	Little to None	None	dtree
+124392	None	Little to None	Organization	dtree
+111565	None	Little to None	None	dtree
+87928	None	Little to None	Individual	dtree
+507897	Abusive	Severe	Society	dtree
+284276	Profane	Little to None	Organization	dtree
+211557	None	Little to None	None	dtree
+407528	None	Little to None	None	dtree
+656024	Sexism	Little to None	None	dtree
+163256	None	Mild	Individual	dtree
+701482	None	Little to None	None	dtree
+28613	None	Severe	Individual	dtree
+393451	None	Severe	None	dtree
+130986	None	Little to None	None	dtree
+47847	None	Little to None	None	dtree
+474831	None	Severe	None	dtree
+262358	None	Little to None	Individual	dtree
+809182	None	Little to None	None	dtree
+912597	None	Little to None	None	dtree
+491193	None	Little to None	None	dtree
+605569	None	Little to None	None	dtree
+380424	Abusive	Little to None	Community	dtree
+603456	None	Little to None	None	dtree
+107100	Political Hate	Little to None	Individual	dtree
+626831	None	Little to None	None	dtree
+447213	Political Hate	Little to None	None	dtree
+697862	Abusive	Little to None	None	dtree
+91497	Profane	Severe	Individual	dtree
+652526	None	Severe	Individual	dtree
+24792	None	Little to None	None	dtree
+571083	None	Severe	None	dtree
+890268	None	Little to None	None	dtree
+5297	None	Little to None	None	dtree
+920594	Abusive	Mild	Individual	dtree
+172944	Abusive	Little to None	None	dtree
+624079	None	Little to None	None	dtree
+770329	None	Little to None	None	dtree
+692607	Political Hate	Mild	Individual	dtree
+3052	None	Little to None	Society	dtree
+844455	None	Little to None	None	dtree
+814896	None	Little to None	Community	dtree
+110591	Political Hate	Little to None	Organization	dtree
+180575	None	Little to None	None	dtree
+254322	None	Little to None	None	dtree
+574720	None	Little to None	None	dtree
+622377	None	Little to None	None	dtree
+623083	None	Little to None	None	dtree
+668718	None	Little to None	None	dtree
+633172	Profane	Severe	None	dtree
+6790	None	Little to None	None	dtree
+850984	Political Hate	Mild	Organization	dtree
+500524	Political Hate	Severe	Organization	dtree
+581344	Abusive	Severe	None	dtree
+654769	None	Little to None	None	dtree
+706547	None	Little to None	None	dtree
+603782	None	Little to None	None	dtree
+302171	None	Little to None	None	dtree
+744717	None	Little to None	None	dtree
+512972	Abusive	Little to None	None	dtree
+781353	Profane	Severe	Individual	dtree
+384814	None	Little to None	None	dtree
+15032	None	Little to None	None	dtree
+251425	None	Little to None	Organization	dtree
+813466	Abusive	Little to None	Community	dtree
+675844	None	Little to None	Individual	dtree
+2583	Profane	Mild	Community	dtree
+659227	None	Little to None	None	dtree
+169886	None	Little to None	None	dtree
+381979	None	Little to None	None	dtree
+299641	None	Little to None	None	dtree
+704171	Abusive	Little to None	Individual	dtree
+618279	Abusive	Mild	None	dtree
+641060	None	Mild	None	dtree
+562096	None	Little to None	None	dtree
+318122	None	Little to None	None	dtree
+451639	None	Little to None	None	dtree
+653504	Abusive	Little to None	Society	dtree
+144836	None	Little to None	None	dtree
+426811	Abusive	Mild	Organization	dtree
+399359	None	Little to None	None	dtree
+610564	Abusive	Mild	None	dtree
+246780	None	Little to None	None	dtree
+838887	None	Mild	None	dtree
+144994	None	Little to None	Community	dtree
+854277	None	Little to None	None	dtree
+865313	Abusive	Severe	Society	dtree
+578428	Abusive	Little to None	None	dtree
+187917	None	Little to None	None	dtree
+348388	Abusive	Mild	Organization	dtree
+741123	Religious Hate	Mild	Community	dtree
+634544	None	Little to None	None	dtree
+778366	None	Severe	None	dtree
+441000	Abusive	Mild	Individual	dtree
+377994	None	Little to None	None	dtree
+362805	None	Little to None	Community	dtree
+12475	Abusive	Little to None	Organization	dtree
+460383	Abusive	Little to None	None	dtree
+870913	None	Little to None	None	dtree
+2715	None	Little to None	None	dtree
+921356	None	Little to None	None	dtree
+196647	None	Mild	None	dtree
+824151	Profane	Severe	Individual	dtree
+382540	None	Little to None	Society	dtree
+1087	Abusive	Mild	Organization	dtree
+380610	None	Little to None	None	dtree
+416517	None	Little to None	None	dtree
+456028	Abusive	Little to None	Individual	dtree
+431471	None	Little to None	None	dtree
+453235	Political Hate	Little to None	Organization	dtree
+927587	None	Little to None	Organization	dtree
+422259	Political Hate	Little to None	None	dtree
+896697	None	Little to None	None	dtree
+42562	None	Little to None	None	dtree
+197313	Abusive	Mild	Individual	dtree
+690302	None	Little to None	None	dtree
+925174	None	Little to None	None	dtree
+535584	None	Little to None	None	dtree
+931365	Abusive	Little to None	None	dtree
+227393	Profane	Little to None	Community	dtree
+329379	None	Little to None	None	dtree
+56445	None	Little to None	None	dtree
+546158	Political Hate	Mild	Organization	dtree
+258725	None	Little to None	None	dtree
+175825	None	Little to None	None	dtree
+937532	Political Hate	Little to None	None	dtree
+833099	None	Mild	Society	dtree
+321436	None	Severe	None	dtree
+755018	None	Little to None	Society	dtree
+798262	None	Little to None	Society	dtree
+866278	None	Little to None	None	dtree
+210321	Political Hate	Mild	Society	dtree
+363164	None	Little to None	None	dtree
+370542	None	Little to None	Community	dtree
+132703	Political Hate	Little to None	None	dtree
+601946	None	Little to None	None	dtree
+897150	None	Little to None	None	dtree
+256376	Abusive	Mild	Individual	dtree
+240015	None	Little to None	None	dtree
+259547	None	Severe	None	dtree
+67131	None	Mild	None	dtree
+923885	None	Little to None	None	dtree
+226135	Abusive	Little to None	Individual	dtree
+662300	None	Little to None	None	dtree
+677456	None	Severe	None	dtree
+485008	None	Mild	Society	dtree
+529942	Abusive	Little to None	None	dtree
+914346	None	Little to None	None	dtree
+298173	None	Little to None	None	dtree
+446809	None	Severe	Individual	dtree
+671424	None	Little to None	None	dtree
+793955	None	Mild	Community	dtree
+157776	Abusive	Little to None	Organization	dtree
+283469	None	Little to None	None	dtree
+206317	Political Hate	Little to None	Organization	dtree
+33066	None	Little to None	None	dtree
+36214	Political Hate	Mild	None	dtree
+683112	None	Little to None	None	dtree
+831416	Political Hate	Severe	Individual	dtree
+473865	Abusive	Mild	Organization	dtree
+783655	None	Little to None	Individual	dtree
+344565	Abusive	Severe	Individual	dtree
+240377	None	Severe	None	dtree
+205517	Political Hate	Little to None	None	dtree
+624990	None	Little to None	None	dtree
+114646	None	Little to None	Society	dtree
+860260	Abusive	Severe	Organization	dtree
+321233	Abusive	Little to None	None	dtree
+287639	Abusive	Little to None	None	dtree
+698525	Abusive	Little to None	Organization	dtree
+640865	None	Mild	Individual	dtree
+493551	None	Little to None	None	dtree
+329369	None	Little to None	None	dtree
+687000	None	Little to None	None	dtree
+938515	None	Severe	None	dtree
+71327	None	Mild	Community	dtree
+82872	Abusive	Little to None	None	dtree
+564549	None	Little to None	None	dtree
+93050	Abusive	Severe	Community	dtree
+684599	None	Little to None	None	dtree
+923214	Political Hate	Severe	None	dtree
+712666	Political Hate	Little to None	Organization	dtree
+516447	Abusive	Little to None	None	dtree
+789503	None	Little to None	Individual	dtree
+126197	None	Little to None	None	dtree
+83510	None	Severe	None	dtree
+693378	None	Little to None	None	dtree
+766830	None	Little to None	None	dtree
+917369	None	Little to None	Community	dtree
+140689	None	Little to None	None	dtree
+828319	None	Little to None	None	dtree
+441784	None	Little to None	None	dtree
+584069	None	Little to None	None	dtree
+595722	Political Hate	Little to None	Individual	dtree
+587975	None	Mild	Individual	dtree
+737847	None	Little to None	None	dtree
+355260	Abusive	Mild	None	dtree
+208807	None	Little to None	None	dtree
+698527	None	Little to None	None	dtree
+342704	Religious Hate	Little to None	Individual	dtree
+281083	None	Little to None	None	dtree
+594110	Abusive	Severe	Society	dtree
+208175	Political Hate	Mild	Organization	dtree
+536181	Abusive	Mild	Individual	dtree
+562508	None	Little to None	None	dtree
+844368	Political Hate	Mild	None	dtree
+355570	Abusive	Little to None	None	dtree
+576652	Abusive	Mild	Individual	dtree
+230254	Political Hate	Severe	Organization	dtree
+396913	None	Little to None	None	dtree
+160607	None	Mild	Individual	dtree
+775615	Political Hate	Little to None	Society	dtree
+634523	Political Hate	Mild	Individual	dtree
+313291	Sexism	Severe	Organization	dtree
+631046	None	Mild	Community	dtree
+550426	Political Hate	Little to None	Organization	dtree
+807498	None	Little to None	None	dtree
+388081	None	Little to None	None	dtree
+532701	None	Little to None	None	dtree
+506934	Political Hate	Severe	None	dtree
+322440	None	Little to None	None	dtree
+507780	None	Little to None	None	dtree
+133106	None	Little to None	None	dtree
+584019	None	Little to None	None	dtree
+474793	Abusive	Severe	Individual	dtree
+890928	Abusive	Severe	Community	dtree
+888703	Profane	Little to None	None	dtree
+391227	Abusive	Little to None	Community	dtree
+511127	None	Little to None	None	dtree
+507374	None	Little to None	Individual	dtree
+680347	Political Hate	Little to None	Community	dtree
+63627	None	Little to None	None	dtree
+903197	Abusive	Severe	None	dtree
+938868	None	Little to None	None	dtree
+675732	None	Little to None	None	dtree
+482546	None	Little to None	Society	dtree
+675440	Abusive	Mild	None	dtree
+115168	None	Mild	Organization	dtree
+352533	Abusive	Little to None	Individual	dtree
+630861	Abusive	Severe	Individual	dtree
+768879	None	Little to None	None	dtree
+882539	Profane	Severe	Individual	dtree
+558518	Political Hate	Little to None	Individual	dtree
+937312	None	Little to None	None	dtree
+422059	None	Little to None	None	dtree
+416662	None	Little to None	None	dtree
+632696	None	Mild	None	dtree
+203962	Abusive	Little to None	None	dtree
+857709	None	Little to None	None	dtree
+793617	Abusive	Mild	None	dtree
+486353	Abusive	Mild	Community	dtree
+635854	Abusive	Little to None	None	dtree
+84223	None	Little to None	None	dtree
+150930	Abusive	Mild	Individual	dtree
+156149	None	Little to None	None	dtree
+772243	None	Little to None	None	dtree
+644418	None	Little to None	None	dtree
+723392	Abusive	Little to None	None	dtree
+717266	None	Little to None	None	dtree
+75367	Abusive	Severe	Community	dtree
+398304	None	Little to None	None	dtree
+350619	Abusive	Mild	Organization	dtree
+633361	None	Severe	Individual	dtree
+545400	None	Little to None	None	dtree
+184710	Profane	Mild	Community	dtree
+126450	None	Little to None	None	dtree
+157874	Profane	Severe	Community	dtree
+268695	None	Little to None	None	dtree
+443262	Profane	Mild	Organization	dtree
+405050	None	Little to None	None	dtree
+475199	None	Little to None	Society	dtree
+909906	Abusive	Mild	Society	dtree
+619424	None	Little to None	None	dtree
+338317	None	Mild	None	dtree
+208842	None	Little to None	None	dtree
+297713	Political Hate	Severe	Individual	dtree
+198549	Abusive	Mild	Organization	dtree
+240451	None	Little to None	None	dtree
+432313	None	Little to None	None	dtree
+556009	None	Little to None	None	dtree
+291078	None	Little to None	None	dtree
+647866	Abusive	Little to None	Organization	dtree
+885374	None	Little to None	None	dtree
+149363	None	Severe	None	dtree
+169573	Abusive	Little to None	None	dtree
+456507	None	Mild	None	dtree
+589233	Abusive	Little to None	Individual	dtree
+112377	None	Little to None	None	dtree
+831724	Political Hate	Mild	None	dtree
+5407	Abusive	Little to None	None	dtree
+15943	Political Hate	Mild	Individual	dtree
+741246	Political Hate	Little to None	Individual	dtree
+61405	None	Little to None	None	dtree
+915869	None	Little to None	None	dtree
+511267	Abusive	Severe	None	dtree
+1471	None	Little to None	None	dtree
+367605	Abusive	Little to None	Individual	dtree
+174842	Political Hate	Mild	Community	dtree
+137391	None	Mild	None	dtree
+840729	Abusive	Little to None	Community	dtree
+416127	None	Severe	Society	dtree
+330333	None	Little to None	None	dtree
+670421	None	Little to None	Individual	dtree
+242499	Abusive	Mild	Community	dtree
+144117	None	Little to None	None	dtree
+639424	Abusive	Severe	Organization	dtree
+394368	Abusive	Little to None	Community	dtree
+291259	Abusive	Severe	None	dtree
+142509	None	Little to None	None	dtree
+226408	None	Little to None	None	dtree
+486351	Abusive	Little to None	Individual	dtree
+865343	Profane	Little to None	Individual	dtree
+490548	Abusive	Little to None	None	dtree
+430804	Religious Hate	Little to None	None	dtree
+292631	None	Little to None	Community	dtree
+399708	Abusive	Little to None	None	dtree
+62074	Profane	Mild	Community	dtree
+277817	None	Little to None	Society	dtree
+451449	None	Little to None	None	dtree
+937837	None	Little to None	None	dtree
+69996	Abusive	Severe	Organization	dtree
+472779	None	Little to None	None	dtree
+593869	Profane	Mild	None	dtree
+113374	None	Little to None	None	dtree
+295098	None	Little to None	None	dtree
+688164	None	Little to None	None	dtree
+754307	Religious Hate	Severe	None	dtree
+185344	Abusive	Mild	Community	dtree
+206819	None	Little to None	None	dtree
+776128	Religious Hate	Mild	Individual	dtree
+438265	None	Little to None	None	dtree
+586064	None	Little to None	None	dtree
+588534	Political Hate	Mild	None	dtree
+863686	None	Little to None	Individual	dtree
+694501	Abusive	Mild	None	dtree
+97900	None	Little to None	None	dtree
+166900	None	Mild	Organization	dtree
+109971	None	Little to None	None	dtree
+497464	None	Little to None	None	dtree
+376477	Abusive	Little to None	None	dtree
+65718	None	Little to None	None	dtree
+784043	Political Hate	Severe	Individual	dtree
+702897	Abusive	Little to None	None	dtree
+352371	None	Little to None	None	dtree
+52223	Profane	Severe	Individual	dtree
+131128	Abusive	Little to None	Community	dtree
+13831	None	Little to None	Organization	dtree
+148597	None	Little to None	None	dtree
+60602	Religious Hate	Severe	Community	dtree
+752509	Political Hate	Mild	None	dtree
+730085	None	Little to None	None	dtree
+625048	None	Little to None	None	dtree
+541629	None	Little to None	None	dtree
+895206	None	Severe	None	dtree
+725993	Political Hate	Severe	Individual	dtree
+296053	None	Little to None	None	dtree
+240086	Abusive	Little to None	Organization	dtree
+106374	Abusive	Little to None	None	dtree
+2358	None	Severe	None	dtree
+655996	None	Little to None	None	dtree
+2640	Political Hate	Little to None	Organization	dtree
+583695	None	Little to None	None	dtree
+740126	Profane	Little to None	None	dtree
+116038	Political Hate	Little to None	Individual	dtree
+839438	None	Little to None	None	dtree
+216777	None	Little to None	None	dtree
+717153	None	Severe	None	dtree
+628314	None	Little to None	None	dtree
+49560	None	Little to None	None	dtree
+484546	None	Little to None	None	dtree
+411292	Abusive	Severe	Society	dtree
+739397	None	Little to None	None	dtree
+33049	None	Little to None	None	dtree
+234943	None	Little to None	None	dtree
+85567	None	Little to None	None	dtree
+898840	None	Little to None	None	dtree
+110149	Political Hate	Little to None	None	dtree
+928802	None	Little to None	None	dtree
+65232	None	Little to None	None	dtree
+609733	Abusive	Little to None	Individual	dtree
+607110	Abusive	Little to None	Organization	dtree
+656146	None	Little to None	None	dtree
+122819	None	Little to None	None	dtree
+924773	None	Severe	Organization	dtree
+855239	None	Little to None	None	dtree
+455140	None	Little to None	None	dtree
+172685	Abusive	Mild	Individual	dtree
+705941	None	Little to None	None	dtree
+317297	Abusive	Little to None	Individual	dtree
+637876	Political Hate	Mild	Organization	dtree
+198449	Abusive	Little to None	None	dtree
+822721	Profane	Little to None	Organization	dtree
+347419	Abusive	Severe	Organization	dtree
+503146	None	Little to None	None	dtree
+601962	None	Little to None	Individual	dtree
+847061	Abusive	Little to None	None	dtree
+449847	Abusive	Little to None	Community	dtree
+266272	None	Little to None	None	dtree
+579593	None	Little to None	None	dtree
+696370	None	Little to None	Community	dtree
+282600	None	Little to None	None	dtree
+901656	Abusive	Severe	Individual	dtree
+348015	Abusive	Little to None	Organization	dtree
+436616	None	Severe	None	dtree
+257730	None	Little to None	None	dtree
+662170	None	Little to None	None	dtree
+385756	Abusive	Mild	Individual	dtree
+359726	Abusive	Little to None	None	dtree
+660956	None	Little to None	None	dtree
+767839	Abusive	Severe	Society	dtree
+104694	Abusive	Severe	Individual	dtree
+939708	None	Little to None	Individual	dtree
+918343	None	Little to None	Individual	dtree
+169088	None	Little to None	None	dtree
+559219	None	Little to None	None	dtree
+313940	Abusive	Little to None	Individual	dtree
+156518	Political Hate	Little to None	None	dtree
+475465	None	Little to None	None	dtree
+796521	Political Hate	Severe	None	dtree
+340667	None	Little to None	None	dtree
+871730	None	Mild	None	dtree
+526989	None	Little to None	Individual	dtree
+2000	Profane	Severe	Individual	dtree
+770360	None	Little to None	Community	dtree
+97016	None	Little to None	None	dtree
+759827	None	Mild	None	dtree
+121027	Abusive	Mild	Community	dtree
+398334	Abusive	Mild	Organization	dtree
+88547	None	Mild	Organization	dtree
+388063	None	Little to None	None	dtree
+584267	None	Little to None	None	dtree
+199146	Political Hate	Little to None	None	dtree
+862801	None	Mild	Society	dtree
+663203	Abusive	Little to None	Society	dtree
+384078	None	Little to None	None	dtree
+674707	None	Mild	None	dtree
+248801	Political Hate	Severe	None	dtree
+434904	None	Little to None	None	dtree
+892832	Abusive	Little to None	None	dtree
+849635	Abusive	Mild	Individual	dtree
+357655	None	Little to None	None	dtree
+38822	None	Little to None	None	dtree
+15868	Abusive	Little to None	None	dtree
+92875	None	Little to None	None	dtree
+881948	Abusive	Little to None	Individual	dtree
+930602	None	Little to None	Community	dtree
+297212	Political Hate	Mild	None	dtree
+720687	None	Little to None	Individual	dtree
+129760	None	Little to None	None	dtree
+195054	Political Hate	Mild	Organization	dtree
+109394	Abusive	Little to None	None	dtree
+869427	None	Little to None	Individual	dtree
+916439	None	Little to None	None	dtree
+137360	None	Little to None	None	dtree
+617422	None	Little to None	None	dtree
+78119	None	Little to None	None	dtree
+723502	None	Little to None	None	dtree
+478562	Abusive	Mild	Community	dtree
+65211	Abusive	Little to None	Organization	dtree
+509559	None	Little to None	None	dtree
+326033	None	Little to None	None	dtree
+863542	None	Little to None	Society	dtree
+700913	Political Hate	Mild	Individual	dtree
+674516	None	Little to None	None	dtree
+559600	Political Hate	Mild	Organization	dtree
+503290	None	Mild	Individual	dtree
+896878	Political Hate	Little to None	Community	dtree
+134107	None	Severe	None	dtree
+249718	None	Little to None	None	dtree
+163349	Profane	Little to None	Organization	dtree
+401513	None	Little to None	None	dtree
+650595	Abusive	Severe	Community	dtree
+752284	None	Little to None	None	dtree
+865890	None	Little to None	Individual	dtree
+186435	Political Hate	Severe	Community	dtree
+373339	Profane	Severe	None	dtree
+286709	None	Little to None	None	dtree
+643016	None	Little to None	None	dtree
+27134	None	Little to None	None	dtree
+593062	Political Hate	Little to None	Society	dtree
+676443	Profane	Little to None	None	dtree
+614707	Abusive	Little to None	None	dtree
+61510	Abusive	Severe	Organization	dtree
+153559	None	Little to None	None	dtree
+433441	Abusive	Little to None	None	dtree
+216305	None	Severe	Community	dtree
+910124	None	Little to None	None	dtree
+620809	None	Little to None	None	dtree
+932421	None	Little to None	None	dtree
+425270	Abusive	Mild	Individual	dtree
+273781	Religious Hate	Little to None	None	dtree
+187613	None	Little to None	Community	dtree
+124364	None	Little to None	None	dtree
+877298	Abusive	Little to None	Individual	dtree
+605600	Abusive	Severe	None	dtree
+349142	None	Little to None	Society	dtree
+780477	None	Severe	None	dtree
+850714	None	Little to None	None	dtree
+182549	None	Mild	Individual	dtree
+591436	Profane	Little to None	None	dtree
+532973	Religious Hate	Little to None	None	dtree
+254837	Political Hate	Little to None	Individual	dtree
+570134	Abusive	Little to None	None	dtree
+600873	None	Little to None	Individual	dtree
+897692	None	Little to None	None	dtree
+145602	None	Little to None	None	dtree
+674074	Political Hate	Mild	Organization	dtree
+617154	None	Little to None	Society	dtree
+131424	None	Little to None	None	dtree
+863095	None	Little to None	None	dtree
+753046	None	Severe	Organization	dtree
+889442	None	Little to None	Individual	dtree
+290088	None	Severe	Community	dtree
+158006	Profane	Severe	None	dtree
+915317	Abusive	Little to None	Society	dtree
+928884	None	Little to None	None	dtree
+845497	Abusive	Mild	Individual	dtree
+337012	None	Little to None	None	dtree
+806329	None	Little to None	Society	dtree
+513110	None	Little to None	None	dtree
+313334	None	Little to None	Individual	dtree
+843096	None	Little to None	Community	dtree
+406040	Abusive	Mild	Organization	dtree
+436473	Abusive	Severe	None	dtree
+864150	None	Little to None	None	dtree
+307617	Abusive	Little to None	Community	dtree
+486690	Political Hate	Little to None	Individual	dtree
+197326	Political Hate	Mild	Organization	dtree
+295541	None	Little to None	None	dtree
+264754	None	Little to None	None	dtree
+214178	None	Little to None	Organization	dtree
+288143	None	Little to None	None	dtree
+77822	None	Mild	Community	dtree
+659471	Abusive	Mild	Organization	dtree
+441154	None	Little to None	Individual	dtree
+304049	Abusive	Mild	Community	dtree
+635950	Abusive	Little to None	Society	dtree
+863812	Profane	Little to None	Individual	dtree
+642147	None	Little to None	None	dtree
+206032	Profane	Mild	None	dtree
+936269	None	Little to None	None	dtree
+87245	None	Little to None	None	dtree
+831967	None	Mild	None	dtree
+773650	Religious Hate	Mild	Individual	dtree
+578805	None	Little to None	None	dtree
+54423	None	Little to None	None	dtree
+187408	None	Little to None	None	dtree
+446182	Abusive	Little to None	Individual	dtree
+240952	Abusive	Mild	Organization	dtree
+609430	None	Little to None	Organization	dtree
+32107	Profane	Little to None	Community	dtree
+257935	None	Little to None	None	dtree
+823899	None	Little to None	Community	dtree
+685145	Abusive	Little to None	None	dtree
+398331	None	Severe	None	dtree
+153024	None	Little to None	None	dtree
+175531	None	Severe	Community	dtree
+446560	Abusive	Mild	Community	dtree
+418942	None	Little to None	None	dtree
+594047	None	Little to None	None	dtree
+542787	None	Little to None	None	dtree
+506353	None	Little to None	None	dtree
+841821	None	Little to None	None	dtree
+427816	Political Hate	Mild	Organization	dtree
+186081	None	Mild	Individual	dtree
+63181	None	Little to None	None	dtree
+474439	None	Severe	None	dtree
+266781	Abusive	Little to None	None	dtree
+863333	None	Little to None	None	dtree
+99308	None	Little to None	None	dtree
+411516	Abusive	Little to None	Individual	dtree
+917711	Abusive	Little to None	None	dtree
+297791	Abusive	Mild	Individual	dtree
+837511	Abusive	Little to None	None	dtree
+516611	None	Little to None	Community	dtree
+361540	None	Little to None	Individual	dtree
+289632	Profane	Little to None	Individual	dtree
+557898	None	Mild	Society	dtree
+478098	None	Little to None	None	dtree
+219774	None	Little to None	None	dtree
+639571	None	Little to None	Organization	dtree
+458029	Abusive	Severe	Organization	dtree
+26006	Political Hate	Little to None	None	dtree
+615341	Profane	Severe	None	dtree
+365272	Abusive	Severe	None	dtree
+446152	Abusive	Mild	None	dtree
+924516	Abusive	Little to None	None	dtree
+912732	None	Little to None	None	dtree
+3376	None	Little to None	None	dtree
+873206	None	Little to None	None	dtree
+147620	Profane	Severe	Individual	dtree
+48729	None	Mild	Individual	dtree
+118706	Abusive	Severe	Individual	dtree
+496287	None	Little to None	None	dtree
+633278	None	Little to None	None	dtree
+556423	None	Little to None	None	dtree
+192902	None	Little to None	None	dtree
+750879	None	Little to None	Individual	dtree
+715529	None	Little to None	None	dtree
+134711	None	Little to None	None	dtree
+660107	None	Little to None	None	dtree
+437345	None	Little to None	None	dtree
+214891	Political Hate	Little to None	Organization	dtree
+900908	None	Little to None	None	dtree
+763719	Religious Hate	Mild	Community	dtree
+315444	None	Little to None	None	dtree
+455707	Abusive	Little to None	Individual	dtree
+290653	None	Little to None	Organization	dtree
+691850	None	Little to None	None	dtree
+318941	Religious Hate	Mild	Community	dtree
+182737	Political Hate	Little to None	Organization	dtree
+285028	None	Mild	Individual	dtree
+904223	None	Little to None	None	dtree
+291039	None	Little to None	Society	dtree
+645637	None	Little to None	None	dtree
+328958	None	Little to None	None	dtree
+168539	None	Little to None	None	dtree
+375694	Political Hate	Severe	Individual	dtree
+501348	None	Severe	Individual	dtree
+30143	Religious Hate	Little to None	None	dtree
+565055	None	Little to None	None	dtree
+481211	None	Little to None	None	dtree
+8371	None	Little to None	None	dtree
+757645	Political Hate	Mild	Individual	dtree
+738411	Abusive	Mild	Organization	dtree
+767666	Political Hate	Severe	Society	dtree
+261763	Abusive	Little to None	Individual	dtree
+351660	Abusive	Mild	None	dtree
+476158	Profane	Mild	None	dtree
+865803	None	Little to None	None	dtree
+111001	Political Hate	Mild	Organization	dtree
+61880	None	Little to None	Organization	dtree
+530551	None	Little to None	None	dtree
+583453	None	Little to None	None	dtree
+764722	None	Little to None	None	dtree
+511997	Abusive	Little to None	None	dtree
+884021	None	Little to None	None	dtree
+434129	None	Little to None	None	dtree
+318573	None	Little to None	None	dtree
+760589	Sexism	Severe	Individual	dtree
+804650	None	Little to None	None	dtree
+528897	None	Little to None	None	dtree
+716202	None	Little to None	None	dtree
+670284	None	Little to None	None	dtree
+869145	Political Hate	Mild	None	dtree
+565795	None	Little to None	None	dtree
+801623	None	Little to None	Individual	dtree
+553622	None	Little to None	None	dtree
+690373	None	Little to None	None	dtree
+421996	None	Little to None	Individual	dtree
+584595	Abusive	Mild	Organization	dtree
+790924	None	Little to None	None	dtree
+839704	Abusive	Little to None	Individual	dtree
+939459	None	Severe	None	dtree
+533215	None	Little to None	None	dtree
+72989	None	Little to None	None	dtree
+577898	Abusive	Little to None	Individual	dtree
+912409	None	Mild	None	dtree
+53215	None	Little to None	None	dtree
+475181	None	Little to None	None	dtree
+220520	Political Hate	Mild	Organization	dtree
+773174	Abusive	Severe	Organization	dtree
+758814	None	Little to None	None	dtree
+606304	Abusive	Mild	Individual	dtree
+500972	None	Little to None	None	dtree
+685233	None	Little to None	None	dtree
+475996	None	Little to None	None	dtree
+741328	None	Severe	None	dtree
+236813	None	Severe	None	dtree
+250911	None	Little to None	None	dtree
+184353	None	Little to None	Individual	dtree
+502301	None	Little to None	None	dtree
+104489	None	Little to None	None	dtree
+744914	None	Little to None	None	dtree
+446232	Political Hate	Mild	Organization	dtree
+481561	None	Little to None	None	dtree
+191354	None	Little to None	None	dtree
+900461	None	Little to None	None	dtree
+415829	Abusive	Little to None	None	dtree
+613833	Abusive	Little to None	Individual	dtree
+718306	Abusive	Severe	Individual	dtree
+496351	Abusive	Little to None	Individual	dtree
+708366	None	Little to None	None	dtree
+578669	Profane	Little to None	Society	dtree
+487410	Abusive	Severe	Organization	dtree
+360171	Abusive	Severe	Individual	dtree
+97036	Abusive	Mild	Organization	dtree
+782954	None	Little to None	None	dtree
+881673	None	Little to None	None	dtree
+193131	Abusive	Mild	Community	dtree
+113089	Political Hate	Little to None	Society	dtree
+640459	None	Little to None	None	dtree
+863300	None	Little to None	Individual	dtree
+166765	None	Little to None	None	dtree
+465600	Political Hate	Severe	Community	dtree
+524846	None	Little to None	None	dtree
+377912	Abusive	Little to None	None	dtree
+647030	Abusive	Mild	Individual	dtree
+389642	None	Little to None	None	dtree
+838786	None	Little to None	None	dtree
+683189	Abusive	Mild	None	dtree
+44208	None	Little to None	Individual	dtree
+129258	None	Little to None	None	dtree
+537879	None	Little to None	Organization	dtree
+828437	None	Little to None	Society	dtree
+910625	None	Little to None	Individual	dtree
+897725	None	Mild	Organization	dtree
+129142	Abusive	Little to None	None	dtree
+520734	None	Little to None	None	dtree
+274405	Abusive	Little to None	Individual	dtree
+187223	Political Hate	Little to None	Society	dtree
+679398	Abusive	Little to None	None	dtree
+843495	None	Little to None	None	dtree
+888495	Abusive	Little to None	None	dtree
+762390	Abusive	Little to None	None	dtree
+385068	Abusive	Severe	Individual	dtree
+668222	None	Severe	None	dtree
+555345	Abusive	Little to None	None	dtree
+427170	Profane	Little to None	Individual	dtree
+358744	None	Little to None	None	dtree
+175954	Political Hate	Severe	Organization	dtree
+685817	None	Little to None	Community	dtree
+484759	Abusive	Mild	None	dtree
+395035	None	Mild	Society	dtree
+176114	None	Mild	Individual	dtree
+300739	Abusive	Little to None	Society	dtree
+528625	None	Little to None	None	dtree
+511158	Abusive	Little to None	Individual	dtree
+453505	Political Hate	Mild	Organization	dtree
+293969	None	Severe	None	dtree
+647598	Abusive	Little to None	Organization	dtree
+553699	None	Little to None	None	dtree
+95466	Abusive	Mild	Community	dtree
+835149	Profane	Severe	Individual	dtree
+748909	Abusive	Little to None	None	dtree
+194226	Political Hate	Mild	Organization	dtree
+142118	Abusive	Severe	Organization	dtree
+870702	None	Little to None	None	dtree
+364886	None	Severe	None	dtree
+112111	Profane	Mild	Individual	dtree
+899804	None	Mild	None	dtree
+696989	Abusive	Little to None	None	dtree
+887716	None	Little to None	None	dtree
+660186	Profane	Little to None	None	dtree
+901036	None	Little to None	None	dtree
+510168	None	Little to None	None	dtree
+203599	None	Little to None	Society	dtree
+423343	Abusive	Little to None	Society	dtree
+83835	Profane	Severe	Individual	dtree
+828482	None	Little to None	None	dtree
+409288	Abusive	Severe	Individual	dtree
+40340	None	Little to None	None	dtree
+801215	Abusive	Little to None	Organization	dtree
+666047	None	Little to None	Organization	dtree
+700821	None	Little to None	None	dtree
+701993	None	Little to None	None	dtree
+254382	None	Little to None	None	dtree
+623669	Political Hate	Little to None	None	dtree
+175843	None	Little to None	None	dtree
+400663	None	Little to None	None	dtree
+468054	None	Little to None	Community	dtree
+610633	Abusive	Mild	None	dtree
+620852	None	Little to None	None	dtree
+236927	None	Little to None	None	dtree
+359516	None	Severe	Individual	dtree
+863317	None	Little to None	None	dtree
+590188	Abusive	Severe	Community	dtree
+650314	None	Little to None	None	dtree
+412701	None	Little to None	None	dtree
+720266	None	Little to None	None	dtree
+866888	None	Little to None	Organization	dtree
+530041	None	Severe	None	dtree
+495166	Abusive	Little to None	Individual	dtree
+114148	Political Hate	Little to None	Organization	dtree
+646106	None	Little to None	None	dtree
+818634	Abusive	Little to None	Community	dtree
+489381	None	Little to None	None	dtree
+366857	None	Little to None	None	dtree
+216109	None	Little to None	None	dtree
+634558	Political Hate	Severe	Organization	dtree
+250297	None	Little to None	None	dtree
+21656	Abusive	Little to None	None	dtree
+356050	None	Little to None	None	dtree
+450240	Abusive	Mild	None	dtree
+511964	None	Little to None	None	dtree
+755491	None	Little to None	None	dtree
+860563	None	Little to None	Community	dtree
+550210	None	Little to None	None	dtree
+914642	None	Little to None	None	dtree
+833043	Abusive	Severe	Community	dtree
+562960	Abusive	Mild	Community	dtree
+725746	None	Little to None	Individual	dtree
+222268	Political Hate	Little to None	Society	dtree
+93194	None	Little to None	None	dtree
+227813	Political Hate	Severe	Organization	dtree
+582922	None	Little to None	None	dtree
+86299	Abusive	Little to None	Individual	dtree
+186473	Political Hate	Mild	Organization	dtree
+905562	None	Little to None	None	dtree
+95832	None	Little to None	None	dtree
+53058	None	Little to None	None	dtree
+885378	None	Mild	None	dtree
+821731	None	Little to None	None	dtree
+179744	Abusive	Little to None	None	dtree
+856357	Abusive	Mild	Community	dtree
+879521	None	Little to None	None	dtree
+101653	None	Little to None	Community	dtree
+922502	Profane	Mild	None	dtree
+376711	Abusive	Severe	None	dtree
+375336	Abusive	Little to None	None	dtree
+569127	None	Little to None	None	dtree
+233456	Abusive	Mild	Society	dtree
+602142	None	Little to None	Organization	dtree
+259506	None	Little to None	None	dtree
+647250	Abusive	Little to None	Individual	dtree
+236784	None	Little to None	None	dtree
+590227	Abusive	Little to None	None	dtree
+349521	None	Little to None	None	dtree
+511561	Abusive	Mild	Organization	dtree
+565514	Abusive	Little to None	Organization	dtree
+279985	Religious Hate	Little to None	Community	dtree
+181848	None	Severe	None	dtree
+117547	None	Little to None	None	dtree
+485388	Abusive	Little to None	Individual	dtree
+883559	None	Severe	None	dtree
+108865	Abusive	Severe	Organization	dtree
+892775	None	Severe	None	dtree
+446371	None	Little to None	None	dtree
+325101	None	Little to None	None	dtree
+554771	None	Little to None	None	dtree
+714174	Abusive	Little to None	None	dtree
+175345	Profane	Severe	None	dtree
+666577	None	Little to None	None	dtree
+453621	Profane	Little to None	Society	dtree
+658873	None	Little to None	None	dtree
+467382	None	Severe	None	dtree
+600530	Political Hate	Little to None	Individual	dtree
+56405	None	Little to None	None	dtree
+50971	None	Little to None	None	dtree
+455443	Profane	Severe	Organization	dtree
+31476	None	Little to None	None	dtree
+869211	None	Little to None	None	dtree
+800776	None	Little to None	Individual	dtree
+838918	Profane	Little to None	Individual	dtree
+442892	None	Little to None	None	dtree
+496264	Abusive	Little to None	Individual	dtree
+52071	None	Little to None	None	dtree
+136763	Abusive	Mild	Individual	dtree
+432625	Religious Hate	Severe	Individual	dtree
+271540	Political Hate	Mild	Organization	dtree
+867436	None	Little to None	None	dtree
+122013	None	Mild	None	dtree
+413841	None	Little to None	Organization	dtree
+374473	None	Little to None	None	dtree
+153845	Abusive	Little to None	Individual	dtree
+35355	None	Little to None	None	dtree
+238900	Abusive	Severe	Individual	dtree
+206596	None	Little to None	None	dtree
+723545	None	Little to None	Individual	dtree
+187726	None	Severe	Individual	dtree
+143551	None	Little to None	None	dtree
+801088	Religious Hate	Mild	None	dtree
+110960	None	Severe	None	dtree
+35530	None	Severe	None	dtree
+242127	Abusive	Mild	Individual	dtree
+266531	None	Severe	None	dtree
+32418	Abusive	Mild	Organization	dtree
+169879	Political Hate	Mild	None	dtree
+555753	None	Little to None	None	dtree
+383955	None	Little to None	None	dtree
+265215	Abusive	Mild	Individual	dtree
+513523	Abusive	Little to None	Organization	dtree
+120318	None	Little to None	None	dtree
+66478	None	Little to None	None	dtree
+579738	Abusive	Little to None	Individual	dtree
+172555	None	Little to None	Individual	dtree
+227264	None	Little to None	None	dtree
+350192	None	Little to None	None	dtree
+761236	None	Little to None	None	dtree
+702997	Abusive	Mild	Organization	dtree
+264513	None	Little to None	None	dtree
+268929	None	Little to None	None	dtree
+808583	Political Hate	Severe	Society	dtree
+614492	None	Little to None	None	dtree
+436989	Political Hate	Little to None	None	dtree
+57969	None	Little to None	None	dtree
+269802	Political Hate	Mild	Individual	dtree
+395283	Abusive	Little to None	Individual	dtree
+414051	None	Little to None	None	dtree
+634572	Political Hate	Mild	Organization	dtree
+712780	None	Little to None	None	dtree
+426486	Abusive	Severe	Society	dtree
+658649	None	Little to None	Community	dtree
+514546	Abusive	Mild	Society	dtree
+654533	None	Little to None	None	dtree
+811644	None	Severe	Individual	dtree
+753518	Political Hate	Little to None	None	dtree
+212933	Abusive	Little to None	Organization	dtree
+481410	Political Hate	Little to None	None	dtree
+879597	None	Severe	Community	dtree
+916269	Political Hate	Mild	None	dtree
+596268	Profane	Severe	Organization	dtree
+127543	Political Hate	Little to None	None	dtree
+530446	None	Little to None	Society	dtree
+662349	Abusive	Little to None	Individual	dtree
+192423	Political Hate	Mild	Individual	dtree
+915911	None	Severe	Society	dtree
+832025	None	Little to None	None	dtree
+235058	Abusive	Mild	Individual	dtree
+342722	None	Little to None	None	dtree
+590535	Abusive	Mild	Organization	dtree
+117357	Abusive	Mild	Individual	dtree
+229350	Political Hate	Little to None	Organization	dtree
+155928	None	Little to None	None	dtree
+769055	None	Little to None	None	dtree
+84582	None	Little to None	None	dtree
+451655	None	Little to None	None	dtree
+818907	None	Little to None	None	dtree
+646802	None	Little to None	None	dtree
+13335	Abusive	Little to None	Organization	dtree
+542439	Abusive	Little to None	None	dtree
+580999	Abusive	Severe	Individual	dtree
+84554	None	Little to None	None	dtree
+416200	None	Little to None	None	dtree
+590424	None	Little to None	None	dtree
+856234	Political Hate	Mild	Individual	dtree
+833479	Abusive	Little to None	None	dtree
+628374	Abusive	Mild	None	dtree
+766711	Political Hate	Mild	Individual	dtree
+533202	Abusive	Little to None	Organization	dtree
+380661	None	Little to None	None	dtree
+634726	Abusive	Mild	Organization	dtree
+850101	None	Little to None	None	dtree
+720638	None	Little to None	None	dtree
+918299	Abusive	Little to None	None	dtree
+187	None	Little to None	None	dtree
+864313	Political Hate	Mild	Individual	dtree
+510537	Abusive	Little to None	None	dtree
+897340	None	Little to None	None	dtree
+542171	None	Little to None	None	dtree
+409108	Abusive	Mild	Society	dtree
+22085	None	Little to None	None	dtree
+63549	Abusive	Mild	Organization	dtree
+438546	None	Little to None	None	dtree
+355393	Abusive	Severe	None	dtree
+521395	None	Little to None	None	dtree
+323114	None	Severe	Society	dtree
+484458	None	Severe	Individual	dtree
+599475	None	Little to None	Individual	dtree
+797360	Abusive	Little to None	None	dtree
+651286	Political Hate	Mild	Individual	dtree
+683669	None	Little to None	None	dtree
+930782	None	Little to None	None	dtree
+639703	Political Hate	Severe	Organization	dtree
+492224	Abusive	Mild	Individual	dtree
+888195	Abusive	Little to None	Individual	dtree
+775619	Abusive	Mild	Community	dtree
+115463	None	Little to None	None	dtree
+624463	None	Little to None	Individual	dtree
+276240	None	Little to None	None	dtree
+548182	None	Little to None	None	dtree
+236122	Profane	Little to None	Community	dtree
+938584	None	Little to None	None	dtree
+817776	Abusive	Little to None	None	dtree
+21930	Abusive	Little to None	Society	dtree
+558901	Abusive	Little to None	Individual	dtree
+587590	Abusive	Little to None	Organization	dtree
+211908	None	Mild	Organization	dtree
+60346	Profane	Mild	Organization	dtree
+605691	None	Little to None	None	dtree
+929182	None	Little to None	Individual	dtree
+712367	None	Little to None	Society	dtree
+320500	None	Little to None	None	dtree
+100677	None	Little to None	Individual	dtree
+651652	Abusive	Little to None	None	dtree
+295085	None	Little to None	None	dtree
+98323	None	Little to None	None	dtree
+158100	Abusive	Little to None	Community	dtree
+443977	Profane	Mild	Organization	dtree
+742186	None	Little to None	None	dtree
+14621	Political Hate	Mild	Individual	dtree
+2141	None	Little to None	None	dtree
+939740	Political Hate	Little to None	Organization	dtree
+675171	None	Little to None	None	dtree
+154958	None	Little to None	Individual	dtree
+792298	Political Hate	Little to None	Individual	dtree
+146258	Abusive	Little to None	None	dtree
+692258	None	Little to None	None	dtree
+655142	None	Little to None	None	dtree
+279831	Abusive	Severe	Society	dtree
+904641	None	Little to None	None	dtree
+76223	None	Mild	Individual	dtree
+356935	None	Little to None	None	dtree
+454409	None	Little to None	Individual	dtree
+151915	Profane	Severe	Community	dtree
+289689	None	Little to None	Individual	dtree
+681172	None	Little to None	Individual	dtree
+68747	Abusive	Little to None	None	dtree
+440160	None	Little to None	None	dtree
+1052	Profane	Little to None	None	dtree
+604360	Political Hate	Mild	Individual	dtree
+514264	None	Little to None	None	dtree
+792554	Abusive	Little to None	Individual	dtree
+359885	None	Little to None	None	dtree
+669056	Profane	Severe	Individual	dtree
+467484	Abusive	Little to None	Individual	dtree
+618921	Political Hate	Mild	None	dtree
+487676	Political Hate	Little to None	None	dtree
+794639	None	Little to None	None	dtree
+716246	Abusive	Mild	Community	dtree
+720764	None	Little to None	None	dtree
+719110	None	Little to None	None	dtree
+117150	Abusive	Mild	None	dtree
+735722	None	Mild	Individual	dtree
+476769	None	Mild	Community	dtree
+241694	None	Little to None	None	dtree
+638142	None	Little to None	None	dtree
+17820	Abusive	Mild	Individual	dtree
+330114	Abusive	Little to None	None	dtree
+862260	None	Little to None	None	dtree
+857208	None	Little to None	None	dtree
+68092	None	Little to None	None	dtree
+487264	Abusive	Little to None	Individual	dtree
+473274	None	Little to None	None	dtree
+887201	None	Little to None	Individual	dtree
+670410	Profane	Severe	Individual	dtree
+704946	None	Mild	None	dtree
+772823	None	Little to None	None	dtree
+506461	None	Mild	None	dtree
+380105	None	Mild	None	dtree
+929223	None	Little to None	None	dtree
+529715	None	Little to None	None	dtree
+455667	None	Mild	Individual	dtree
+718043	None	Little to None	None	dtree
+25258	None	Little to None	None	dtree
+460726	Abusive	Little to None	None	dtree
+203292	None	Little to None	None	dtree
+933690	Abusive	Mild	Individual	dtree
+799342	Profane	Mild	Individual	dtree
+353835	Abusive	Mild	None	dtree
+506091	None	Little to None	None	dtree
+143296	Abusive	Severe	Individual	dtree
+246688	Abusive	Mild	None	dtree
+759063	None	Little to None	None	dtree
+299831	None	Little to None	None	dtree
+872711	None	Severe	Organization	dtree
+912606	Political Hate	Mild	Society	dtree
+473707	Abusive	Mild	Individual	dtree
+333814	None	Little to None	None	dtree
+745132	Abusive	Little to None	Community	dtree
+646880	Abusive	Severe	Individual	dtree
+801734	Political Hate	Severe	None	dtree
+253010	None	Little to None	Organization	dtree
+938397	None	Mild	None	dtree
+26778	None	Little to None	None	dtree
+279632	Abusive	Little to None	None	dtree
+81888	None	Little to None	None	dtree
+830204	Profane	Severe	Society	dtree
+618989	Profane	Little to None	Individual	dtree
+391464	Abusive	Severe	Individual	dtree
+834652	None	Little to None	None	dtree
+657293	Abusive	Little to None	Individual	dtree
+624795	Political Hate	Mild	Society	dtree
+443138	None	Mild	Community	dtree
+762703	None	Severe	None	dtree
+561	None	Little to None	None	dtree
+226325	Political Hate	Mild	Organization	dtree
+755107	Abusive	Mild	Individual	dtree
+601796	None	Little to None	None	dtree
+204339	None	Little to None	None	dtree
+821623	Political Hate	Little to None	None	dtree
+373459	None	Little to None	None	dtree
+140309	None	Mild	Community	dtree
+415542	Profane	Little to None	Individual	dtree
+934048	None	Little to None	Organization	dtree
+410499	Profane	Severe	Organization	dtree
+738445	None	Little to None	None	dtree
+697740	None	Little to None	None	dtree
+844028	Religious Hate	Little to None	Community	dtree
+880305	None	Little to None	Individual	dtree
+45411	None	Little to None	None	dtree
+309202	None	Little to None	None	dtree
+585486	Abusive	Mild	Individual	dtree
+16436	Abusive	Severe	Community	dtree
+438854	Abusive	Severe	Society	dtree
+516844	None	Little to None	None	dtree
+384723	Political Hate	Mild	Organization	dtree
+891578	None	Little to None	None	dtree
+629162	Abusive	Little to None	Organization	dtree
+468009	None	Little to None	None	dtree
+166047	None	Little to None	None	dtree
+104001	Abusive	Little to None	Community	dtree
+783482	None	Little to None	None	dtree
+259244	Abusive	Little to None	None	dtree
+266603	Political Hate	Severe	Organization	dtree
+101545	Profane	Mild	None	dtree
+439409	None	Little to None	None	dtree
+635499	None	Little to None	None	dtree
+841496	Profane	Little to None	None	dtree
+869467	Abusive	Little to None	Individual	dtree
+119302	None	Little to None	None	dtree
+566785	None	Little to None	None	dtree
+155600	Abusive	Little to None	None	dtree
+472227	None	Little to None	None	dtree
+739865	Profane	Little to None	Community	dtree
+56526	Abusive	Little to None	Individual	dtree
+830	None	Mild	Society	dtree
+329377	None	Little to None	None	dtree
+730452	None	Little to None	None	dtree
+830987	Abusive	Little to None	Community	dtree
+372273	Abusive	Little to None	None	dtree
+844517	Abusive	Little to None	Individual	dtree
+323431	Abusive	Severe	Community	dtree
+698240	None	Little to None	None	dtree
+889749	Abusive	Little to None	Individual	dtree
+165523	None	Little to None	Community	dtree
+17339	None	Little to None	None	dtree
+137020	None	Little to None	None	dtree
+572005	Political Hate	Little to None	Individual	dtree
+408325	None	Little to None	None	dtree
+623444	Profane	Mild	Individual	dtree
+82577	Political Hate	Little to None	Organization	dtree
+887946	None	Little to None	None	dtree
+927166	Abusive	Little to None	Individual	dtree
+813556	None	Little to None	None	dtree
+3490	None	Severe	Community	dtree
+453858	None	Little to None	None	dtree
+748818	None	Little to None	None	dtree
+459611	Abusive	Mild	Community	dtree
+240501	None	Little to None	Individual	dtree
+19075	None	Little to None	Individual	dtree
+806839	None	Little to None	None	dtree
+111890	None	Severe	Individual	dtree
+535210	None	Little to None	None	dtree
+871081	Abusive	Little to None	None	dtree
+884878	None	Little to None	None	dtree
+898010	Abusive	Severe	Community	dtree
+68987	None	Little to None	None	dtree
+610453	None	Severe	None	dtree
+23122	None	Little to None	None	dtree
+205839	None	Little to None	None	dtree
+618548	Profane	Severe	Individual	dtree
+740458	Abusive	Little to None	Individual	dtree
+770490	None	Little to None	None	dtree
+482233	Religious Hate	Mild	Individual	dtree
+788242	Abusive	Little to None	Society	dtree
+126523	None	Little to None	None	dtree
+905792	None	Little to None	None	dtree
+345610	Abusive	Little to None	None	dtree
+317318	None	Little to None	Community	dtree
+243588	None	Little to None	None	dtree
+414606	None	Mild	Individual	dtree
+136399	Abusive	Little to None	Individual	dtree
+191369	None	Little to None	Society	dtree
+728783	None	Little to None	None	dtree
+482592	Political Hate	Mild	Society	dtree
+122439	Abusive	Little to None	Society	dtree
+253523	None	Little to None	None	dtree
+45101	None	Severe	None	dtree
+476886	None	Little to None	None	dtree
+683469	Political Hate	Little to None	Society	dtree
+666632	None	Little to None	None	dtree
+127473	Political Hate	Little to None	Organization	dtree
+137857	None	Little to None	None	dtree
+579518	Abusive	Little to None	None	dtree
+832568	None	Little to None	None	dtree
+463030	Abusive	Little to None	None	dtree
+547660	None	Little to None	None	dtree
+754167	None	Little to None	None	dtree
+899858	Profane	Little to None	None	dtree
+703344	Abusive	Mild	Community	dtree
+324565	None	Little to None	None	dtree
+106292	Abusive	Little to None	Individual	dtree
+255440	Abusive	Mild	Community	dtree
+436900	None	Severe	Organization	dtree
+606151	Abusive	Severe	Individual	dtree
+309007	None	Little to None	None	dtree
+327077	Political Hate	Mild	Society	dtree
+418238	None	Little to None	None	dtree
+72757	Abusive	Little to None	None	dtree
+692374	Abusive	Little to None	None	dtree
+816564	Religious Hate	Little to None	None	dtree
+119826	None	Little to None	None	dtree
+158169	None	Little to None	Community	dtree
+818065	Abusive	Little to None	Community	dtree
+31839	Abusive	Little to None	None	dtree
+192048	Abusive	Little to None	None	dtree
+551718	None	Severe	None	dtree
+290709	None	Little to None	None	dtree
+141250	None	Little to None	None	dtree
+466967	Profane	Little to None	None	dtree
+152791	None	Little to None	Individual	dtree
+473966	Profane	Severe	Individual	dtree
+928108	None	Little to None	None	dtree
+605290	Political Hate	Little to None	Organization	dtree
+22197	Abusive	Mild	Individual	dtree
+697466	Abusive	Little to None	Community	dtree
+797481	None	Little to None	None	dtree
+295211	None	Little to None	None	dtree
+11300	Abusive	Severe	None	dtree
+837060	None	Little to None	None	dtree
+201014	None	Little to None	None	dtree
+85382	Political Hate	Little to None	Organization	dtree
+303037	Abusive	Severe	Individual	dtree
+444287	Profane	Little to None	None	dtree
+21647	Religious Hate	Severe	Organization	dtree
+709058	None	Little to None	None	dtree
+766452	None	Little to None	None	dtree
+595553	None	Severe	Community	dtree
+404783	None	Severe	None	dtree
+598072	None	Little to None	None	dtree
+581670	None	Severe	Individual	dtree
+236138	Abusive	Severe	Organization	dtree
+447724	None	Little to None	None	dtree
+198229	Profane	Severe	None	dtree
+35745	Political Hate	Severe	Individual	dtree
+51265	Abusive	Little to None	Organization	dtree
+925220	Political Hate	Little to None	Organization	dtree
+854174	None	Little to None	None	dtree
+919184	Abusive	Little to None	None	dtree
+515754	None	Little to None	None	dtree
+490004	Abusive	Little to None	Individual	dtree
+312418	Abusive	Little to None	Organization	dtree
+346286	None	Little to None	None	dtree
+319520	None	Little to None	None	dtree
+900758	None	Severe	None	dtree
+74509	None	Little to None	Individual	dtree
+646154	Abusive	Little to None	Individual	dtree
+700643	None	Little to None	None	dtree
+847137	None	Little to None	None	dtree
+95080	None	Little to None	None	dtree
+906529	None	Little to None	Individual	dtree
+682124	None	Little to None	None	dtree
+469188	None	Little to None	None	dtree
+267691	None	Little to None	None	dtree
+427105	None	Little to None	None	dtree
+664450	None	Little to None	None	dtree
+640153	None	Little to None	Individual	dtree
+484242	Abusive	Little to None	None	dtree
+471083	Abusive	Little to None	Individual	dtree
+574555	None	Little to None	Community	dtree
+802913	None	Little to None	None	dtree
+835881	None	Little to None	None	dtree
+559943	None	Little to None	None	dtree
+795168	None	Little to None	Society	dtree
+38230	None	Little to None	None	dtree
+299735	None	Mild	None	dtree
+250352	Profane	Severe	None	dtree
+819839	Abusive	Mild	Individual	dtree
+405003	None	Little to None	None	dtree
+827981	Abusive	Little to None	Individual	dtree
+28308	None	Little to None	None	dtree
+588699	Abusive	Little to None	None	dtree
+614167	None	Little to None	None	dtree
+679145	None	Little to None	Individual	dtree
+786296	Political Hate	Little to None	Individual	dtree
+446957	None	Little to None	None	dtree
+704588	None	Little to None	Community	dtree
+43603	Political Hate	Mild	None	dtree
+32256	None	Little to None	None	dtree
+581040	None	Little to None	None	dtree
+167074	None	Little to None	None	dtree
+829153	Religious Hate	Mild	None	dtree
+40499	Profane	Mild	Individual	dtree
+233045	Political Hate	Little to None	None	dtree
+375606	Religious Hate	Mild	Society	dtree
+156263	Abusive	Severe	Individual	dtree
+132091	None	Little to None	None	dtree
+559369	None	Mild	None	dtree
+91773	Abusive	Little to None	Organization	dtree
+681553	None	Little to None	None	dtree
+451889	None	Little to None	None	dtree
+364298	None	Little to None	None	dtree
+475018	Abusive	Mild	None	dtree
+498828	Abusive	Severe	Community	dtree
+220766	Political Hate	Severe	Organization	dtree
+596534	Abusive	Little to None	Community	dtree
+893035	Profane	Severe	None	dtree
+721693	None	Little to None	None	dtree
+566630	Abusive	Mild	Individual	dtree
+510917	Abusive	Little to None	None	dtree
+30335	None	Little to None	Society	dtree
+354009	Political Hate	Little to None	Organization	dtree
+243048	Abusive	Little to None	None	dtree
+107921	None	Little to None	None	dtree
+711532	None	Severe	None	dtree
+831245	Abusive	Severe	None	dtree
+399608	Abusive	Severe	Community	dtree
+417141	None	Little to None	None	dtree
+252720	None	Severe	Individual	dtree
+170188	None	Little to None	None	dtree
+483947	None	Little to None	None	dtree
+847056	None	Little to None	None	dtree
+367163	Abusive	Severe	Individual	dtree
+909156	None	Mild	Community	dtree
+370219	Religious Hate	Little to None	None	dtree
+71806	None	Little to None	None	dtree
+816473	Abusive	Severe	Society	dtree
+167294	Political Hate	Little to None	Community	dtree
+491544	None	Mild	None	dtree
+436246	Abusive	Severe	None	dtree
+201893	Political Hate	Severe	Organization	dtree
+668650	Abusive	Severe	None	dtree
+63718	Abusive	Mild	Individual	dtree
+902166	Abusive	Little to None	None	dtree
+191091	Political Hate	Mild	Individual	dtree
+304562	None	Little to None	None	dtree
+31411	None	Little to None	None	dtree
+227352	None	Little to None	None	dtree
+651254	None	Little to None	None	dtree
+1166	None	Little to None	Community	dtree
+506179	Abusive	Little to None	Organization	dtree
+96808	None	Severe	Community	dtree
+923170	None	Mild	Individual	dtree
+693864	Abusive	Little to None	None	dtree
+137657	None	Little to None	Community	dtree
+233268	Political Hate	Little to None	None	dtree
+615620	None	Little to None	None	dtree
+438135	Religious Hate	Mild	Society	dtree
+102326	None	Little to None	None	dtree
+633408	None	Little to None	Society	dtree
+611056	None	Little to None	Community	dtree
+660700	Abusive	Mild	None	dtree
+592068	None	Mild	None	dtree
+810169	Political Hate	Severe	Community	dtree
+68630	None	Little to None	None	dtree
+900125	Political Hate	Little to None	Community	dtree
+8135	None	Little to None	Society	dtree
+428767	None	Severe	Community	dtree
+890006	Abusive	Little to None	None	dtree
+501331	None	Little to None	None	dtree
+386869	Abusive	Little to None	None	dtree
+457538	None	Little to None	None	dtree
+902366	Political Hate	Severe	Organization	dtree
+904408	None	Mild	None	dtree
+108794	None	Little to None	None	dtree
+135561	None	Little to None	None	dtree
+639745	Abusive	Mild	None	dtree
+602490	Profane	Severe	Individual	dtree
+326459	Abusive	Severe	Individual	dtree
+859202	None	Little to None	None	dtree
+473414	Abusive	Little to None	Organization	dtree
+726590	Political Hate	Little to None	Organization	dtree
+785752	Abusive	Mild	Community	dtree
+772939	None	Little to None	None	dtree
+352613	Abusive	Little to None	None	dtree
+244330	Abusive	Severe	None	dtree
+900669	None	Little to None	None	dtree
+300858	None	Little to None	None	dtree
+154521	None	Little to None	Individual	dtree
+85820	None	Severe	None	dtree
+48374	None	Little to None	None	dtree
+401830	Abusive	Little to None	None	dtree
+659995	Abusive	Little to None	None	dtree
+481612	None	Little to None	None	dtree
+353638	Abusive	Severe	Organization	dtree
+155874	None	Little to None	None	dtree
+150600	None	Little to None	None	dtree
+644211	None	Little to None	Organization	dtree
+69914	None	Little to None	None	dtree
+895549	None	Little to None	Individual	dtree
+391602	None	Little to None	Organization	dtree
+188806	None	Little to None	None	dtree
+875163	None	Mild	None	dtree
+531401	Abusive	Mild	None	dtree
+82518	Political Hate	Little to None	Individual	dtree
+931919	None	Little to None	None	dtree
+333351	None	Little to None	None	dtree
+856298	Abusive	Little to None	Community	dtree
+486747	Abusive	Little to None	None	dtree
+110691	None	Mild	None	dtree
+2644	Abusive	Little to None	Individual	dtree
+561120	Abusive	Little to None	Community	dtree
+130983	None	Little to None	None	dtree
+501098	None	Little to None	Organization	dtree
+82263	None	Little to None	None	dtree
+29182	Abusive	Mild	None	dtree
+212273	Political Hate	Little to None	None	dtree
+623230	None	Severe	Individual	dtree
+6425	None	Little to None	None	dtree
+540760	None	Little to None	None	dtree
+494478	None	Little to None	None	dtree
+616145	Abusive	Little to None	Organization	dtree
+347165	None	Little to None	None	dtree
+738489	Political Hate	Mild	Organization	dtree
+171199	None	Little to None	None	dtree
+299661	None	Little to None	None	dtree
+572130	Abusive	Little to None	None	dtree
+500521	None	Little to None	None	dtree
+674339	None	Little to None	None	dtree
+739286	None	Little to None	Organization	dtree
+889123	None	Little to None	None	dtree
+363478	Profane	Severe	Individual	dtree
+409110	None	Little to None	None	dtree
+362208	Abusive	Little to None	None	dtree
+46420	Abusive	Severe	None	dtree
+628302	None	Little to None	None	dtree
+121278	None	Little to None	None	dtree
+611302	None	Little to None	None	dtree
+218567	None	Mild	Organization	dtree
+735901	Political Hate	Mild	None	dtree
+465792	Abusive	Little to None	Society	dtree
+829134	None	Little to None	None	dtree
+11285	None	Little to None	None	dtree
+561526	Profane	Little to None	Individual	dtree
+192199	Abusive	Little to None	None	dtree
+928945	Abusive	Mild	Individual	dtree
+165162	Profane	Little to None	Society	dtree
+280630	Abusive	Little to None	Individual	dtree
+625122	Abusive	Little to None	Community	dtree
+442311	Abusive	Little to None	None	dtree
+563147	None	Little to None	None	dtree
+676593	Abusive	Little to None	Individual	dtree
+488817	Abusive	Little to None	None	dtree
+475977	None	Little to None	Community	dtree
+476390	Abusive	Little to None	None	dtree
+552776	Profane	Severe	Individual	dtree
+276751	Abusive	Mild	Individual	dtree
+242069	Abusive	Mild	Organization	dtree
+345400	Political Hate	Little to None	Organization	dtree
+874395	None	Severe	Individual	dtree
+872132	Profane	Severe	None	dtree
+613180	None	Severe	Society	dtree
+456006	Abusive	Severe	None	dtree
+899171	None	Little to None	None	dtree
+526595	Political Hate	Mild	Individual	dtree
+592644	None	Little to None	None	dtree
+600825	Profane	Mild	Individual	dtree
+525773	None	Little to None	None	dtree
+630766	Abusive	Mild	Society	dtree
+921266	None	Severe	Organization	dtree
+221431	None	Little to None	None	dtree
+668595	Abusive	Little to None	None	dtree
+163448	None	Little to None	None	dtree
+268035	None	Little to None	None	dtree
+13055	None	Little to None	None	dtree
+328169	None	Little to None	None	dtree
+525662	None	Little to None	None	dtree
+598939	None	Little to None	None	dtree
+883170	None	Severe	Individual	dtree
+28953	Political Hate	Mild	Organization	dtree
+848058	Sexism	Severe	None	dtree
+372514	Abusive	Mild	None	dtree
+147481	None	Little to None	None	dtree
+251442	None	Mild	None	dtree
+325678	None	Little to None	None	dtree
+175236	None	Little to None	None	dtree
+117662	Abusive	Little to None	Individual	dtree
+502422	None	Little to None	None	dtree
+214062	None	Little to None	None	dtree
+119013	None	Little to None	None	dtree
+374147	Religious Hate	Mild	Individual	dtree
+443252	Abusive	Little to None	Individual	dtree
+171561	None	Little to None	None	dtree
+655661	Abusive	Severe	Society	dtree
+716103	Abusive	Little to None	Organization	dtree
+920137	None	Little to None	None	dtree
+359307	Abusive	Mild	Organization	dtree
+146675	None	Little to None	None	dtree
+40313	None	Little to None	None	dtree
+90860	None	Little to None	None	dtree
+527131	Abusive	Little to None	None	dtree
+220456	None	Little to None	None	dtree
+85942	Abusive	Little to None	None	dtree
+667291	Abusive	Mild	Community	dtree
+441382	Abusive	Mild	None	dtree
+381311	Abusive	Little to None	Organization	dtree
+835925	None	Little to None	Individual	dtree
+888616	None	Little to None	None	dtree
+698061	None	Mild	None	dtree
+39591	None	Little to None	None	dtree
+920428	Abusive	Mild	None	dtree
+640534	None	Little to None	None	dtree
+68271	Abusive	Severe	None	dtree
+136411	None	Little to None	None	dtree
+540991	Political Hate	Little to None	Organization	dtree
+824492	None	Little to None	None	dtree
+434469	None	Little to None	None	dtree
+422740	Political Hate	Little to None	Individual	dtree
+572161	Political Hate	Little to None	None	dtree
+119098	None	Little to None	None	dtree
+355165	None	Little to None	None	dtree
+775199	Religious Hate	Little to None	Individual	dtree
+837413	None	Mild	Individual	dtree
+443309	Abusive	Little to None	Organization	dtree
+587223	None	Severe	None	dtree
+594572	None	Little to None	None	dtree
+22735	Abusive	Mild	Individual	dtree
+116413	None	Little to None	None	dtree
+710583	None	Little to None	None	dtree
+726636	None	Little to None	None	dtree
+868107	None	Severe	None	dtree
+128785	None	Little to None	None	dtree
+521034	None	Little to None	None	dtree
+738233	Abusive	Severe	Community	dtree
+5308	None	Little to None	None	dtree
+198886	Abusive	Severe	Society	dtree
+894583	None	Little to None	None	dtree
+804137	None	Little to None	None	dtree
+18542	Political Hate	Little to None	None	dtree
+297422	None	Little to None	None	dtree
+603678	Abusive	Little to None	None	dtree
+858228	Abusive	Mild	None	dtree
+546201	None	Little to None	Individual	dtree
+47131	None	Little to None	None	dtree
+82767	None	Little to None	None	dtree
+728929	Abusive	Mild	Individual	dtree
+693066	None	Mild	Individual	dtree
+848852	None	Little to None	None	dtree
+362882	None	Little to None	None	dtree
+546456	None	Little to None	None	dtree
+75345	Abusive	Little to None	Organization	dtree
+279149	Political Hate	Severe	Organization	dtree
+8283	None	Mild	None	dtree
+696820	None	Mild	None	dtree
+705215	Abusive	Mild	Organization	dtree
+28959	Religious Hate	Severe	Individual	dtree
+289930	None	Severe	None	dtree
+109655	Political Hate	Mild	Organization	dtree
+648187	None	Severe	None	dtree
+221976	None	Little to None	None	dtree
+837622	None	Little to None	None	dtree
+360212	Abusive	Severe	Organization	dtree
+161236	Political Hate	Severe	None	dtree
+391732	None	Little to None	None	dtree
+562801	None	Severe	Individual	dtree
+63256	Abusive	Severe	Individual	dtree
+381089	None	Little to None	Individual	dtree
+510562	Profane	Little to None	None	dtree
+177616	Abusive	Mild	None	dtree
+439929	Abusive	Severe	Community	dtree
+841974	Political Hate	Mild	Organization	dtree
+113983	None	Little to None	None	dtree
+498745	None	Severe	None	dtree
+786905	Profane	Little to None	Community	dtree
+492739	None	Little to None	None	dtree
+585980	None	Little to None	None	dtree
+425651	None	Mild	Society	dtree
+569506	Abusive	Little to None	Organization	dtree
+857246	Abusive	Severe	None	dtree
+265292	Abusive	Little to None	Individual	dtree
+609994	Abusive	Mild	Organization	dtree
+826584	Abusive	Severe	None	dtree
+460609	Abusive	Mild	Individual	dtree
+644542	Profane	Little to None	Individual	dtree
+276176	None	Little to None	Individual	dtree
+619102	None	Little to None	None	dtree
+891625	Abusive	Severe	Community	dtree
+798443	None	Little to None	Society	dtree
+730888	None	Severe	Society	dtree
+346632	Abusive	Little to None	Community	dtree
+380253	None	Little to None	None	dtree
+370503	None	Little to None	Organization	dtree
+803701	None	Severe	Individual	dtree
+248258	None	Little to None	None	dtree
+252345	None	Little to None	None	dtree
+562683	Abusive	Little to None	None	dtree
+601766	Profane	Little to None	Community	dtree
+752224	None	Little to None	None	dtree
+774095	None	Little to None	None	dtree
+930299	None	Mild	Community	dtree
+378827	None	Little to None	None	dtree
+656481	None	Little to None	None	dtree
+500381	None	Little to None	None	dtree
+27958	None	Severe	Community	dtree
+928671	None	Little to None	None	dtree
+390166	None	Little to None	None	dtree
+488577	Profane	Little to None	Society	dtree
+162980	Religious Hate	Mild	None	dtree
+560228	Profane	Severe	None	dtree
+211363	Political Hate	Little to None	Organization	dtree
+555638	Abusive	Mild	Individual	dtree
+528703	None	Little to None	None	dtree
+683734	None	Mild	Individual	dtree
+671313	None	Little to None	None	dtree
+464409	Abusive	Mild	None	dtree
+697953	Abusive	Little to None	None	dtree
+769838	Profane	Little to None	Individual	dtree
+643094	Political Hate	Little to None	Individual	dtree
+659189	Abusive	Little to None	Individual	dtree
+729086	None	Little to None	None	dtree
+76120	None	Mild	Community	dtree
+502902	Abusive	Little to None	None	dtree
+35497	None	Little to None	None	dtree
+878023	None	Little to None	None	dtree
+182903	None	Severe	Society	dtree
+331432	Political Hate	Little to None	None	dtree
+87304	Abusive	Little to None	None	dtree
+582911	Political Hate	Severe	None	dtree
+865624	None	Little to None	None	dtree
+786884	Political Hate	Little to None	None	dtree
+201460	Political Hate	Little to None	Individual	dtree
+824978	None	Little to None	None	dtree
+131089	Abusive	Little to None	Society	dtree
+45828	None	Little to None	None	dtree
+716999	None	Mild	None	dtree
+399791	Political Hate	Little to None	Organization	dtree
+822399	None	Severe	None	dtree
+468175	None	Little to None	None	dtree
+559340	None	Little to None	None	dtree
+564393	None	Little to None	Individual	dtree
+292000	None	Little to None	None	dtree
+399452	Abusive	Mild	Community	dtree
+136541	None	Little to None	None	dtree
+926094	Political Hate	Little to None	Individual	dtree
+246108	Political Hate	Mild	None	dtree
+825840	None	Little to None	None	dtree
+581994	None	Mild	None	dtree
+354067	None	Little to None	None	dtree
+681734	Abusive	Little to None	None	dtree
+26649	None	Mild	None	dtree
+627386	None	Little to None	None	dtree
+145008	None	Little to None	None	dtree
+915087	Abusive	Little to None	None	dtree
+547709	None	Little to None	Individual	dtree
+281881	Abusive	Little to None	None	dtree
+273124	Political Hate	Mild	Organization	dtree
+605863	Abusive	Little to None	None	dtree
+415658	Abusive	Little to None	None	dtree
+726974	None	Little to None	None	dtree
+397924	Religious Hate	Severe	None	dtree
+404924	Abusive	Severe	None	dtree
+297714	Profane	Severe	Individual	dtree
+63483	None	Little to None	None	dtree
+322043	None	Little to None	None	dtree
+234193	None	Little to None	None	dtree
+719447	Political Hate	Severe	Individual	dtree
+385281	Abusive	Severe	Community	dtree
+63708	Abusive	Little to None	None	dtree
+333270	Political Hate	Mild	Organization	dtree
+700234	Abusive	Severe	Community	dtree
+265890	None	Severe	Individual	dtree
+841683	Abusive	Mild	Individual	dtree
+46046	Abusive	Mild	Individual	dtree
+7628	None	Little to None	None	dtree
+385452	Abusive	Severe	Individual	dtree
+666403	None	Little to None	None	dtree
+651179	None	Little to None	None	dtree
+526158	None	Little to None	None	dtree
+235512	Political Hate	Mild	Organization	dtree
+647610	None	Little to None	None	dtree
+684832	None	Little to None	None	dtree
+688194	None	Little to None	Organization	dtree
+835048	None	Little to None	None	dtree
+295774	None	Little to None	None	dtree
+936137	None	Little to None	None	dtree
+527913	Abusive	Little to None	None	dtree
+844457	None	Little to None	None	dtree
+94083	None	Little to None	None	dtree
+918182	None	Little to None	None	dtree
+675306	None	Little to None	None	dtree
+164879	None	Mild	None	dtree
+135358	None	Little to None	None	dtree
+419189	Abusive	Little to None	Organization	dtree
+367074	Abusive	Mild	Individual	dtree
+904401	None	Little to None	None	dtree
+885491	Abusive	Little to None	None	dtree
+399277	None	Little to None	Individual	dtree
+335110	Political Hate	Little to None	Community	dtree
+727424	None	Mild	None	dtree
+886894	None	Little to None	None	dtree
+67349	Abusive	Mild	None	dtree
+397383	Abusive	Little to None	Individual	dtree
+557190	Political Hate	Mild	Individual	dtree
+646473	None	Little to None	Community	dtree
+723824	None	Little to None	None	dtree
+591417	None	Little to None	None	dtree
+336787	Abusive	Little to None	Individual	dtree
+222633	None	Little to None	None	dtree
+389169	Religious Hate	Mild	Community	dtree
+536990	Abusive	Little to None	Organization	dtree
+464931	None	Little to None	None	dtree
+271738	None	Little to None	None	dtree
+250102	Abusive	Severe	Organization	dtree
+81993	None	Little to None	Organization	dtree
+712190	None	Little to None	None	dtree
+11416	None	Little to None	Individual	dtree
+821017	Political Hate	Little to None	None	dtree
+81196	Religious Hate	Mild	None	dtree
+310154	None	Little to None	None	dtree
+679181	Profane	Severe	Individual	dtree
+180647	None	Little to None	None	dtree
+51949	None	Little to None	Individual	dtree
+822701	Abusive	Little to None	Individual	dtree
+912407	None	Little to None	None	dtree
+893154	Abusive	Little to None	Individual	dtree
+501987	None	Little to None	None	dtree
+600447	None	Severe	Organization	dtree
+98057	None	Little to None	Community	dtree
+250188	Abusive	Mild	Organization	dtree
+828949	None	Severe	Individual	dtree
+485208	None	Little to None	None	dtree
+663570	None	Little to None	None	dtree
+829683	Abusive	Severe	Individual	dtree
+635887	None	Little to None	None	dtree
+347313	None	Little to None	None	dtree
+871351	None	Severe	None	dtree
+41186	None	Little to None	None	dtree
+209087	None	Little to None	None	dtree
+609508	Abusive	Mild	None	dtree
+93819	None	Little to None	None	dtree
+906773	None	Little to None	None	dtree
+164314	None	Little to None	None	dtree
+922627	None	Little to None	Society	dtree
+580295	None	Little to None	None	dtree
+320403	Profane	Mild	Individual	dtree
+131965	None	Little to None	None	dtree
+790489	Abusive	Little to None	Individual	dtree
+258586	Abusive	Little to None	Community	dtree
+149958	None	Little to None	None	dtree
+524231	None	Little to None	None	dtree
+877558	Abusive	Severe	None	dtree
+728208	None	Little to None	None	dtree
+421836	Abusive	Mild	Individual	dtree
+80075	Abusive	Little to None	None	dtree
+517299	None	Little to None	None	dtree
+129667	Abusive	Little to None	Organization	dtree
+834853	None	Little to None	None	dtree
+512238	Abusive	Little to None	Individual	dtree
+154916	Political Hate	Little to None	None	dtree
+750522	Religious Hate	Severe	None	dtree
+468203	None	Little to None	None	dtree
+427803	None	Little to None	Individual	dtree
+146156	None	Little to None	Society	dtree
+333979	Abusive	Mild	None	dtree
+478605	None	Mild	None	dtree
+695510	None	Little to None	Community	dtree
+595492	None	Little to None	None	dtree
+73581	Abusive	Mild	None	dtree
+446110	None	Little to None	None	dtree
+73708	None	Little to None	None	dtree
+309066	None	Little to None	None	dtree
+464922	None	Little to None	Individual	dtree
+335323	None	Little to None	None	dtree
+894940	None	Little to None	Society	dtree
+760055	Abusive	Mild	None	dtree
+300274	Abusive	Little to None	Organization	dtree
+744701	None	Little to None	None	dtree
+145343	None	Mild	None	dtree
+386458	None	Little to None	Individual	dtree
+245102	Abusive	Severe	Community	dtree
+331635	None	Little to None	None	dtree
+603164	None	Mild	None	dtree
+832827	Abusive	Little to None	Community	dtree
+617494	None	Little to None	None	dtree
+459408	None	Little to None	Organization	dtree
+758944	None	Little to None	None	dtree
+435141	Political Hate	Mild	Individual	dtree
+894471	None	Little to None	None	dtree
+879749	None	Little to None	None	dtree
+100340	None	Little to None	None	dtree
+157977	None	Little to None	None	dtree
+100523	None	Little to None	None	dtree
+19240	Political Hate	Mild	Individual	dtree
+609427	None	Little to None	Society	dtree
+698537	None	Little to None	None	dtree
+639002	None	Little to None	Society	dtree
+169203	None	Severe	Society	dtree
+827808	Abusive	Little to None	None	dtree
+707068	None	Little to None	None	dtree
+227085	Political Hate	Mild	Organization	dtree
+567057	Political Hate	Little to None	Individual	dtree
+244933	None	Little to None	None	dtree
+73391	None	Little to None	None	dtree
+469472	Abusive	Little to None	Individual	dtree
+101243	Abusive	Little to None	Individual	dtree
+443447	None	Mild	Individual	dtree
+223631	None	Severe	None	dtree
+60877	None	Severe	Individual	dtree
+627019	None	Little to None	None	dtree
+41524	None	Mild	None	dtree
+510107	Abusive	Little to None	Individual	dtree
+48829	Abusive	Little to None	Individual	dtree
+631587	None	Little to None	None	dtree
+273738	Political Hate	Mild	Organization	dtree
+412411	Abusive	Mild	None	dtree
+95413	Political Hate	Little to None	Organization	dtree
+778490	None	Little to None	Individual	dtree
+511909	None	Little to None	Individual	dtree
+753789	Abusive	Mild	None	dtree
+365059	None	Severe	Society	dtree
+837143	Abusive	Little to None	Individual	dtree
+496482	None	Severe	None	dtree
+903692	None	Little to None	None	dtree
+452308	None	Mild	None	dtree
+604597	Abusive	Mild	None	dtree
+516479	Profane	Little to None	Individual	dtree
+884813	Political Hate	Mild	Individual	dtree
+316375	None	Severe	None	dtree
+128273	None	Little to None	None	dtree
+932106	None	Mild	None	dtree
+338346	None	Little to None	None	dtree
+781358	Religious Hate	Little to None	Community	dtree
+245253	None	Little to None	None	dtree
+440543	None	Severe	Community	dtree
+69508	None	Little to None	None	dtree
+46748	Abusive	Mild	Organization	dtree
+77622	None	Little to None	None	dtree
+772309	None	Little to None	None	dtree
+758729	None	Little to None	None	dtree
+291623	None	Little to None	None	dtree
+79228	None	Little to None	None	dtree
+672177	Abusive	Mild	Community	dtree
+123280	None	Severe	Organization	dtree
+246668	None	Little to None	None	dtree
+540577	None	Little to None	None	dtree
+678402	None	Little to None	None	dtree
+627222	Abusive	Mild	Individual	dtree
+349744	None	Mild	None	dtree
+892828	Abusive	Little to None	Organization	dtree
+790220	Abusive	Little to None	None	dtree
+489069	Abusive	Little to None	None	dtree
+576472	None	Little to None	None	dtree
+362619	Political Hate	Mild	Organization	dtree
+888632	Abusive	Mild	Individual	dtree
+157427	None	Little to None	None	dtree
+88274	Abusive	Mild	Individual	dtree
+654296	Political Hate	Mild	None	dtree
+546871	None	Little to None	Individual	dtree
+714366	None	Little to None	Individual	dtree
+124924	None	Little to None	None	dtree
+140611	Abusive	Mild	None	dtree
+119558	Abusive	Severe	Organization	dtree
+603201	Profane	Little to None	Community	dtree
+356978	None	Little to None	None	dtree
+737157	None	Little to None	None	dtree
+717086	Abusive	Little to None	None	dtree
+878114	Abusive	Little to None	Organization	dtree
+438274	Abusive	Little to None	Community	dtree
+332470	Abusive	Mild	Individual	dtree
+277190	None	Little to None	None	dtree
+233769	None	Little to None	Community	dtree
+928377	Profane	Severe	None	dtree
+254669	None	Severe	None	dtree
+175420	Abusive	Little to None	None	dtree
+269571	None	Little to None	None	dtree
+142080	Political Hate	Little to None	Individual	dtree
+517120	Abusive	Severe	Individual	dtree
+692974	None	Little to None	None	dtree
+209866	None	Little to None	None	dtree
+845841	Abusive	Severe	None	dtree
+205879	Abusive	Little to None	Community	dtree
+369385	Political Hate	Little to None	None	dtree
+764706	None	Little to None	None	dtree
+504039	None	Little to None	None	dtree
+878750	None	Little to None	None	dtree
+671380	Abusive	Severe	Community	dtree
+694236	Abusive	Severe	Organization	dtree
+565463	None	Little to None	Community	dtree
+544801	Abusive	Little to None	None	dtree
+307571	Abusive	Severe	None	dtree
+557408	None	Severe	Individual	dtree
+931038	None	Little to None	None	dtree
+795336	None	Mild	None	dtree
+743568	Abusive	Little to None	Community	dtree
+281059	None	Little to None	None	dtree
+241218	None	Little to None	None	dtree
+493143	Abusive	Mild	Organization	dtree
+4211	Abusive	Mild	Individual	dtree
+466053	None	Little to None	None	dtree
+559620	Abusive	Little to None	None	dtree
+593980	None	Little to None	None	dtree
+786474	Religious Hate	Mild	None	dtree
+430212	Abusive	Little to None	Society	dtree
+404662	Profane	Little to None	None	dtree
+174220	None	Mild	Community	dtree
+807057	None	Little to None	None	dtree
+680306	None	Little to None	None	dtree
+235465	None	Little to None	None	dtree
+657276	Profane	Little to None	Individual	dtree
+268333	None	Little to None	None	dtree
+397874	Political Hate	Mild	None	dtree
+451433	Abusive	Little to None	Individual	dtree
+375904	None	Little to None	Organization	dtree
+557325	None	Little to None	None	dtree
+232414	None	Mild	Individual	dtree
+9702	None	Little to None	None	dtree
+11159	None	Little to None	None	dtree
+43434	None	Little to None	Organization	dtree
+821366	None	Little to None	None	dtree
+103702	None	Little to None	None	dtree
+782050	None	Little to None	Organization	dtree
+464774	None	Little to None	None	dtree
+494862	None	Severe	Community	dtree
+257348	None	Little to None	None	dtree
+558234	Abusive	Mild	None	dtree
+926892	Abusive	Little to None	None	dtree
+472086	None	Little to None	None	dtree
+71998	Political Hate	Little to None	None	dtree
+386085	Abusive	Little to None	None	dtree
+932001	Abusive	Little to None	None	dtree
+550966	None	Little to None	None	dtree
+217614	Abusive	Severe	Community	dtree
+751613	None	Little to None	None	dtree
+829917	None	Mild	Society	dtree
+715475	None	Little to None	None	dtree
+195427	None	Mild	None	dtree
+357847	None	Severe	None	dtree
+344389	None	Little to None	Community	dtree
+724484	None	Little to None	None	dtree
+566318	None	Little to None	Society	dtree
+229920	Abusive	Mild	None	dtree
+291141	Abusive	Mild	Organization	dtree
+685003	None	Little to None	None	dtree
+823068	None	Little to None	None	dtree
+467304	Profane	Little to None	None	dtree
+623209	None	Little to None	Community	dtree
+391054	None	Severe	Community	dtree
+408728	Abusive	Severe	Organization	dtree
+828880	None	Mild	None	dtree
+817214	None	Little to None	None	dtree
+796154	Abusive	Mild	None	dtree
+382892	None	Little to None	None	dtree
+517694	Abusive	Little to None	Organization	dtree
+867699	None	Severe	None	dtree
+701100	Political Hate	Severe	None	dtree
+243586	Abusive	Little to None	Individual	dtree
+813985	Abusive	Little to None	Individual	dtree
+278215	None	Little to None	None	dtree
+470395	None	Little to None	None	dtree
+708810	Profane	Mild	Organization	dtree
+526539	Abusive	Mild	None	dtree
+559111	Abusive	Mild	Organization	dtree
+357223	None	Severe	Individual	dtree
+921429	Abusive	Little to None	Individual	dtree
+324418	Abusive	Little to None	None	dtree
+650935	None	Little to None	None	dtree
+38930	Abusive	Little to None	None	dtree
+8971	None	Little to None	None	dtree
+739479	None	Little to None	None	dtree
+797851	None	Little to None	None	dtree
+760390	Abusive	Severe	Individual	dtree
+831693	None	Little to None	Individual	dtree
+862239	Abusive	Little to None	Society	dtree
+278473	None	Little to None	None	dtree
+641709	None	Severe	Individual	dtree
+40920	None	Severe	None	dtree
+452383	None	Severe	Society	dtree
+887001	None	Mild	None	dtree
+807629	None	Little to None	None	dtree
+742470	None	Little to None	None	dtree
+906061	None	Little to None	None	dtree
+633257	None	Little to None	None	dtree
+351010	None	Severe	None	dtree
+823876	None	Mild	Organization	dtree
+334604	Political Hate	Mild	Organization	dtree
+445824	Abusive	Little to None	Organization	dtree
+468140	None	Little to None	None	dtree
+394049	Abusive	Mild	Organization	dtree
+162757	None	Little to None	None	dtree
+57731	None	Little to None	None	dtree
+371906	None	Little to None	None	dtree
+700128	Abusive	Little to None	None	dtree
+839768	None	Little to None	None	dtree
+411555	Religious Hate	Mild	None	dtree
+84795	Abusive	Little to None	None	dtree
+774878	None	Little to None	None	dtree
+505229	None	Little to None	None	dtree
+289014	Abusive	Little to None	Society	dtree
+694048	None	Little to None	None	dtree
+181111	None	Little to None	None	dtree
+46517	Political Hate	Mild	Individual	dtree
+97053	Profane	Severe	None	dtree
+746764	Abusive	Little to None	None	dtree
+390622	Abusive	Little to None	Individual	dtree
+444633	None	Little to None	None	dtree
+103602	Abusive	Little to None	Individual	dtree
+224242	None	Little to None	None	dtree
+477505	Abusive	Little to None	None	dtree
+92649	None	Little to None	None	dtree
+360414	None	Severe	None	dtree
+63542	Abusive	Little to None	Community	dtree
+301203	Political Hate	Little to None	Organization	dtree
+508058	Profane	Severe	Individual	dtree
+738605	Abusive	Severe	None	dtree
+172299	Abusive	Mild	None	dtree
+378925	None	Little to None	Community	dtree
+607161	None	Little to None	None	dtree
+380233	Political Hate	Severe	Society	dtree
+540926	None	Little to None	None	dtree
+668969	Political Hate	Severe	Individual	dtree
+316990	None	Little to None	None	dtree
+482466	None	Mild	None	dtree
+260887	None	Little to None	None	dtree
+563963	None	Little to None	None	dtree
+917361	None	Little to None	None	dtree
+266571	None	Mild	None	dtree
+51068	None	Little to None	None	dtree
+348468	None	Little to None	None	dtree
+807445	Abusive	Mild	None	dtree
+427140	Abusive	Little to None	Community	dtree
+422165	Profane	Little to None	None	dtree
+55904	Abusive	Little to None	Individual	dtree
+265434	None	Little to None	Society	dtree
+267256	None	Little to None	None	dtree
+518142	Abusive	Little to None	Community	dtree
+782489	Profane	Mild	None	dtree
+916917	Abusive	Mild	Organization	dtree
+591157	Abusive	Little to None	Organization	dtree
+662682	None	Little to None	None	dtree
+393092	Abusive	Mild	None	dtree
+915065	None	Little to None	None	dtree
+33824	None	Little to None	Society	dtree
+756658	Abusive	Severe	Society	dtree
+658706	Political Hate	Mild	None	dtree
+727816	None	Little to None	None	dtree
+654176	Abusive	Severe	Individual	dtree
+182173	None	Little to None	None	dtree
+399562	Abusive	Little to None	Organization	dtree
+435617	Abusive	Little to None	Individual	dtree
+112763	None	Mild	None	dtree
+91780	None	Little to None	Organization	dtree
+396665	Political Hate	Little to None	Society	dtree
+513823	None	Little to None	Community	dtree
+321815	None	Little to None	None	dtree
+706639	None	Little to None	None	dtree
+790250	None	Little to None	Community	dtree
+243116	Profane	Little to None	Community	dtree
+869136	Political Hate	Little to None	Individual	dtree
+628622	None	Severe	None	dtree
+425618	Religious Hate	Mild	Community	dtree
+348905	Abusive	Mild	Society	dtree
+280702	None	Severe	Community	dtree
+796835	None	Little to None	None	dtree
+339696	None	Little to None	None	dtree
+664582	Abusive	Little to None	Community	dtree
+219751	None	Mild	Organization	dtree
+861727	Abusive	Mild	Individual	dtree
+194260	None	Little to None	None	dtree
+33277	None	Little to None	None	dtree
+224231	None	Mild	None	dtree
+886973	Abusive	Severe	Individual	dtree
+582310	None	Little to None	None	dtree
+433077	None	Little to None	None	dtree
+552679	None	Mild	None	dtree
+643528	None	Little to None	None	dtree
+85565	None	Little to None	None	dtree
+628830	None	Little to None	None	dtree
+749660	Abusive	Little to None	None	dtree
+1595	Religious Hate	Severe	None	dtree
+23293	Abusive	Severe	None	dtree
+509035	Abusive	Little to None	None	dtree
+886202	None	Severe	None	dtree
+742533	None	Little to None	None	dtree
+27838	None	Severe	Community	dtree
+75041	Abusive	Mild	None	dtree
+228134	Political Hate	Severe	Organization	dtree
+382699	Abusive	Severe	Community	dtree
+242473	None	Mild	None	dtree
+447845	None	Little to None	None	dtree
+686719	Sexism	Severe	Community	dtree
+325929	None	Little to None	Community	dtree
+138617	Profane	Mild	Organization	dtree
+37781	None	Mild	None	dtree
+265785	None	Little to None	None	dtree
+624047	Political Hate	Little to None	Individual	dtree
+395781	None	Little to None	None	dtree
+719558	None	Little to None	None	dtree
+934245	None	Little to None	None	dtree
+181499	None	Little to None	None	dtree
+397249	None	Mild	Society	dtree
+582244	None	Little to None	None	dtree
+870090	None	Little to None	None	dtree
+462030	Profane	Mild	Organization	dtree
+446338	None	Little to None	None	dtree
+61162	None	Little to None	Individual	dtree
+807176	None	Little to None	None	dtree
+864604	Political Hate	Little to None	None	dtree
+709055	None	Little to None	Community	dtree
+581292	None	Little to None	None	dtree
+563959	Abusive	Severe	Community	dtree
+727426	Abusive	Little to None	None	dtree
+561351	None	Little to None	None	dtree
+916629	Profane	Little to None	Organization	dtree
+242659	None	Little to None	None	dtree
+711936	Abusive	Little to None	None	dtree
+398564	None	Mild	None	dtree
+638288	None	Little to None	None	dtree
+571045	None	Severe	None	dtree
+396357	Abusive	Little to None	None	dtree
+657340	None	Little to None	None	dtree
+131821	None	Little to None	None	dtree
+881260	None	Little to None	None	dtree
+87349	Abusive	Little to None	None	dtree
+232700	None	Mild	Organization	dtree
+22307	Political Hate	Mild	Organization	dtree
+352983	None	Severe	None	dtree
+389506	None	Little to None	None	dtree
+335493	None	Little to None	None	dtree
+739982	Abusive	Severe	None	dtree
+328094	Political Hate	Little to None	Organization	dtree
+528740	None	Little to None	None	dtree
+808137	None	Little to None	None	dtree
+554827	Political Hate	Little to None	Individual	dtree
+858794	None	Little to None	None	dtree
+633224	None	Little to None	None	dtree
+780101	None	Little to None	None	dtree
+602479	Abusive	Little to None	None	dtree
+540580	None	Little to None	None	dtree
+778356	None	Mild	None	dtree
+43268	Political Hate	Little to None	None	dtree
+262437	None	Little to None	Individual	dtree
+71353	None	Little to None	None	dtree
+730463	Abusive	Mild	Organization	dtree
+653820	None	Little to None	None	dtree
+335542	None	Little to None	None	dtree
+826227	None	Little to None	Individual	dtree
+443806	Abusive	Little to None	None	dtree
+769421	None	Mild	None	dtree
+685630	None	Little to None	None	dtree
+590194	Political Hate	Little to None	Individual	dtree
+466683	Abusive	Mild	None	dtree
+280790	Abusive	Mild	Society	dtree
+860057	None	Little to None	None	dtree
+871168	Abusive	Mild	None	dtree
+141496	None	Little to None	None	dtree
+3736	None	Mild	None	dtree
+288686	None	Little to None	None	dtree
+267813	Abusive	Little to None	None	dtree
+832012	None	Little to None	None	dtree
+32904	Abusive	Little to None	None	dtree
+268117	Abusive	Severe	None	dtree
+776783	None	Little to None	None	dtree
+850339	Abusive	Little to None	Individual	dtree
+223593	None	Severe	Organization	dtree
+387123	Political Hate	Severe	None	dtree
+939377	None	Little to None	Individual	dtree
+484079	None	Little to None	None	dtree
+897137	None	Little to None	None	dtree
+655003	None	Little to None	None	dtree
+585973	None	Little to None	None	dtree
+29600	None	Little to None	None	dtree
+830036	Abusive	Severe	Society	dtree
+565839	Abusive	Little to None	Organization	dtree
+359406	Profane	Severe	Community	dtree
+308062	None	Little to None	None	dtree
+594507	None	Little to None	None	dtree
+34433	None	Little to None	None	dtree
+43262	None	Little to None	None	dtree
+145863	None	Little to None	Individual	dtree
+592053	Political Hate	Little to None	None	dtree
+235746	Profane	Severe	None	dtree
+893409	None	Little to None	None	dtree
+939031	None	Little to None	None	dtree
+647343	Abusive	Little to None	Community	dtree
+868309	Abusive	Mild	Individual	dtree
+81611	Abusive	Mild	Individual	dtree
+693429	Abusive	Mild	None	dtree
+546533	Abusive	Mild	Organization	dtree
+804580	Abusive	Severe	Individual	dtree
+774663	None	Little to None	None	dtree
+442687	Abusive	Little to None	Community	dtree
+22333	None	Little to None	None	dtree
+883311	Political Hate	Mild	Organization	dtree
+68897	Political Hate	Mild	Organization	dtree
+716697	None	Little to None	None	dtree
+366472	Abusive	Mild	Individual	dtree
+112632	None	Mild	None	dtree
+759580	Abusive	Mild	Individual	dtree
+68501	Political Hate	Mild	None	dtree
+570238	Abusive	Little to None	None	dtree
+833247	None	Severe	None	dtree
+742235	None	Little to None	None	dtree
+160687	Abusive	Mild	Individual	dtree
+854753	None	Little to None	None	dtree
+256250	Abusive	Mild	None	dtree
+801382	None	Little to None	None	dtree
+358092	Abusive	Little to None	Individual	dtree
+593155	Abusive	Little to None	None	dtree
+72962	None	Little to None	None	dtree
+472051	Abusive	Mild	Individual	dtree
+736544	Abusive	Mild	None	dtree
+26584	Political Hate	Little to None	None	dtree
+14123	Profane	Severe	Individual	dtree
+422940	Abusive	Little to None	Society	dtree
+530930	None	Little to None	None	dtree
+643961	Abusive	Mild	Society	dtree
+725166	None	Little to None	None	dtree
+183565	Profane	Little to None	None	dtree
+592528	None	Mild	None	dtree
+332661	None	Little to None	None	dtree
+893187	None	Little to None	None	dtree
+574249	None	Little to None	None	dtree
+702233	None	Mild	None	dtree
+332441	None	Little to None	None	dtree
+120948	None	Little to None	None	dtree
+303017	None	Little to None	Individual	dtree
+6209	None	Little to None	Organization	dtree
+239068	None	Little to None	None	dtree
+17716	Abusive	Mild	Individual	dtree
+358382	Abusive	Mild	Organization	dtree
+528149	Abusive	Little to None	None	dtree
+154954	None	Little to None	None	dtree
+237442	Abusive	Mild	Individual	dtree
+385586	Abusive	Little to None	None	dtree
+872714	None	Little to None	None	dtree
+173242	None	Mild	Community	dtree
+357390	Abusive	Little to None	None	dtree
+399716	None	Little to None	Individual	dtree
+562599	Political Hate	Little to None	Organization	dtree
+353085	None	Little to None	None	dtree
+732405	None	Little to None	None	dtree
+42984	Abusive	Little to None	Community	dtree
+327956	None	Little to None	None	dtree
+638917	Abusive	Little to None	None	dtree
+93540	Abusive	Little to None	None	dtree
+787421	None	Mild	Organization	dtree
+504895	None	Little to None	None	dtree
+291320	Abusive	Severe	Individual	dtree
+406332	Abusive	Mild	Individual	dtree
+764894	None	Little to None	None	dtree
+670548	None	Little to None	None	dtree
+817559	Abusive	Little to None	Community	dtree
+256795	Abusive	Mild	Community	dtree
+152630	None	Little to None	None	dtree
+17630	Abusive	Little to None	Organization	dtree
+567139	None	Little to None	Individual	dtree
+563824	None	Little to None	None	dtree
+139630	Abusive	Little to None	Organization	dtree
+322733	Abusive	Mild	Individual	dtree
+524979	None	Little to None	None	dtree
+52851	None	Little to None	None	dtree
+449962	Abusive	Mild	None	dtree
+521733	None	Little to None	None	dtree
+820909	None	Mild	None	dtree
+776132	None	Little to None	Society	dtree
+208816	Political Hate	Little to None	None	dtree
+168294	Profane	Severe	Community	dtree
+186490	Political Hate	Severe	Organization	dtree
+34763	Political Hate	Little to None	Individual	dtree
+890503	None	Mild	None	dtree
+730297	None	Little to None	None	dtree
+267275	None	Severe	None	dtree
+875303	None	Severe	None	dtree
+410510	None	Little to None	Society	dtree
+198288	None	Severe	Individual	dtree
+878523	Abusive	Mild	None	dtree
+804090	None	Little to None	None	dtree
+876050	None	Little to None	None	dtree
+538825	Abusive	Little to None	Organization	dtree
+439504	None	Little to None	None	dtree
+98661	None	Little to None	None	dtree
+50223	Abusive	Mild	Society	dtree
+882392	Abusive	Little to None	Individual	dtree
+31474	None	Severe	None	dtree
+752145	None	Little to None	None	dtree
+864075	None	Little to None	None	dtree
+459116	Abusive	Severe	Individual	dtree
+498640	None	Little to None	Society	dtree
+802864	Profane	Little to None	None	dtree
+295472	None	Little to None	None	dtree
+934066	None	Little to None	None	dtree
+902880	None	Little to None	None	dtree
+111465	Abusive	Mild	Individual	dtree
+933484	None	Severe	Individual	dtree
+667357	None	Little to None	None	dtree
+81463	None	Little to None	None	dtree
+649992	None	Little to None	Individual	dtree
+60065	Political Hate	Little to None	Organization	dtree
+328916	Abusive	Mild	Individual	dtree
+304492	None	Little to None	None	dtree
+385489	Profane	Little to None	None	dtree
+683209	Profane	Severe	None	dtree
+67622	None	Little to None	None	dtree
+507528	Profane	Severe	None	dtree
+460125	None	Mild	None	dtree
+285627	None	Mild	Society	dtree
+309055	None	Little to None	None	dtree
+702822	Abusive	Little to None	Individual	dtree
+714655	None	Little to None	None	dtree
+265922	None	Severe	Individual	dtree
+485097	None	Little to None	None	dtree
+270514	None	Mild	Individual	dtree
+87760	None	Little to None	None	dtree
+169601	None	Little to None	None	dtree
+798353	None	Little to None	None	dtree
+100120	Political Hate	Little to None	Community	dtree
+441410	Abusive	Mild	Individual	dtree
+592756	Abusive	Little to None	None	dtree
+90373	None	Little to None	None	dtree
+664668	None	Little to None	None	dtree
+122017	Abusive	Little to None	Community	dtree
+544288	None	Little to None	None	dtree
+499935	Abusive	Little to None	Community	dtree
+192544	None	Little to None	None	dtree
+173116	None	Little to None	Society	dtree
+704684	Abusive	Little to None	None	dtree
+845711	None	Little to None	Community	dtree
+880642	None	Mild	Individual	dtree
+335733	Profane	Little to None	None	dtree
+819142	None	Little to None	None	dtree
+123199	None	Little to None	None	dtree
+216638	None	Little to None	None	dtree
+215582	Political Hate	Little to None	Organization	dtree
+553211	Political Hate	Little to None	Organization	dtree
+826034	None	Mild	None	dtree
+918589	None	Little to None	None	dtree
+547320	None	Little to None	None	dtree
+266882	Abusive	Little to None	Individual	dtree
+750993	None	Little to None	None	dtree
+653654	None	Little to None	None	dtree
+890678	Abusive	Little to None	Organization	dtree
+381394	None	Little to None	None	dtree
+356587	None	Little to None	None	dtree
+590822	Abusive	Mild	None	dtree
+166688	Profane	Mild	Individual	dtree
+230635	None	Little to None	None	dtree
+55098	None	Little to None	Individual	dtree
+617669	None	Mild	Individual	dtree
+180620	None	Little to None	None	dtree
+187898	Political Hate	Little to None	Community	dtree
+371940	None	Mild	Community	dtree
+181651	Political Hate	Little to None	Organization	dtree
+147825	Abusive	Severe	None	dtree
+438932	Abusive	Little to None	Individual	dtree
+63001	None	Little to None	None	dtree
+329086	Political Hate	Mild	Individual	dtree
+301069	None	Little to None	None	dtree
+347294	None	Little to None	None	dtree
+461037	Religious Hate	Severe	Society	dtree
+170607	Abusive	Little to None	Organization	dtree
+499607	Profane	Little to None	None	dtree
+710744	Profane	Severe	Individual	dtree
+240005	None	Little to None	None	dtree
+424128	Abusive	Little to None	Organization	dtree
+779357	None	Little to None	Organization	dtree
+845111	None	Little to None	None	dtree
+676339	None	Little to None	None	dtree
+290884	Abusive	Little to None	Organization	dtree
+909302	Abusive	Little to None	Individual	dtree
+357977	None	Little to None	None	dtree
+134372	None	Little to None	None	dtree
+659032	None	Little to None	None	dtree
+545917	None	Little to None	None	dtree
+95904	Abusive	Mild	Organization	dtree
+627730	Abusive	Mild	Individual	dtree
+560795	None	Little to None	None	dtree
+379566	None	Little to None	Society	dtree
+142362	None	Little to None	None	dtree
+582295	None	Little to None	None	dtree
+214358	None	Mild	None	dtree
+773834	None	Little to None	None	dtree
+378204	Abusive	Severe	Individual	dtree
+2503	Abusive	Little to None	None	dtree
+66287	None	Little to None	Individual	dtree
+497947	Abusive	Severe	Community	dtree
+821205	None	Little to None	None	dtree
+704887	None	Little to None	None	dtree
+142605	Profane	Mild	Individual	dtree
+793597	Political Hate	Mild	Organization	dtree
+244475	Political Hate	Mild	None	dtree
+732424	None	Little to None	None	dtree
+669456	Political Hate	Mild	Organization	dtree
+786746	Religious Hate	Severe	Individual	dtree
+260582	Profane	Little to None	Individual	dtree
+669509	None	Mild	None	dtree
+519827	None	Little to None	Individual	dtree
+204443	Abusive	Mild	Community	dtree
+583890	None	Little to None	None	dtree
+637584	None	Mild	Organization	dtree
+24646	None	Little to None	None	dtree
+280857	Abusive	Little to None	None	dtree
+446535	Abusive	Mild	Society	dtree
+687543	Abusive	Little to None	Society	dtree
+237066	None	Little to None	None	dtree
+912999	None	Little to None	None	dtree
+194057	Political Hate	Severe	Organization	dtree
+146810	Political Hate	Little to None	None	dtree
+442009	Profane	Little to None	Individual	dtree
+350875	Abusive	Mild	None	dtree
+721365	None	Mild	Individual	dtree
+798776	None	Mild	None	dtree
+752086	None	Little to None	None	dtree
+203	None	Little to None	None	dtree
+798871	None	Little to None	None	dtree
+903406	None	Mild	None	dtree
+447678	Abusive	Severe	Individual	dtree
+782699	None	Mild	None	dtree
+188831	Abusive	Severe	Individual	dtree
+653198	Political Hate	Severe	None	dtree
+439858	Abusive	Little to None	Individual	dtree
+869461	None	Little to None	None	dtree
+389095	None	Little to None	None	dtree
+378732	None	Little to None	None	dtree
+906177	Political Hate	Mild	None	dtree
+309517	Abusive	Little to None	Community	dtree
+356240	None	Severe	Organization	dtree
+612238	Political Hate	Little to None	Organization	dtree
+404551	Abusive	Severe	Community	dtree
+417818	Abusive	Severe	Community	dtree
+626581	None	Little to None	None	dtree
+839516	Abusive	Little to None	Organization	dtree
+794748	None	Little to None	None	dtree
+849980	None	Little to None	None	dtree
+721487	None	Severe	Society	dtree
+625949	Political Hate	Mild	Organization	dtree
+593733	Political Hate	Mild	Individual	dtree
+853345	None	Little to None	None	dtree
+434994	None	Little to None	None	dtree
+439183	Abusive	Mild	Organization	dtree
+688066	None	Little to None	None	dtree
+343290	None	Little to None	Individual	dtree
+529720	None	Little to None	None	dtree
+8435	Abusive	Little to None	Organization	dtree
+625145	None	Little to None	Society	dtree
+523883	Profane	Little to None	Society	dtree
+871055	Abusive	Little to None	Individual	dtree
+1467	Abusive	Mild	Community	dtree
+414730	Abusive	Little to None	Individual	dtree
+23986	Profane	Little to None	None	dtree
+604006	None	Little to None	None	dtree
+35914	None	Little to None	None	dtree
+921548	None	Little to None	Society	dtree
+600422	Political Hate	Severe	Society	dtree
+820850	None	Little to None	Individual	dtree
+172221	Abusive	Little to None	Society	dtree
+151782	None	Mild	None	dtree
+729740	None	Little to None	None	dtree
+795158	None	Mild	Society	dtree
+89095	Abusive	Little to None	None	dtree
+871021	Abusive	Little to None	Individual	dtree
+410433	Abusive	Mild	None	dtree
+259966	None	Little to None	None	dtree
+622086	Political Hate	Mild	Organization	dtree
+757437	Religious Hate	Little to None	None	dtree
+834041	None	Little to None	Individual	dtree
+614182	Abusive	Mild	Individual	dtree
+213978	None	Little to None	None	dtree
+177775	None	Little to None	Individual	dtree
+175096	None	Little to None	None	dtree
+924491	None	Little to None	None	dtree
+74708	Abusive	Little to None	Organization	dtree
+145454	Abusive	Severe	Community	dtree
+122063	None	Little to None	None	dtree
+523490	None	Little to None	None	dtree
+567534	Abusive	Little to None	None	dtree
+3766	Political Hate	Severe	None	dtree
+898495	None	Severe	Individual	dtree
+215674	None	Little to None	None	dtree
+12410	Abusive	Severe	Community	dtree
+710245	None	Little to None	None	dtree
+10063	None	Little to None	None	dtree
+540310	None	Little to None	None	dtree
+412055	None	Mild	None	dtree
+151874	None	Little to None	None	dtree
+773973	None	Little to None	Organization	dtree
+258469	None	Little to None	None	dtree
+336614	None	Little to None	None	dtree
+881812	None	Mild	None	dtree
+183470	Abusive	Little to None	Individual	dtree
+703445	Abusive	Little to None	Individual	dtree
+577195	None	Little to None	None	dtree
+408421	Abusive	Mild	None	dtree
+115868	None	Little to None	None	dtree
+641646	Abusive	Little to None	Community	dtree
+868822	None	Little to None	Community	dtree
+847093	Abusive	Little to None	None	dtree
+564034	Abusive	Mild	Individual	dtree
+257938	None	Little to None	None	dtree
+106592	None	Little to None	None	dtree
+792068	None	Little to None	None	dtree
+555057	Political Hate	Little to None	None	dtree
+390255	None	Little to None	None	dtree
+245231	None	Little to None	None	dtree
+475110	None	Little to None	None	dtree
+413861	Abusive	Mild	Individual	dtree
+800883	None	Little to None	None	dtree
+685063	Political Hate	Little to None	Individual	dtree
+65728	Political Hate	Mild	Individual	dtree
+933802	None	Little to None	None	dtree
+11690	Religious Hate	Little to None	None	dtree
+706579	Abusive	Little to None	None	dtree
+215276	Abusive	Little to None	Society	dtree
+204169	None	Little to None	Organization	dtree
+554749	None	Little to None	None	dtree
+102106	Political Hate	Little to None	None	dtree
+687707	None	Little to None	Organization	dtree
+782993	None	Little to None	None	dtree
+694802	Abusive	Little to None	Individual	dtree
+140095	Abusive	Mild	Organization	dtree
+449706	Abusive	Little to None	None	dtree
+103008	Abusive	Severe	Society	dtree
+268505	Political Hate	Little to None	Organization	dtree
+677768	None	Little to None	None	dtree
+399395	Abusive	Mild	Organization	dtree
+934704	Abusive	Mild	Individual	dtree
+183078	Political Hate	Little to None	Organization	dtree
+472268	Abusive	Little to None	Individual	dtree
+140804	None	Severe	None	dtree
+266462	Abusive	Little to None	Society	dtree
+4502	Abusive	Mild	None	dtree
+601389	Political Hate	Mild	Organization	dtree
+51708	None	Little to None	None	dtree
+451288	None	Little to None	None	dtree
+723131	None	Severe	None	dtree
+514786	None	Little to None	None	dtree
+301007	None	Little to None	None	dtree
+229205	None	Little to None	None	dtree
+524989	None	Severe	None	dtree
+824458	None	Little to None	None	dtree
+522751	None	Mild	Organization	dtree
+829398	Political Hate	Little to None	None	dtree
+442481	None	Little to None	None	dtree
+86918	Abusive	Little to None	Organization	dtree
+760133	Abusive	Severe	Individual	dtree
+22336	None	Little to None	None	dtree
+110130	Profane	Little to None	Individual	dtree
+794326	Abusive	Severe	None	dtree
+184205	Political Hate	Mild	Organization	dtree
+501326	None	Little to None	Individual	dtree
+305515	Abusive	Mild	Society	dtree
+453214	Abusive	Little to None	Individual	dtree
+780977	None	Little to None	None	dtree
+197116	None	Little to None	None	dtree
+709765	None	Little to None	None	dtree
+660740	Political Hate	Severe	Individual	dtree
+751452	Political Hate	Severe	Society	dtree
+776616	Abusive	Little to None	Society	dtree
+594957	Abusive	Severe	Organization	dtree
+758653	None	Little to None	None	dtree
+467601	Political Hate	Little to None	Community	dtree
+853875	Abusive	Severe	Individual	dtree
+734436	None	Little to None	None	dtree
+432795	None	Severe	None	dtree
+176963	None	Little to None	None	dtree
+693454	None	Little to None	None	dtree
+431121	Abusive	Little to None	Individual	dtree
+603293	Abusive	Little to None	Community	dtree
+204163	Abusive	Mild	Organization	dtree
+404753	Abusive	Mild	Community	dtree
+350340	Abusive	Mild	Individual	dtree
+101669	None	Mild	None	dtree
+693172	None	Mild	Individual	dtree
+881339	None	Little to None	None	dtree
+234873	Political Hate	Little to None	Individual	dtree
+463879	Abusive	Severe	Society	dtree
+391778	None	Little to None	None	dtree
+696795	None	Little to None	None	dtree
+392525	Political Hate	Little to None	Society	dtree
+437546	None	Little to None	Organization	dtree
+230845	Abusive	Severe	Organization	dtree
+759262	Abusive	Severe	Individual	dtree
+790411	None	Severe	None	dtree
+300211	Abusive	Severe	Society	dtree
+429825	None	Little to None	None	dtree
+241815	Abusive	Mild	Individual	dtree
+587877	Abusive	Mild	None	dtree
+417035	None	Little to None	None	dtree
+329867	Abusive	Severe	Individual	dtree
+858636	None	Little to None	None	dtree
+817662	None	Little to None	None	dtree
+36995	None	Little to None	None	dtree
+540133	Political Hate	Little to None	None	dtree
+178133	None	Little to None	None	dtree
+939084	Abusive	Little to None	Individual	dtree
+220070	Political Hate	Little to None	None	dtree
+810990	Abusive	Mild	Individual	dtree
+564915	Profane	Severe	Society	dtree
+896030	None	Little to None	None	dtree
+803000	None	Little to None	None	dtree
+434425	None	Little to None	None	dtree
+484732	None	Little to None	None	dtree
+928724	Political Hate	Severe	None	dtree
+188109	None	Little to None	None	dtree
+885876	None	Little to None	None	dtree
+439903	Profane	Severe	Organization	dtree
+896774	None	Little to None	None	dtree
+201236	None	Little to None	None	dtree
+294331	None	Little to None	None	dtree
+283925	Profane	Severe	None	dtree
+619478	Profane	Severe	None	dtree
+849009	None	Little to None	None	dtree
+716054	Political Hate	Mild	Individual	dtree
+560726	None	Mild	Community	dtree
+743594	None	Little to None	None	dtree
+624407	None	Little to None	Individual	dtree
+258727	Abusive	Severe	None	dtree
+380744	None	Little to None	Individual	dtree
+413547	None	Little to None	None	dtree
+234141	Sexism	Mild	Individual	dtree
+60206	None	Little to None	None	dtree
+579827	None	Little to None	Individual	dtree
+148976	None	Little to None	None	dtree
+201516	None	Little to None	None	dtree
+586357	None	Little to None	None	dtree
+368041	None	Little to None	None	dtree
+281038	None	Mild	Organization	dtree
+200103	Political Hate	Severe	Individual	dtree
+656857	None	Little to None	None	dtree
+877106	None	Little to None	None	dtree
+680816	None	Little to None	None	dtree
+853980	Abusive	Severe	Society	dtree
+416765	Political Hate	Little to None	None	dtree
+777041	Abusive	Little to None	None	dtree
+486896	None	Little to None	Individual	dtree
+1238	None	Little to None	None	dtree
+690011	None	Little to None	None	dtree
+561745	Political Hate	Little to None	Individual	dtree
+419301	Abusive	Little to None	None	dtree
+484745	None	Little to None	None	dtree
+563636	Abusive	Severe	Organization	dtree
+813902	Sexism	Little to None	Organization	dtree
+7505	None	Little to None	None	dtree
+648031	Political Hate	Mild	None	dtree
+144853	Abusive	Severe	None	dtree
+181520	Political Hate	Mild	Individual	dtree
+93012	None	Little to None	None	dtree
+48276	Abusive	Mild	None	dtree
+640764	Abusive	Little to None	Society	dtree
+273507	None	Little to None	None	dtree
+687548	None	Little to None	None	dtree
+917353	None	Little to None	None	dtree
+269221	Political Hate	Little to None	Individual	dtree
+922476	None	Little to None	None	dtree
+807407	None	Little to None	None	dtree
+195060	None	Little to None	None	dtree
+656139	Political Hate	Mild	Organization	dtree
+799134	Abusive	Little to None	None	dtree
+826825	None	Little to None	None	dtree
+9907	Abusive	Mild	Individual	dtree
+298673	None	Mild	None	dtree
+13386	Profane	Severe	Individual	dtree
+842536	None	Little to None	None	dtree
+726308	Abusive	Little to None	Individual	dtree
+306330	Abusive	Severe	Organization	dtree
+688599	None	Little to None	None	dtree
+689584	None	Mild	Individual	dtree
+490674	None	Little to None	None	dtree
+456718	None	Little to None	Community	dtree
+520231	None	Severe	Individual	dtree
+331709	None	Little to None	None	dtree
+409943	None	Little to None	Individual	dtree
+56275	Religious Hate	Little to None	None	dtree
+692039	None	Little to None	None	dtree
+269451	None	Little to None	None	dtree
+13455	None	Little to None	None	dtree
+612107	None	Little to None	None	dtree
+520921	None	Little to None	None	dtree
+309449	Abusive	Little to None	Individual	dtree
+30231	Abusive	Little to None	Individual	dtree
+749946	Abusive	Mild	Organization	dtree
+230540	Profane	Severe	Community	dtree
+306383	None	Mild	None	dtree
+266663	None	Little to None	None	dtree
+306200	None	Little to None	None	dtree
+932141	None	Little to None	None	dtree
+159638	None	Little to None	None	dtree
+153112	None	Little to None	None	dtree
+36929	Abusive	Little to None	None	dtree
+570695	None	Little to None	Individual	dtree
+930405	None	Little to None	None	dtree
+934284	None	Little to None	None	dtree
+241721	Abusive	Little to None	None	dtree
+743285	None	Severe	Community	dtree
+650205	Abusive	Little to None	Individual	dtree
+231694	Abusive	Severe	Community	dtree
+240267	Political Hate	Little to None	Individual	dtree
+105646	Abusive	Mild	Individual	dtree
+166927	None	Little to None	Community	dtree
+222182	Political Hate	Little to None	Organization	dtree
+719880	Political Hate	Little to None	Organization	dtree
+304302	None	Little to None	None	dtree
+246202	None	Mild	Community	dtree
+581414	Political Hate	Severe	Individual	dtree
+39223	None	Little to None	None	dtree
+331481	None	Little to None	None	dtree
+759027	None	Little to None	None	dtree
+372475	Religious Hate	Little to None	None	dtree
+279602	None	Little to None	None	dtree
+374463	Profane	Little to None	None	dtree
+522124	Abusive	Mild	Individual	dtree
+96971	Abusive	Severe	Individual	dtree
+563986	None	Little to None	None	dtree
+186068	None	Little to None	None	dtree
+645261	None	Little to None	None	dtree
+491781	None	Little to None	None	dtree
+227160	None	Mild	None	dtree
+49682	None	Mild	Organization	dtree
+715513	Abusive	Little to None	Individual	dtree
+750666	None	Severe	None	dtree
+498452	None	Little to None	None	dtree
+749770	Political Hate	Little to None	None	dtree
+374272	Abusive	Little to None	Individual	dtree
+300680	None	Little to None	None	dtree
+502810	None	Mild	Organization	dtree
+537922	None	Little to None	None	dtree
+301818	None	Little to None	None	dtree
+77449	None	Little to None	None	dtree
+158868	Abusive	Severe	Society	dtree
+565434	None	Mild	None	dtree
+744307	None	Little to None	None	dtree
+648825	Abusive	Severe	Organization	dtree
+918300	Abusive	Little to None	None	dtree
+573225	None	Mild	None	dtree
+627856	None	Little to None	None	dtree
+772659	None	Little to None	None	dtree
+776500	None	Little to None	None	dtree
+709524	None	Little to None	None	dtree
+321575	None	Little to None	Organization	dtree
+137962	Abusive	Little to None	Community	dtree
+542955	None	Little to None	None	dtree
+413666	None	Little to None	None	dtree
+436247	None	Little to None	None	dtree
+116299	None	Little to None	None	dtree
+764090	Political Hate	Severe	None	dtree
+236100	None	Mild	Community	dtree
+602786	Abusive	Severe	Individual	dtree
+331368	None	Little to None	None	dtree
+281614	None	Little to None	Individual	dtree
+60782	None	Little to None	None	dtree
+789968	Political Hate	Severe	Individual	dtree
+712671	Political Hate	Little to None	None	dtree
+859775	None	Little to None	None	dtree
+652672	None	Little to None	None	dtree
+482297	None	Little to None	None	dtree
+831573	None	Little to None	None	dtree
+878250	None	Little to None	Individual	dtree
+524161	None	Little to None	None	dtree
+740158	None	Little to None	None	dtree
+116408	Abusive	Little to None	None	dtree
+852595	None	Little to None	None	dtree
+6970	Political Hate	Mild	None	dtree
+15185	None	Little to None	None	dtree
+104676	Abusive	Mild	None	dtree
+514480	None	Little to None	None	dtree
+190562	Political Hate	Mild	None	dtree
+236486	None	Little to None	None	dtree
+332051	Profane	Severe	Community	dtree
+324497	None	Little to None	None	dtree
+616466	None	Severe	Community	dtree
+153952	None	Little to None	Individual	dtree
+937715	Abusive	Mild	Individual	dtree
+408137	None	Little to None	None	dtree
+722171	Abusive	Mild	Society	dtree
+187787	None	Severe	None	dtree
+833086	Abusive	Mild	Organization	dtree
+402586	None	Little to None	None	dtree
+79900	None	Little to None	None	dtree
+455503	None	Little to None	None	dtree
+662760	Political Hate	Little to None	Society	dtree
+145666	None	Little to None	None	dtree
+269395	None	Little to None	None	dtree
+855977	None	Little to None	Community	dtree
+411862	None	Little to None	None	dtree
+840865	Abusive	Little to None	Individual	dtree
+656131	Abusive	Severe	Individual	dtree
+283203	Political Hate	Mild	Individual	dtree
+635480	Political Hate	Little to None	None	dtree
+929892	Abusive	Little to None	None	dtree
+900226	None	Little to None	None	dtree
+187748	None	Little to None	None	dtree
+863939	Profane	Severe	None	dtree
+562894	None	Little to None	None	dtree
+229250	None	Little to None	None	dtree
+258055	None	Little to None	None	dtree
+516568	Abusive	Little to None	Society	dtree
+241001	None	Little to None	None	dtree
+738147	None	Little to None	Individual	dtree
+914834	Abusive	Mild	Organization	dtree
+502930	None	Little to None	None	dtree
+157805	Abusive	Severe	Community	dtree
+182528	None	Little to None	None	dtree
+496305	Abusive	Mild	Individual	dtree
+127441	Abusive	Little to None	Individual	dtree
+516994	None	Severe	Community	dtree
+296128	Political Hate	Little to None	None	dtree
+498286	Abusive	Mild	None	dtree
+882886	Abusive	Mild	Individual	dtree
+654441	Abusive	Severe	None	dtree
+355409	Political Hate	Little to None	None	dtree
+526987	None	Little to None	None	dtree
+166978	None	Little to None	None	dtree
+17756	Abusive	Severe	Organization	dtree
+266720	None	Little to None	None	dtree
+814729	None	Little to None	None	dtree
+622339	Abusive	Little to None	Organization	dtree
+735625	Abusive	Little to None	Individual	dtree
+202261	None	Little to None	None	dtree
+374523	Abusive	Mild	Society	dtree
+336668	None	Little to None	None	dtree
+548637	Abusive	Little to None	Individual	dtree
+303416	Profane	Little to None	Individual	dtree
+564069	Abusive	Severe	Organization	dtree
+796931	None	Little to None	None	dtree
+830985	None	Little to None	None	dtree
+492468	Political Hate	Little to None	Individual	dtree
+251311	Political Hate	Little to None	Individual	dtree
+842728	Political Hate	Little to None	Organization	dtree
+124702	Abusive	Little to None	None	dtree
+891343	None	Severe	None	dtree
+376956	Religious Hate	Little to None	None	dtree
+676134	None	Little to None	Community	dtree
+353841	None	Little to None	None	dtree
+669871	None	Little to None	None	dtree
+720106	Political Hate	Little to None	None	dtree
+551785	None	Little to None	None	dtree
+31813	None	Little to None	None	dtree
+179141	None	Little to None	None	dtree
+722850	Profane	Severe	Individual	dtree
+111661	Political Hate	Mild	Organization	dtree
+385980	None	Little to None	Organization	dtree
+478200	Abusive	Little to None	Community	dtree
+627607	Religious Hate	Little to None	Community	dtree
+723418	Abusive	Little to None	Organization	dtree
+121301	None	Little to None	Society	dtree
+111742	None	Little to None	None	dtree
+448538	Abusive	Little to None	Organization	dtree
+244405	None	Little to None	None	dtree
+51703	None	Little to None	None	dtree
+276254	Abusive	Mild	Individual	dtree
+818115	None	Little to None	None	dtree
+839545	Abusive	Mild	Organization	dtree
+500452	Abusive	Little to None	None	dtree
+100905	None	Mild	Individual	dtree
+10100	None	Little to None	None	dtree
+17326	Political Hate	Mild	Organization	dtree
+802542	None	Little to None	Individual	dtree
+405562	Political Hate	Little to None	Society	dtree
+297210	Abusive	Mild	Organization	dtree
+633450	Abusive	Little to None	Community	dtree
+24947	None	Mild	None	dtree
+827247	None	Mild	Individual	dtree
+91001	None	Little to None	None	dtree
+797577	None	Little to None	None	dtree
+203064	Abusive	Little to None	Community	dtree
+437031	None	Little to None	None	dtree
+76338	None	Little to None	None	dtree
+28529	Abusive	Little to None	Community	dtree
+416581	Political Hate	Little to None	Individual	dtree
+326992	None	Little to None	Individual	dtree
+294318	None	Little to None	None	dtree
+24010	Abusive	Little to None	None	dtree
+391690	Abusive	Little to None	Community	dtree
+898471	None	Little to None	None	dtree
+139015	None	Little to None	None	dtree
+629277	None	Little to None	Individual	dtree
+249523	None	Little to None	Individual	dtree
+480655	None	Little to None	None	dtree
+923143	None	Little to None	None	dtree
+574020	Political Hate	Little to None	None	dtree
+498850	None	Mild	Individual	dtree
+858529	None	Little to None	None	dtree
+916168	None	Little to None	None	dtree
+547040	None	Little to None	None	dtree
+465291	Abusive	Mild	Individual	dtree
+571806	Abusive	Severe	Individual	dtree
+569300	None	Little to None	None	dtree
+499970	Abusive	Little to None	Organization	dtree
+447242	Political Hate	Little to None	None	dtree
+184864	None	Little to None	None	dtree
+463779	Abusive	Little to None	Individual	dtree
+733792	None	Little to None	None	dtree
+687387	None	Severe	Organization	dtree
+363410	None	Little to None	None	dtree
+613123	Abusive	Mild	Community	dtree
+202791	None	Little to None	None	dtree
+635751	Profane	Little to None	Individual	dtree
+608506	None	Little to None	None	dtree
+17576	None	Little to None	None	dtree
+230291	Religious Hate	Little to None	None	dtree
+382243	Abusive	Little to None	Individual	dtree
+549845	None	Little to None	None	dtree
+201772	Abusive	Little to None	Individual	dtree
+326030	None	Little to None	None	dtree
+604410	None	Little to None	None	dtree
+32709	None	Little to None	None	dtree
+229330	None	Mild	Community	dtree
+131732	Abusive	Mild	Organization	dtree
+10683	Abusive	Mild	Organization	dtree
+364807	None	Little to None	None	dtree
+934121	Profane	Little to None	None	dtree
+315440	None	Little to None	None	dtree
+840059	None	Mild	None	dtree
+195161	None	Little to None	None	dtree
+157090	Political Hate	Mild	Society	dtree
+653468	None	Little to None	None	dtree
+377827	None	Little to None	Individual	dtree
+588597	Political Hate	Severe	Organization	dtree
+200076	Profane	Little to None	Community	dtree
+266411	Political Hate	Severe	None	dtree
+346398	Profane	Little to None	None	dtree
+825712	None	Little to None	None	dtree
+693484	None	Little to None	None	dtree
+109964	Profane	Little to None	None	dtree
+304021	None	Little to None	None	dtree
+265907	None	Little to None	None	dtree
+781953	None	Little to None	None	dtree
+697858	None	Mild	Society	dtree
+476327	None	Little to None	None	dtree
+927901	Abusive	Little to None	Community	dtree
+837639	None	Little to None	None	dtree
+492990	None	Little to None	Society	dtree
+360379	None	Little to None	None	dtree
+618518	None	Little to None	Organization	dtree
+649931	None	Little to None	None	dtree
+175496	Abusive	Little to None	Society	dtree
+422178	Profane	Little to None	Individual	dtree
+763331	None	Little to None	Organization	dtree
+463514	Abusive	Severe	Community	dtree
+452271	Abusive	Mild	Community	dtree
+255091	Abusive	Severe	Individual	dtree
+639406	None	Little to None	Individual	dtree
+617882	None	Little to None	None	dtree
+424539	Abusive	Little to None	None	dtree
+534382	Abusive	Mild	None	dtree
+656382	None	Little to None	None	dtree
+523467	None	Severe	None	dtree
+678646	None	Little to None	Community	dtree
+13863	Abusive	Little to None	None	dtree
+345913	None	Little to None	None	dtree
+670277	None	Little to None	None	dtree
+759098	None	Little to None	None	dtree
+174859	Abusive	Little to None	Community	dtree
+81340	None	Little to None	None	dtree
+922743	None	Little to None	None	dtree
+105579	None	Little to None	None	dtree
+819932	Abusive	Severe	Organization	dtree
+724622	Abusive	Little to None	Individual	dtree
+8040	Abusive	Little to None	Individual	dtree
+661589	None	Little to None	None	dtree
+25308	Abusive	Little to None	Community	dtree
+479411	Abusive	Severe	Community	dtree
+104723	Abusive	Little to None	Individual	dtree
+804467	None	Little to None	None	dtree
+164017	Profane	Severe	Individual	dtree
+228242	None	Little to None	None	dtree
+668562	None	Little to None	Organization	dtree
+900643	Abusive	Little to None	Organization	dtree
+171741	None	Severe	None	dtree
+596654	None	Little to None	None	dtree
+294586	None	Little to None	None	dtree
+118070	Political Hate	Mild	Organization	dtree
+643819	Political Hate	Severe	Organization	dtree
+316098	None	Little to None	None	dtree
+483088	Abusive	Little to None	None	dtree
+803231	None	Mild	None	dtree
+798743	Abusive	Little to None	Individual	dtree
+292802	Abusive	Little to None	Organization	dtree
+130898	Abusive	Little to None	None	dtree
+656615	None	Little to None	Community	dtree
+369848	Profane	Little to None	Individual	dtree
+42763	None	Little to None	None	dtree
+198700	Political Hate	Mild	Individual	dtree
+147433	Political Hate	Severe	Organization	dtree
+112969	Profane	Severe	None	dtree
+365334	Abusive	Little to None	None	dtree
+334533	Abusive	Severe	Community	dtree
+45513	None	Little to None	None	dtree
+194291	Abusive	Severe	None	dtree
+242147	Political Hate	Little to None	None	dtree
+543843	None	Mild	Society	dtree
+765276	Abusive	Little to None	None	dtree
+104725	None	Little to None	Individual	dtree
+618757	None	Little to None	None	dtree
+181782	None	Little to None	None	dtree
+914164	Political Hate	Mild	Individual	dtree
+822076	None	Little to None	None	dtree
+599831	Political Hate	Little to None	None	dtree
+703814	None	Little to None	Organization	dtree
+871608	None	Little to None	None	dtree
+139975	Political Hate	Mild	Organization	dtree
+368136	Abusive	Little to None	Community	dtree
+809802	Abusive	Severe	Community	dtree
+568236	Abusive	Mild	Organization	dtree
+642774	None	Mild	Individual	dtree
+553115	None	Little to None	None	dtree
+147246	None	Little to None	None	dtree
+871806	Abusive	Little to None	None	dtree
+906009	Abusive	Severe	Community	dtree
+604767	None	Mild	Organization	dtree
+98991	None	Little to None	None	dtree
+491918	Political Hate	Little to None	None	dtree
+398790	None	Little to None	None	dtree
+350726	Political Hate	Mild	None	dtree
+175253	None	Little to None	None	dtree
+29355	None	Mild	Individual	dtree
+93250	None	Little to None	None	dtree
+19886	None	Mild	None	dtree
+445227	None	Little to None	None	dtree
+853191	Abusive	Little to None	Individual	dtree
+679355	None	Little to None	None	dtree
+782445	None	Little to None	Individual	dtree
+907865	Abusive	Mild	None	dtree
+330279	Abusive	Mild	None	dtree
+79692	Abusive	Little to None	None	dtree
+482416	None	Mild	None	dtree
+316930	None	Little to None	None	dtree
+389198	None	Severe	Individual	dtree
+383466	None	Little to None	None	dtree
+726414	Political Hate	Severe	Society	dtree
+511782	Abusive	Little to None	None	dtree
+319242	None	Little to None	None	dtree
+908647	None	Little to None	None	dtree
+462082	None	Little to None	None	dtree
+471029	None	Little to None	None	dtree
+825212	None	Little to None	Community	dtree
+655469	None	Little to None	None	dtree
+162768	Abusive	Little to None	None	dtree
+213891	Abusive	Little to None	None	dtree
+189626	Political Hate	Mild	Organization	dtree
+618775	None	Severe	None	dtree
+467524	Political Hate	Severe	Organization	dtree
+833010	Sexism	Little to None	Individual	dtree
+437027	Abusive	Little to None	None	dtree
+751682	None	Mild	None	dtree
+394778	None	Little to None	None	dtree
+462766	None	Little to None	None	dtree
+464908	Political Hate	Severe	Individual	dtree
+551029	Abusive	Little to None	Organization	dtree
+930583	None	Little to None	None	dtree
+127354	Abusive	Little to None	Community	dtree
+474903	None	Little to None	None	dtree
+154285	None	Little to None	None	dtree
+516498	Abusive	Little to None	Individual	dtree
+211955	Political Hate	Little to None	Organization	dtree
+542234	None	Little to None	None	dtree
+376628	None	Little to None	None	dtree
+700225	None	Little to None	None	dtree
+786647	None	Little to None	None	dtree
+257576	None	Little to None	None	dtree
+758485	None	Little to None	None	dtree
+99453	None	Little to None	Organization	dtree
+915727	None	Little to None	None	dtree
+376246	None	Severe	Organization	dtree
+373071	Abusive	Severe	Individual	dtree
+470824	None	Little to None	None	dtree
+178420	Political Hate	Little to None	Organization	dtree
+217557	None	Little to None	None	dtree
+191400	Political Hate	Little to None	None	dtree
+517200	None	Little to None	None	dtree
+653544	Political Hate	Severe	Organization	dtree
+70411	Abusive	Little to None	Individual	dtree
+149905	Political Hate	Little to None	None	dtree
+153918	None	Little to None	None	dtree
+723635	Abusive	Severe	Society	dtree
+666300	None	Little to None	Community	dtree
+323812	Abusive	Little to None	None	dtree
+9604	None	Little to None	None	dtree
+770780	Religious Hate	Severe	Community	dtree
+271658	None	Little to None	None	dtree
+882647	Abusive	Little to None	Individual	dtree
+551920	None	Little to None	None	dtree
+583947	Abusive	Severe	None	dtree
+820628	Abusive	Little to None	Individual	dtree
+277192	None	Mild	None	dtree
+897906	None	Little to None	None	dtree
+249214	Political Hate	Little to None	Individual	dtree
+893683	Abusive	Mild	Individual	dtree
+4464	Religious Hate	Little to None	None	dtree
+9468	Political Hate	Little to None	Society	dtree
+377406	None	Little to None	None	dtree
+560474	Profane	Severe	None	dtree
+486586	None	Little to None	None	dtree
+521490	None	Severe	None	dtree
+5279	Abusive	Little to None	None	dtree
+42496	Political Hate	Mild	Individual	dtree
+13705	Abusive	Little to None	Individual	dtree
+326556	None	Mild	None	dtree
+517143	None	Little to None	None	dtree
+663202	None	Little to None	Community	dtree
+17476	Religious Hate	Mild	Community	dtree
+422364	Abusive	Severe	Individual	dtree
+319609	Political Hate	Mild	Community	dtree
+934595	None	Little to None	None	dtree
+283893	Abusive	Little to None	None	dtree
+105406	Political Hate	Severe	Organization	dtree
+454062	None	Severe	Individual	dtree
+685691	Abusive	Mild	Organization	dtree
+671240	Political Hate	Little to None	Organization	dtree
+323990	Political Hate	Mild	Organization	dtree
+464804	None	Little to None	None	dtree
+126109	Political Hate	Little to None	Organization	dtree
+599618	Abusive	Little to None	Community	dtree
+517229	None	Little to None	None	dtree
+212493	None	Little to None	None	dtree
+395279	None	Little to None	None	dtree
+802441	Abusive	Mild	Individual	dtree
+372446	None	Little to None	None	dtree
+131053	None	Mild	Individual	dtree
+927153	Political Hate	Mild	Individual	dtree
+382647	Abusive	Severe	Organization	dtree
+739909	None	Little to None	None	dtree
+196365	Abusive	Mild	Community	dtree
+725545	Profane	Little to None	None	dtree
+742737	Religious Hate	Mild	Community	dtree
+324922	None	Little to None	None	dtree
+687465	None	Little to None	None	dtree
+127196	None	Little to None	None	dtree
+156582	Political Hate	Little to None	Society	dtree
+736072	None	Little to None	None	dtree
+367939	Abusive	Mild	Society	dtree
+227990	None	Little to None	None	dtree
+491013	None	Little to None	None	dtree
+331079	None	Little to None	None	dtree
+22603	None	Little to None	None	dtree
+142732	Abusive	Little to None	None	dtree
+503395	None	Little to None	None	dtree
+97888	None	Little to None	Individual	dtree
+107987	Abusive	Little to None	Organization	dtree
+538964	None	Little to None	None	dtree
+516815	None	Little to None	None	dtree
+675200	None	Little to None	None	dtree
+922846	None	Little to None	None	dtree
+206055	None	Severe	Community	dtree
+580711	Political Hate	Mild	Organization	dtree
+433603	None	Little to None	None	dtree
+913918	None	Little to None	Individual	dtree
+681581	Political Hate	Little to None	None	dtree
+584423	Abusive	Little to None	None	dtree
+81260	None	Little to None	None	dtree
+736221	Abusive	Severe	Community	dtree
+623514	Abusive	Little to None	None	dtree
+370581	None	Little to None	Organization	dtree
+192811	None	Little to None	None	dtree
+217208	Abusive	Mild	Society	dtree
+889961	None	Severe	Individual	dtree
+178079	Profane	Severe	Individual	dtree
+90439	Abusive	Little to None	None	dtree
+178971	Profane	Severe	Organization	dtree
+22665	Abusive	Little to None	None	dtree
+899276	Abusive	Severe	Society	dtree
+310071	None	Little to None	None	dtree
+360030	Profane	Severe	Individual	dtree
+77977	Abusive	Severe	Individual	dtree
+830214	None	Little to None	None	dtree
+38886	Abusive	Mild	Individual	dtree
+105862	None	Little to None	None	dtree
+702732	None	Little to None	None	dtree
+938497	Abusive	Severe	None	dtree
+213252	None	Little to None	None	dtree
+457833	Abusive	Little to None	None	dtree
+816803	None	Little to None	None	dtree
+299704	None	Severe	None	dtree
+803472	None	Little to None	None	dtree
+753215	None	Little to None	Community	dtree
+542741	Abusive	Little to None	None	dtree
+836974	None	Little to None	None	dtree
+691680	None	Little to None	None	dtree
+846299	None	Little to None	Community	dtree
+433275	Political Hate	Severe	Individual	dtree
+756273	Political Hate	Severe	Individual	dtree
+740920	Abusive	Little to None	None	dtree
+43626	Abusive	Severe	Individual	dtree
+267060	Abusive	Little to None	None	dtree
+457841	Abusive	Little to None	None	dtree
+875925	Abusive	Little to None	None	dtree
+707304	Abusive	Little to None	None	dtree
+305585	None	Little to None	None	dtree
+677304	Political Hate	Little to None	Organization	dtree
+402761	Abusive	Severe	None	dtree
+142035	None	Little to None	Individual	dtree
+322005	None	Little to None	None	dtree
+49390	None	Little to None	None	dtree
+707302	Profane	Little to None	Organization	dtree
+333125	Political Hate	Little to None	Organization	dtree
+416891	None	Little to None	None	dtree
+781755	Abusive	Mild	Organization	dtree
+372629	None	Little to None	None	dtree
+746812	Political Hate	Mild	Organization	dtree
+661051	Abusive	Little to None	Community	dtree
+223473	Abusive	Mild	Individual	dtree
+366446	None	Little to None	None	dtree
+439019	None	Little to None	Community	dtree
+89017	None	Little to None	None	dtree
+833385	Abusive	Mild	None	dtree
+701974	None	Little to None	None	dtree
+532046	None	Little to None	None	dtree
+524121	None	Little to None	None	dtree
+73484	None	Little to None	None	dtree
+41759	Abusive	Little to None	Individual	dtree
+556898	Abusive	Severe	Society	dtree
+74071	None	Little to None	None	dtree
+664811	None	Little to None	None	dtree
+596155	None	Mild	Society	dtree
+861670	None	Little to None	None	dtree
+557487	Profane	Severe	Individual	dtree
+475743	None	Little to None	None	dtree
+708802	Profane	Little to None	Society	dtree
+510655	None	Severe	Community	dtree
+345029	Political Hate	Little to None	None	dtree
+853057	None	Little to None	None	dtree
+242665	None	Little to None	None	dtree
+823119	None	Little to None	None	dtree
+608926	None	Little to None	None	dtree
+480932	None	Mild	Community	dtree
+641524	Abusive	Little to None	Organization	dtree
+571911	Abusive	Severe	Community	dtree
+787716	None	Little to None	None	dtree
+265020	None	Severe	Community	dtree
+303183	None	Mild	Community	dtree
+352571	None	Mild	Society	dtree
+263134	None	Little to None	None	dtree
+611932	Abusive	Little to None	Individual	dtree
+868718	None	Little to None	Organization	dtree
+503912	Political Hate	Little to None	Organization	dtree
+844107	Profane	Mild	Community	dtree
+361784	Religious Hate	Little to None	None	dtree
+707013	None	Little to None	None	dtree
+540056	None	Little to None	None	dtree
+835721	None	Little to None	Individual	dtree
+235755	Political Hate	Severe	Individual	dtree
+667776	None	Little to None	None	dtree
+649091	Political Hate	Little to None	Organization	dtree
+770663	Abusive	Severe	Individual	dtree
+449984	None	Little to None	None	dtree
+832298	None	Little to None	None	dtree
+659157	Abusive	Mild	Organization	dtree
+271809	None	Little to None	None	dtree
+806432	None	Little to None	None	dtree
+137318	Abusive	Severe	Organization	dtree
+153306	Political Hate	Little to None	None	dtree
+38470	Political Hate	Severe	Organization	dtree
+431582	None	Little to None	None	dtree
+717164	None	Little to None	None	dtree
+580143	None	Little to None	None	dtree
+49990	None	Little to None	None	dtree
+845881	None	Little to None	Organization	dtree
+28237	Abusive	Little to None	Individual	dtree
+448410	None	Little to None	None	dtree
+392869	None	Mild	Organization	dtree
+427357	None	Little to None	None	dtree
+803479	None	Little to None	None	dtree
+758098	None	Little to None	None	dtree
+120841	None	Little to None	Community	dtree
+801244	None	Little to None	Society	dtree
+925289	Political Hate	Severe	Organization	dtree
+777026	None	Severe	None	dtree
+7401	None	Little to None	None	dtree
+766209	Abusive	Mild	Organization	dtree
+146616	Abusive	Little to None	Individual	dtree
+449920	None	Little to None	None	dtree
+395149	None	Severe	None	dtree
+783461	Political Hate	Mild	Community	dtree
+323363	None	Little to None	None	dtree
+857583	None	Little to None	None	dtree
+535131	None	Little to None	None	dtree
+449455	Political Hate	Mild	Community	dtree
+530188	Abusive	Little to None	Community	dtree
+841983	Abusive	Little to None	None	dtree
+863107	None	Mild	Individual	dtree
+441302	None	Little to None	None	dtree
+398777	Abusive	Little to None	Organization	dtree
+756172	Abusive	Little to None	None	dtree
+706050	None	Little to None	Individual	dtree
+514434	None	Little to None	None	dtree
+513361	None	Little to None	None	dtree
+516223	None	Little to None	None	dtree
+31791	None	Severe	Individual	dtree
+143438	None	Little to None	None	dtree
+799188	None	Little to None	None	dtree
+336449	None	Little to None	Individual	dtree
+767986	Profane	Severe	Individual	dtree
+694508	None	Little to None	None	dtree
+186493	None	Little to None	None	dtree
+104882	None	Little to None	None	dtree
+280325	None	Little to None	None	dtree
+366514	None	Little to None	None	dtree
+566626	None	Severe	Society	dtree
+274439	Political Hate	Little to None	Individual	dtree
+775968	Profane	Mild	Individual	dtree
+665640	None	Little to None	None	dtree
+922707	None	Little to None	Individual	dtree
+131971	Abusive	Little to None	None	dtree
+467462	None	Little to None	None	dtree
+392346	Abusive	Severe	Society	dtree
+14129	Abusive	Little to None	None	dtree
+727009	Abusive	Mild	Individual	dtree
+202951	Abusive	Little to None	None	dtree
+511558	None	Little to None	None	dtree
+396493	Abusive	Little to None	Society	dtree
+675473	Abusive	Little to None	Individual	dtree
+487864	None	Little to None	None	dtree
+345179	None	Severe	Organization	dtree
+714384	None	Little to None	None	dtree
+378869	Abusive	Severe	Society	dtree
+91557	None	Little to None	None	dtree
+401006	Abusive	Mild	Individual	dtree
+426265	None	Little to None	None	dtree
+623520	Abusive	Little to None	Individual	dtree
+589727	None	Little to None	None	dtree
