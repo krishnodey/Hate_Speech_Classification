@@ -38,7 +38,7 @@ __Table of contents:__
     This file!
 
 ## File Structure 
-Hate_Speech_Classification/
+```Hate_Speech_Classification/
 │
 ├── baseline.ipynb
 ├── blp-subtask-1a.ipynb
@@ -88,8 +88,7 @@ Hate_Speech_Classification/
 │   └── run_glue_v2.py
 │
 └── README.md
-├── requirements.txt
-
+├── requirements.txt```
 
 
 ## Task Description
